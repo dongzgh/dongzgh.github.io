@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day to Day Journal"
-date:   2019-01-24 9:00:00 -0500
+date:   2018-01-03 0:00:00 -0500
 categories: journal
 ---
 ### DETAILS
@@ -2139,8 +2139,13 @@ categories: journal
 * Read technology news from Develop3D_DEC18JAN19
 * Downloaded github private website repo
 
+* [L3D-LMS](#l3d-lms)
+	* Reviewed business plan and resources from Charles
+	
 * [FS-AGW](#fs-agw)
   * Fixed the issue of missing FTIAdvancedGeometry.dll in nightly build
+  * Discussed with team about sprint management
+	* Asked infrastructure team to create a WireframeLab branch to work
 
 ### REFERENCES
 
