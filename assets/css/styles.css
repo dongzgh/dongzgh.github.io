@@ -1,0 +1,54 @@
+body {
+  font-size: 14px
+}
+
+.site-icon {
+  float: left;
+  margin: 10px;
+}
+
+.site-title {
+  font-family: 'Audiowide', cursive;
+}
+
+.site-subtitle {
+  float: right;
+  font-size: 0.75em;
+  text-transform: uppercase;
+}
+
+.site-nav .page-link {
+  font-size: 0.8em;
+  text-transform: uppercase;
+}
+
+.post-list-heading {
+  font-size: 1.25em;  
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.post-link {
+  font-size: 0.8em;
+  text-transform: uppercase;
+}
+
+.post-title {
+  font-size: 1.5em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.post-content h3 {
+  font-size: 1.25em;
+}
+
+.post-content h4 {
+  font-size: 1em;
+}
+
+.footer-col-wrapper {
+  font-size: 0.75em;
+  text-align: center;
+  text-transform: uppercase;
+}
