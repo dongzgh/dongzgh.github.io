@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<img src="http://www.mardaysresort.com/wp-content/uploads/17.jpg" width="100%">

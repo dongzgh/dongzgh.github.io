@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+order: 3
 ---
 
 * Highest Degree: Ph.D. (Mechanical Engineering - Computer Aided Design and Manufacturing)

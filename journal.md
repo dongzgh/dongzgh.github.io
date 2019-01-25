@@ -1,10 +1,9 @@
 ---
-layout: post
-title:  "Day to Day Journal"
-date:   2018-01-03 0:00:00 -0500
-categories: journal
+layout: page
+title: Journal
+permalink: /journal/
+order: 1
 ---
-### DETAILS
 
 #### 2018-01-03
 
@@ -2146,6 +2145,19 @@ categories: journal
   * Fixed the issue of missing FTIAdvancedGeometry.dll in nightly build
   * Discussed with team about sprint management
 	* Asked infrastructure team to create a WireframeLab branch to work
+
+### 2019-01-25
+
+* [L3D-LMS](#l3d-lms)
+	* Started to use jekyll for research projects
+	
+* [FS-AGW](#fs-agw)
+	* Discussed with Adrian about back end merging
+	* Discussed with Eric about stand up meeting
+	* Discussed with Mario about grphics engine upgrading
+	* Started to work on the new WireframLab branch
+	* Updated FS-AGW/General/Wiki about team organization and responsibilities
+	* Talked with Eric about the role of Scrum Master for Functional Specification
 
 ### REFERENCES
 
