@@ -2,10 +2,9 @@ body {
   font-size: 14px
 }
 
-/* .site-icon {
-  float: left;
-  margin: 10px;
-} */
+.site-header .flex-column {
+  float: left
+}
 
 .site-title {
   font-family: 'Audiowide', cursive;
@@ -20,6 +19,14 @@ body {
 .site-nav .page-link {
   font-size: 0.8em;
   text-transform: uppercase;
+}
+
+.trigger {
+  display: inline-flex;
+}
+
+.image-card {
+  margin: 10px;
 }
 
 .post-list-heading {

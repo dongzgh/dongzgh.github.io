@@ -2139,25 +2139,28 @@ order: 1
 * Downloaded github private website repo
 
 * [L3D-LMS](#l3d-lms)
-	* Reviewed business plan and resources from Charles
-	
+  * Reviewed business plan and resources from Charles
+
 * [FS-AGW](#fs-agw)
   * Fixed the issue of missing FTIAdvancedGeometry.dll in nightly build
   * Discussed with team about sprint management
-	* Asked infrastructure team to create a WireframeLab branch to work
+  * Asked infrastructure team to create a WireframeLab branch to work
 
 ### 2019-01-25
 
+* Started to use Bootstrap for jekyll project
+* 
 * [L3D-LMS](#l3d-lms)
-	* Started to use jekyll for research projects
-	
+  * Started to use jekyll for research projects
+  * Talked with Charles about merging documents
+
 * [FS-AGW](#fs-agw)
-	* Discussed with Adrian about back end merging
-	* Discussed with Eric about stand up meeting
-	* Discussed with Mario about grphics engine upgrading
-	* Started to work on the new WireframLab branch
-	* Updated FS-AGW/General/Wiki about team organization and responsibilities
-	* Talked with Eric about the role of Scrum Master for Functional Specification
+  * Discussed with Adrian about back end merging
+  * Discussed with Eric about stand up meeting
+  * Discussed with Mario about grphics engine upgrading
+  * Started to work on the new WireframLab branch
+  * Updated FS-AGW/General/Wiki about team organization and responsibilities
+  * Talked with Eric about the role of Scrum Master for Functional Specification
 
 ### REFERENCES
 
