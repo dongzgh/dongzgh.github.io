@@ -2149,7 +2149,7 @@ order: 1
 ### 2019-01-25
 
 * Started to use Bootstrap for jekyll project
-* 
+
 * [L3D-LMS](#l3d-lms)
   * Started to use jekyll for research projects
   * Talked with Charles about merging documents
@@ -2161,6 +2161,22 @@ order: 1
   * Started to work on the new WireframLab branch
   * Updated FS-AGW/General/Wiki about team organization and responsibilities
   * Talked with Eric about the role of Scrum Master for Functional Specification
+
+### 2019-01-26
+
+* Gathered at the Aladdin's Adventures Burlington
+* Had lunch at the Ikki Sushi
+
+### 2019-01-28
+
+* Read technology news from Developer3D NOV18
+
+* [L3D-LMS](#l3d-lms)
+  * Revised business plan by merging and expanding
+
+* [FS-AGW](#fs-agw)
+  * Discussed with Infrastructure team about release related activities
+  * Prepared documents to show SDF to FS extensions
 
 ### REFERENCES
 
