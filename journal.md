@@ -388,7 +388,7 @@ order: 1
 
 * Attended FTI's stuff meeting
 * Announced plan change (profit sharing to bonus, salary updates on every mid of January)
-* Updated Dong's aeroplan personal information
+* Updated Dong's Aeroplan personal information
 
 * [L3D-LMS](#l3d-lms)
   * Finished reading of thesis 'The Investigation Of A Method To Generate Conformal Lattice Structures For Additive Manufacturing'
@@ -401,10 +401,10 @@ order: 1
   * Installed meteor framework on iMac
   * Installed brew on iMac
   * Installed heroku-cli on iMac
-  * Git cloned vib-bya from heroku account
+  * Git cloned vib-bya from Heroku account
   * Built application locally on iMac
   * Recreated vib-bya databased in my mLab account
-  * Redirected vib-bya heroku app's mongodb to newly created database in mLab account
+  * Redirected vib-bya heroku app's Mongo DB to newly created database in mLab account
   * Removed mLab plugin in heroku app
 
 #### 2018-02-06
@@ -553,7 +553,7 @@ order: 1
   * Continued study of Grasshopper tutorials 'Design Studio AIR at the University of Melbourne'
 
 * [Houses](#houses)
-  * Cleaned some garbages at the Evelyn Lane
+  * Cleaned some garbage at the Evelyn Lane
 
 #### 2018-02-26
 
@@ -617,7 +617,7 @@ order: 1
   * Continued investigation of modeling die face in CATIA
 
 * [Houses](#houses)
-  * Signed Home Equaty Line payment (fixed term 2-year closed) contract
+  * Signed Home Equity Line payment (fixed term 2-year closed) contract
   * Signed Evelyn Lane mortgage renewal (fixed term 2-year closed) contract
   * Asked Sydney to pass mails to Michael into the mail box
 
@@ -649,13 +649,13 @@ order: 1
   * Sent signed mortgage renewal package back to Joanna through TD bank internal transfer
 
 * [L3D-LMS](#l3d-lms)
-  * Continuded study of using Rhino Grasshopper
-  * Updated design-for-am Sphinx documentation strucutres
+  * Continued study of using Rhino Grasshopper
+  * Updated design-for-am Sphinx documentation structures
   * Reviewed modeLab Rhino Grasshopper Premier
 
 #### 2018-03-19
 
-* Bought iphone X from Mapleview Apple Retail Store
+* Bought iPhone X from Mapleview Apple Retail Store
 * Bought new Nano SIM card from Virgin Mobile at Mapleview Shopping Center
 
 * [FS-WFM](#fs-wfm)
@@ -663,11 +663,11 @@ order: 1
   * Decided to study more challenging cases
 
 * [Houses](#houses)
-  * Cleaned disposed garbages at Huffman Road
+  * Cleaned disposed garbage at Huffman Road
   * Collected mails directed to Michael from Upper Middle Road
 
 * [L3D-LMS](#l3d-lms)
-  * Reviewed Grasshopper Primier and Tutorials
+  * Reviewed Grasshopper Premier and Tutorials
   * Developed some examples
 
 #### 2018-03-20
@@ -685,7 +685,7 @@ order: 1
   * Restudied grasshopper script for model (1)
 
 * [L3D-LMS](#l3d-lms)
-  * Downloaded VirtualBox and Ubunto to set up local virtual machines
+  * Downloaded VirtualBox and Ubuntu to set up local virtual machines
   * Continued review 'Design for Additive Manufacturing Trends, Opportunities, Considerations and Constraints'
 
 * [Houses](#houses)
@@ -849,12 +849,12 @@ order: 1
 #### 2018-5-23
 
 * [FS-OpenPlatform](#fs-opl)
-  * Added left side vertical tabed doc panels
+  * Added left side vertical tabbed doc panels
   * Added toolbox
   * Changed CSS to SCSS
 
 * [L3D-LMS](#l3d-lms)
-  * Researched Chinese goverment strategies regarding 3D printing industry development
+  * Researched Chinese government strategies regarding 3D printing industry development
   * Researched famous Chinese 3D printing companies
 
 #### 2018-05-27
@@ -1082,7 +1082,7 @@ order: 1
 #### 2018-06-23
 
 * Blood tested at the Dynacare Dundas Walkersline in the morning
-* Car seat inspected at the Trafalgar road oakville
+* Car seat inspected at the Trafalgar road Oakville
 * Prepared dumpling made of leek and pork
 
 #### 2018-06-24
@@ -1141,7 +1141,7 @@ order: 1
 
 #### 2018-07-02
 
-* Dorve to Burlington Beach Way Park
+* Drove to Burlington Beach Way Park
 * Played cards at Joy's house
 
 * [L3D-LMS](#l3d-lms)
@@ -1196,7 +1196,7 @@ order: 1
 * Read news from Microsoft
 
 * [FS-OpenPlatform](#fs-opl)
-  * Fixed eslint issues with nodejs files
+  * Fixed eslint issues with NodeJS files
   * Resubmitted icons to iconfinder.com
   * Downloaded 3xWare from: https://www.3dconnexion.com/service/drivers.html?_s=adyqyeydbi
 
@@ -1212,7 +1212,7 @@ order: 1
 
 * [FS-OpenPlatform](#fs-opl)
   * Completed FTIFSManifold to JSON serialization
-  * Studied nodejs c++ integration techniques
+  * Studied NodeJS c++ integration techniques
 
 #### 2018-07-17
 
@@ -1287,7 +1287,7 @@ order: 1
   * Revised organization of two applications
 
 * [L3D-LMS](#l3d-lms)
-  * Studied VCL libary basics
+  * Studied VCL library basics
   * Downloaded Qt 5.9.x
   * Downloaded MeshLab source codes
   * Enabled exporting JSON file from VCL
@@ -1315,7 +1315,7 @@ order: 1
 
 #### 2018-09-04
 
-* Called SunLife Dynacare for teleinterview service, no response
+* Called SunLife Dynacare for tele-interview service, no response
 
 * [L3D-LMS](#l3d-lms)
   * Booked appointment with Jing Zhou about 3D slicing software
@@ -1331,7 +1331,7 @@ order: 1
   * Researched progressive mesh loading technologies
   * Started reading the book `Level of Detail for3D Graphics`
   * Met with Jingchao Zhou and talked about cooperation initiatives
-  * Canceled autorenew of l3mon3d.com and l3monprint.com
+  * Canceled auto renew of l3mon3d.com and l3monprint.com
 
 * [FS-OpenPlatform](#fs-opl)
   * Talked with Annika about the design for specific actions
@@ -1379,7 +1379,7 @@ order: 1
 * Read Technology Feeds: Microsoft
 
 * [L3D-LMS](#l3d-lms)
-  * Read paper 'Streaming_Compressed_3d_Data_On_The_Web_Using_Javascript_And_Webgl'
+  * Read paper 'Streaming_Compressed_3d_Data_On_The_Web_Using_JavaScript_And_WebGL'
   * Read paper 'Progressive_Meshes'
 
 #### 2018-09-16
@@ -1501,7 +1501,7 @@ order: 1
 #### 2018-10-01
 
 * Finished reading report ''Azure_Developer_Guide'
-* Searched vacation packages in caribbean from Expedia.ca and Sunwings.ca
+* Searched vacation packages in Caribbean from Expedia.ca and Sunwings.ca
 
 * [FS-OpenPlatform](#fs-opl)
   * Continue reading book 'OpenGL_Shading_Language'
@@ -1521,7 +1521,7 @@ order: 1
 
 #### 2018-10-03
 
-* Searched Puta Cana traval deals
+* Searched Puta Cana travel deals
 
 * [L3D-LMS](#l3d-lms)
   * Continued reading book 'ITK Software Guide I'
@@ -1532,18 +1532,18 @@ order: 1
 * Visited McMaster Children's Hospital for Ethan's vision check
 
 * [L3D-LMS](#l3d-lms)
-  * Continiued learning CMake basics
+  * Continued learning CMake basics
   * Continued reading book 'ITK Software Guide I'
 
 #### 2018-10-05
 
 * [L3D-LMS](#l3d-lms)
-  * Continiued learning CMake basics
+  * Continued learning CMake basics
   * Continued reading book 'ITK Software Guide I'
 
 #### 2018-10-07
 
-* Visited Granvenhurst Benthuen's Memorial Historic Site
+* Visited Gravenhurst Bethune's Memorial Historic Site
 * Visited Steamboat and Lookout Park
 * Visited Hyden Lake Provincial Park
 
@@ -1553,7 +1553,7 @@ order: 1
 
 #### 2018-10-09
 
-* Read technolgy digests from Digital Engineering
+* Read technology digests from Digital Engineering
 
 * [L3D-LMS](#l3d-lms)
   * Continued reading book 'ITK Software Guide I'
@@ -1603,7 +1603,7 @@ order: 1
 #### 2018-10-16
 
 * [FS-OpenPlatform](#fs-opl)
-  * Revised menubar design
+  * Revised menu bar design
   * Modified color schemes according to HxGN's guidebook
 
 * [L3D-LMS](#l3d-lms)
@@ -1825,8 +1825,8 @@ order: 1
 
 * [L3D-LMS](#l3d-lms)
   * Installed fresh `paraview-glance` project without any problem
-  * Checked development tools on windows for nodejs projects (https://github.com/Microsoft/nodejs-guidelines/blob/master/windows-environment.md#compiling-native-addon-modules)
-  * Upgraded `nodejs`, `npm`, `node-gyp`
+  * Checked development tools on windows for NodeJS projects (https://github.com/Microsoft/NodeJS-guidelines/blob/master/windows-environment.md#compiling-native-addon-modules)
+  * Upgraded `NodeJS`, `npm`, `node-gyp`
   * Installed windows-build-tools
   * Found that `node-gyp` can only be used locally after running the following command:
     * `node coinfig set python="C:\Users\dzhao\.windows-build-tools\python27\python.exe"`
@@ -1882,8 +1882,8 @@ order: 1
 
 * [L3D-LMS](#l3d-lms)
   * Drafted the first version of site design
-	* Revised toolbar
-	* Sent to Charles Eric Wu's information
+  * Revised toolbar
+  * Sent to Charles Eric Wu's information
 
 #### 2018-12-19
 
@@ -1894,13 +1894,13 @@ order: 1
 * Notified PC Financial about travel plan
 
 * [FS-AGW](#fs-agw)
-	* PRIDE reviewed
-	
+  * PRIDE reviewed
+
 * [L3D-LMS](#l3d-lms)
 
 #### 2019-12-21-2019-12-27
 
-* Visit Now Larimar Punta Cana, Domenican Republic
+* Visit Now Larimar Punta Cana, Dominican Republic
 
 #### 2019-12-30
 
@@ -1913,7 +1913,7 @@ order: 1
 #### 2019-01-01
 
 * [L3D-LMS](#l3d-lms)
-  * Disucssed with Charles about business plan
+  * Discussed with Charles about business plan
 	
 #### 2019-01-02
 
@@ -1933,8 +1933,8 @@ order: 1
 * Applied Capital One Costco credit card
 
 * [L3D-LMS](#l3d-lms)
-	* Continue revise sidebar for database view
-	
+  * Continue revise sidebar for database view
+
 #### 2019-01-08
 
 * Checked eye doctor's rating from Sun Life
@@ -1944,11 +1944,11 @@ order: 1
 * Installed Microsoft Office 365
 
 * [L3D-LMS](#l3d-lms)
-	* Changed business plan format to WORD document
-	* Talked with Charles about business plan revision
+  * Changed business plan format to WORD document
+  * Talked with Charles about business plan revision
 
 * [FS-AGW](#fs-agw)
-	* Read through Jim's draft functional specification
+  * Read through Jim's draft functional specification
 	
 #### 2019-01-09
 
@@ -1956,58 +1956,58 @@ order: 1
 * Clean the computer disk
 
 * [L3D-LMS](#l3d-lms)
-	* Revised business plan v3
-	* Installed Microsoft Team for personal
+  * Revised business plan v3
+  * Installed Microsoft Team for personal
 
 * [FS-AGW](#fs-agw)
-	* Discussed with Jim about the proposed Functional Specification
-	* Fixed outlook inssue
-	* Fixed Microsoft Team organization issue
-	* Recreated team project in Microsoft Team under Hexagon
+  * Discussed with Jim about the proposed Functional Specification
+  * Fixed outlook issue
+  * Fixed Microsoft Team organization issue
+  * Recreated team project in Microsoft Team under Hexagon
 	
 #### 2019-01-10
 
-* Booked eye exam appintment for Ethan
+* Booked eye exam appointment for Ethan
 * Called to ask about how to add WestJet reward points
 * Sent email to Sydney asking about time availability for vent replacement
 * Bought LottoMax ticket
 
 * [L3D-LMS](#l3d-lms)
-	* Dicussed with Charles about how to edit document at the same time
+  * Discussed with Charles about how to edit document at the same time
 
 * [FS-AGW](#fs-agw)
-	* Created backlog for workbench initialization
-	* Created backlog for Repair Geometry
-	* Discussed with Derek and Jim about workflow management and automation
-	
+  * Created backlog for workbench initialization
+  * Created backlog for Repair Geometry
+  * Discussed with Derek and Jim about workflow management and automation
+
 #### 2019-01-11
 
 * [FS-AGW](#fs-agw)
-	* Created backlog for Define/Edit symmetry
-	* Created backlog for Generate Features
-	* Created backlog for Define/Edit Part Features
-	* Created backlog for Unfold/Remove Part Features 
-	* Created backlog for Define Punch Direction
-	* Created backlog for Create Binder Wrap
-	* Created backlog for View Normal to Point
-	* Created backlog for Grid
-	* Revised wirframe example file in CATIA
+  * Created backlog for Define/Edit symmetry
+  * Created backlog for Generate Features
+  * Created backlog for Define/Edit Part Features
+  * Created backlog for Unfold/Remove Part Features 
+  * Created backlog for Define Punch Direction
+  * Created backlog for Create Binder Wrap
+  * Created backlog for View Normal to Point
+  * Created backlog for Grid
+  * Revised wireframe example file in CATIA
 
 #### 2019-01-14
 
-* Called Family and Pediatrian to book vaccination
+* Called Family and Pedestrian to book vaccination
 * Attended City Public Meeting about cannabis retail stores
 * Read weixin dushu
 * Read YorkBBS news
-* Attended Burlington City Consule meeting about Cannabis Retail Opt-in/Opt-out
+* Attended Burlington City Console meeting about Cannabis Retail Opt-in/Opt-out
 
 * [L3D-LMS](#l3d-lms)
-	* Revised the section 'Solutions'
-	
+  * Revised the section 'Solutions'
+
 * [FS-AGW](#fs-agw)
-	* Talked with Infrastructure team about workbench registration
-	* Discussed with Eric about wireframe front and back end supports
-	
+  * Talked with Infrastructure team about workbench registration
+  * Discussed with Eric about wireframe front and back end supports
+
 #### 2019-01-15
 
 * Finished Reading book 'Zero to One'
@@ -2015,62 +2015,62 @@ order: 1
 * Read technology news from Kitware
 
 * [L3D-LMS](#l3d-lms)
-	* Started research of related products comparison
-	* Merged code base with paraview-glance 3.0.2
-	* Created backlog for sprint 2
-	* Migrated business related documents to Microsoft Team
-	
+  * Started research of related products comparison
+  * Merged code base with paraview-glance 3.0.2
+  * Created backlog for sprint 2
+  * Migrated business related documents to Microsoft Team
+
 * [FS-AGW](#fs-agw)
-	* Added work item for addendum workbench toolbar
-	
+  * Added work item for addendum workbench toolbar
+
 #### 2019-01-16
 
 * Got vaccination against H1N1 and flu for me and Min
 * Got vaccination against H1N1 and flu for Ethan
 * Searched online deals for Washer & Dryer set
 * Read technology news from Digital Engineering
-* Paied Scotiabank AMEX credit card statement balance
+* Payed Scotiabank AMEX credit card statement balance
 
 * [L3D-LMS](#l3d-lms)
-	* Continued working on competitor analysis
+  * Continued working on competitor analysis
 
 * [FS-AGW](#fs-agw)
-	* Reviewed Adrian's code for submission
-	* Asked Jacob to give us a license configuration flag for release build
-	* Added Guidelines for Creating an Experiment Module
-	* Added Guidelines for Code Review
-	* Revised Check List for Creating New Workbench
-	
+  * Reviewed Adrian's code for submission
+  * Asked Jacob to give us a license configuration flag for release build
+  * Added Guidelines for Creating an Experiment Module
+  * Added Guidelines for Code Review
+  * Revised Check List for Creating New Workbench
+
 #### 2019-01-17
 
 * [L3D-LMS](#l3d-lms)
-	* Canceled AutoRenew of Workplace Email from Goddady.com
-	* Continued revised software comparison
-	* Added L3MONSHAPE project documents to Microsoft Team
+  * Canceled AutoRenew of Workplace Email from Goddady.com
+  * Continued revised software comparison
+  * Added L3MONSHAPE project documents to Microsoft Team
 
 * [FS-AGW](#fs-agw)
-	* Added Mathew to the team
-	* Talked with Jacob about infrastructure code review
-	* Talkd with Jacob about code review
-	* Created backlog for Select Binder Wrap
-	* Created backlog for Select Punch Direction
-	* Created backlog for Position Binder
-	* Created backlog for Create Part Extension Curve
-	* Created backlog for Create Die Radius Tangent Curve
-	* Drafted an outline for Create Elevation Curves dialog box
-	
+  * Added Mathew to the team
+  * Talked with Jacob about infrastructure code review
+  * Talked with Jacob about code review
+  * Created backlog for Select Binder Wrap
+  * Created backlog for Select Punch Direction
+  * Created backlog for Position Binder
+  * Created backlog for Create Part Extension Curve
+  * Created backlog for Create Die Radius Tangent Curve
+  * Drafted an outline for Create Elevation Curves dialog box
+
 #### 2019-01-18
 
 * Asked iTalkBB about canceling TV services
-* Removed automatic paypal payment account settings
-* Moved delievered Wayfair bed frame to living room
+* Removed automatic PayPal payment account settings
+* Moved delivered Wayfair bed frame to living room
 
 * [L3D-LMS](#l3d-lms)
   * Talked with Charles about product competition positioning
 
 * [FS-AGW](#fs-agw)
   * Updated specification for Create Elevation Curve
-	* Revised folder structures on Microsoft Team
+  * Revised folder structures on Microsoft Team
   * Updated operating system to Hexagon.com account
   * Created backlog for Create Elevation Curves
   * Created backlog for Edit Curve
@@ -2157,8 +2157,8 @@ order: 1
 * [FS-AGW](#fs-agw)
   * Discussed with Adrian about back end merging
   * Discussed with Eric about stand up meeting
-  * Discussed with Mario about grphics engine upgrading
-  * Started to work on the new WireframLab branch
+  * Discussed with Mario about graphics engine upgrading
+  * Started to work on the new WireframeLab branch
   * Updated FS-AGW/General/Wiki about team organization and responsibilities
   * Talked with Eric about the role of Scrum Master for Functional Specification
 
