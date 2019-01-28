@@ -2170,6 +2170,7 @@ order: 1
 ### 2019-01-28
 
 * Read technology news from Developer3D NOV18
+* Revised personal website on github
 
 * [L3D-LMS](#l3d-lms)
   * Revised business plan by merging and expanding
