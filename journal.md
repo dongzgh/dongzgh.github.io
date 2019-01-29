@@ -2179,6 +2179,17 @@ order: 1
   * Discussed with Infrastructure team about release related activities
   * Prepared documents to show SDF to FS extensions
 
+### 2019-01-29
+
+* Searched Floor Lamps
+
+* [FS-AGW](#fs-agw)
+  * Continued working on create invoke button for WireframeLab
+	* Updated CATIA license file
+	* Confirmed features for the current sprint
+	* Assigned QA and TW tasks for the current sprint	
+	* Updated repository on Bitbucket for forming
+
 ### REFERENCES
 
 #### houses
