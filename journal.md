@@ -2169,7 +2169,7 @@ order: 1
 
 ### 2019-01-28
 
-* Read technology news from Developer3D NOV18
+* Read technology news from Develop3D_NOV18
 * Revised personal website on github
 
 * [L3D-LMS](#l3d-lms)
@@ -2193,10 +2193,12 @@ order: 1
 	
 ### 2019-01-30
 
+* Read technology news from Develop3D_NOV18
 * Searched floor lamps
 
 * [FS-AGW](#fs-agw)
   * Continued working on create invoke button for WireframeLab
+	* Revised FTI Code Review Guidelines to merge some suggesions from Adrain
 
 ### REFERENCES
 
@@ -2218,8 +2220,8 @@ order: 1
 
 #### fs-opl
 
-* An open 3D graphics platform for developing app based CAE programs
+* Open platform for CAD/CAE apps
 
 #### fs-agw
 
-* A migration from SDF to FS-DFE
+* Migrating SDF to FS
