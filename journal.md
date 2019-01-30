@@ -2181,7 +2181,8 @@ order: 1
 
 ### 2019-01-29
 
-* Searched Floor Lamps
+* Searched floor lamps
+* Searched washer and dryer set
 
 * [FS-AGW](#fs-agw)
   * Continued working on create invoke button for WireframeLab
@@ -2189,14 +2190,19 @@ order: 1
 	* Confirmed features for the current sprint
 	* Assigned QA and TW tasks for the current sprint	
 	* Updated repository on Bitbucket for forming
+	
+### 2019-01-30
+
+* Searched floor lamps
+
+* [FS-AGW](#fs-agw)
+  * Continued working on create invoke button for WireframeLab
 
 ### REFERENCES
 
 #### houses
 
-* 4688 Huffman Road, Burlington, L7M 0G6
-* 5629 Evelyn Lane, Burlington, L7L 6X1
-* 3488 Upper Middle Road, Burlington, L7M 4S1
+* House moving, renovation and metainance
 
 #### l3d-lms
 
