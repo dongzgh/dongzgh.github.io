@@ -2185,7 +2185,7 @@ order: 1
 * Searched washer and dryer set
 
 * [FS-AGW](#fs-agw)
-  * Continued working on create invoke button for WireframeLab
+	* Continued working on create invoke button for WireframeLab
 	* Updated CATIA license file
 	* Confirmed features for the current sprint
 	* Assigned QA and TW tasks for the current sprint	
@@ -2197,7 +2197,7 @@ order: 1
 * Searched floor lamps
 
 * [FS-AGW](#fs-agw)
-  * Continued working on create invoke button for WireframeLab
+	* Continued working on create invoke button for WireframeLab
 	* Revised FTI Code Review Guidelines to merge some suggesions from Adrain
 
 ### REFERENCES
