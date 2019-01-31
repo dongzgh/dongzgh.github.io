@@ -2199,6 +2199,13 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Continued working on create invoke button for WireframeLab
 	* Revised FTI Code Review Guidelines to merge some suggesions from Adrain
+	
+### 2019-01-31
+
+* Studied Hexagon Business Conduct and Ethics course for 2019
+
+* [FS-AGW](#fs-agw)
+	* Revised wireframe data structure
 
 ### REFERENCES
 
