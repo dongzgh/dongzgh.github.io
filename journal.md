@@ -2207,6 +2207,18 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Revised wireframe data structure
 
+### 2019-02-01
+
+* Read technology news from Develop3D_NOV18
+* Checked and updated Google settings
+
+* [FS-AGW](#fs-agw)
+	* Fixed a bug that right context menu crashes
+	* Developed function to collect boundary faces
+	* Developed function to collect boundary points with normals
+	* Developed function to dump points with normals
+	* Developed function to map normal vectors
+	
 ### REFERENCES
 
 #### houses
