@@ -2211,7 +2211,11 @@ order: 1
 
 * Read technology news from Develop3D_NOV18
 * Checked and updated Google settings
+* Updated email accounts linked with financial institutions (TD, CIBC, Scotiabank, PC Financial, Canadian Tire Triangle, Captital One, HBC, Paypal), except Triangle account needs to call customer service (1-800-226-8473) Monday to Friday, 8:00 am to 8:00 pm to change
 
+* [L3D-LMS](#l3d-lms)
+  * Revised business plan by adding details to Solutions
+	
 * [FS-AGW](#fs-agw)
 	* Fixed a bug that right context menu crashes
 	* Developed function to collect boundary faces
