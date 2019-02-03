@@ -2223,6 +2223,13 @@ order: 1
 	* Developed function to dump points with normals
 	* Developed function to map normal vectors
 	
+### 2019-02-02
+
+* Returned iTalkBB TV box to pacific center
+
+* [L3D-LMS](#l3d-lms)
+  * Revised business plan by adding details to Solutions
+	
 ### REFERENCES
 
 #### houses

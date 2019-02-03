@@ -8,18 +8,18 @@ Following is a list of activities that can help to fight against sleepiness:
 
 ### WORK RELATED
 
-* Reading technology news
 * Developing software
+* Reading technology news
 
 ### LEISURE TIME
 
-* Reading daily news
 * Reading leisure books
-* Writing blogs
+* Reading daily news
 * Developing tools
 * Creating art works
-* Shopping online
+* Writing blogs
 * Running
 * Walking
 * Fitness dancing
 * Fitness training
+* Shopping online
