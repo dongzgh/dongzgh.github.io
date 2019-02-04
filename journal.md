@@ -2230,6 +2230,21 @@ order: 1
 * [L3D-LMS](#l3d-lms)
   * Revised business plan by adding details to Solutions
 	
+### 2019-02-03
+
+* Prepared dinner for Frank and Joy's families
+
+### 2019-02-04
+
+* Read technology news from Develop3D_OCT18
+
+* [L3D-LMS](#l3d-lms)
+	
+* [FS-AGW](#fs-agw)
+	* Report to managemnt about team progress
+	* Talked with Shaharoz about feature tree design and work balance
+	* Cointinued working on normal mapping
+	
 ### REFERENCES
 
 #### houses
