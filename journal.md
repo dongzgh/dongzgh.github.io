@@ -2238,12 +2238,27 @@ order: 1
 
 * Read technology news from Develop3D_OCT18
 
-* [L3D-LMS](#l3d-lms)
-	
 * [FS-AGW](#fs-agw)
 	* Report to managemnt about team progress
 	* Talked with Shaharoz about feature tree design and work balance
 	* Cointinued working on normal mapping
+	
+### 2019-02-05
+
+* Read technology news from Develop3D_OCT18
+
+* [FS-AGW](#fs-agw)
+	* Written debug function for set/get configuration parameters
+	
+### 2019-02-06
+
+* Discussed with Reliance Comfort to replace water tank
+* Discussed with PC Financial to change email address
+	
+* [FS-AGW](#fs-agw)
+	* Revised function to snap vertex normal by attenuation
+	* Attended meeting for PP requirements
+	* Did code review for DeleteHoles
 	
 ### REFERENCES
 
