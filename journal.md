@@ -2260,6 +2260,20 @@ order: 1
 	* Attended meeting for PP requirements
 	* Did code review for DeleteHoles
 	
+### 2019-02-07
+
+* Fixed water tank problem for the estate at the upper middle road
+* Read book about 'how to read'
+* Read news from YorkBBS
+
+* [L3D-LMS](#l3d-lms)
+	* Reviewed tasks about software development
+	
+* [FS-AGW](#fs-agw)
+	* Did code review for 'Delete Holes'
+	* Did code review for 'Repair Geometry Set'
+	* Developed script to format resource.h and resource_lc.h by aligning IDs
+	
 ### REFERENCES
 
 #### houses
