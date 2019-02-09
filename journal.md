@@ -2265,9 +2265,13 @@ order: 1
 * Fixed water tank problem for the estate at the upper middle road
 * Read book about 'how to read'
 * Read news from YorkBBS
+* Changed CST RESP account email address
+* Changed Research Gate email address to Microsoft
 
 * [L3D-LMS](#l3d-lms)
 	* Reviewed tasks about software development
+	* Enabled reading json data from server
+	* Added template for create record
 	
 * [FS-AGW](#fs-agw)
 	* Did code review for 'Delete Holes'
