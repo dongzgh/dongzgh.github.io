@@ -2291,6 +2291,8 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Created empty dialog box for wireframe cell selection
 	* Created script for creating dialog box
+	* Connected with back end function for locating wireframe cell
+	* Added functions to dump wireframe elements
 	* Attended Sprint Review meeting
 
 ### REFERENCES
