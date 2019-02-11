@@ -2278,6 +2278,21 @@ order: 1
 	* Did code review for 'Repair Geometry Set'
 	* Developed script to format resource.h and resource_lc.h by aligning IDs
 	
+### 2019-02-10
+
+* Ordered pictures from ShoppersDrugMart
+* Purchased drawing picture from Leon's
+* Purchased floor lamp from EQ3
+
+### 2019-02-11
+
+* Read technology news from Develop3D_OCT18
+
+* [FS-AGW](#fs-agw)
+	* Created empty dialog box for wireframe cell selection
+	* Created script for creating dialog box
+	* Attended Sprint Review meeting
+
 ### REFERENCES
 
 #### houses
