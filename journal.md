@@ -2288,6 +2288,10 @@ order: 1
 
 * Read technology news from Develop3D_OCT18
 
+* [L3D-LMS](#l3d-lms)
+  * Revised business plan to V7
+	* Added technology stack picture
+
 * [FS-AGW](#fs-agw)
 	* Created empty dialog box for wireframe cell selection
 	* Created script for creating dialog box
