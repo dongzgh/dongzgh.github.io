@@ -2315,6 +2315,7 @@ order: 1
 
 * Read technology news from Digital_Engineering_01_19
 * Talked with Enterprise Car Rental insurance partner about drive way repaint
+* X-rayed, checked and scaled teeth at dentistry office
 
 * [FS-AGW](#fs-agw)
 	* Attened sprint planning meeting
