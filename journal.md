@@ -2302,9 +2302,26 @@ order: 1
 ### 2019-02-12
 
 * Read technology news from Digital_Engineering_01_19
+* Reorganized some closets in kitchen
 
+* [L3D-LMS](#l3d-lms)
+  * Discussed with Charles about Business Plan V7
+	* Enabled creating / editing record on client side
+	
 * [FS-AGW](#fs-agw)
 	* Presented at the Sprint Meeting
+	
+### 2019-02-13
+
+* Read technology news from Digital_Engineering_01_19
+* Talked with Enterprise Car Rental insurance partner about drive way repaint
+
+* [FS-AGW](#fs-agw)
+	* Attened sprint planning meeting
+	* Discussed with team members about progress
+	* Did code review for symmetry plane back-end functions
+	* Removed iteration planning for the features on Azure DevOps
+	* Reorganized agile process meetings on calendar
 
 ### REFERENCES
 
