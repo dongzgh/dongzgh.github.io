@@ -2298,6 +2298,13 @@ order: 1
 	* Connected with back end function for locating wireframe cell
 	* Added functions to dump wireframe elements
 	* Attended Sprint Review meeting
+	
+### 2019-02-12
+
+* Read technology news from Digital_Engineering_01_19
+
+* [FS-AGW](#fs-agw)
+	* Presented at the Sprint Meeting
 
 ### REFERENCES
 
