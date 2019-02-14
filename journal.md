@@ -2316,7 +2316,7 @@ order: 1
 * Read technology news from Digital_Engineering_01_19
 * Talked with Enterprise Car Rental insurance partner about drive way repaint
 * X-rayed, checked and scaled teeth at dentistry office
-* Developed jekyll site for research
+* Developed jekyll static site for research
 
 * [FS-AGW](#fs-agw)
 	* Attened sprint planning meeting
@@ -2324,7 +2324,15 @@ order: 1
 	* Did code review for symmetry plane back-end functions
 	* Removed iteration planning for the features on Azure DevOps
 	* Reorganized agile process meetings on calendar
+	
+### 2019-02-14
 
+* Revised jekyll static site for research
+
+* [FS-AGW](#fs-agw)
+	* Did code review for Repair Parts
+	* Did code review for Symmetry Definition
+	
 ### REFERENCES
 
 #### houses
