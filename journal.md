@@ -2315,7 +2315,7 @@ order: 1
 
 * Read technology news from Digital_Engineering_01_19
 * Talked with Enterprise Car Rental insurance partner about drive way repaint
-* X-rayed, checked and scaled teeth at dentistry office
+* X-rayed, examed and scaled teeth at dentistry office
 * Developed jekyll static site for research
 
 * [FS-AGW](#fs-agw)
@@ -2328,10 +2328,20 @@ order: 1
 ### 2019-02-14
 
 * Revised jekyll static site for research
+* Submitted HSA e-claim for the rest of the dental exam/x-ray/scaling service charges
+* Went through city / library spring events for kids
 
 * [FS-AGW](#fs-agw)
 	* Did code review for Repair Parts
 	* Did code review for Symmetry Definition
+	
+### 2019-02-15
+
+* Revised jekyll static site for research
+
+* [FS-AGW](#fs-agw)
+	* Did code review for Repair Parts
+	* Drafted function for wireframe face searching
 	
 ### REFERENCES
 
