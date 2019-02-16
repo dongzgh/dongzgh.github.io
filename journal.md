@@ -2338,6 +2338,10 @@ order: 1
 ### 2019-02-15
 
 * Revised jekyll static site for research
+* Picked family photos ordered from shoppers drug mart
+* Installed iTalkBB TV apps
+* Changed cast floor lamp configuration
+* Organized purchase orders and warranties
 
 * [FS-AGW](#fs-agw)
 	* Did code review for Repair Parts
