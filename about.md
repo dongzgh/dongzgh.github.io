@@ -5,14 +5,13 @@ permalink: /about/
 order: 3
 ---
 
-* Research Interests:
-  * CAD/CAE/CAM
-  * Geometry Modeling
-  * Computational Geometry
-  * Geometry Processing
-  * Computer Graphics
-  * Scientific Computing
-  * Computer Vision
-  * Machine Learning
-  * Software Engineering
-  * Visual Arts
+* Hobbies:
+  * Photo
+	* Arts
+	* Music
+	* Car
+	* Reading
+	* Swmiming
+	* Running
+	* Diving
+	* Food
