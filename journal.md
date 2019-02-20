@@ -2363,7 +2363,16 @@ order: 1
 
 * [FS-AGW](#fs-agw)
   * Drafted function for wireframe face searching
-	* Written function to check wireframe topology
+	* Developed function to check wireframe topology
+	
+## 2019-02-20
+
+* Asked Scotia Bank about Purchase Insurance
+
+* [FS-AGW](#fs-agw)
+  * Developed function for wireframe face searching
+	* Revised function to check wireframe topology
+	* Enabled recreate wireframe in lab
 
 ## REFERENCES
 
