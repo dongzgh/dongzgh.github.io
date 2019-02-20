@@ -2359,9 +2359,11 @@ order: 1
 ## 2019-02-19
 
 * Read technology news from Digital_Engineering_01_19
+* Updated reasearch site for medical imaging
 
 * [FS-AGW](#fs-agw)
   * Drafted function for wireframe face searching
+	* Written function to check wireframe topology
 
 ## REFERENCES
 
