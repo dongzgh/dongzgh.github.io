@@ -2367,7 +2367,9 @@ order: 1
 	
 ## 2019-02-20
 
+* Read technology news from WeChat
 * Asked Scotia Bank about Purchase Insurance
+* Added geometry-modeling topic to research site
 
 * [FS-AGW](#fs-agw)
   * Developed function for wireframe face searching
