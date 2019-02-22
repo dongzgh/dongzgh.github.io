@@ -7,34 +7,43 @@ layout: home
 
 <div class="row">
   <div class="col-sm-4">
-   <img class="image-card" src="{{ "/assets/img/photo.jpg" | relative_url }}">
+   <img class="image-card" src="{{ "/assets/img/topics/photo.jpg" | relative_url }}">
   </div>
   <div class="col-sm-4">
-    <img class="image-card"  src="{{ "/assets/img/art.jpg" | relative_url }}">
+    <img class="image-card"  src="{{ "/assets/img/topics/art.jpg" | relative_url }}">
   </div>
   <div class="col-sm-4">
-    <img class="image-card"  src="{{ "/assets/img/music.jpg" | relative_url }}">
-  </div>
-</div>
-<div class="row">
-  <div class="col-sm-4">
-    <img class="image-card" src="{{ "/assets/img/volvo.jpg" | relative_url }}">
-  </div>
-  <div class="col-sm-4">
-   <img class="image-card"  src="{{ "/assets/img/reading.jpg" | relative_url }}">
-  </div>
-  <div class="col-sm-4">
-    <img class="image-card"  src="{{ "/assets/img/travel.jpg" | relative_url }}">
+    <img class="image-card"  src="{{ "/assets/img/topics/music.jpg" | relative_url }}">
   </div>
 </div>
 <div class="row">
   <div class="col-sm-4">
-    <img class="image-card"  src="{{ "/assets/img/running.jpg" | relative_url }}">
+    <img class="image-card" src="{{ "/assets/img/topics/volvo.jpg" | relative_url }}">
   </div>
   <div class="col-sm-4">
-    <img class="image-card"  src="{{ "/assets/img/diving.jpg" | relative_url }}">
+   <img class="image-card"  src="{{ "/assets/img/topics/reading.jpg" | relative_url }}">
   </div>
   <div class="col-sm-4">
-    <img class="image-card"  src="{{ "/assets/img/food.jpg" | relative_url }}">
+    <img class="image-card"  src="{{ "/assets/img/topics/travel.jpg" | relative_url }}">
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-4">
+    <img class="image-card"  src="{{ "/assets/img/topics/running.jpg" | relative_url }}">
+  </div>
+  <div class="col-sm-4">
+    <img class="image-card"  src="{{ "/assets/img/topics/diving.jpg" | relative_url }}">
+  </div>
+  <div class="col-sm-4">
+    <a href="/topics/foods">
+      <img class="image-card"  src="{{ "/assets/img/topics/food.jpg" | relative_url }}">
+    </a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-4">
+    <a href="/topics/origami">
+      <img class="image-card"  src="{{ "/assets/img/topics/origami.jpg" | relative_url }}">
+    </a>
   </div>
 </div>

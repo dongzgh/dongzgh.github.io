@@ -29,6 +29,11 @@ body {
   margin: 10px;
 }
 
+.book-image-card {
+  margin: 10px;
+  height: 250px;
+}
+
 .post-list-heading {
   font-size: 1.25em;
   font-weight: bold;
@@ -46,12 +51,33 @@ body {
   text-transform: uppercase;
 }
 
+.post-content h1 {
+  font-size: 1.25em;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: #7fe6a2;
+  padding: 10px;
+}
+
+.post-content h2 {
+  font-size: 1.25em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
 .post-content h3 {
   font-size: 1.25em;
+  font-weight: bold;
+  font-style: italic;
 }
 
 .post-content h4 {
   font-size: 1em;
+}
+
+.link {
+  font-weight: 100;
+  font-size: 0.5em
 }
 
 .footer-col-wrapper {

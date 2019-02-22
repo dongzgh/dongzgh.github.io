@@ -2359,12 +2359,12 @@ order: 1
 ## 2019-02-19
 
 * Read technology news from Digital_Engineering_01_19
-* Updated reasearch site for medical imaging
+* Updated research site for medical imaging
 
 * [FS-AGW](#fs-agw)
   * Drafted function for wireframe face searching
-	* Developed function to check wireframe topology
-	
+  * Developed function to check wireframe topology
+  
 ## 2019-02-20
 
 * Read technology news from WeChat
@@ -2373,27 +2373,35 @@ order: 1
 
 * [FS-AGW](#fs-agw)
   * Developed function for wireframe face searching
-	* Revised function to check wireframe topology
-	* Enabled recreate wireframe in lab
-	
+  * Revised function to check wireframe topology
+  * Enabled recreate wireframe in lab
+  
 ## 2019-02-21
 
 * Received bonus for 2018 from FTI
 * Added additive-manufacturing topic and resource to research site
 
 * [L3D-LMS](#l3d-lms)
-	* Enabled CURD operations
-	* Enabled viewer to be default
+  * Enabled CURD operations
+  * Enabled viewer to be default
 
 * [FS-AGW](#fs-agw)
-  * Discussed with team about Repair Geometry invokation
-	* Revised document link in features
-	* Developed back-end function to pick wireframe face
-	* Drafted function to create wireframe display
+  * Discussed with team about Repair Geometry invocation
+  * Revised document link in features
+  * Developed back-end function to pick wireframe face
+  * Drafted function to create wireframe display
+
+## 2019-02-22
+
+* Fixed ADP login problem
+* Revised personal site static pages
+
+* [FS-AGW](#fs-agw)
+  * Presentation about the current development status of Wireframe Lab
 
 ## REFERENCES
 
-### ouses
+### houses
 
 * House moving, renovation and maintenance
 

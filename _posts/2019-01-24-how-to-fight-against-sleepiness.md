@@ -4,14 +4,15 @@ title:  "How to Fight Against Sleepiness"
 date:   2019-01-24 10:00:00 -0500
 categories: living
 ---
+
 Following is a list of activities that can help to fight against sleepiness:
 
-### WORK RELATED
+## WORK RELATED
 
 * Developing software
 * Reading technology news
 
-### LEISURE TIME
+## LEISURE TIME
 
 * Reading leisure books
 * Reading daily news
