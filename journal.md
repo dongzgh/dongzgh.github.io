@@ -2375,6 +2375,21 @@ order: 1
   * Developed function for wireframe face searching
 	* Revised function to check wireframe topology
 	* Enabled recreate wireframe in lab
+	
+## 2019-02-21
+
+* Received bonus for 2018 from FTI
+* Added additive-manufacturing topic and resource to research site
+
+* [L3D-LMS](#l3d-lms)
+	* Enabled CURD operations
+	* Enabled viewer to be default
+
+* [FS-AGW](#fs-agw)
+  * Discussed with team about Repair Geometry invokation
+	* Revised document link in features
+	* Developed back-end function to pick wireframe face
+	* Drafted function to create wireframe display
 
 ## REFERENCES
 
