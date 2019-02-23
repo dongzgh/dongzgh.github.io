@@ -80,6 +80,16 @@ body {
   font-size: 0.5em
 }
 
+.gallery-item-image {
+  margin: 10px 0;
+}
+
+.gallery-item-title {
+  text-align: center;
+  background-color: #000000;
+  color: #ffffff;
+}
+
 .footer-col-wrapper {
   font-size: 0.75em;
   text-align: center;
