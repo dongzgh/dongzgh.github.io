@@ -2395,6 +2395,10 @@ order: 1
 
 * Fixed ADP login problem
 * Revised personal site static pages
+* Updated personal and research site galleries
+
+* [L3D-LMS](#l3d-lms)
+  * Researched upload modules for vue
 
 * [FS-AGW](#fs-agw)
   * Presentation about the current development status of Wireframe Lab
