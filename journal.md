@@ -124,9 +124,10 @@ order: 1
   * Visited CES 2018 Sand G Hall Israel incubators
 
 ## 2018-01-11
+
 * Found cause of failed loading of Chrome browser and Visual Studio Code
-  * A duplicated session of NNDIA window manager caused the problem
-  * It's probably related with a recent update of Intel HD graphics card driver
+* A duplicated session of NNDIA window manager caused the problem
+* It's probably related with a recent update of Intel HD graphics card driver
 
 * [FS-WFM](#fs-wfm)
   * Completed fs-wfm project report for SE&D
@@ -249,7 +250,7 @@ order: 1
 
 ## 2018-01-22
 
-* See Dr. M. J. Fox for Ethan's 18 month check and vaccination 
+* See Dr. M. J. Fox for Ethan's 18 month check and vaccination
 
 * [L3D-LMS](#l3d-lms)
   * Continued reviewing CAD industry trends
@@ -484,13 +485,13 @@ order: 1
   * Continued study book 'Discrete Differential Geometry (Keenan Crane)'
 
 * [L3D-LMS](#l3d-lms)
-  * Continued study Grasshopper tutorials 'Design Studio AIR at the University of Melbourne' 
+  * Continued study Grasshopper tutorials 'Design Studio AIR at the University of Melbourne'
   * Continued study paper 'Design for Additive Manufacturing Trends, Opportunities, Considerations and Constraints'
 
 ## 2018-02-14
 
 * [L3D-LMS](#l3d-lms)
-  * Continued study Grasshopper tutorials 'Design Studio AIR at the University of Melbourne' 
+  * Continued study Grasshopper tutorials 'Design Studio AIR at the University of Melbourne'
   * Continued study paper 'Design for Additive Manufacturing Trends, Opportunities, Considerations and Constraints'
 
 ## 2018-02-15
@@ -590,14 +591,14 @@ order: 1
 * Attended Management Essential Training part 1
 
 * [L3D-LMS](#l3d-lms)
-  * Continued study Grasshopper tutorials 'Design Studio AIR at the University of Melbourne' 
+  * Continued study Grasshopper tutorials 'Design Studio AIR at the University of Melbourne'
 
 ## 2018-03-01
 
 * Attended Management Essential Training part 2
 
 * [L3D-LMS](#l3d-lms)
-  * Continued study Grasshopper tutorials 'Design Studio AIR at the University of Melbourne' 
+  * Continued study Grasshopper tutorials 'Design Studio AIR at the University of Melbourne'
 
 ## 2018-03-02
 
@@ -609,7 +610,7 @@ order: 1
   * Explored new ways to create die face by using curve extensions
 
 * [L3D-LMS](#l3d-lms)
-  * Continued study Grasshopper tutorials 'Design Studio AIR at the University of Melbourne' 
+  * Continued study Grasshopper tutorials 'Design Studio AIR at the University of Melbourne'
 
 ## 2018-03-12
 
@@ -896,7 +897,7 @@ order: 1
 
 ## 2018-06-01
 
-* [L3D-LMS](#l3d-lms) 
+* [L3D-LMS](#l3d-lms)
   * Researched volume meshing algorithms
   * Researched how to read academic papers
   * Contacted Michael regarding patent application process
@@ -980,7 +981,7 @@ order: 1
 * Read technology news from Microsoft and downloaded some free eBooks from Microsoft Press
 
 * [Houses](#houses)
-  * Cleaned 
+  * Cleaned
 
 * [L3D-LMS](#l3d-lms)
   * Continued study: Introduction_to_Algorithms, (Chapter 4)
@@ -1169,7 +1170,7 @@ order: 1
 
 ## 2018-07-06
 
-* [FS-OpenPlatform](#fs-opl) 
+* [FS-OpenPlatform](#fs-opl)
   * Enabled FileTreeComponent file deletion
 
 ## 2018-07-07
@@ -1301,7 +1302,7 @@ order: 1
   * Revised backend geometry reader
   * Enabled importing *.obj file
 
-## 2018-08-22
+## 2018-08-23
 
 * [FS-OpenPlatform](#fs-opl)
   * Advised UI redesign
@@ -1310,7 +1311,7 @@ order: 1
   * Collected different model files from TurboSquid
 
 ## 2018-08-27-2018-09-03
- 
+
 * Surgical operation and recovery
 
 ## 2018-09-04
@@ -1586,7 +1587,7 @@ order: 1
 
 * Visited High Park in Toronto
 * Had lunch at the Lee Chen restaurant in Toronto
-* Had dinner at the Ba Shu Ren Jia in Mississauga 
+* Had dinner at the Ba Shu Ren Jia in Mississauga
 
 ## 2018-10-14
 
@@ -1898,34 +1899,34 @@ order: 1
 
 * [L3D-LMS](#l3d-lms)
 
-##2019-12-21-2019-12-27
+## 2019-12-21-2019-12-27
 
 * Visit Now Larimar Punta Cana, Dominican Republic
 
-##2019-12-30
+## 2019-12-30
 
 * Had lunch with Helen, Hemin and Charry families
 
-##2019-12-31
+## 2019-12-31
 
 * Had dinner with Liao
 
-##2019-01-01
+## 2019-01-01
 
 * [L3D-LMS](#l3d-lms)
   * Discussed with Charles about business plan
 
-##2019-01-02
+## 2019-01-02
 
 * [L3D-LMS](#l3d-lms)
   * Revise business plan
 
-##2019-01-05
+## 2019-01-05
 
 * Confirmed room rental with Tony
 * Visited Barrie Glow festival
 
-##2019-01-07
+## 2019-01-07
 
 * Bought bed frame for room rental from Wayfair
 * Duplicated a home key for Tony
@@ -1935,7 +1936,7 @@ order: 1
 * [L3D-LMS](#l3d-lms)
   * Continue revise sidebar for database view
 
-##2019-01-08
+## 2019-01-08
 
 * Checked eye doctor's rating from Sun Life
 * Paid CIBC credit card balance
@@ -1950,7 +1951,7 @@ order: 1
 * [FS-AGW](#fs-agw)
   * Read through Jim's draft functional specification
 
-##2019-01-09
+## 2019-01-09
 
 * Read technology news from Digital Engineering
 * Clean the computer disk
@@ -1965,7 +1966,7 @@ order: 1
   * Fixed Microsoft Team organization issue
   * Recreated team project in Microsoft Team under Hexagon
 
-##2019-01-10
+## 2019-01-10
 
 * Booked eye exam appointment for Ethan
 * Called to ask about how to add WestJet reward points
@@ -1980,20 +1981,20 @@ order: 1
   * Created backlog for Repair Geometry
   * Discussed with Derek and Jim about workflow management and automation
 
-##2019-01-11
+## 2019-01-11
 
 * [FS-AGW](#fs-agw)
   * Created backlog for Define/Edit symmetry
   * Created backlog for Generate Features
   * Created backlog for Define/Edit Part Features
-  * Created backlog for Unfold/Remove Part Features 
+  * Created backlog for Unfold/Remove Part Features
   * Created backlog for Define Punch Direction
   * Created backlog for Create Binder Wrap
   * Created backlog for View Normal to Point
   * Created backlog for Grid
   * Revised wireframe example file in CATIA
 
-##2019-01-14
+## 2019-01-14
 
 * Called Family and Pedestrian to book vaccination
 * Attended City Public Meeting about cannabis retail stores
@@ -2008,7 +2009,7 @@ order: 1
   * Talked with Infrastructure team about workbench registration
   * Discussed with Eric about wireframe front and back end supports
 
-##2019-01-15
+## 2019-01-15
 
 * Finished Reading book 'Zero to One'
 * Started reading book 'Algorithm Explained'
@@ -2023,7 +2024,7 @@ order: 1
 * [FS-AGW](#fs-agw)
   * Added work item for addendum workbench toolbar
 
-##2019-01-16
+## 2019-01-16
 
 * Got vaccination against H1N1 and flu for me and Min
 * Got vaccination against H1N1 and flu for Ethan
@@ -2041,7 +2042,7 @@ order: 1
   * Added Guidelines for Code Review
   * Revised Check List for Creating New Workbench
 
-##2019-01-17
+## 2019-01-17
 
 * [L3D-LMS](#l3d-lms)
   * Canceled AutoRenew of Workplace Email from Goddady.com
@@ -2059,7 +2060,7 @@ order: 1
   * Created backlog for Create Die Radius Tangent Curve
   * Drafted an outline for Create Elevation Curves dialog box
 
-##2019-01-18
+## 2019-01-18
 
 * Asked iTalkBB about canceling TV services
 * Removed automatic PayPal payment account settings
@@ -2081,16 +2082,16 @@ order: 1
   * Created backlog for Split Surface
   * Created backlog for Edit Line
 
-##2019-01-19
+## 2019-01-19
 
 * Cooked Huajuan at home
 * Built snow man at home
 
-##2019-01-20
+## 2019-01-20
 
 * Bought some clothes from Gymboree (store closing sale) in MapleView shopping center
 
-##2019-01-21
+## 2019-01-21
 
 * Read technology news from Develop3D_DEC18JAN19
 
@@ -2105,7 +2106,7 @@ order: 1
   * Check to see how to diagnose work balance
   * Checked Hexagon account's free office applications
 
-##2019-01-22
+## 2019-01-22
 
 * Read technology news from Develop3D_DEC18JAN19
 
@@ -2118,7 +2119,7 @@ order: 1
   * Check Sprint 2019.1.3 and 2019.1.4
   * Done code review for DeleteFaces
 
-##2019-01-23
+## 2019-01-23
 
 * Read technology news from Develop3D_DEC18JAN19
 * Moved day-to-day journal to Wordpress.com
@@ -2133,7 +2134,7 @@ order: 1
   * Filled PRIDE Goal for 2019 form
   * Written a wiki section about how to test FS-AGW
 
-##2019-01-24
+## 2019-01-24
 
 * Read technology news from Develop3D_DEC18JAN19
 * Downloaded GitHub private website repo
