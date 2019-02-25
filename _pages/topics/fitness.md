@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Art
-permalink: /topics/art
+title: Fitness
+permalink: /topics/fitness
 created_lists:
-  - image: /assets/img/art/awesome-modeling.png
-    title: Awesome Modeling
-    link: https://www.youtube.com/watch?v=MI4QEqt-xeM&list=PLu43en8_KcyKa3bMsu67PITBwhCqVBJBe
+  - image: /assets/img/fitness/awesome-zumba.png
+    title: Awesome Zumba
+    link: https://www.youtube.com/watch?v=YtVgIeiX2zM&list=PLu43en8_KcyLDOdjXT-6tcMRRNrLvTKN6
 ---
 
 <div class='d-flex flex-row flex-wrap'>

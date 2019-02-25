@@ -6,6 +6,8 @@ layout: home
 hobbies:
   - image: /assets/img/topics/photo.jpg
     link: /topics/photo
+  - image: /assets/img/topics/video.jpg
+    link: /topics/video
   - image: /assets/img/topics/origami.jpg
     link: /topics/origami
   - image: /assets/img/topics/art.jpg
@@ -18,6 +20,8 @@ hobbies:
     link: /topics/read
   - image: /assets/img/topics/travel.jpg
     link: /topics/travel
+  - image: /assets/img/topics/fitness.jpg
+    link: /topics/fitness
   - image: /assets/img/topics/hike.jpg
     link: /topics/hike
   - image: /assets/img/topics/dive.jpg

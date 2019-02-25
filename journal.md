@@ -2403,6 +2403,13 @@ order: 1
 * [FS-AGW](#fs-agw)
   * Presentation about the current development status of Wireframe Lab
 
+## 2019-02-25
+
+* Developed script for batch creating and registering page files from library
+
+* [FS-AGW](#fs-agw)
+  * Discussed about Forming Suite workflow of workbenches
+
 ## REFERENCES
 
 ### houses
