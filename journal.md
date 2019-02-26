@@ -2410,6 +2410,15 @@ order: 1
 
 * [FS-AGW](#fs-agw)
   * Discussed about Forming Suite workflow of workbenches
+	
+## 2019-02-26
+
+* Revised library folder structures
+
+* [FS-AGW](#fs-agw)
+  * Did code review for Define Tipping back end functions
+	* Did code review for Define Symmetry front end function - attribute manipulation
+	* Enabled display of selected and unselected wirefram faces
 
 ## REFERENCES
 
