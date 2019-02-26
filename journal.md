@@ -2414,6 +2414,7 @@ order: 1
 ## 2019-02-26
 
 * Revised library folder structures
+* Changed utility email addresses
 
 * [FS-AGW](#fs-agw)
   * Did code review for Define Tipping back end functions
