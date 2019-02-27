@@ -2415,11 +2415,23 @@ order: 1
 
 * Revised library folder structures
 * Changed utility email addresses
+* Filled StudioTax for rental, work from home
 
 * [FS-AGW](#fs-agw)
   * Did code review for Define Tipping back end functions
 	* Did code review for Define Symmetry front end function - attribute manipulation
 	* Enabled display of selected and unselected wirefram faces
+	
+## 2019-02-27
+
+* Read technology news from Digital Engineering 2019 10
+* Added report digital-engineering-2019-01 to research site
+* Added book 3d printing: a revolution to research site
+* Verified research site pages, papers, reports and reviews
+* Updated email address for technology labled emails
+* Updated email address for health labled emails
+
+* [FS-AGW](#fs-agw)
 
 ## REFERENCES
 
