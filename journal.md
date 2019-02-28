@@ -2439,6 +2439,7 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Revised create_dialog.py by including copy cpp/h files
 	* Revised create_dialog.py by including resource files
+	* Revised create_dialog.py by including enabled sorting h file for rc
 
 ## REFERENCES
 
