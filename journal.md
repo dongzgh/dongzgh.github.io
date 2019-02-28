@@ -2433,6 +2433,12 @@ order: 1
 
 * [FS-AGW](#fs-agw)
 	* Revised create_dialog.py using templates
+	
+## 2019-02-28
+
+* [FS-AGW](#fs-agw)
+	* Revised create_dialog.py by including copy cpp/h files
+	* Revised create_dialog.py by including resource files
 
 ## REFERENCES
 
