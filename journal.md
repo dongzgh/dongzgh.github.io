@@ -2455,7 +2455,23 @@ order: 1
 	* Tested Forming Suite nightly build for AGW
 	* Revised create_dialog script
 	* Added remove_dialog script
+	
+## 2019-03-02
 
+* Attended LEGO Go at the Tansley Wood Library
+
+## 2019-03-03
+
+* Took photos for Ethan at the Photo Studio
+
+## 2019-03-04
+
+* [FS-AGW](#fs-agw)
+	* Did code review for back end functions for Define Tipping
+	* Fixed typo issues with remove_dialog script
+	* Restructured script folder by using package
+	* Developed script to register command in callback cpp file 
+	
 ## REFERENCES
 
 ### houses
