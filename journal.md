@@ -2410,7 +2410,7 @@ order: 1
 
 * [FS-AGW](#fs-agw)
   * Discussed about Forming Suite workflow of workbenches
-	
+  
 ## 2019-02-26
 
 * Revised library folder structures
@@ -2419,9 +2419,9 @@ order: 1
 
 * [FS-AGW](#fs-agw)
   * Did code review for Define Tipping back end functions
-	* Did code review for Define Symmetry front end function - attribute manipulation
-	* Enabled display of selected and unselected wirefram faces
-	
+  * Did code review for Define Symmetry front end function - attribute manipulation
+  * Enabled display of selected and unselected wirefram faces
+  
 ## 2019-02-27
 
 * Read technology news from Digital Engineering 2019 10
@@ -2432,30 +2432,30 @@ order: 1
 * Updated email address for health labled emails
 
 * [FS-AGW](#fs-agw)
-	* Revised create_dialog.py using templates
-	
+  * Revised create_dialog.py using templates
+  
 ## 2019-02-28
 
 * Filled form T2091
 
 * [FS-AGW](#fs-agw)
-	* Revised create_dialog.py by including copy cpp/h files
-	* Revised create_dialog.py by including resource files
-	* Revised create_dialog.py by including enabled sorting h file for rc
-	
+  * Revised create_dialog.py by including copy cpp/h files
+  * Revised create_dialog.py by including resource files
+  * Revised create_dialog.py by including enabled sorting h file for rc
+  
 ## 2019-03-01
 
 * Read technology news from Digital Engineering 2019-01
 
 * [FS-AGW](#fs-agw)
-	* Did code review for back end functions for Define Tipping
-	* Did code review for front end functiosn for Define Symmetry
-	* Uploaded part database to SharePoint server
-	* Asked Shaharoz to investigate color issues with importation and repair geometry
-	* Tested Forming Suite nightly build for AGW
-	* Revised create_dialog script
-	* Added remove_dialog script
-	
+  * Did code review for back end functions for Define Tipping
+  * Did code review for front end functiosn for Define Symmetry
+  * Uploaded part database to SharePoint server
+  * Asked Shaharoz to investigate color issues with importation and repair geometry
+  * Tested Forming Suite nightly build for AGW
+  * Revised create_dialog script
+  * Added remove_dialog script
+  
 ## 2019-03-02
 
 * Attended LEGO Go at the Tansley Wood Library
@@ -2466,12 +2466,17 @@ order: 1
 
 ## 2019-03-04
 
+* Revised research site by added papers from progressive-mesh
+
+* [L3D-LMS](#l3d-lms)
+  * Removed docs from lsprocessor and distributed them to research projects
+
 * [FS-AGW](#fs-agw)
-	* Did code review for back end functions for Define Tipping
-	* Fixed typo issues with remove_dialog script
-	* Restructured script folder by using package
-	* Developed script to register command in callback cpp file 
-	
+  * Did code review for back end functions for Define Tipping
+  * Fixed typo issues with remove_dialog script
+  * Restructured script folder by using package
+  * Developed script to register command in callback cpp file
+  
 ## REFERENCES
 
 ### houses
