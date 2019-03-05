@@ -2476,6 +2476,23 @@ order: 1
   * Fixed typo issues with remove_dialog script
   * Restructured script folder by using package
   * Developed script to register command in callback cpp file
+	
+## 2019-03-05
+
+* Revised research site by added papers from progressive-mesh
+
+* [L3D-LMS](#l3d-lms)
+
+* [FS-AGW](#fs-agw)
+  * Did sprint review on the meeting
+	* Confirmed next sprint features
+	* Sent .reg requests
+	* Changed button name from Fill to Delete in Repair Geometry Set dialog box
+	* Read and commented feature tree document
+	* Read and commented Create Direction Line document
+	* Confirmed features for this sprint
+	* Added script to register callback for create command
+	* Updated script structures by using more common functions
   
 ## REFERENCES
 
