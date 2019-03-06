@@ -2482,6 +2482,7 @@ order: 1
 * Revised research site by added papers from progressive-mesh
 
 * [L3D-LMS](#l3d-lms)
+	* Leant vuex basics
 
 * [FS-AGW](#fs-agw)
   * Did sprint review on the meeting
