@@ -2494,6 +2494,15 @@ order: 1
 	* Confirmed features for this sprint
 	* Added script to register callback for create command
 	* Updated script structures by using more common functions
+	
+## 2019-03-06
+
+* Finished reading of Digital_Engineering_01_19
+
+* [FS-AGW](#fs-agw)
+	* Discussed with Adrian about back end functions for Create Direction Line
+	* Finished simle create command script
+	* Initialized create command menu script
   
 ## REFERENCES
 
