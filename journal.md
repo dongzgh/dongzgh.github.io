@@ -2506,7 +2506,16 @@ order: 1
 	* Discussed with Adrian about back end functions for Create Direction Line
 	* Finished simle create command script
 	* Initialized create command menu script
-  
+	
+## 2019-03-07
+
+* Read technology news from Digital Engineering 2018-12
+
+* [FS-AGW](#fs-agw)
+  * Finished script to create command with menu
+	* Finished script to append subcommand to command with menu
+	* Finished script to insert function header to cpp and h files
+
 ## REFERENCES
 
 ### houses
