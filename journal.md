@@ -2498,6 +2498,9 @@ order: 1
 ## 2019-03-06
 
 * Finished reading of Digital_Engineering_01_19
+* Entered TurboTax premium online for 2018 Tax Return evaluation
+* Updated CRA account email and mail addresses
+* Updated TD insurance email address
 
 * [FS-AGW](#fs-agw)
 	* Discussed with Adrian about back end functions for Create Direction Line
