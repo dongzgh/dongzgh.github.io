@@ -2517,6 +2517,17 @@ order: 1
   * Finished script to create command with menu
 	* Finished script to append subcommand to command with menu
 	* Finished script to insert function header to cpp and h files
+	
+## 2019-03-08
+
+* Read technology news from Digital Engineering 2018-12
+* Searched technologies for writing email using Markdown and LaTex
+
+* [FS-AGW](#fs-agw)
+	* Discussed with Shaharoz about Create Direction Line design
+	* Discussed with Shaharoz about CreatePlaneDisplay
+	* Created snippet for function header in .h
+	* Created snippet for function header in .cpp
 
 ## REFERENCES
 
