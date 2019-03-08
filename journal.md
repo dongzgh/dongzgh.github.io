@@ -2510,6 +2510,8 @@ order: 1
 ## 2019-03-07
 
 * Read technology news from Digital Engineering 2018-12
+* Reorganized Private folder from top till Finance
+* Prepared Purchase Insurance claim for tablecloth
 
 * [FS-AGW](#fs-agw)
   * Finished script to create command with menu
