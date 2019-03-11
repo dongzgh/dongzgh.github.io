@@ -2528,6 +2528,14 @@ order: 1
 	* Discussed with Shaharoz about CreatePlaneDisplay
 	* Created snippet for function header in .h
 	* Created snippet for function header in .cpp
+	
+## 2019-03-11
+
+* [L3D-LMS](#l3d-lms)
+	* Discussed with Charles about project progress and peoples
+
+* [FS-AGW](#fs-agw)
+	* Discussed with Shaharoz about Create Punch Direction Line dialog box design issues
 
 ## REFERENCES
 
