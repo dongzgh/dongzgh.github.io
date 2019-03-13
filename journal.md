@@ -2533,6 +2533,8 @@ order: 1
 
 * [L3D-LMS](#l3d-lms)
 	* Discussed with Charles about project progress and peoples
+	* Reviewed Vue.js guide
+	* Reviewed vuex guide
 
 * [FS-AGW](#fs-agw)
 	* Discussed with Shaharoz about Create Punch Direction Line dialog box design issues
