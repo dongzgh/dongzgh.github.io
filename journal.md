@@ -2536,6 +2536,25 @@ order: 1
 
 * [FS-AGW](#fs-agw)
 	* Discussed with Shaharoz about Create Punch Direction Line dialog box design issues
+	
+## 2019-03-12
+
+* Searched Washer online
+* Checked claim form for the lost tablecloth
+* Checked Tax 2019 using TurboTax online
+
+* [FS-AGW](#fs-agw)
+	* Asked Muhammand about Define Part Features dialog redundant controls
+	* Revised script for creating command with dialog
+	
+## 2019-03-13
+
+* Read magazine from Jehovah’s Witnesses
+* Searche for the difference between different religions
+* Read technology news from Digital_Engineering_2018_12
+
+* [FS-AGW](#fs-agw)
+	* Revised script for creating command with dialog
 
 ## REFERENCES
 
