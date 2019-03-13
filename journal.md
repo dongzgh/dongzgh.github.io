@@ -2557,6 +2557,7 @@ order: 1
 
 * [FS-AGW](#fs-agw)
 	* Revised script for creating command with dialog
+	* Started to work on subdivide wireframe faces
 
 ## REFERENCES
 
