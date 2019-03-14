@@ -2558,6 +2558,14 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Revised script for creating command with dialog
 	* Started to work on subdivide wireframe faces
+	
+## 2019-03-14
+
+* [FS-AGW](#fs-agw)
+	* Reviewed Andrian's code for Define/Edit features
+	* Discussed with Shaharoz and Adrian about interface protocol
+	* Developed function to evalute coons patch uv
+	* Started developing function to subdivide wireframe faces
 
 ## REFERENCES
 
