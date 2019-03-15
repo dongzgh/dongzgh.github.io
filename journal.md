@@ -2523,9 +2523,6 @@ order: 1
 * Read technology news from Digital Engineering 2018-12
 * Searched technologies for writing email using Markdown and LaTex
 
-* [L3D-LMS](#l3d-lms)
-	* Read online tutorial about Vue.js
-
 * [FS-AGW](#fs-agw)
 	* Discussed with Shaharoz about Create Direction Line design
 	* Discussed with Shaharoz about CreatePlaneDisplay
@@ -2548,9 +2545,6 @@ order: 1
 * Checked claim form for the lost tablecloth
 * Checked Tax 2019 using TurboTax online
 
-* [L3D-LMS](#l3d-lms)
-	* Read online tutorial about Vue.js
-
 * [FS-AGW](#fs-agw)
 	* Asked Muhammand about Define Part Features dialog redundant controls
 	* Revised script for creating command with dialog
@@ -2561,20 +2555,21 @@ order: 1
 * Searche for the difference between different religions
 * Read technology news from Digital_Engineering_2018_12
 
-* [L3D-LMS](#l3d-lms)
-	* Read online tutorial about Vue.js Vuex VueRoute and Vuetify
-	* Researched paraview-glance to understand Vuex usage
-
 * [FS-AGW](#fs-agw)
 	* Revised script for creating command with dialog
 	* Started to work on subdivide wireframe faces
 	
 ## 2019-03-14
 
-* Placed order of wash machine and dryer from costco
-* Submitted claim to Kitchenstuffplus
-* Canceld Virgin Mobile internet installation service
-* Researched Zumba Fitness step by step videos
+* [FS-AGW](#fs-agw)
+	* Reviewed Andrian's code for Define/Edit features
+	* Discussed with Shaharoz and Adrian about interface protocol
+	* Developed function to evalute coons patch uv
+	* Started developing function to subdivide wireframe faces
+	
+## 2019-03-15
+
+* Read technology news from Digital_Engineering_2018_12
 
 * [FS-AGW](#fs-agw)
 	* Reviewed Andrian's code for Define/Edit features
