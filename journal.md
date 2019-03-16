@@ -2571,11 +2571,12 @@ order: 1
 
 * Read technology news from Digital_Engineering_2018_12
 
+* [L3D-LMS](#l3d-lms)
+	* Purchased professional email services from GoDaddy.com
+	* Redesigned file uploads and downloads in database page
+
 * [FS-AGW](#fs-agw)
-	* Reviewed Andrian's code for Define/Edit features
-	* Discussed with Shaharoz and Adrian about interface protocol
-	* Developed function to evalute coons patch uv
-	* Started developing function to subdivide wireframe faces
+	* Continued developing function to subdivide wireframe faces
 
 ## REFERENCES
 
