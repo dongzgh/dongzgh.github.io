@@ -2576,7 +2576,16 @@ order: 1
 	* Redesigned file uploads and downloads in database page
 
 * [FS-AGW](#fs-agw)
-	* Continued developing function to subdivide wireframe faces
+	* Continued developing function to subdivide wireframe facesc
+	
+## 2019-03-16
+
+* Did excersice with Ethan at the basement
+* Did shopping at the Nations Hamilton
+* Had converstation with Eugene
+
+* [L3D-LMS](#l3d-lms)
+  * Added actions to upload files
 
 ## REFERENCES
 
