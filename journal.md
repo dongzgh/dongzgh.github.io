@@ -2586,6 +2586,18 @@ order: 1
 
 * [L3D-LMS](#l3d-lms)
   * Added actions to upload files
+	
+## 2019-03-17
+
+* Disconnected old washer and dryer
+	
+## 2019-03-18
+
+
+* [FS-AGW](#fs-agw)
+	* Did sprint review and checked progress of features development
+	* Continued development of split wireframe faces
+	* Considering redevelop serach for faces for wireframe considering general case
 
 ## REFERENCES
 
