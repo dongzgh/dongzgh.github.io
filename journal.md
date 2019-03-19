@@ -2598,6 +2598,7 @@ order: 1
 
 * [L3D-LMS](#l3d-lms)
 	* Passed parameters to upload files
+	* Enabled uploading file contents
 
 * [FS-AGW](#fs-agw)
 	* Did sprint review and checked progress of features development
