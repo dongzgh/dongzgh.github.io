@@ -2593,11 +2593,14 @@ order: 1
 	
 ## 2019-03-18
 
+* Called Conduminium Corp Guid to ask for the vent replacement contractor contact information
+* Called insurance company with Enterprise Car Rental to discuss issue about driveway repaint
 
 * [FS-AGW](#fs-agw)
 	* Did sprint review and checked progress of features development
 	* Continued development of split wireframe faces
 	* Considering redevelop serach for faces for wireframe considering general case
+	* Start reading about graph related algorithms
 
 ## REFERENCES
 
