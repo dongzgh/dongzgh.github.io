@@ -2596,11 +2596,21 @@ order: 1
 * Called Conduminium Corp Guid to ask for the vent replacement contractor contact information
 * Called insurance company with Enterprise Car Rental to discuss issue about driveway repaint
 
+* [L3D-LMS](#l3d-lms)
+	* Passed parameters to upload files
+
 * [FS-AGW](#fs-agw)
 	* Did sprint review and checked progress of features development
 	* Continued development of split wireframe faces
 	* Considering redevelop serach for faces for wireframe considering general case
 	* Start reading about graph related algorithms
+	
+## 2019-03-19
+
+* Got call from GE Appliance and scheduled delivery with Haul Away service
+
+* [FS-AGW](#fs-agw)
+	* Continued reading elementry graph related algorithms
 
 ## REFERENCES
 
