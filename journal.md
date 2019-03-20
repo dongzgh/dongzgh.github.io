@@ -2610,9 +2610,18 @@ order: 1
 
 * Got call from GE Appliance and scheduled delivery with Haul Away service
 
+* [L3D-LMS](#l3d-lms)
+	* Bi-weekly meeting with Charles
+	* Enabled uploading files to server
+
 * [FS-AGW](#fs-agw)
 	* Continued reading elementry graph related algorithms
 
+## 2019-03-20
+
+* [FS-AGW](#fs-agw)
+	* Did code review for Andrian and Shaharoz for Define/Edit Part Features
+	
 ## REFERENCES
 
 ### houses
