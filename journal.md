@@ -2621,6 +2621,7 @@ order: 1
 
 * [FS-AGW](#fs-agw)
 	* Did code review for Andrian and Shaharoz for Define/Edit Part Features
+	* Initialized new wireframe face searching function
 	
 ## REFERENCES
 
