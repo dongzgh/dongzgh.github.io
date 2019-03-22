@@ -758,12 +758,12 @@ order: 1
 ## 2018-03-31
 
 * [L3D-LMS](#l3d-lms)
-  * Started reading book '3D打印：三维智能数字化创造'
+  * Started reading book '3D打印：三维智能数字化创�?
 
 ## 2018-04-01
 
 * [L3D-LMS](#l3d-lms)
-  * Read book '3D打印：三维智能数字化创造'
+  * Read book '3D打印：三维智能数字化创�?
 
 ## 2018-04-02
 
@@ -777,11 +777,11 @@ order: 1
 
 ## 2018-04-03
 
-* Sick (gastroenteritis)， went to Oakville Hospital ER
+* Sick (gastroenteritis)�?went to Oakville Hospital ER
 
 ## 2018-04-06
 
-* Sick (gallstone)， went to Oakville Hospital ER
+* Sick (gallstone)�?went to Oakville Hospital ER
 
 ## 2018-04-09
 
@@ -911,7 +911,7 @@ order: 1
 ## 2018-06-04
 
 * Read technology news from Google
-* Read technology news from 雷锋网
+* Read technology news from 雷锋�?
 
 * [L3D-LMS](#l3d-lms)
   * Studied paper: How_to_Shrinkwrap_Through_a_Critical_Point_an_Algorithm_for_the_Adaptive_Triangulation_of_IsoSurfaces_with_Arbitrary_Topology
@@ -2621,12 +2621,17 @@ order: 1
 
 * Filed Tax Return 2018
 * Washer and dryer delivered
+* Filed claim to UserTesting to claim unpaied amounts
 
 * [FS-AGW](#fs-agw)
 	* Did code review for Andrian and Shaharoz for Define/Edit Part Features
 	* Initialized new wireframe face searching function
 	
 ## 2019-03-21
+
+* [L3D-LMS](#l3d-lms)
+	* Enabled uploading multiple files to server and update the record
+	* Enabled styling record without files
 
 * [FS-AGW](#fs-agw)
 	* Did code review for Andrian and Shaharoz for Define/Edit Part Features
