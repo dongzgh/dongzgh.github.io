@@ -2626,6 +2626,12 @@ order: 1
 	* Did code review for Andrian and Shaharoz for Define/Edit Part Features
 	* Initialized new wireframe face searching function
 	
+## 2019-03-21
+
+* [FS-AGW](#fs-agw)
+	* Did code review for Andrian and Shaharoz for Define/Edit Part Features
+	* Continued development of new wireframe face searching function
+	
 ## REFERENCES
 
 ### houses
