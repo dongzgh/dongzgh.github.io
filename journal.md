@@ -2639,6 +2639,9 @@ order: 1
 	
 ## 2019-03-22
 
+* [L3D-LMS](#l3d-lms)
+	* Enabled updating client record files information
+
 * [FS-AGW](#fs-agw)
 	* Continued development of new wireframe face searching function
 	* Redesigned function for miminal loop checking
