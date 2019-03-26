@@ -2646,6 +2646,32 @@ order: 1
 	* Continued development of new wireframe face searching function
 	* Redesigned function for miminal loop checking
 
+
+## 2019-03-24
+
+* [L3D-LMS](#l3d-lms)
+	* Had discussion with President Li about AI in Arts
+	
+## 2019-03-25
+
+* Diagnosed with Gout and proceeded with treatment
+
+* [FS-AGW](#fs-agw)
+	* Installed and tested new features of AGW
+  * Continued development of new wireframe face searching function
+	
+## 2019-03-26
+
+* Diagnosed with Gout and proceeded with treatment
+
+* [L3D-LMS](#l3d-lms)
+	* Updated backlogs
+	* Finished uploading files to server
+
+* [FS-AGW](#fs-agw)
+	* Reviewed functionalities from CATIA Die Face package
+  * Continued development of new wireframe face searching function
+
 ## REFERENCES
 
 ### houses
