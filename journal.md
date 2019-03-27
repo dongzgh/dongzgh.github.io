@@ -2671,6 +2671,18 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Reviewed functionalities from CATIA Die Face package
   * Continued development of new wireframe face searching function
+	
+## 2019-03-27
+
+* Confirmed quotation appointment with ProConcrete on next Monday noon
+* Asked about Critical Illness promotions
+
+* [L3D-LMS](#l3d-lms)
+
+* [FS-AGW](#fs-agw)
+	* Reviewed Adrian's code for fixing polygon selection
+	* Reivewed Shaharoz's code for feature regeneration
+	* Read Curves and Surfaces to find arbitrary subdivision schemes
 
 ## REFERENCES
 
