@@ -2684,6 +2684,18 @@ order: 1
 	* Reviewed Adrian's code for fixing polygon selection
 	* Reivewed Shaharoz's code for feature regeneration
 	* Read Curves and Surfaces to find arbitrary subdivision schemes
+	
+## 2019-03-28
+
+* Read technology news from A Look at Lightweigting Technology
+
+* [L3D-LMS](#l3d-lms)
+	* Changed style settings for global and local components
+	* Fixed a bug related with delete record on server
+	* Enabled sending search information to server
+
+* [FS-AGW](#fs-agw)
+	* Created Current Work Items query for the team
 
 ## REFERENCES
 
