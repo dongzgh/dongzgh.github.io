@@ -2678,6 +2678,7 @@ order: 1
 * Asked about Critical Illness promotions
 
 * [L3D-LMS](#l3d-lms)
+	* Enabled downloading zipped files from server
 
 * [FS-AGW](#fs-agw)
 	* Reviewed Adrian's code for fixing polygon selection
