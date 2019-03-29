@@ -2693,6 +2693,7 @@ order: 1
 	* Changed style settings for global and local components
 	* Fixed a bug related with delete record on server
 	* Enabled sending search information to server
+	* Enabled searching documents on server
 
 * [FS-AGW](#fs-agw)
 	* Created Current Work Items query for the team
