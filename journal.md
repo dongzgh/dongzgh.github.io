@@ -2697,6 +2697,13 @@ order: 1
 
 * [FS-AGW](#fs-agw)
 	* Created Current Work Items query for the team
+	
+## 2019-03-29
+
+* [L3D-LMS](#l3d-lms)
+	* Used Vuex to manage database states
+
+* [FS-AGW](#fs-agw)
 
 ## REFERENCES
 
