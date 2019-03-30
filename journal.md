@@ -2702,8 +2702,8 @@ order: 1
 
 * [L3D-LMS](#l3d-lms)
 	* Used Vuex to manage database states
-
-* [FS-AGW](#fs-agw)
+	* Finished database toolbox search and reset functions
+	* Revised template stylings
 
 ## REFERENCES
 
