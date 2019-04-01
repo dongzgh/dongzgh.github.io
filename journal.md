@@ -2704,6 +2704,16 @@ order: 1
 	* Used Vuex to manage database states
 	* Finished database toolbox search and reset functions
 	* Revised template stylings
+	
+## 2019-04-01
+
+* Read technology news from A Look at the Light Weight Technology
+
+* [L3D-LMS](#l3d-lms)
+
+* [FS-AGW](#fs-agw)
+	* Discussed with parties involved about UI component development
+	* Reviewd chapter 22 related with Coons patches
 
 ## REFERENCES
 
