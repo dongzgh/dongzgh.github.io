@@ -2708,8 +2708,16 @@ order: 1
 ## 2019-04-01
 
 * Read technology news from A Look at the Light Weight Technology
+* Submited CIBC TFSA contribution request
+* Updated CRA direct deposit information for Dong and Min
+* Updated Immigration Canada email address
+* Updatd NVDIA email preferences
+* Read news from YorkBBS
+* Read news from WeChat channels
 
 * [L3D-LMS](#l3d-lms)
+	* Added backlog for the next sprint
+	* Enabled viewer to be the landing page
 
 * [FS-AGW](#fs-agw)
 	* Discussed with parties involved about UI component development
