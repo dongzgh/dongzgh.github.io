@@ -2723,6 +2723,16 @@ order: 1
 	* Discussed with parties involved about UI component development
 	* Reviewd chapter 22 related with Coons patches
 
+## 2019-04-02
+
+* Read technology news from A Look at the Light Weight Technology
+* Searched McMaster graduate programs
+
+* [L3D-LMS](#l3d-lms)
+
+* [FS-AGW](#fs-agw)
+	* Investigated bug #19190
+
 ## REFERENCES
 
 ### houses
