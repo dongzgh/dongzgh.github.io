@@ -2727,12 +2727,58 @@ order: 1
 
 * Read technology news from A Look at the Light Weight Technology
 * Searched McMaster graduate programs
+* Read news from YorkBBS
 
 * [L3D-LMS](#l3d-lms)
+	* Had meeting with Charles and Li
+	* Created actions for open remote sample
 
 * [FS-AGW](#fs-agw)
 	* Investigated bug #19190
 
+## 2019-04-03
+
+* Read technology news from A Look at the Light Weight Technology
+
+* [L3D-LMS](#l3d-lms)
+	* Reorganized meeting minutes on Microsoft Team
+	* Enabled load state files from database
+
+* [FS-AGW](#fs-agw)
+	* Investigated CPropertyPage and CPropertySheet extensions
+	
+## 2019-04-04
+
+* [L3D-LMS](#l3d-lms)
+	* Updated meeting minutes on Microsoft Team
+
+* [FS-AGW](#fs-agw)
+	* Prepared report for wireframe technology development
+	
+## 2019-04-08
+
+* [L3D-LMS](#l3d-lms)
+	* Dicussed with Li about architecture
+	* Read report from RSNA about AI in radiology applications
+
+* [FS-AGW](#fs-agw)
+	* Tried to use MFC dialog template to create UI component
+
+## 2019-04-09
+
+* [FS-AGW](#fs-agw)
+	* Did code review for Adrian about SplitSurfaces back end functions
+	* Did code review for Shaharoz about bug fixes for Generate Part Features
+	* Developed UI component by registering windows class and using custom control
+	* Tried to download and build source codes at home
+
+## 2019-04-10
+
+* [FS-AGW](#fs-agw)
+	* Did code review for Adrian about SplitSurfaces back end functions
+	* Did code review for Shaharoz about bug fixes for Generate Part Features
+	* Developed UI component by registering windows class and using custom control
+	
 ## REFERENCES
 
 ### houses
