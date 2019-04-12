@@ -2779,6 +2779,18 @@ order: 1
 	* Did code review for Shaharoz about bug fixes for Generate Part Features
 	* Developed UI component by registering windows class and using custom control
 	
+## 2019-04-11
+
+* [FS-AGW](#fs-agw)
+	* Enabled resizing UI component
+	* Revised example dialog box by using one UI component instance
+	
+## 2019-04-12
+
+* [FS-AGW](#fs-agw)
+	* Revised UI component resizing
+	* Revised example dialog box by introducing another UI component instances
+	
 ## REFERENCES
 
 ### houses
