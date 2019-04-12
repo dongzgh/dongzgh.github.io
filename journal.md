@@ -2781,6 +2781,11 @@ order: 1
 	
 ## 2019-04-11
 
+* Changed project names on vsonline
+
+* [L3D-LMS](#l3d-lms)
+	* Revised color theme
+
 * [FS-AGW](#fs-agw)
 	* Enabled resizing UI component
 	* Revised example dialog box by using one UI component instance
