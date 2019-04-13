@@ -2792,6 +2792,10 @@ order: 1
 	
 ## 2019-04-12
 
+* Researched McMaster University graduate programs
+* Researched second hand appliance market
+* Changed project names on vsonline
+
 * [FS-AGW](#fs-agw)
 	* Revised UI component resizing
 	* Revised example dialog box by introducing another UI component instances
