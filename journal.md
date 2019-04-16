@@ -2800,6 +2800,25 @@ order: 1
 	* Revised UI component resizing
 	* Revised example dialog box by introducing another UI component instances
 	
+## 2019-04-13
+
+* Attended Tanisi's birthday party
+
+## 2019-04-14
+
+* Bought dryer and washer set from Bacelona Applicance
+* Bought gas range from Home Depot Canada
+
+## 2019-04-15
+
+* Read technology report: OnShape: Mastering Modeling
+* Read technology report: Generative Design: Your AI Partner in Product Development
+* Read technology report: Design for Additive Manufacturing (Autodesk)
+* Reorganized photo albums on cell phone
+
+* [FS-AGW](#fs-agw)
+	* Tought Shaharoz how to use combo property sheet component
+	
 ## REFERENCES
 
 ### houses
