@@ -2815,9 +2815,29 @@ order: 1
 * Read technology report: Generative Design: Your AI Partner in Product Development
 * Read technology report: Design for Additive Manufacturing (Autodesk)
 * Reorganized photo albums on cell phone
+* Picked up grocery from Hu's store
 
 * [FS-AGW](#fs-agw)
 	* Tought Shaharoz how to use combo property sheet component
+	
+## 2019-04-16
+
+* Redesigned concrete plan
+
+* [FS-AGW](#fs-agw)
+	* Presented UI component at the Sprint Review meeting
+	* Discussed with Muhammand about issues left over
+	* Reviewed codes from Adrian and Shaharoz for Split Surfaces
+	
+## 2019-04-17
+
+* Read technology report Design & Simulation Software Review Round Up
+* Paid Cogeco bill for this month
+
+* [FS-AGW](#fs-agw)
+	* Asked for discussion about Geometry workbench feature tree strucutre change
+	* Read Segment Line feature definition
+	* Continued developement of Subdivide Wireframe Faces for quad shaped
 	
 ## REFERENCES
 
