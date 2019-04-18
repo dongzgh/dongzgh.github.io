@@ -2843,6 +2843,15 @@ order: 1
 	* Read Segment Line feature definition
 	* Continued developement of Subdivide Wireframe Faces for quad shaped
 	
+## 2019-04-18
+
+* Installed stove for Evelyn Lane
+
+* [FS-AGW](#fs-agw)
+	* Redeveloped function to read configuration parameters
+	* Revised subdivision algorithm for quad surface
+	* Developed function to display wireframe
+
 ## REFERENCES
 
 ### houses
