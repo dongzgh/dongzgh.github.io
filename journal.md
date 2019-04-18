@@ -2834,6 +2834,10 @@ order: 1
 * Read technology report Design & Simulation Software Review Round Up
 * Paid Cogeco bill for this month
 
+* [L3D-LMS](#l3d-lms)
+	* Redesigned viewer toolbox
+	* Updated database toolbox using grid system
+
 * [FS-AGW](#fs-agw)
 	* Asked for discussion about Geometry workbench feature tree strucutre change
 	* Read Segment Line feature definition
