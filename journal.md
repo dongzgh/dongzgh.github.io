@@ -2851,6 +2851,42 @@ order: 1
 	* Redeveloped function to read configuration parameters
 	* Revised subdivision algorithm for quad surface
 	* Developed function to display wireframe
+	
+## 2019-04-19
+
+* Bought ROM annual membership and did first visit
+
+## 2019-04-20
+
+* Shopped in Mapleview Shopping Center
+
+## 2019-04-21
+
+* Bought grocery and gingsen at Golden Plaza in Mississauga
+
+## 2019-04-22
+
+* Revised concrete design plan
+* Had Patterned Concrete estimated job price
+
+* [L3D-LMS](#l3d-lms)
+	* Added tools to view toolbox
+	
+* [FS-AGW](#fs-agw)
+	* Presented progress in Geometry team
+	* Discussed with Shaharoz about combo property page extension
+	* Developed subdivision for silver face
+	
+## 2019-04-23
+
+* Read technology report Design & Simulation Software Review Round Up
+
+* [L3D-LMS](#l3d-lms)
+
+* [FS-AGW](#fs-agw)
+	* Developed subdivision for triangular face
+	* Fixed some topology issues with subdividing wireframe faces
+	* Fixed an issue related with picking wireframe face
 
 ## REFERENCES
 
