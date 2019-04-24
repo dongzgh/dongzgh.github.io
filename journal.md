@@ -2882,11 +2882,24 @@ order: 1
 * Read technology report Design & Simulation Software Review Round Up
 
 * [L3D-LMS](#l3d-lms)
+	* Reorganized mixins for view toolbox
+	* Had meeting with Charles and Li
 
 * [FS-AGW](#fs-agw)
 	* Developed subdivision for triangular face
 	* Fixed some topology issues with subdividing wireframe faces
 	* Fixed an issue related with picking wireframe face
+	
+## 2019-04-24
+
+* Reserved parking space from Skyways
+* Designed business card from vistaprint.ca
+
+* [L3D-LMS](#l3d-lms)
+	* Reopened company website
+
+* [FS-AGW](#fs-agw)
+	* Did code review for Shaharoz for Comobo Property Sheet extension
 
 ## REFERENCES
 
