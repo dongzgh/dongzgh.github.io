@@ -2897,9 +2897,23 @@ order: 1
 
 * [L3D-LMS](#l3d-lms)
 	* Reopened company website
+	* Redesigned businss card
+	* Compared hosting and website builder services
 
 * [FS-AGW](#fs-agw)
 	* Did code review for Shaharoz for Comobo Property Sheet extension
+	
+## 2019-04-25
+
+* [L3D-LMS](#l3d-lms)
+	* Revised business card title
+	* Read Rapid-TCT conference schedules
+	* Revised toolsets by using components
+	* Added view toolset
+
+* [FS-AGW](#fs-agw)
+	* Did code review for Shaharoz for Comobo Property Sheet extension
+	* Did code review for Shaharoz for Create Direction Line
 
 ## REFERENCES
 
