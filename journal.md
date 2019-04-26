@@ -2910,10 +2910,25 @@ order: 1
 	* Read Rapid-TCT conference schedules
 	* Revised toolsets by using components
 	* Added view toolset
+	* Reinstalled lemtri project
 
 * [FS-AGW](#fs-agw)
 	* Did code review for Shaharoz for Comobo Property Sheet extension
 	* Did code review for Shaharoz for Create Direction Line
+	
+## 2019-04-26
+
+* Got Swift code from CIBC
+* Bought diaper and chicken from Costco
+
+* [L3D-LMS](#l3d-lms)
+	* Revised view toolbox layout
+	* Revised Representation component template
+	* Fixed a bug related with vtkView display
+
+* [FS-AGW](#fs-agw)
+	* Did code review for Shaharoz for Comobo Property Sheet extension
+	* Did code review for Adrian for Create Direction Line
 
 ## REFERENCES
 
