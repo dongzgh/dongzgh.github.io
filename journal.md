@@ -2933,6 +2933,11 @@ order: 1
 	* Did code review for Shaharoz for Comobo Property Sheet extension
 	* Did code review for Adrian for Create Direction Line
 
+## 2019-05-11
+
+* [L3D-LMS](#l3d-lms)
+	* Revised portal page texts and rebuilt on heroku
+
 ## REFERENCES
 
 ### houses
