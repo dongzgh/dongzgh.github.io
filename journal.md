@@ -2905,6 +2905,9 @@ order: 1
 	
 ## 2019-04-25
 
+* Got TD swift code
+* Paied Union Gas monthly fee
+
 * [L3D-LMS](#l3d-lms)
 	* Revised business card title
 	* Read Rapid-TCT conference schedules
