@@ -2929,6 +2929,21 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Did code review for Shaharoz for Comobo Property Sheet extension
 	* Did code review for Adrian for Create Direction Line
+	
+## 2019-04-27 to 2017-05-17
+
+* Vacation in China
+
+## 2019-05-20 to 2019-05-21
+
+* Attending RAPID + TCT conference in Cobo Center, Detroit MI
+
+## 2019-05-22
+
+* [L3D-LMS](#l3d-lms)
+
+* [FS-AGW](#fs-agw)
+	* Reviewd project status
 
 ## REFERENCES
 
