@@ -2905,6 +2905,9 @@ order: 1
 	
 ## 2019-04-25
 
+* Got TD swift code
+* Paied Union Gas monthly fee
+
 * [L3D-LMS](#l3d-lms)
 	* Revised business card title
 	* Read Rapid-TCT conference schedules
@@ -2944,6 +2947,11 @@ order: 1
 
 * [FS-AGW](#fs-agw)
 	* Reviewd project status
+
+## 2019-05-11
+
+* [L3D-LMS](#l3d-lms)
+	* Revised portal page texts and rebuilt on heroku
 
 ## REFERENCES
 
