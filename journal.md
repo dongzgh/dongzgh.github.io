@@ -2941,17 +2941,29 @@ order: 1
 
 * Attending RAPID + TCT conference in Cobo Center, Detroit MI
 
-## 2019-05-22
-
-* [L3D-LMS](#l3d-lms)
-
-* [FS-AGW](#fs-agw)
-	* Reviewd project status
-
 ## 2019-05-11
 
 * [L3D-LMS](#l3d-lms)
 	* Revised portal page texts and rebuilt on heroku
+	
+## 2019-05-22
+
+* [L3D-LMS](#l3d-lms)
+	* Fixed some styling issues in viewer toolbox
+
+* [FS-AGW](#fs-agw)
+	* Reviewd project status
+	
+## 2019-05-23
+
+* Read technology news from Tech Briefs May 2019
+* Booked appointment with Louis for ceiling repaint
+
+* [L3D-LMS](#l3d-lms)
+	* Fixed some styling issues
+	
+* [FS-AGW](#fs-agw)
+	* Reviewed codes for wireframe design
 
 ## REFERENCES
 
