@@ -2957,13 +2957,17 @@ order: 1
 ## 2019-05-23
 
 * Read technology news from Tech Briefs May 2019
-* Booked appointment with Louis for ceiling repaint
 
 * [L3D-LMS](#l3d-lms)
 	* Fixed some styling issues
+	* Updated some templates
 	
 * [FS-AGW](#fs-agw)
 	* Reviewed codes for wireframe design
+	
+## 2019-05-24
+
+* Booked appointment with Louis for ceiling repaint
 
 ## REFERENCES
 
