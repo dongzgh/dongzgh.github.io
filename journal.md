@@ -2968,6 +2968,12 @@ order: 1
 ## 2019-05-24
 
 * Booked appointment with Louis for ceiling repaint
+* Discussed with Glenn about potential rental application
+* Read technology news from Tech Briefs May 2019
+
+* [FS-AGW](#fs-agw)
+	* Added Apply callback for CreateContours
+	* Discussed with Shaharoz about combo property sheet cosmetic issue
 
 ## REFERENCES
 
