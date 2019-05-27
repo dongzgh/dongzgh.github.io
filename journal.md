@@ -2974,6 +2974,27 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Added Apply callback for CreateContours
 	* Discussed with Shaharoz about combo property sheet cosmetic issue
+	
+## 2019-05-25
+
+* Shopping groceries at T&T Supermarket
+* Had lunch at Hunan Restaurant in Mississauga
+
+## 2019-05-26
+
+* Drove to Dundas Farm
+* Had lunch at Tim Horton in James Square
+* Bought rice in B & T Market
+* Visited RBG Heidrian Park
+* Cooked 3 white bass fishes
+
+## 2019-05-27
+
+* Read technology news from D3D April 2019
+
+* [FS-AGW](#fs-agw)
+	* Attended release meeting
+	* Discussed with Shaharoz about Create Direction Line dialog box UI issues
 
 ## REFERENCES
 
