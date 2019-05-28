@@ -2992,6 +2992,9 @@ order: 1
 
 * Read technology news from D3D April 2019
 
+* [L3D-LMS](#l3d-lms)
+	* Enabled showing up Representation panel
+
 * [FS-AGW](#fs-agw)
 	* Attended release meeting
 	* Discussed with Shaharoz about Create Direction Line dialog box UI issues
