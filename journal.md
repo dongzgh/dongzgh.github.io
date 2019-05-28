@@ -2998,6 +2998,19 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Attended release meeting
 	* Discussed with Shaharoz about Create Direction Line dialog box UI issues
+	
+## 2019-05-28
+
+* Visited Pediatric Dentistry
+* Asked Sydney about basement earlier vacation
+
+* [L3D-LMS](#l3d-lms)
+
+* [FS-AGW](#fs-agw)
+	* Checked current Edit Line UI design
+	* Set up meeting for Edit Line UI design confirmation
+	* Set up meeting for AGW progress review
+	* Added code to generate first contour
 
 ## REFERENCES
 
