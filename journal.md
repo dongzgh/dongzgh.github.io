@@ -3005,6 +3005,7 @@ order: 1
 * Asked Sydney about basement earlier vacation
 
 * [L3D-LMS](#l3d-lms)
+	* Revised template styling
 
 * [FS-AGW](#fs-agw)
 	* Checked current Edit Line UI design
@@ -3012,6 +3013,17 @@ order: 1
 	* Set up meeting for AGW progress review
 	* Added code to generate first contour
 
+## 2019-05-29
+
+* Read technology news from D3D April
+
+* [L3D-LMS](#l3d-lms)
+	* Enabled saving toolsets to database
+	* Added ColorBy module
+
+* [FS-AGW](#fs-agw)
+	* Created algorithm to inspect line correlation
+	
 ## REFERENCES
 
 ### houses
