@@ -3024,6 +3024,13 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Created algorithm to inspect line correlation
 	
+## 2019-05-30
+
+* Read technology news from D3D April
+
+* [FS-AGW](#fs-agw)
+	* Rewritten algorithm to roll boundary in 2D
+	
 ## REFERENCES
 
 ### houses
