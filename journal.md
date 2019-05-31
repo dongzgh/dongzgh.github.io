@@ -3028,6 +3028,10 @@ order: 1
 
 * Read technology news from D3D April
 
+* [L3D-LMS](#l3d-lms)
+	* Revised control templates and styles
+	* Enabled SliceControl
+
 * [FS-AGW](#fs-agw)
 	* Rewritten algorithm to roll boundary in 2D
 	
