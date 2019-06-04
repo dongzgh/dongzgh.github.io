@@ -3043,7 +3043,7 @@ order: 1
 	* Enabled molecule module
 
 * [FS-AGW](#fs-agw)
-	* Revised algorithm to roll boundary in 2D
+	* Revised algorithm to roll 2D curve
 	
 ## 2019-06-03
 
@@ -3054,14 +3054,16 @@ order: 1
 
 * [FS-AGW](#fs-agw)
 	* Discussed with team about Create Direction Line backends
-	* Revised code for rolling 2D boundary curve
+	* Revised code for rolling 2D curve
 	
 ## 2019-06-04
 
-* Read technology news from D3D May
+* Applied Epic Games senior tools developer remote job
+* Rejected Upchain's invitation
 
 * [FS-AGW](#fs-agw)
- 	* Revised code for rolling 2D boundary curve	
+ 	* Revised code for rolling 2D curve	
+	* Revised code for offseting 3D curve
 	
 ## REFERENCES
 
