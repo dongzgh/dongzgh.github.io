@@ -3045,6 +3045,24 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Revised algorithm to roll boundary in 2D
 	
+## 2019-06-03
+
+* Investigated Scotia Rewards program over the last 12 months
+
+* [L3D-LMS](#l3d-lms)
+	* Put toolsets and commands into configuration
+
+* [FS-AGW](#fs-agw)
+	* Discussed with team about Create Direction Line backends
+	* Revised code for rolling 2D boundary curve
+	
+## 2019-06-04
+
+* Read technology news from D3D May
+
+* [FS-AGW](#fs-agw)
+ 	* Revised code for rolling 2D boundary curve	
+	
 ## REFERENCES
 
 ### houses
