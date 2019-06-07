@@ -3061,6 +3061,10 @@ order: 1
 * Applied Epic Games senior tools developer remote job
 * Rejected Upchain's invitation
 
+* [L3D-LMS](#l3d-lms)
+ * Added information related controls
+ * Reorganized control components
+
 * [FS-AGW](#fs-agw)
  	* Revised code for rolling 2D curve	
 	* Revised code for offseting 3D curve
