@@ -3065,6 +3065,25 @@ order: 1
  	* Revised code for rolling 2D curve	
 	* Revised code for offseting 3D curve
 	
+## 2019-06-05
+
+* Read articles from FlexJobs
+
+* [FS-AGW](#fs-agw)
+	* Revised code for offseting 3D curve
+
+## 2019-06-06
+
+* Foot twisted and rest at home
+
+## 2019-06-07
+
+* Read technology news from D3D May
+* Updated resume on AngelList
+
+* [FS-AGW](#fs-agw)
+	* Revised code for offseting 3D curve
+	
 ## REFERENCES
 
 ### houses
