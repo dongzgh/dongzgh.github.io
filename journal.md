@@ -3087,6 +3087,8 @@ order: 1
 
 * [FS-AGW](#fs-agw)
 	* Revised code for offseting 3D curve
+	* Reviewed new workflow proposal
+	* Revised code for smoothing 2D curve by rolling
 	
 ## REFERENCES
 
