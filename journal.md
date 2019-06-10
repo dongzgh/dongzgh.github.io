@@ -3090,6 +3090,24 @@ order: 1
 	* Reviewed new workflow proposal
 	* Revised code for smoothing 2D curve by rolling
 	
+## 2019-06-08
+
+* Shopping
+* Sick at home
+
+## 2019-06-09
+
+* Sick at home
+
+## 2019-06-10
+
+* Read news from YorkBBS
+
+* [FS-AGW](#fs-agw)
+	* Reviewed initial codes for unfolding
+	* Discussed workflow management with team
+	* Tought Shaharoz about wireframe
+	
 ## REFERENCES
 
 ### houses
