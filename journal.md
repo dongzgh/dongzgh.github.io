@@ -3102,11 +3102,23 @@ order: 1
 ## 2019-06-10
 
 * Read news from YorkBBS
+* Watched Raptor's game 5
 
 * [FS-AGW](#fs-agw)
 	* Reviewed initial codes for unfolding
 	* Discussed workflow management with team
 	* Tought Shaharoz about wireframe
+	
+## 2019-06-11
+
+* Took photos of ceiling holes
+* Sent email to Glenn about earlier move-in
+* Bought scooter for Ethan
+
+* [FS-AGW](#fs-agw)
+	* Discussed with Jim about Double Attach
+	* Made some suggestions regarding grouping geometry tools
+	* Reviewed code for tagging geometry forms
 	
 ## REFERENCES
 
