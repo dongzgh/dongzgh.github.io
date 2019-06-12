@@ -3120,6 +3120,17 @@ order: 1
 	* Made some suggestions regarding grouping geometry tools
 	* Reviewed code for tagging geometry forms
 	
+## 2019-06-12
+
+* Read technology news from magazine D3D May
+* Reorganized company bookmarks
+* Read news from YorkBBS
+
+* [FS-AGW](#fs-agw)
+	* Reviewed code from Adrian for Unfolding
+	* Completed estimation for second half development
+	* Investigated DataKit upgrading issue
+	
 ## REFERENCES
 
 ### houses
