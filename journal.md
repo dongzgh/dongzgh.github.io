@@ -3126,6 +3126,12 @@ order: 1
 * Reorganized company bookmarks
 * Read news from YorkBBS
 
+* [L3D-LMS](#l3d-lms)
+	* Fixed global helper issue
+	* Fixed FieldData display issue
+	* Removed vtkViewer bottom toolbar
+	* Written and submitted Product Advantages
+
 * [FS-AGW](#fs-agw)
 	* Reviewed code from Adrian for Unfolding
 	* Completed estimation for second half development
