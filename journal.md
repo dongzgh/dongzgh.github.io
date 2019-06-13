@@ -3137,6 +3137,21 @@ order: 1
 	* Completed estimation for second half development
 	* Investigated DataKit upgrading issue
 	
+## 2019-06-13
+
+* Read technology news from 3D Metal Printing Spring 2019
+* Read news from WeChat Moments
+
+* [L3D-LMS](#l3d-lms)
+	* Updated product targeting applications
+
+* [FS-AGW](#fs-agw)
+	* Reviewed code from Adrian for Unfolding
+	* Completed estimation for second half development
+	* Investigated DataKit upgrading issue
+	* Discussed project planning issues
+	* Updated DataKit exe file
+	
 ## REFERENCES
 
 ### houses
