@@ -3152,6 +3152,14 @@ order: 1
 	* Discussed project planning issues
 	* Updated DataKit exe file
 	
+## 2019-06-14
+
+* [L3D-LMS](#l3d-lms)
+	* Revised DevOps setup
+	
+* [FS-AGW](#fs-agw)
+	* Upgraded SDF 3.3 DataKit to V2019.2
+
 ## REFERENCES
 
 ### houses
