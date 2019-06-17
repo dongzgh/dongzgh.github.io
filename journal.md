@@ -3159,6 +3159,32 @@ order: 1
 	
 * [FS-AGW](#fs-agw)
 	* Upgraded SDF 3.3 DataKit to V2019.2
+	
+## 2019-06-15
+
+* Got second hand toys from Yanping
+* Attended Burlington Music Festival for free ride between 11:00 am and noon
+* Shopped groceries from Natiions
+* Shopped groceries from Costco
+* Shopped Laser Tonner from CanadaComputers
+
+## 2019-06-16
+
+* Repaired ceiling in Upper Middle Road
+* Drove to Mississauga Waterfront Festival
+
+## 2091-06-17
+
+* Gave daycare Ethon's birthday gifts adn cakes
+* Read technology news from AMUG
+
+* [FS-AGW](#fs-agw)
+	* Revised workflow of contour creation
+	* Got spec for Define/Morph Binder and Show Unfolded Flanges
+	* Read spec and developed tasks for Define/Morph binder
+	* Read spec and developed tasks for Show Unfolded Flanges
+	* Read staged development plan from Muhammand
+	* Submitted updated SDF for patch
 
 ## REFERENCES
 
