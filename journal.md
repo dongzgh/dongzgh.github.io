@@ -3178,6 +3178,9 @@ order: 1
 * Gave daycare Ethon's birthday gifts adn cakes
 * Read technology news from AMUG
 
+* [L3D-LMS](#l3d-lms)
+	* Revised vtkView float toolbar style
+	
 * [FS-AGW](#fs-agw)
 	* Revised workflow of contour creation
 	* Got spec for Define/Morph Binder and Show Unfolded Flanges
@@ -3185,6 +3188,15 @@ order: 1
 	* Read spec and developed tasks for Show Unfolded Flanges
 	* Read staged development plan from Muhammand
 	* Submitted updated SDF for patch
+	
+## 2091-06-18
+
+* Read technical report '10 Basic 3D Model Repair Functions'
+* Read nTopology blog posts
+
+* [FS-AGW](#fs-agw)
+	* Discussed Define Binder spec related issues
+	* Redesigned wireframe related geometry data structure
 
 ## REFERENCES
 
