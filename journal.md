@@ -3194,9 +3194,19 @@ order: 1
 * Read technical report '10 Basic 3D Model Repair Functions'
 * Read nTopology blog posts
 
+* [L3D-LMS](#l3d-lms)
+	* Fixed issues related with view display without source
+
 * [FS-AGW](#fs-agw)
 	* Discussed Define Binder spec related issues
 	* Redesigned wireframe related geometry data structure
+	
+## 2091-06-19
+
+* Read technical news from Automotive Engineering 209105
+
+* [FS-AGW](#fs-agw)
+	* Discussed with Adrian and Shaharoz about Graphics Widget work
 
 ## REFERENCES
 
