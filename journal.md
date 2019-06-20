@@ -3205,8 +3205,21 @@ order: 1
 
 * Read technical news from Automotive Engineering 209105
 
+* [L3D-LMS](#l3d-lms)
+	* Fixed issues with server side file async operations
+
 * [FS-AGW](#fs-agw)
 	* Discussed with Adrian and Shaharoz about Graphics Widget work
+	
+## 2091-06-20
+
+* Visited Dr. M. J. Fox and did annual check for Ethan
+* Completed OHSA training
+* Read technology news from WeChat
+
+* [FS-AGW](#fs-agw)
+	* Reviewed Adrian's code for binder creation
+	* Developed 3D curve rolling function
 
 ## REFERENCES
 
