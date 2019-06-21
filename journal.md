@@ -3216,6 +3216,8 @@ order: 1
 * Visited Dr. M. J. Fox and did annual check for Ethan
 * Completed OHSA training
 * Read technology news from WeChat
+* Researched mobile phone (VM) plan details
+* Resaerched China SIM Card (iTalkBB) plan details
 
 * [FS-AGW](#fs-agw)
 	* Reviewed Adrian's code for binder creation
