@@ -3222,7 +3222,19 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Reviewed Adrian's code for binder creation
 	* Developed 3D curve rolling function
+	
+## 2091-06-21
 
+* Called Patterned Concrete to proceed with quotation
+* Called iTalkBB to change China SIM Card Plan
+* Compiled Mobile Plan spreadsheet
+* Booked iMac repaire service
+* Booked appointment with TD local branch about opening unlimited chequing account
+
+* [FS-AGW](#fs-agw)
+	* Reviewed Shaharoz feature tree updates for Binder
+	* Reviewed bugs found in Create Direction Line and Define Symmetry
+	
 ## REFERENCES
 
 ### houses
