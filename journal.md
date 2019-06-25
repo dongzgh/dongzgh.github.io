@@ -2436,7 +2436,7 @@ order: 1
   
 ## 2019-02-28
 
-* Filled form T2091
+* Filled form T2019
 
 * [FS-AGW](#fs-agw)
   * Revised create_dialog.py by including copy cpp/h files
@@ -3173,7 +3173,7 @@ order: 1
 * Repaired ceiling in Upper Middle Road
 * Drove to Mississauga Waterfront Festival
 
-## 2091-06-17
+## 2019-06-17
 
 * Gave daycare Ethon's birthday gifts adn cakes
 * Read technology news from AMUG
@@ -3189,7 +3189,7 @@ order: 1
 	* Read staged development plan from Muhammand
 	* Submitted updated SDF for patch
 	
-## 2091-06-18
+## 2019-06-18
 
 * Read technical report '10 Basic 3D Model Repair Functions'
 * Read nTopology blog posts
@@ -3201,9 +3201,9 @@ order: 1
 	* Discussed Define Binder spec related issues
 	* Redesigned wireframe related geometry data structure
 	
-## 2091-06-19
+## 2019-06-19
 
-* Read technical news from Automotive Engineering 209105
+* Read technical news from Automotive Engineering 201905
 
 * [L3D-LMS](#l3d-lms)
 	* Fixed issues with server side file async operations
@@ -3211,7 +3211,7 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Discussed with Adrian and Shaharoz about Graphics Widget work
 	
-## 2091-06-20
+## 2019-06-20
 
 * Visited Dr. M. J. Fox and did annual check for Ethan
 * Completed OHSA training
@@ -3223,7 +3223,7 @@ order: 1
 	* Reviewed Adrian's code for binder creation
 	* Developed 3D curve rolling function
 	
-## 2091-06-21
+## 2019-06-21
 
 * Called Patterned Concrete to proceed with quotation
 * Called iTalkBB to change China SIM Card Plan
@@ -3234,6 +3234,39 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Reviewed Shaharoz feature tree updates for Binder
 	* Reviewed bugs found in Create Direction Line and Define Symmetry
+
+## 2019-06-22
+
+* Visited Royal Botanical Garden Laking Lake
+* Shopped grocery at Nations Fresh Foods
+* Shopped at Costco
+
+## 2019-06-23
+
+* Visited Pediatric Emergency Clinic
+* Shopped around Blinds to Go and Home Sense at Burlington Shopping Center
+	
+## 2019-06-24
+
+* Read technology news from Autonomous Vehicle Engineering 201906
+* Discussed about TD chequing account migration
+* Started process of Patterned Concrete work
+	
+* [L3D-LMS](#l3d-lms)
+	* Removed redundant Dataset module files
+	* Revised styling of viewer toolbox
+
+* [FS-AGW](#fs-agw)
+	* Reviewed submision from Shaharoz for Create Binder
+	* Created function to create Hermite GeoCurve
+	* Revised Offset3DGeoCurve and SmoothGeoCurve3DByRolling
+	
+## 2019-06-25
+
+* Read technology news from Autonomous Vehicle Engineering 201906
+
+* [FS-AGW](#fs-agw)
+	* Revised Offset3DGeoCurve and SmoothGeoCurve3DByRolling
 	
 ## REFERENCES
 
