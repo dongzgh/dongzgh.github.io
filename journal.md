@@ -3264,6 +3264,7 @@ order: 1
 ## 2019-06-25
 
 * Read technology news from Autonomous Vehicle Engineering 201906
+* Read technology news from WeChat
 
 * [FS-AGW](#fs-agw)
 	* Revised Offset3DGeoCurve and SmoothGeoCurve3DByRolling
