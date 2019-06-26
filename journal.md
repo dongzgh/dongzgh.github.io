@@ -3269,6 +3269,19 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Revised Offset3DGeoCurve and SmoothGeoCurve3DByRolling
 	
+## 2019-06-26
+
+* Placed order for sunglasses from Hatley for Ethan
+* Bought sunglasses from Burlington Eye Care
+* Asked quotation from Ontario Paving and All Star Paving
+* Added Beryl to our WeChat account
+* Read technology news from WeChat
+
+* [FS-AGW](#fs-agw)
+	* Reviewed Adrian's code for sihouette binder creation
+	* Revised Offset3DGeoCurve and SmoothGeoCurve3DByRolling
+	* Redesigned Create Contours dialog box for creating seperately
+	
 ## REFERENCES
 
 ### houses
