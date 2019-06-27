@@ -3276,6 +3276,9 @@ order: 1
 * Asked quotation from Ontario Paving and All Star Paving
 * Added Beryl to our WeChat account
 * Read technology news from WeChat
+* Fixed jekyll installation problem
+
+* [L3D-LMS](#l3d-lms)
 
 * [FS-AGW](#fs-agw)
 	* Reviewed Adrian's code for sihouette binder creation
