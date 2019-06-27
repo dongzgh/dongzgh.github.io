@@ -3286,6 +3286,13 @@ order: 1
 	* Revised Offset3DGeoCurve and SmoothGeoCurve3DByRolling
 	* Redesigned Create Contours dialog box for creating seperately
 	
+## 2019-06-27
+
+* Visited family doctor asking prescription for blood work
+
+* [FS-AGW](#fs-agw)
+	* Developed function to create contour 2
+	
 ## REFERENCES
 
 ### houses
