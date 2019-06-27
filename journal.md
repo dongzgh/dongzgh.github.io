@@ -3279,7 +3279,8 @@ order: 1
 * Fixed jekyll installation problem
 
 * [L3D-LMS](#l3d-lms)
-
+	* Enabled updating layout
+	
 * [FS-AGW](#fs-agw)
 	* Reviewed Adrian's code for sihouette binder creation
 	* Revised Offset3DGeoCurve and SmoothGeoCurve3DByRolling
