@@ -3289,9 +3289,18 @@ order: 1
 ## 2019-06-27
 
 * Visited family doctor asking prescription for blood work
+* Checked asphalt paving in communities
 
 * [FS-AGW](#fs-agw)
 	* Developed function to create contour 2
+	
+## 2019-06-28
+
+* Visited family doctor asking prescription for blood work
+
+* [FS-AGW](#fs-agw)
+	* Developed function for create contour 3
+	* Developed function to split contour 0 and contour 1
 	
 ## REFERENCES
 
