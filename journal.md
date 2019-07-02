@@ -3302,6 +3302,32 @@ order: 1
 	* Developed function for create contour 3
 	* Developed function to split contour 0 and contour 1
 	
+## 2019-06-29
+
+* Visited Burlington Railway Model Club
+* Shopped in Costco
+* Cleaned property at upper middle road
+	
+## 2019-06-30
+
+* Picked strawberry at Lindley Farm
+* Had lunch at Crystal Restaurant in Hamilton
+* Shopped in BT grocery store
+
+* [FS-AGW](#fs-agw)
+	* Developed function for create contour 3
+	* Developed function to split contour 0 and contour 1
+	
+## 2019-07-01
+
+* Visited Milton Canada Day Celebration
+* Played at the Oakville Beach Front
+
+* [FS-AGW](#fs-agw)
+	* Developed function for create segements
+	* Reviewed codes from Shaharoz and Adrian for Define Binder
+	* Prepared PPT for wireframe review
+	
 ## REFERENCES
 
 ### houses
