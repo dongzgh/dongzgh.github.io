@@ -3328,6 +3328,30 @@ order: 1
 	* Reviewed codes from Shaharoz and Adrian for Define Binder
 	* Prepared PPT for wireframe review
 	
+## 2019-07-02
+
+* [FS-AGW](#fs-agw)
+	* Revised function for create segements
+	* Prepared PPT for wireframe review
+	
+## 2019-07-03
+
+* Booked appointment for car service and repairation
+
+* [L3D-LMS](#l3d-lms)
+	* Fixed a bug related with ColorBy control update when workbench changes
+
+* [FS-AGW](#fs-agw)
+	* Revised function for aligning segements
+	* Did wireframe development stage review
+	* Checked Double Attach specification
+	
+## 2019-07-04
+
+* [FS-AGW](#fs-agw)
+	* Revised function for aligning segements
+	* Discussed Double Attach specification
+
 ## REFERENCES
 
 ### houses
