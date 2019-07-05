@@ -3348,6 +3348,11 @@ order: 1
 	
 ## 2019-07-04
 
+* Did Volvo car 120000 km service
+* Bought shoe storage at wash machine from IKEA
+* Bought curtain for patio from Amazon
+* Bought french door panel curtain from Amazon
+
 * [FS-AGW](#fs-agw)
 	* Revised function for aligning segements
 	* Discussed Double Attach specification
