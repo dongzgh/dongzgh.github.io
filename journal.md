@@ -3351,7 +3351,32 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Revised function for aligning segements
 	* Discussed Double Attach specification
+	
+## 2019-07-05
 
+* [FS-AGW](#fs-agw)
+	* Revised function for aligning segements
+	* Discussed Double Attach specification
+
+## 2019-07-06
+
+* Diagnosed Min's eyes at Burlington Eye Care Center
+* Signed design contract with Patterned Concrete
+* Shopped grocery at Ocean Fresh Food Market
+
+## 2019-07-07
+
+* Shopped clothes and shoes for Ethan in Mapleview Shopping Center
+* Visited Rock Garden and Cherry Hill Trail Gate of RBG
+
+## 2019-07-08
+
+* Read technology news from D3D June
+* Studied Getting Started with Autodesk Forge
+
+* [FS-AGW](#fs-agw)
+	* Revised code to find closest points on contour
+	
 ## REFERENCES
 
 ### houses
