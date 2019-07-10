@@ -3382,6 +3382,25 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Revised code to find closest points on contour
 	
+## 2019-07-09
+
+* Searched Graduate School inforamtionf or Jingjing
+* WestView Paving excavated driveway
+
+* [L3D-LMS](#l3d-lms)
+	* Investigated DICOM loading issue
+
+* [FS-AGW](#fs-agw)
+	* Revised code to find closest points on contour
+	* Developed codes to find segments for corner points of contour 0
+	
+## 2019-07-10
+
+* Searched Graduate School inforamtionf or Jingjing
+
+* [FS-AGW](#fs-agw)
+	* Developed codes to find segments for contour 1
+	
 ## REFERENCES
 
 ### houses
