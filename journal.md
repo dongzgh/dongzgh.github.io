@@ -3397,6 +3397,7 @@ order: 1
 ## 2019-07-10
 
 * Searched Graduate School inforamtionf or Jingjing
+* Changed passwords
 
 * [FS-AGW](#fs-agw)
 	* Developed codes to find segments for contour 1
