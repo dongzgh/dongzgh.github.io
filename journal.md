@@ -3399,6 +3399,9 @@ order: 1
 * Searched Graduate School inforamtionf or Jingjing
 * Changed passwords
 
+* [L3D-LMS](#l3d-lms)
+	* Fixed DICOM loading issue
+
 * [FS-AGW](#fs-agw)
 	* Developed codes to find segments for contour 1
 	
