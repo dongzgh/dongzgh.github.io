@@ -3405,6 +3405,18 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Developed codes to find segments for contour 1
 	
+## 2019-07-11
+
+* Reorganized remote git repositories
+* Created document for Graduate School Application
+
+* [FS-AGW](#fs-agw)
+	* Reviewed back-end codes for Morph Binder
+	* Investigated possibility of extending FTIComboPropertySheet using FTIComboBox
+	* Revised codes to find segments for contour 1
+	* Developed codes to find segments for contour 2
+	* Developed codes to find segments for contour 3
+	
 ## REFERENCES
 
 ### houses
