@@ -3410,6 +3410,11 @@ order: 1
 * Reorganized remote git repositories
 * Created document for Graduate School Application
 
+* [L3D-LMS](#l3d-lms)
+	* Enabled loading local files
+	* Added load local file button
+	* Revised database page style
+
 * [FS-AGW](#fs-agw)
 	* Reviewed back-end codes for Morph Binder
 	* Investigated possibility of extending FTIComboPropertySheet using FTIComboBox
