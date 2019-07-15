@@ -3422,6 +3422,35 @@ order: 1
 	* Developed codes to find segments for contour 2
 	* Developed codes to find segments for contour 3
 	
+## 2019-07-12
+
+* Created github project for graduate school application
+
+* [FS-AGW](#fs-agw)
+	* Reviewed back-end codes for Morph Binder
+	* Reviewed front-end codes for Morph Binder
+	* Revised codes for find segments for contours
+	
+## 2019-07-13
+
+* Shopped summer shoes for Ethan
+* Shopped grocery at Nations Fresh Food Market
+
+## 2019-07-14
+
+* Visited rose garden in RBG
+* Visited cherry hill trail in RBG, fed chipmonks, ducks and geese
+* Visited aboretum of RBG, played basketball
+* Started to work on landry room closet
+	
+## 2019-07-15
+
+* Shopped curtains and rods for front door
+* Read news from Wechat
+
+* [FS-AGW](#fs-agw)
+	* Revised codes for contour segmentation
+
 ## REFERENCES
 
 ### houses
