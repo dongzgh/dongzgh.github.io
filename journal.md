@@ -3450,6 +3450,12 @@ order: 1
 
 * [FS-AGW](#fs-agw)
 	* Revised codes for contour segmentation
+	* Added function to empty contour
+	* Added function to derive contour
+	* Added function to link contour
+	* Added function to process contour marked
+	* Added function to create contour 2 by extend
+	* Added function to create contour 2 by flatten
 
 ## REFERENCES
 
