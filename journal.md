@@ -3448,6 +3448,10 @@ order: 1
 * Shopped curtains and rods for front door
 * Read news from Wechat
 
+* [L3D-LMS](#l3d-lms)
+	* Revised database page
+	* Fixed git issues
+
 * [FS-AGW](#fs-agw)
 	* Revised codes for contour segmentation
 	* Added function to empty contour
