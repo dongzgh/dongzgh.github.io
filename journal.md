@@ -1,10 +1,3 @@
----
-layout: page
-title: Journal
-permalink: /journal/
-order: 1
----
-
 ## 2018-01-03
 
 * Started to integrate Journals from different projects
