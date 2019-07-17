@@ -30,7 +30,6 @@ plugins:
 # List header pages.
 header_pages:
   - about.md
-  - journal.md
   - posts.html
 
 # Include in processing.
