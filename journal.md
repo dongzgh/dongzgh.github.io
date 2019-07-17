@@ -3465,10 +3465,25 @@ order: 1
 
 * Searched McMaster University graduate programs
 
+* [L3D-LMS](#l3d-lms)
+	* Attended sprint meeting
+	* Created local build
+
 * [FS-AGW](#fs-agw)
 	* Removed Autodesk installations
 	* Reviewed codes from Adrian for Morph Binder
 	* Reviewed codes from Shaharoz for Morph Binder
+	
+## 2019-07-17
+
+* Developed personal activities chart
+
+* [L3D-LMS](#l3d-lms)
+	* Updated meeting memo
+	
+* [FS-AGW](#fs-agw)
+	* Completed segment interpolation
+	* Added ui controls for segment length control
 
 ## REFERENCES
 
