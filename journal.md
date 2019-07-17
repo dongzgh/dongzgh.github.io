@@ -3460,6 +3460,15 @@ order: 1
 	* Added function to process contour marked
 	* Added function to create contour 2 by extend
 	* Added function to create contour 2 by flatten
+	
+## 2019-07-16
+
+* Searched McMaster University graduate programs
+
+* [FS-AGW](#fs-agw)
+	* Removed Autodesk installations
+	* Reviewed codes from Adrian for Morph Binder
+	* Reviewed codes from Shaharoz for Morph Binder
 
 ## REFERENCES
 
