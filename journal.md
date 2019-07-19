@@ -3484,6 +3484,23 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Completed segment interpolation
 	* Added ui controls for segment length control
+	
+## 2019-07-18
+
+* Added Western University CS M.Sc. program information
+
+* [L3D-LMS](#l3d-lms)
+	* Demostrated current stage of development
+	
+* [FS-AGW](#fs-agw)
+	* Developed PostprocessContourConrners for solving crossing issues
+	
+## 2019-07-19
+
+* Searched semi-sheer curtain panel for front door
+
+* [FS-AGW](#fs-agw)
+	* Developed function to create fillet curve
 
 ## REFERENCES
 
