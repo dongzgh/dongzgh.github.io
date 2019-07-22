@@ -3501,6 +3501,24 @@ order: 1
 
 * [FS-AGW](#fs-agw)
 	* Developed function to create fillet curve
+	
+## 2019-07-20
+
+* Paid Patterned Concrete job cash values
+* Shopped groceries from Golden Plaza
+* Had dinner with Caoyi's family at his home
+
+## 2019-07-21
+
+* Had picnic at Queen's Royal Park
+* Ride horse wagon in Niagara on the Lake historic town
+* Ete Cow's ice cream
+* Mounted laundry room closet
+
+## 2019-07-22
+
+* [FS-AGW](#fs-agw)
+	* Prepared demo of Create Punch Direction Line and Define Binder for sprint review
 
 ## REFERENCES
 
