@@ -3515,7 +3515,7 @@ order: 1
 * Ete Cow's ice cream
 * Mounted laundry room closet
 
-## 2019-07-22
+## 2019-07-23
 
 * Searched fitness programs
 
@@ -3524,6 +3524,17 @@ order: 1
 	
 * [FS-AGW](#fs-agw)
 	* Prepared demo of Create Punch Direction Line and Define Binder for sprint review
+	
+## 2019-07-22
+
+* Searched online medical imaging courses
+* Added a post about how to choose a learning source
+
+* [L3D-LMS](#l3d-lms)
+	* Subscribe enterpreneurship course online at udamy
+	
+* [FS-AGW](#fs-agw)
+	* Attended sprint review meeting
 
 ## REFERENCES
 
