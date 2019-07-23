@@ -3517,6 +3517,11 @@ order: 1
 
 ## 2019-07-22
 
+* Searched fitness programs
+
+* [L3D-LMS](#l3d-lms)
+	* Researched incubator / acceleration programs near me
+	
 * [FS-AGW](#fs-agw)
 	* Prepared demo of Create Punch Direction Line and Define Binder for sprint review
 
