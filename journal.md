@@ -3534,7 +3534,8 @@ order: 1
 * Sent cogeco bills to Min
 
 * [L3D-LMS](#l3d-lms)
-	* Subscribe enterpreneurship course online at udamy
+	* Subscribe enterpreneurship course online at udemy
+	* Studied enterpreneurship course from udemy untill section 3
 	
 * [FS-AGW](#fs-agw)
 	* Attended sprint review meeting
