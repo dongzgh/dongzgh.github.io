@@ -3539,6 +3539,15 @@ order: 1
 	
 * [FS-AGW](#fs-agw)
 	* Attended sprint review meeting
+	
+## 2019-07-24
+
+* Researched University of Toronto Computer Science M.Sc. program information
+* Discussed with Jingjing about TOFEL test preparation
+
+* [FS-AGW](#fs-agw)
+	* Added issue for Punch Direction line display
+	* Reorganized Azure DevOps work items for Geometry Team
 
 ## REFERENCES
 
