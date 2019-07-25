@@ -3545,6 +3545,9 @@ order: 1
 * Researched University of Toronto Computer Science M.Sc. program information
 * Discussed with Jingjing about TOFEL test preparation
 
+* [L3D-LMS](#l3d-lms)
+	* Studied enterpreneurship course from udemy untill section 3.7
+
 * [FS-AGW](#fs-agw)
 	* Added issue for Punch Direction line display
 	* Reorganized Azure DevOps work items for Geometry Team
