@@ -3551,6 +3551,12 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Added issue for Punch Direction line display
 	* Reorganized Azure DevOps work items for Geometry Team
+	
+## 2019-07-25
+
+* [FS-AGW](#fs-agw)
+	* Prepared wireframe development status report
+	* Reorganized Azure DevOps work items for Geometry Team
 
 ## REFERENCES
 
