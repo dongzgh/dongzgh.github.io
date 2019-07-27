@@ -3557,6 +3557,13 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Prepared wireframe development status report
 	* Reorganized Azure DevOps work items for Geometry Team
+	
+## 2019-07-26
+
+* Searched computer mouses
+* Researched front yard design and backyard doors
+
+* [L3D-LMS](#l3d-lms)
 
 ## REFERENCES
 
