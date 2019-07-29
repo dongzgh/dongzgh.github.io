@@ -3552,18 +3552,38 @@ order: 1
 	* Added issue for Punch Direction line display
 	* Reorganized Azure DevOps work items for Geometry Team
 	
-## 2019-07-25
+## 2019-07-26
 
 * [FS-AGW](#fs-agw)
 	* Prepared wireframe development status report
 	* Reorganized Azure DevOps work items for Geometry Team
 	
-## 2019-07-26
+## 2019-07-27
 
 * Searched computer mouses
 * Researched front yard design and backyard doors
+* Visited Cherry Avenue Farm and picked cherries
+* Had lunch at Dong Bei Xiao Chu
+* Shopped grocery at National Fresh Food Market
 
 * [L3D-LMS](#l3d-lms)
+	* Studied enterpreneurship course from udemy untill section 6
+	
+## 2019-07-28
+
+* Created another front yard design
+* Shopped bakery and had lunch at T&T Mississauga
+* Visited Halton Hill Fall
+
+* [L3D-LMS](#l3d-lms)
+	* Studied enterpreneurship course from udemy untill section 7
+	
+## 2019-07-29
+
+* Placed order of Rubbermaid shed and Keler deck boxes
+
+* [L3D-LMS](#l3d-lms)
+	* Studied enterpreneurship course from udemy untill section 8
 
 ## REFERENCES
 
