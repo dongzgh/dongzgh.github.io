@@ -3581,9 +3581,15 @@ order: 1
 ## 2019-07-29
 
 * Placed order of Rubbermaid shed and Keler deck boxes
+* Gave Jingjing some guidance about TOFEL studies
 
 * [L3D-LMS](#l3d-lms)
 	* Studied enterpreneurship course from udemy untill section 8
+	
+* [FS-AGW](#fs-agw)
+	* Reassigned some issues assigned to me
+	* Discussed issues and bugs resolved by Shaharoz
+	* Added function to clone GeoPoint
 
 ## REFERENCES
 
