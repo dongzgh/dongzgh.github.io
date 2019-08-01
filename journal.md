@@ -3582,6 +3582,8 @@ order: 1
 
 * Placed order of Rubbermaid shed and Keler deck boxes
 * Gave Jingjing some guidance about TOFEL studies
+* Talked with Zhao Liang about Jingjing's studies
+* Searched TV stands and shelfs
 
 * [L3D-LMS](#l3d-lms)
 	* Studied enterpreneurship course from udemy untill section 8
@@ -3590,6 +3592,42 @@ order: 1
 	* Reassigned some issues assigned to me
 	* Discussed issues and bugs resolved by Shaharoz
 	* Added function to clone GeoPoint
+	
+## 2019-07-30
+
+* Searched garden hoses
+* Searched utility boxes
+* Designed sidewalk yard
+* Talked with Jingjing about TOFEL study
+
+* [L3D-LMS](#l3d-lms)
+	* Had meeting discussed the current status of grant application
+	
+* [FS-AGW](#fs-agw)
+	* Created function to extract segments
+	
+## 2019-07-31
+
+* Searched car throttle issues
+* Researched garden hose faucet
+* Shopped garden gate kit
+* Shpped lumber for garden gate
+* Assembled deck boxes
+
+* [FS-AGW](#fs-agw)
+	* Reorganized codes for extract segments
+
+## 2019-08-01
+
+* Searched plumber torch and solder supplies
+* Discussed with Jingjing about application
+
+* [L3D-LMS](#l3d-lms)
+	* Continued studies of enterpreneurship until section 10
+	* Searched online business schools
+
+* [FS-AGW](#fs-agw)
+	* Fixed a bug related with missing fillet segment
 
 ## REFERENCES
 
