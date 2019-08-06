@@ -3628,6 +3628,28 @@ order: 1
 
 * [FS-AGW](#fs-agw)
 	* Fixed a bug related with missing fillet segment
+	
+## 2019-08-02
+
+* [FS-AGW](#fs-agw)
+	* Revised data structure related with wireframe development
+	
+## 2019-08-03
+
+* Shopped groceries at Costco
+
+## 2019-08-04
+
+* Spent the afternoon at the Pinery Provincial Park in Grand Bend
+* Had dinner at the Yunnan Restaurant in London ON
+
+## 2019-08-05
+
+* Visited Storybook Gardens park in London OnShape
+
+## 2019-08-02
+
+* Cleaned computer and tried to solve window store issues
 
 ## REFERENCES
 
