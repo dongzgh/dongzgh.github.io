@@ -3649,12 +3649,20 @@ order: 1
 
 * Visited Storybook Gardens park in London OnShape
 
-## 2019-08-02
+## 2019-08-06
 
 * Cleaned computer and tried to solve window store issues
 
 * [FS-AGW](#fs-agw)
 	* Revised data structure related with wireframe development
+	
+## 2019-08-07
+
+* Signed up for UpWorks
+* Designed another version for sidewalk landscaping
+
+* [L3D-LMS](#l3d-lms)
+	* Continued studies of enterpreneurship until section 11
 
 ## REFERENCES
 
