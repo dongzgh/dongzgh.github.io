@@ -3631,6 +3631,8 @@ order: 1
 	
 ## 2019-08-02
 
+* Applied Study.com engineering drawing job
+
 * [FS-AGW](#fs-agw)
 	* Revised data structure related with wireframe development
 	
@@ -3650,6 +3652,9 @@ order: 1
 ## 2019-08-02
 
 * Cleaned computer and tried to solve window store issues
+
+* [FS-AGW](#fs-agw)
+	* Revised data structure related with wireframe development
 
 ## REFERENCES
 
