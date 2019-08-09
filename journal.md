@@ -3534,8 +3534,8 @@ order: 1
 * Sent cogeco bills to Min
 
 * [L3D-LMS](#l3d-lms)
-	* Subscribe enterpreneurship course online at udemy
-	* Studied enterpreneurship course from udemy untill section 3
+	* Subscribed enterpreneurship course "Entrepreneurship: How To Start A Business From Business Idea" from udemy
+	* Started learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	
 * [FS-AGW](#fs-agw)
 	* Attended sprint review meeting
@@ -3546,7 +3546,7 @@ order: 1
 * Discussed with Jingjing about TOFEL test preparation
 
 * [L3D-LMS](#l3d-lms)
-	* Studied enterpreneurship course from udemy untill section 3.7
+	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 
 * [FS-AGW](#fs-agw)
 	* Added issue for Punch Direction line display
@@ -3567,7 +3567,7 @@ order: 1
 * Shopped grocery at National Fresh Food Market
 
 * [L3D-LMS](#l3d-lms)
-	* Studied enterpreneurship course from udemy untill section 6
+	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	
 ## 2019-07-28
 
@@ -3576,7 +3576,7 @@ order: 1
 * Visited Halton Hill Fall
 
 * [L3D-LMS](#l3d-lms)
-	* Studied enterpreneurship course from udemy untill section 7
+	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	
 ## 2019-07-29
 
@@ -3586,7 +3586,7 @@ order: 1
 * Searched TV stands and shelfs
 
 * [L3D-LMS](#l3d-lms)
-	* Studied enterpreneurship course from udemy untill section 8
+	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	
 * [FS-AGW](#fs-agw)
 	* Reassigned some issues assigned to me
@@ -3623,7 +3623,7 @@ order: 1
 * Discussed with Jingjing about application
 
 * [L3D-LMS](#l3d-lms)
-	* Continued studies of enterpreneurship until section 10
+	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	* Searched online business schools
 
 * [FS-AGW](#fs-agw)
@@ -3662,7 +3662,7 @@ order: 1
 * Designed another version for sidewalk landscaping
 
 * [L3D-LMS](#l3d-lms)
-	* Continued studies of enterpreneurship until section 11
+	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	
 * [FS-AGW](#fs-agw)
 	* Rollbacked data structure changes for wireframe development
@@ -3675,6 +3675,17 @@ order: 1
 
 * [FS-AGW](#fs-agw)
 	* Rollbacked data structure changes for wireframe development
+	
+## 2019-08-09
+
+* Signed contract with Study.com as title reviewer
+* Searched HVAC maintenance services near me
+* Searched TV stands from WayFair
+
+* [L3D-LMS](#l3d-lms)
+	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
+	* Continued learning of 'Introduction to Biomedical Imaging' from edX
+	* Reorganized DevOps for Volics and Lemtri
 
 ## REFERENCES
 
