@@ -3686,6 +3686,10 @@ order: 1
 	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	* Continued learning of 'Introduction to Biomedical Imaging' from edX
 	* Reorganized DevOps for Volics and Lemtri
+	
+* [FS-AGW](#fs-agw)
+	* Discussed with Shaharoz about FTIComboBox ownerdrawn issue
+	* Rollbacked and revised data structure for wireframe
 
 ## REFERENCES
 
