@@ -3690,7 +3690,30 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Discussed with Shaharoz about FTIComboBox ownerdrawn issue
 	* Rollbacked and revised data structure for wireframe
+	
+## 2019-08-10
 
+* Visited optometrist with Min
+* Visited ophthalmologist with Min
+* Had dinner in China Tast
+
+## 2019-08-11
+
+* Started installation of Rubbermaid Big Max
+* Shopped grocery at T&T supermarket
+
+## 2019-08-12
+
+* Saved receipts and warranty information for Patterned Concrete work
+* Saved receipts and warranty information for Seregeti Sunglasses
+* Saved medical treatment receipts for Min's eye check and Ethan's teetch check
+
+* [FS-AGW](#fs-agw)
+	* Reported Morph Binder development
+	* Discussed with Shaharoz about ComboBox resolution
+	* Investigated vectors of wireframe segments
+
+	
 ## REFERENCES
 
 ### houses
