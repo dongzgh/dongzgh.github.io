@@ -3707,6 +3707,7 @@ order: 1
 * Saved receipts and warranty information for Patterned Concrete work
 * Saved receipts and warranty information for Seregeti Sunglasses
 * Saved medical treatment receipts for Min's eye check and Ethan's teetch check
+* Developed page for badacaixi
 
 * [FS-AGW](#fs-agw)
 	* Reported Morph Binder development
