@@ -3708,12 +3708,24 @@ order: 1
 * Saved receipts and warranty information for Seregeti Sunglasses
 * Saved medical treatment receipts for Min's eye check and Ethan's teetch check
 * Developed page for badacaixi
+* Installed Rubbermaid Big Max shed in back yard
+
+* [L3D-LMS](#l3d-lms)
+	* Discussed with Charles about grand application
 
 * [FS-AGW](#fs-agw)
 	* Reported Morph Binder development
 	* Discussed with Shaharoz about ComboBox resolution
 	* Investigated vectors of wireframe segments
+	
+## 2019-08-13
 
+* Modified page for badacaixi
+
+* [FS-AGW](#fs-agw)
+	* Reported Morph Binder development in Sprint Review meeting
+	* Reviewed Breadth-first search algorithm
+	* Reviewed Double Attach specification
 	
 ## REFERENCES
 
