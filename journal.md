@@ -3730,6 +3730,10 @@ order: 1
 ## 2019-08-14
 
 * Paid Scotia Bank account balance for Jul.16-Aug.15
+
+* [FS-AGW](#fs-agw)
+	* Discussed issues with Double Attach specification
+	* Fixed a bug in Create Wireframe realted with corner point regristration in series
 	
 ## REFERENCES
 
