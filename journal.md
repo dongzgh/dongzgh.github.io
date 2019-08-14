@@ -3727,6 +3727,10 @@ order: 1
 	* Reviewed Breadth-first search algorithm
 	* Reviewed Double Attach specification
 	
+## 2019-08-14
+
+* Paid Scotia Bank account balance for Jul.16-Aug.15
+	
 ## REFERENCES
 
 ### houses
