@@ -13,13 +13,19 @@ Popular sources of side hustles are listed as below:
 * Respondent
 * JustAnswer
 * Fivrr
-* Mechanical Turk
 * TaskRabbit
-* UpWorks
-* Contena
-* 99Designs
+* Mechanical Turk
 * Craigslist/gigs
 * kijiji/jobs
+* Contena
+* 99Designs
+
+## Creating Products
+
+* Etsy
+* CafePress
+* Stockphotos
+* Foap
 
 ## Part-time Jobs
 
@@ -27,22 +33,12 @@ Popular sources of side hustles are listed as below:
 
 ## Selling Products
 
+* Shopify
 * Amazon
 * eBay
 * Craigslist
 * kijiji
 * BabyQuip
-
-## Creating Products
-
-* Etsy
-* CafePress
-* Stockphotos
-
-## Social Media
-
-* WeChat
-* YouTube
 
 ## Creating Courses
 
@@ -54,8 +50,6 @@ Popular sources of side hustles are listed as below:
 * KDP
 * CreateSpace
 * ACX
-
-## Affiliate Marketing
 
 ## Software as a Service
 
