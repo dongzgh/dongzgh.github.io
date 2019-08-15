@@ -3740,11 +3740,14 @@ order: 1
 
 * Searched Volvo XC60
 * Started reading orientation of title review from Study.com
+* Bought Logitiec H390 from BestBuy.ca
+* Revised badacaixi.md
 
 * [L3D-LMS](#l3d-lms)
 	* Started reviewing PA-19-021 application
 	
 * [FS-AGW](#fs-agw)
+	* Completed initial draft of wireframe creation
 	
 ## REFERENCES
 
