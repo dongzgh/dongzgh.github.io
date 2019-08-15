@@ -3730,10 +3730,21 @@ order: 1
 ## 2019-08-14
 
 * Paid Scotia Bank account balance for Jul.16-Aug.15
+* Paid SunLife term insurance for Dong
 
 * [FS-AGW](#fs-agw)
 	* Discussed issues with Double Attach specification
 	* Fixed a bug in Create Wireframe realted with corner point regristration in series
+	
+## 2019-08-15
+
+* Searched Volvo XC60
+* Started reading orientation of title review from Study.com
+
+* [L3D-LMS](#l3d-lms)
+	* Started reviewing PA-19-021 application
+	
+* [FS-AGW](#fs-agw)
 	
 ## REFERENCES
 
