@@ -3749,6 +3749,19 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Completed initial draft of wireframe creation
 	
+## 2019-08-16
+
+* Searched pegboard accessories
+* Contacted Hong Gang for meeting
+* Searched shelfing boards and hardwares
+
+* [L3D-LMS](#l3d-lms)
+	* Continued reviewing PA-19-021 application
+	* Downloaded application package
+	
+* [FS-AGW](#fs-agw)
+	* Revised strategy to retrieve feature data
+	
 ## REFERENCES
 
 ### houses
