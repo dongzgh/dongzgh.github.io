@@ -3761,6 +3761,32 @@ order: 1
 	
 * [FS-AGW](#fs-agw)
 	* Revised strategy to retrieve feature data
+	* Attended meeting to change development strategy for Die Face
+	
+## 2019-08-17
+
+* Shopped groceries at Costco
+* Shipped nutration products
+* Installed pegboard in shed
+* Searched shelfing components
+
+## 2019-08-18
+
+* Bought magnetic rod for front door
+* Bought pop-up tent for beach
+* Bought a pack of gavanized pegboard hook
+* Searched braces
+* Searched pegboard plier hooks
+* Bought dropshipping course from Udemy
+* Visited Liao's home and had lunch at Snug Harbour restaurant
+
+* [L3D-LMS](#l3d-lms)
+	* Continued learning of Entrepreneurship ad Udemy	
+
+## 2019-08-19
+
+* [L3D-LMS](#l3d-lms)
+	* Continued learning of Biomedical Imaging at edX
 	
 ## REFERENCES
 
