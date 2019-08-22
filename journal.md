@@ -3825,7 +3825,7 @@ order: 1
 * Changed HostGator account password
 
 * [FS-AGW](#fs-agw)
-	* Prepared document for Position Skins and Bridge Skins
+	* Prepared spec for Repair Geometry
 	
 ## REFERENCES
 
