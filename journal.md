@@ -3785,8 +3785,47 @@ order: 1
 
 ## 2019-08-19
 
+* Discussed with Jingjing about TOEFL exam
+
 * [L3D-LMS](#l3d-lms)
 	* Continued learning of Biomedical Imaging at edX
+	
+* [FS-AGW](#fs-agw)
+	* Revised strategy for contour 0 corner linking
+	
+## 2019-08-20
+
+* Started learning dropshipping from Udemy
+* Searched Spotify for chinese singers
+
+* [L3D-LMS](#l3d-lms)
+	* Continued learning of Biomedical Imaging at edX
+	* Continued learning of Entrepreneurship at Udemy
+	* Discussed with Charles and Li about grant application
+	
+* [FS-AGW](#fs-agw)
+	* Discussed strategy of SDF to FS migration
+	* Prepared document for SDF to FS migration strategy for the moment
+	
+## 2019-08-21
+
+* Checked Study.com available works
+* Submitted one work item to Study.com
+* Searched Spotify for chinese singers
+* Finished shelfing for shed
+
+* [FS-AGW](#fs-agw)
+	* Continued preparing document for SDF to FS migration strategy for the moment
+	
+## 2019-08-22
+
+* Continued study dropshipping from Udemy until Section 5
+* Researched domain registra and email hosting providers
+* Bought visbuyer.com hosting service from HostGator
+* Changed HostGator account password
+
+* [FS-AGW](#fs-agw)
+	* Prepared document for Position Skins and Bridge Skins
 	
 ## REFERENCES
 
