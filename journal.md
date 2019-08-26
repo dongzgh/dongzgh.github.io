@@ -3827,6 +3827,11 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Prepared spec for Repair Geometry
 	
+## 2019-08-23
+
+* [FS-AGW](#fs-agw)
+	* Started preparation of SDF to FS migration specs
+	
 ## 2019-08-24
 
 * Started l3monshape.com domain transfer to HostGator
@@ -3834,6 +3839,21 @@ order: 1
 
 * [L3D-LMS](#l3d-lms)
 	* Continued learning of Entrepreneurship at Udemy
+	
+## 2019-08-25
+
+* Visited Coos Paradise Trail marsh walk trail at RBG
+* Visited Terra for flowers and ornamental grasses
+* Cut hair for Ethan
+
+## 2019-08-26
+
+* Searched tiller from Facebook
+* Searched rack from Facebook
+
+* [L3D-LMS](#l3d-lms)
+	* Continued learning of Entrepreneurship at Udemy
+	* Continued learning of Biomedical Imaging at edX
 	
 ## REFERENCES
 
