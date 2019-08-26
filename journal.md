@@ -3827,6 +3827,14 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Prepared spec for Repair Geometry
 	
+## 2019-08-24
+
+* Started l3monshape.com domain transfer to HostGator
+* Downloaded PR card renew forms
+
+* [L3D-LMS](#l3d-lms)
+	* Continued learning of Entrepreneurship at Udemy
+	
 ## REFERENCES
 
 ### houses
