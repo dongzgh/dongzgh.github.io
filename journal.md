@@ -3850,10 +3850,20 @@ order: 1
 
 * Searched tiller from Facebook
 * Searched rack from Facebook
+* Placed order of Sun Joes tiller form HomeDepot
+* Bought TansleyWood Timid Toddler swim lessons for Ethan
 
 * [L3D-LMS](#l3d-lms)
 	* Continued learning of Entrepreneurship at Udemy
 	* Continued learning of Biomedical Imaging at edX
+	
+## 2019-08-27
+
+* [L3D-LMS](#l3d-lms)
+	* Continued learning of Entrepreneurship at Udemy
+		
+* [FS-AGW](#fs-agw)
+	* Revised Double Attach spec on Microsoft Team
 	
 ## REFERENCES
 
