@@ -3859,11 +3859,43 @@ order: 1
 	
 ## 2019-08-27
 
+* Played with Ethan in bathtub
+
 * [L3D-LMS](#l3d-lms)
 	* Continued learning of Entrepreneurship at Udemy
 		
 * [FS-AGW](#fs-agw)
 	* Revised Double Attach spec on Microsoft Team
+	
+## 2019-08-28
+
+* Played with Ethan in bathtub
+* Searched CNE schedules for kids
+* Searched Provincial Parks
+* Paved asphalt by Westview
+* Applied overnight parking permit for 5 days
+
+* [L3D-LMS](#l3d-lms)
+	* Continued learning of Entrepreneurship at Udemy
+		
+* [FS-AGW](#fs-agw)
+	* Reviewed Double Attach spec with team
+	* Redeveloped spec for Split Surface(s)
+	
+## 2019-08-29
+
+* Registered Dremel Rotary Tools
+* Registered Westview Paving
+* Pushed private-baby repository
+* Pushed private-career repository
+* Pushed private-contacts repository
+* Pushed private-family repository
+* Initialized PR Review documents folder
+* Pre-filled IMM5444E.pdf for Dong
+* Pre-filled IMM5444E.pdf for Min
+
+* [L3D-LMS](#l3d-lms)
+	* Continued learning of Entrepreneurship at Udemy
 	
 ## REFERENCES
 
