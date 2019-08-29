@@ -3895,7 +3895,12 @@ order: 1
 * Pre-filled IMM5444E.pdf for Min
 
 * [L3D-LMS](#l3d-lms)
-	* Continued learning of Entrepreneurship at Udemy
+	* Studied 2D image series to 3D volume registration using 3D Slicer
+	* Generated 3D volume image for Charles
+	
+* [FS-AGW](#fs-agw)
+	* Created spec for Generate Feature(s)
+	* Created spec for Create Feature(s)
 	
 ## REFERENCES
 
