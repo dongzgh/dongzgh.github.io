@@ -3902,6 +3902,25 @@ order: 1
 	* Created spec for Generate Feature(s)
 	* Created spec for Create Feature(s)
 	
+## 2019-08-30
+
+* Enter mp.weixin.qq.com to reactivate mini-program
+* Updated windows systems
+* Installed Cogeco anti-virus protection software
+* Signed up notification for Red Bull settlement (Dec. 17, 2019 in Quebec)
+* Add Capital One master card to PayPal
+* Removed AMEX from PayPal
+* Added Captital One to Amazon
+* Updated GPay payment methods
+
+* [L3D-LMS](#l3d-lms)
+	* Generated 3D volume image again for Charles
+	* Continued learning of Entrepreneurship at Udemy
+	
+* [FS-AGW](#fs-agw)
+	* Created spec for Create Binder
+	* Created spec for Morph Binder
+	
 ## REFERENCES
 
 ### houses
