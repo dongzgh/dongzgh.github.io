@@ -3921,6 +3921,13 @@ order: 1
 	* Created spec for Create Binder
 	* Created spec for Morph Binder
 	
+## 2019-08-31
+
+* Updated profile and job filter on AngleList.com
+
+* [L3D-LMS](#l3d-lms)
+	* Continued learning of Entrepreneurship at Udemy
+	
 ## REFERENCES
 
 ### houses
