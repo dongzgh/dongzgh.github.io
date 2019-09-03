@@ -3924,10 +3924,32 @@ order: 1
 ## 2019-08-31
 
 * Updated profile and job filter on AngleList.com
+* Visited Edward Farm in Innisfil
+* Visited Innisfil Beach Front park
+* Had dinner at Foodie North
 
 * [L3D-LMS](#l3d-lms)
 	* Continued learning of Entrepreneurship at Udemy
 	
+## 2019-09-01
+
+* Visited Rock Gardent to attend the Model Train Exhibition
+* Shopped around Holland Park at dundas
+* Shopped around Northland Nursery at waterdown
+
+## 2019-09-02
+
+* Visited CNE at Exhibition Center Toronto
+
+## 2019-09-03
+
+* Asked Jingjing about TOELF registration and study plan
+
+* [FS-AGW](#fs-agw)
+	* Attended sprint review meeting
+	* Revised Staged Plan I: Embed SDF into FS
+	* Revised DevOps projects scheduling for Embedding SDF into FS
+
 ## REFERENCES
 
 ### houses
