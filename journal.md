@@ -3949,6 +3949,16 @@ order: 1
 	* Attended sprint review meeting
 	* Revised Staged Plan I: Embed SDF into FS
 	* Revised DevOps projects scheduling for Embedding SDF into FS
+	
+## 2019-09-04
+
+* Continued learning Shopify from Udemy
+
+* [L3D-LMS](#l3d-lms)
+	* Continued learning of Entrepreneurship at Udemy
+	* Continued reviewing dental CAD/CAE/CAM
+
+* [FS-AGW](#fs-agw)
 
 ## REFERENCES
 
