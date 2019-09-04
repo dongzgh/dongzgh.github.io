@@ -3953,6 +3953,9 @@ order: 1
 ## 2019-09-04
 
 * Continued learning Shopify from Udemy
+* Confirmed Jinjing about TOEFL Exam registration
+* Added University of Ottawa Computer Science MSc admission information
+* Submitted one engineering graphics editing to CMS8
 
 * [L3D-LMS](#l3d-lms)
 	* Continued learning of Entrepreneurship at Udemy
