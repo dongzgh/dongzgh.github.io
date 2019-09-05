@@ -3962,6 +3962,20 @@ order: 1
 	* Continued reviewing dental CAD/CAE/CAM
 
 * [FS-AGW](#fs-agw)
+	* Discussed strategy about Double Attach feature registration
+	* Discussed strategy about upgrading Punch Direciton dialog box
+
+## 2019-09-05
+
+* Continued learning Shopify from Udemy
+
+* [L3D-LMS](#l3d-lms)
+	* Finished learning of Entrepreneurship at Udemy
+	* Continued reviewing dental CAD/CAE/CAM
+
+* [FS-AGW](#fs-agw)
+	* Confirmed Create Punch Direction dialog box comparison
+	* Started investigation of FTIComboBox usage
 
 ## REFERENCES
 
