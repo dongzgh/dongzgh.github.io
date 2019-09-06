@@ -3981,6 +3981,10 @@ order: 1
 
 * Continued learning Shopify from Udemy
 
+* [FS-AGW](#fs-agw)
+	* Attended meeting to discuss Create Punch Direction dialog box migration
+	* Continued working on ownerdrawn FTIComboBox usage
+
 ## REFERENCES
 
 ### houses
