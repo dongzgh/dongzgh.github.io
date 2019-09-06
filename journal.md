@@ -3976,6 +3976,10 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Confirmed Create Punch Direction dialog box comparison
 	* Started investigation of FTIComboBox usage
+	
+## 2019-09-06
+
+* Continued learning Shopify from Udemy
 
 ## REFERENCES
 
