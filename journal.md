@@ -3984,6 +3984,21 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Attended meeting to discuss Create Punch Direction dialog box migration
 	* Continued working on ownerdrawn FTIComboBox usage
+	
+## 2019-09-07
+
+* Shopped at Costco and Nations Fresh Foods
+	
+## 2019-09-08
+
+* Tilled front yard
+* Shpped at HBC at Burlington Mall
+
+## 2019-09-09
+
+* [FS-AGW](#fs-agw)
+	* Continued working on ownerdrawn FTIComboBox usage
+	* Developed plan for divide workbenches into two
 
 ## REFERENCES
 
