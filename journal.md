@@ -3999,6 +3999,13 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Continued working on ownerdrawn FTIComboBox usage
 	* Developed plan for divide workbenches into two
+	
+## 2019-09-10
+
+* Completed Digital Flipping 1.0 from Udemy
+
+* [FS-AGW](#fs-agw)
+	* Continued working on ownerdrawn FTIComboBox usage
 
 ## REFERENCES
 
