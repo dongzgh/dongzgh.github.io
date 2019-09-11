@@ -4006,6 +4006,15 @@ order: 1
 
 * [FS-AGW](#fs-agw)
 	* Continued working on ownerdrawn FTIComboBox usage
+	
+## 2019-09-11
+
+* Searched business courses from Lynda library account
+* Continued learning from Shopify Academy
+
+* [FS-AGW](#fs-agw)
+	* Completed enabling CComboPropertySheet with images
+	* Added meeting minutes for 2019-09-10
 
 ## REFERENCES
 
