@@ -4016,6 +4016,17 @@ order: 1
 	* Completed enabling CComboPropertySheet with images
 	* Added meeting minutes for 2019-09-10
 
+## 2019-09-12
+
+* Continued learning from Shopify Academy
+* Registered in Respondent
+
+* [L3D-LMS](#l3d-lms)
+	* Discussed with Charles about grand application pain point
+	
+* [FS-AGW](#fs-agw)
+	* Discussed with Shaharoz about attribute linkage
+
 ## REFERENCES
 
 ### houses

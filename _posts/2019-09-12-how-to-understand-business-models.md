@@ -28,3 +28,10 @@ Models in this category are the most conventional approaches to earn money. Each
 Models in this category are the most complicated approaches to earn money. Each of them require at least several steps to complete including: invention, business and investments. The risk factor is higher than that in the first category, but rewards higher as well.
 
 The invention can be a new product or a new service. This is the most versatile and beautiful part of theses models. if everything goes well. Some examples include: publishing books, information products, design products, software applications, software tools, physical products etc.
+
+## Some Tips
+
+Some techniques to be considered during business development include:
+
+* Outsourcing
+* Flipping
