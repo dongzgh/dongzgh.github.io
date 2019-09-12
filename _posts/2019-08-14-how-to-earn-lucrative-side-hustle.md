@@ -20,13 +20,6 @@ Popular sources of side hustles are listed as below:
 * Contena
 * 99Designs
 
-## Creating Products
-
-* Etsy
-* CafePress
-* Stockphotos
-* Foap
-
 ## Part-time Jobs
 
 * FlexJobs
@@ -39,6 +32,13 @@ Popular sources of side hustles are listed as below:
 * Craigslist
 * kijiji
 * BabyQuip
+
+## Creating Products
+
+* Etsy
+* CafePress
+* Stockphotos
+* Foap
 
 ## Creating Courses
 
