@@ -4027,6 +4027,17 @@ order: 1
 	
 * [FS-AGW](#fs-agw)
 	* Discussed with Shaharoz about attribute linkage
+	
+## 2019-09-13
+
+* Registered again on TryMyUI
+* Registered in Eroll
+* Updated information for Graduate Studies
+* Registered and searched Volvo XC60 in AutoTrader
+* Completed image to dicom conversion for Charles friend
+
+* [FS-AGW](#fs-agw)
+	* Reviewed code from Shaharoz for Direction Vector changes related with Binder Morphing
 
 ## REFERENCES
 
