@@ -4035,9 +4035,37 @@ order: 1
 * Updated information for Graduate Studies
 * Registered and searched Volvo XC60 in AutoTrader
 * Completed image to dicom conversion for Charles friend
+* Visited walk-in clinic for throut infection
+* Bought fruits for neighbour
 
 * [FS-AGW](#fs-agw)
 	* Reviewed code from Shaharoz for Direction Vector changes related with Binder Morphing
+
+## 2019-09-14
+
+* Visisted Van Bee's Landscape Supply
+* Shopped grocery at B&T Market
+
+## 2019-09-15
+
+* Ordered contact lenses for Min at Costco
+* Bought lumber for raising bed from HomeDepot
+* Bought curtain bracket and installed it
+* Retried twice TryMyUI participation tests
+* Sent study survey for Respondant
+
+## 2019-09-16
+
+* Started garage design
+* Update iTalkBB credit card account information
+* Checked online ad from Canadian Tire and Home Depot
+
+* [L3D-LMS](#l3d-lms)
+	* Researched RSNA journals for dental 3d printing
+
+* [FS-AGW](#fs-agw)
+	* Discussed feature tree changes with Shaharoz and Adrian for double attached
+	* Discussed feature inference from object display issue with Shaharoz
 
 ## REFERENCES
 
