@@ -4066,6 +4066,19 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Discussed feature tree changes with Shaharoz and Adrian for double attached
 	* Discussed feature inference from object display issue with Shaharoz
+	
+## 2019-09-17
+
+* Restarted dropship learning from Udemy
+* Completed one sketch work for Study.com
+
+* [L3D-LMS](#l3d-lms)
+	* Continued reading research papers for digital dentistry
+
+* [FS-AGW](#fs-agw)
+	* Reviewed Shaharoz's code for display reference changes
+	* Reviewed Adrian's code for creating elevation curves
+	* Trying to reformating all dialog boxes in AGW
 
 ## REFERENCES
 
