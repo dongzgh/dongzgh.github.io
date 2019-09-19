@@ -4094,8 +4094,10 @@ order: 1
 ## 2019-09-19
 
 * Continued searched user testing related online job markets
+* Learned Amazon FBA business model free course
 
 * [FS-AGW](#fs-agw)
+	* Reformatted IDD_PROPERTY, IDD_SPLIT_DOMAIN and IDD_MERGE_DOMAINS dialog boxes
 
 ## REFERENCES
 
