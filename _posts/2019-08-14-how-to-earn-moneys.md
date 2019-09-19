@@ -24,9 +24,6 @@ Popular sources of side hustles are listed as below:
 
 ##### Anything
 
-* Mechanical Turk
-* TaskRabbit
-* JustAnswer
 * Craigslist/gigs
 * kijiji/jobs
 
