@@ -4079,6 +4079,23 @@ order: 1
 	* Reviewed Shaharoz's code for display reference changes
 	* Reviewed Adrian's code for creating elevation curves
 	* Trying to reformating all dialog boxes in AGW
+	
+## 2019-09-18
+
+* Continued learning dropship from Udemy
+* Searched user testing related online job markets
+* Attended RICA first meeting
+
+* [FS-AGW](#fs-agw)
+	* Reviewed Shaharoz's code for geometry set display revision
+	* Reviewed Shaharoz's code for symmetry for dobule attach
+	* Updated windows 10 (not functioning correcly)
+	
+## 2019-09-19
+
+* Continued searched user testing related online job markets
+
+* [FS-AGW](#fs-agw)
 
 ## REFERENCES
 

@@ -13,20 +13,27 @@ Popular sources of side hustles are listed as below:
 
 #### Online Workers' Market
 
-* UserTesting
-* Respondent
-* JustAnswer
+##### Testing
+
+* **UserTesting**
+* **TryMyUI**
+
+##### Writing
+
 * Contena
-* 99Designs
-* Fivrr
-* TaskRabbit
+
+##### Anything
+
 * Mechanical Turk
+* TaskRabbit
+* JustAnswer
 * Craigslist/gigs
 * kijiji/jobs
 
 #### Online Freelancers's Market
 
 * UpWorks
+* Fivrr
 
 #### Online Remote Jobs's Market
 
@@ -39,22 +46,29 @@ Popular sources of side hustles are listed as below:
 
 * Shopify
 * Amazon
-* eBay
-* Craigslist
-* kijiji
 
 ## Entrepreneurship
 
 ### Online Makers' Market
 
+#### Designs
+
+* iconfinder
+* 99Designs
+* iStockphotos
+* Shutterstock
+
+#### Crafts
+
 * Etsy
 * CafePress
-* Stockphotos
 * Foap
 
 ### Online Info-products' Market
 
 * Udemy
+* Lynda
+* Khan Academy
 * Teachable
 
 ### Online Authors' Market
