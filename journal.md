@@ -4098,6 +4098,17 @@ order: 1
 
 * [FS-AGW](#fs-agw)
 	* Reformatted IDD_PROPERTY, IDD_SPLIT_DOMAIN and IDD_MERGE_DOMAINS dialog boxes
+	
+## 2019-09-20
+
+* Searched Udemy similar websites
+* Restudied Shopify-Aliexpress course about how to choose a product to sell
+* Researched online organizer stores
+* Bought another Shopify-Aliexpress commerce course from Udemy
+* Contacted vanbeeks landscape supply for soil and mulch delivery
+
+* [FS-AGW](#fs-agw)
+	* Reformatted IDD_FILL_HOLES, IDD_FILL_NOTCHES and IDD_SPLIT_SURFACES dialog boxes
 
 ## REFERENCES
 
