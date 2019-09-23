@@ -4109,6 +4109,35 @@ order: 1
 
 * [FS-AGW](#fs-agw)
 	* Reformatted IDD_FILL_HOLES, IDD_FILL_NOTCHES and IDD_SPLIT_SURFACES dialog boxes
+	
+## 2019-09-21
+
+* Visited Bronty Creek Provincial Park and watched samlmon run
+* Bought some soil from HomeDepot
+* Bought shoes for Ethan from Caters
+* Bought shoes for Min from Nike
+
+## 2019-09-22
+
+* Shpped groceries from Costco
+* Tried contact lenses from Costco
+* Attended Sunday mass at 8:00 pm
+* Continued the work of raising bed project
+
+## 2019-09-23
+
+* Filled form for the reimbursement of medical history tranfer fee for min
+
+* [L3D-LMS](#l3d-lms)
+	* Prettyfied volics source codes
+	* Studied kw-doc cli for documentation
+	
+* [FS-AGW](#fs-agw)
+	* Reviewed current project status
+	* Review all the Epics/Features/Tasks for Geometry (descriptions, links)
+	* Rolled back IDD_PROPERTY dialog box design
+	* Reformatted all the Epics/Features/Tasks
+	* Reformatted all the Bugs/Issues
 
 ## REFERENCES
 
