@@ -4127,6 +4127,9 @@ order: 1
 ## 2019-09-23
 
 * Filled form for the reimbursement of medical history tranfer fee for min
+* Ordered promoted Mastercraft foldable workbench
+* Ordered Mastercraft random orbit sander
+* Bought penetration oil (cedar natrual) from Home Depot
 
 * [L3D-LMS](#l3d-lms)
 	* Prettyfied volics source codes
@@ -4138,6 +4141,26 @@ order: 1
 	* Rolled back IDD_PROPERTY dialog box design
 	* Reformatted all the Epics/Features/Tasks
 	* Reformatted all the Bugs/Issues
+	
+## 2019-09-24
+
+* Picked up promoted Mastercraft foldable workbench
+* Picked up Mastercraft random orbit sander
+* Bought Mastercraft sander disc pack
+* Bought woodfiller from Canadian Tire
+* Sandded raising bed frames
+* Tried penetration oil on a piece of wood
+* Registered recently bought power tools
+* Started learning Dropship 7 figure leason from Udemy
+* Took on UserTesting job
+
+* [FS-AGW](#fs-agw)
+	* Attended sprint review meeting
+	* Reformatted IDD_PROPERTY, IDD_FILL_HOLES and IDD_FILL_NOTCHES dialog boxes
+	* Reformatted IDD_SPLIT_DOMAIN and IDD_MERGE_DOMAINS dialog boxes
+	* Reformatted IDD_LINE_ON_SURFACES and IDD_LINE_ON_BOUNDARY dialog boxes
+	* Reformatted IDD_CREATE_SYMMETRY dialog box
+	* Checked work headset
 
 ## REFERENCES
 
