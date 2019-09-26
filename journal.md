@@ -4161,6 +4161,23 @@ order: 1
 	* Reformatted IDD_LINE_ON_SURFACES and IDD_LINE_ON_BOUNDARY dialog boxes
 	* Reformatted IDD_CREATE_SYMMETRY dialog box
 	* Checked work headset
+	
+## 2019-09-25
+
+* Continued learning Dropshop 7 figure from Udemy
+* Attended RCIA course Q2
+* Tinted raising bed frame
+
+* [FS-AGW](#fs-agw)
+	* Reformatted FTIAdvancedGeometryCallback.cpp
+	
+## 2019-09-26
+
+* Continued learning Dropshop 7 figure from Udemy
+
+* [FS-AGW](#fs-agw)
+	* Reformatted FTIMultipleGeometryCallback.cpp
+	* Reformatted resource files used in AGW and MGW
 
 ## REFERENCES
 
