@@ -4153,6 +4153,8 @@ order: 1
 * Registered recently bought power tools
 * Started learning Dropship 7 figure leason from Udemy
 * Took on UserTesting job
+* Print curtainworks darkening curtain return label
+* Print HSA manual claim form for Min's medical records transfer
 
 * [FS-AGW](#fs-agw)
 	* Attended sprint review meeting
