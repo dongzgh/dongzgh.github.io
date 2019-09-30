@@ -4180,6 +4180,30 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Reformatted FTIMultipleGeometryCallback.cpp
 	* Reformatted resource files used in AGW and MGW
+	
+## 2019-09-27
+
+* [FS-AGW](#fs-agw)
+	* Reformatted IDD_CREATE_TIPPING dialog box
+
+## 2019-09-27
+
+* [L3D-LMS](#l3d-lms)
+	* Read and viewed SIEMENS PLM SolidEdge Generative Design related materials
+	* Updated volics documentation
+	* Created Google Analytics account
+	
+## 2019-09-28
+
+* Shopped grocery at Mississauga
+* Changed toggle switch in main bedroom bathroom
+* Visisted auto dealers to try Volvo
+* Reframed raising bed and digged groves
+
+## 2019-09-29
+
+* Had lunch at Mono Center Inn
+* Visited Mono Cliff Provincial Park
 
 ## REFERENCES
 
