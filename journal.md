@@ -4205,6 +4205,35 @@ order: 1
 * Had lunch at Mono Center Inn
 * Visited Mono Cliff Provincial Park
 
+## 2019-09-30
+
+* Searched afterlife books from BPL
+* Signed agreement of absence leave and send to HR
+
+* [FS-AGW](#fs-agw)
+	* Reformatted IDD_SPLIT_SURFACES
+
+## 2019-010-01
+
+* Installed Visual Studio 2012
+* Compiled latest build
+* Compiled Graduate Studies.xlxm file
+
+* [FS-AGW](#fs-agw)
+  * Reformatted dialog box inner group items
+  
+ ## 2019-010-02
+
+* Read technology news from Digital Engineering
+* Updated Graduate Studies.xlxm file with McMaster University information
+
+* [FS-AGW](#fs-agw)
+  * Discussed with Shaharoz and Adrian about Position Geometry Sets
+  * Reformatted IDD_DEFINE_FEATURES dialog box
+  * Reformatted IDD_CREATE_BINDER, IDD_PPAGE_BINDER_FLAT, IDD_PPAGE_BINDER_SILHOUETTE and IDD_MORPH_BINDER dialog boxes
+  * Reformatted IDD_SELECT_GEOSETS and IDD_POSITION_GEOSETS dialog boxes
+  * Reformatted IDD_COMPARE_GEOMETRIES dialog box
+
 ## REFERENCES
 
 ### houses
