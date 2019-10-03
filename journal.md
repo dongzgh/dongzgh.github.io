@@ -4243,6 +4243,8 @@ order: 1
 ## 2019-10-03
 
 * Read technology news from Digital Engineering
+* Updated Graduate Studies.xlxm file with Western University information
+* Continued study Shopify Dropship from Udemy
 
 * [FS-AGW](#fs-agw)
   * Fixed UI bug related with IDD_CREAET_TIPPING
