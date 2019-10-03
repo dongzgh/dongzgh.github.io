@@ -4213,7 +4213,7 @@ order: 1
 * [FS-AGW](#fs-agw)
 	* Reformatted IDD_SPLIT_SURFACES
 
-## 2019-010-01
+## 2019-10-01
 
 * Installed Visual Studio 2012
 * Compiled latest build
@@ -4222,10 +4222,16 @@ order: 1
 * [FS-AGW](#fs-agw)
   * Reformatted dialog box inner group items
   
- ## 2019-010-02
+## 2019-10-02
 
 * Read technology news from Digital Engineering
 * Updated Graduate Studies.xlxm file with McMaster University information
+* Read God and the Afterlife Chapter 1
+* Attended RCIA course
+* Filed claim for Min's contact lenses from Costco
+
+* [L3D-LMS](#l3d-lms)
+  * Revised project summary from Charles
 
 * [FS-AGW](#fs-agw)
   * Discussed with Shaharoz and Adrian about Position Geometry Sets
@@ -4233,6 +4239,13 @@ order: 1
   * Reformatted IDD_CREATE_BINDER, IDD_PPAGE_BINDER_FLAT, IDD_PPAGE_BINDER_SILHOUETTE and IDD_MORPH_BINDER dialog boxes
   * Reformatted IDD_SELECT_GEOSETS and IDD_POSITION_GEOSETS dialog boxes
   * Reformatted IDD_COMPARE_GEOMETRIES dialog box
+  
+## 2019-10-03
+
+* Read technology news from Digital Engineering
+
+* [FS-AGW](#fs-agw)
+  * Fixed UI bug related with IDD_CREAET_TIPPING
 
 ## REFERENCES
 
