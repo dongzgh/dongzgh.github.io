@@ -4246,8 +4246,39 @@ order: 1
 * Updated Graduate Studies.xlxm file with Western University information
 * Continued study Shopify Dropship from Udemy
 
+* [L3D-LMS](#l3d-lms)
+  * Had meeting with Charles about Project Summary
+  * Redesigned corporate portal layout
+  
 * [FS-AGW](#fs-agw)
   * Fixed UI bug related with IDD_CREAET_TIPPING
+  
+## 2019-10-04
+
+* Searched autoTrader Volvo XC60 list
+
+* [FS-AGW](#fs-agw)
+	* Fixed #21872: disabled IDD_MOVE_GEOMETRY dialog box resizing
+
+## 2019-10-05
+
+* Shopped at T&T Market
+* Read books at Alton Library
+
+## 2019-10-06
+
+* Fixed electrical issue with lights and outlets
+
+## 2019-10-07
+
+* Read technology news from DEVELOP3D June/July
+* Bought DimSum for visiting friends
+
+* [FS-AGW](#fs-agw)
+	* Reported AGW progress on weekly review meeting
+	* Revised IDD_CREATE_SYMMETRY dialog box
+	* Revised IDD_MOVE_GEOMETRY dialog box
+	* Fixed bug 21859 related with screen view update blocked tipping flipping
 
 ## REFERENCES
 
