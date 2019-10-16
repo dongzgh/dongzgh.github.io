@@ -4271,7 +4271,7 @@ order: 1
 
 ## 2019-10-07
 
-* Read technology news from DEVELOP3D June/July
+* Read technology news from DEVELOP3D July/August
 * Bought DimSum for visiting friends
 
 * [FS-AGW](#fs-agw)
@@ -4279,6 +4279,75 @@ order: 1
 	* Revised IDD_CREATE_SYMMETRY dialog box
 	* Revised IDD_MOVE_GEOMETRY dialog box
 	* Fixed bug 21859 related with screen view update blocked tipping flipping
+
+## 2019-10-08
+
+* Read technology news from DEVELOP3D July/August
+* Confirmed HELOC renew with Joanna
+* Realigned raising bed
+* Bought batteries for racing car toy
+* Fixed electrical outlets
+
+* [FS-AGW](#fs-agw)
+  * Developed Bridge Geometry Sets detail specification
+  * Reorganized all the detail specifications so far
+  * Checked Azure DevOps features and tasks
+  * Summaries workbench level functions
+	
+## 2019-10-09
+
+* Read technology news from DEVELOP3D Sep
+* Attended RCIA weekly meeting
+* Prepared Thanks Giving lunch for FTI
+
+* [FS-AGW](#fs-agw)
+  * Reformatted UICommand updates for callback functions
+  
+## 2019-10-10
+
+* Searched long weekend destination
+
+* [FS-AGW](#fs-agw)
+  * Revised FillHoles and FillNotches
+ 
+* [L3D-LMS](#l3d-lms)
+  * Attended tri-weekly meeting
+  
+## 2019-10-11
+
+* Read latest TCT magazine
+* Searched biomimitrics books and journals
+
+* [FS-AGW](#fs-agw)
+  * Attended Release Review meeting
+  * Revised FillNotches
+  
+## 2019-10-13
+
+* Visited Hardy Lake Provincial Park
+
+## 2019-10-14
+
+* Visited Mount Nemo Convervation Area
+* Visited Rattlesnake Point Convervation Area
+
+## 2019-10-15
+
+* Read news from nTopology blog
+
+* [FS-AGW](#fs-agw)
+  * Searched Peijun Li and his works
+
+* [FS-AGW](#fs-agw)
+  * Attended Sprint Review meeting
+  * Attended Scrum Master training
+  
+## 2019-10-16
+
+* Read news from ANASYS cloud analysis white paper
+
+* [FS-AGW](#fs-agw)
+  * Attended Scrum Master training
 
 ## REFERENCES
 
