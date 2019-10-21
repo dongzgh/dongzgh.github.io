@@ -4348,6 +4348,34 @@ order: 1
 
 * [FS-AGW](#fs-agw)
   * Attended Scrum Master training
+  
+ ## 2019-10-17-18
+
+* Read technology news from Kitware
+
+* [FS-AGW](#fs-agw)
+  * Attended Agile training
+  
+## 2019-10-19
+
+* Bought soil from Home Depot
+* Bought grocery from Golden Plaza
+
+## 2019-10-20
+
+* Visited Toogood Pond in Markham Univille
+* Had dinner with Jay in Da Ya Li restaurant
+
+## 2019-10-21
+
+* Searched Volvo XC60 from autoTrader
+* Searched garage storage tools
+* Asked Jingjing about her progress
+* Read technology news from Kitware
+
+* [FS-AGW](#fs-agw)
+  * Attended Release Report meeting
+  * Reviewed features developed so far
 
 ## REFERENCES
 
