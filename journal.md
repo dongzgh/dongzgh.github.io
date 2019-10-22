@@ -4372,10 +4372,21 @@ order: 1
 * Searched garage storage tools
 * Asked Jingjing about her progress
 * Read technology news from Kitware
+* Bought iPhone/iPad extra charger
+* Searche for tire key
 
 * [FS-AGW](#fs-agw)
   * Attended Release Report meeting
   * Reviewed features developed so far
+  * Updated FillHoles and FillNotches module
+  
+## 2019-10-22
+
+* Read technology news from Kitware
+
+* [FS-AGW](#fs-agw)
+  * Enabled dumpping feature tree information
+  * Redefined selectioin and display for AGW
 
 ## REFERENCES
 
