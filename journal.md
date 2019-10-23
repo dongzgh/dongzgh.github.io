@@ -4335,7 +4335,7 @@ order: 1
 
 * Read news from nTopology blog
 
-* [FS-AGW](#fs-agw)
+* [L3D-LMS](#l3d-lms)
   * Searched Peijun Li and his works
 
 * [FS-AGW](#fs-agw)
@@ -4387,6 +4387,19 @@ order: 1
 * [FS-AGW](#fs-agw)
   * Enabled dumpping feature tree information
   * Redefined selectioin and display for AGW
+  
+## 2019-10-23
+
+* Read technology news from Kitware
+* Learnt how to use static analysis tools in visual studio
+
+* [L3D-LMS](#l3d-lms)
+  * Had tri-weekly meeting with Charle and Li
+
+* [FS-AGW](#fs-agw)
+  * Redefined selectioin and display for AGW 
+  * Fixed some issues with CreateBinder
+  * Fixed some issues with UICommand updates
 
 ## REFERENCES
 
