@@ -4392,6 +4392,7 @@ order: 1
 
 * Read technology news from Kitware
 * Learnt how to use static analysis tools in visual studio
+* Attended RCIA
 
 * [L3D-LMS](#l3d-lms)
   * Had tri-weekly meeting with Charle and Li
@@ -4400,6 +4401,11 @@ order: 1
   * Redefined selectioin and display for AGW 
   * Fixed some issues with CreateBinder
   * Fixed some issues with UICommand updates
+  
+## 2019-10-24
+
+* [FS-AGW](#fs-agw)
+  * Fixed issue with entity selection notification
 
 ## REFERENCES
 
