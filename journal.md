@@ -4406,6 +4406,20 @@ order: 1
 
 * [FS-AGW](#fs-agw)
   * Fixed issue with entity selection notification
+	
+## 2019-10-25
+
+* Shopped around for used Volvo XC60 in GTA
+
+## 2019-10-26
+
+* Shopped in MapleView Shopping Center for Ethan's coat
+* Attended Mass in church
+* Removed construction matrials from garage to basement
+
+## 2019-10-25
+
+* Shopped around for used Volvo XC60 in GTA
 
 ## REFERENCES
 
