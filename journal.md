@@ -4417,9 +4417,50 @@ order: 1
 * Attended Mass in church
 * Removed construction matrials from garage to basement
 
-## 2019-10-25
+## 2019-10-28
+
+* Searched basement cabinet and utility racks
+* Searched autoTrader for new deals
+* Updated Graduate Studies.xlxm for York University
+* Asked Jingjing about the exam
+
+* [FS-AGW](#fs-agw)
+  * Attended Release Review meeting
+
+## 2019-10-29
+
+* [FS-AGW](#fs-agw)
+  * Revised FTIImport
+  * Fixed a bug related with face entity selection
+  
+## 2019-10-30
+
+* Crafted pumpking for Halloween
+* Shopped around for used Volvo XC60 in GTA
+* Bought RCIA cookies
+* Attended RCIA course
+
+* [FS-AGW](#fs-agw)
+  * Revised FTIImport (changed to display last geometry set)
+  * Revised FTISplitGeoSet
+  * Revised FTIMergeGeoSets
+  * Revised FTICopyGeoSets
+  * Revised FTIMirrorGeoSets
+  
+## 2019-10-31
 
 * Shopped around for used Volvo XC60 in GTA
+* Shopped around for used VW Tigua in GTA
+* Shopped around for Christmas vacation deals
+
+* [FS-AGW](#fs-agw)
+  * Revised FTICreateSymmetry
+  * Revised FTIFillHoles
+  * Revised FTIFillNotch
+  * Revised FTICreateLineOnSurfaces
+  * Revised FTICreateLineOnBoundary
+  * Revised FTIGenerateFeatures
+  * Revised FTIDefineFeature
 
 ## REFERENCES
 
