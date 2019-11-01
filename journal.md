@@ -4452,6 +4452,7 @@ order: 1
 * Shopped around for used Volvo XC60 in GTA
 * Shopped around for used VW Tigua in GTA
 * Shopped around for Christmas vacation deals
+* Asked for candies
 
 * [FS-AGW](#fs-agw)
   * Revised FTICreateSymmetry
@@ -4460,6 +4461,13 @@ order: 1
   * Revised FTICreateLineOnSurfaces
   * Revised FTICreateLineOnBoundary
   * Revised FTIGenerateFeatures
+  * Revised FTIDefineFeature
+  
+## 2019-11-01
+
+* Shopped around VW Tiguan and Chrysler Jeep
+
+* [FS-AGW](#fs-agw)
   * Revised FTIDefineFeature
 
 ## REFERENCES
