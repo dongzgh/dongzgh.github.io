@@ -4469,6 +4469,27 @@ order: 1
 
 * [FS-AGW](#fs-agw)
   * Revised FTIDefineFeature
+  
+## 2019-11-02
+
+* Shopped around Volvo, VW Tiguan and Chrysler Jeep
+
+## 2019-11-03
+
+* Returned I-94 card at the Pearson Airport
+* Shopped grocery at T&T Supermarket
+* Had lunch at North Foodie
+
+## 2019-11-04
+
+* Talked with Jingjing about her TOEFL
+
+* [FS-AGW](#fs-agw)
+  * Revised FTICreateLineOnSurfaces
+  * Revised FTICreateLineOnBoundary
+  * Added CreateGeoSetDisplay
+  * Revised FTISplitGeoSet to use GeoSetDisplay
+  * Revised FTIMergeGeoSets to use GeoSetDisplay
 
 ## REFERENCES
 
