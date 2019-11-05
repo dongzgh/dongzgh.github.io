@@ -4488,6 +4488,7 @@ order: 1
 ## 2019-11-04
 
 * Talked with Jingjing about her TOEFL
+* Had birthday party at home
 
 * [FS-AGW](#fs-agw)
   * Revised FTICreateLineOnSurfaces
@@ -4495,6 +4496,22 @@ order: 1
   * Added CreateGeoSetDisplay
   * Revised FTISplitGeoSet to use GeoSetDisplay
   * Revised FTIMergeGeoSets to use GeoSetDisplay
+  
+## 2019-11-05
+
+* Searched Sun Joes Cordless Snow Shovel
+* Read news from Kitware
+
+* [FS-AGW](#fs-agw)
+  * Attended Sprint Review meeting
+  * Revised CreateGeoSetDisplay
+  * Enabled featured display for FTISplitGeoSet
+  * Enabled featured display for FTIMergeGeoSets
+  * Enabled featured display for FTIFillHoles
+  * Enabled featured display for FTIFillNotch
+  * Enabled featured display for FTICreateLineOnSurfaces
+  * Enabled featured display for FTICreateLineOnBoundary
+  * Added warning for FTISplitSurfaces with featured part
 
 ## REFERENCES
 
