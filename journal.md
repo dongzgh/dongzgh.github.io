@@ -4512,7 +4512,44 @@ order: 1
   * Enabled featured display for FTICreateLineOnSurfaces
   * Enabled featured display for FTICreateLineOnBoundary
   * Added warning for FTISplitSurfaces with featured part
+  
+## 2019-11-06
 
+* Bought something form wish.com
+* Bought Sun Joes Snow Shovel from homedepot.ca
+* Read NVIDIA latest developer news
+
+* [L3D-LMS](#l3d-lms)
+  * Designed company portal
+  
+* [FS-AGW](#fs-agw)
+  * Fixed a bug related with non-initialized function in FillNotches
+  * Added function to update First Form by adding leve over faces to Formed Bodies
+  * Revised FTIFillNotch by using UpdateFirstForm
+  
+## 2019-11-07
+
+* [L3D-LMS](#l3d-lms)
+  * Developed company portal using Website Builder
+  * Published company portal
+
+## 2019-11-08
+
+* [FS-AGW](#fs-agw)
+  * Investigated with Adrian about Trim Condition performance issues
+  * Asked Shaharoz to work on CreateTipping and CreateBinder
+  
+## 2019-11-09
+
+* Confirmed purchase of Volvo XC60 R-design 2010 in Nazcar
+* Bought new boots for Ethan in Vaungh Mill shopping center
+
+* [FS-AGW](#fs-agw)
+  * Attended release review meeting
+  * Developed specification for Create Elevation Curves
+  * Completed Anti-Corruptioin training online
+  * Completed GDPR training online
+  
 ## REFERENCES
 
 ### houses
