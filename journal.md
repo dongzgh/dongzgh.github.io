@@ -4544,11 +4544,35 @@ order: 1
 * Confirmed purchase of Volvo XC60 R-design 2010 in Nazcar
 * Bought new boots for Ethan in Vaungh Mill shopping center
 
+## 2019-11-10
+
+* Visited Helen's home
+* Shopped at Costco
+* Visited library for fun
+
+## 2019-11-11
+
 * [FS-AGW](#fs-agw)
   * Attended release review meeting
   * Developed specification for Create Elevation Curves
   * Completed Anti-Corruptioin training online
   * Completed GDPR training online
+  * Attended Scurm Master review meeting
+  
+## 2019-11-12
+
+* Updated Queen's University M.Sc. program information
+* Updated University of Ottwa M.Sc. program information
+
+* [L3D-LMS](#l3d-lms)
+  * Revised company's portal
+  * Added email accounts to portal
+  * Created Business Framework file for reference
+  * Checked installation of Volics on machine
+  * Revised Volics styling
+  
+* [FS-AGW](#fs-agw)
+  * Attended release review meeting
   
 ## REFERENCES
 
