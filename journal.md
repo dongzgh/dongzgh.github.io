@@ -4573,6 +4573,26 @@ order: 1
   
 * [FS-AGW](#fs-agw)
   * Attended release review meeting
+  * Revised RecreateTopologyManifold by keeping forms
+  
+## 2019-11-13
+
+* Updated University of Guelph M.Sc. program information
+* Updated University of Windsor M.Sc. program information
+* Searched prayer to present in RCIA tonight
+ 
+* [FS-AGW](#fs-agw)
+  * Revised Create Contours specification
+  * Revised RecreateTopologyManifold by keeping forms
+  * Set up meeting to discuss second workbench requirements
+  
+## 2019-11-14
+
+* Contactd Jingjing about her plan for the next step
+ 
+* [FS-AGW](#fs-agw)
+  * Discussed with Shaharoz about Contours and Binder registration
+  * Reviewed code for Boundary Trimline creation
   
 ## REFERENCES
 
