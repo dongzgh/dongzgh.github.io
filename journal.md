@@ -4589,10 +4589,22 @@ order: 1
 ## 2019-11-14
 
 * Contactd Jingjing about her plan for the next step
+* Discussed with Charles and Li about next step
  
 * [FS-AGW](#fs-agw)
   * Discussed with Shaharoz about Contours and Binder registration
   * Reviewed code for Boundary Trimline creation
+  
+## 2019-11-15
+
+* Booked appointment with Jingjing for next Monday about her plan for the next step
+* Searched on Wish.com for some new gears
+* Started reading of journal papers from CAD Journal
+ 
+* [FS-AGW](#fs-agw)
+  * Talked to Shaharoz about how to create a new workbench
+  * Dicussed with Adrian about Bridging bug fixation
+  * 
   
 ## REFERENCES
 
