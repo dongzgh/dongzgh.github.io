@@ -4604,7 +4604,26 @@ order: 1
 * [FS-AGW](#fs-agw)
   * Talked to Shaharoz about how to create a new workbench
   * Dicussed with Adrian about Bridging bug fixation
-  * 
+
+## 2019-11-16
+
+* Finalized XC60 purchase from Nazcar
+ 
+## 2019-11-16
+
+* Shopped in Health Planet
+* Visited Tansley Wood library
+
+## 2019-11-17
+
+* Searched for thePersonal auto insurrance quotations
+* Searched KANETIC.CA for lower auto insurance
+* Talked with Jingjing about her plan
+
+* [FS-AGW](#fs-agw)
+  * Discussed with Adrian and Shaharoz about their plan for this week
+  * Returned bug to Alex for furthur investigation
+
   
 ## REFERENCES
 
