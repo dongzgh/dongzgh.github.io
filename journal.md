@@ -4620,10 +4620,12 @@ order: 1
 * Searched KANETIC.CA for lower auto insurance
 * Talked with Jingjing about her plan
 
+* [L3D-LMS](#l3d-lms)
+  * Revised website design by using html template
+
 * [FS-AGW](#fs-agw)
   * Discussed with Adrian and Shaharoz about their plan for this week
   * Returned bug to Alex for furthur investigation
-
   
 ## REFERENCES
 
