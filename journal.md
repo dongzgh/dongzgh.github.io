@@ -4609,12 +4609,12 @@ order: 1
 
 * Finalized XC60 purchase from Nazcar
  
-## 2019-11-16
+## 2019-11-17
 
 * Shopped in Health Planet
 * Visited Tansley Wood library
 
-## 2019-11-17
+## 2019-11-18
 
 * Searched for thePersonal auto insurrance quotations
 * Searched KANETIC.CA for lower auto insurance
@@ -4626,6 +4626,30 @@ order: 1
 * [FS-AGW](#fs-agw)
   * Discussed with Adrian and Shaharoz about their plan for this week
   * Returned bug to Alex for furthur investigation
+  
+## 2019-11-19
+
+* Chat with TD molech monnex about auto insurance
+
+* [L3D-LMS](#l3d-lms)
+  * Revised website design by using html template
+
+* [FS-AGW](#fs-agw)
+  * Fixed issue with Tipping Nothing display
+  * Removed part in CreateTiping module
+  * Fixed issue with SplitGeoSet
+  
+## 2019-11-20
+
+* Called TD molech monnex about auto insurance
+
+* [L3D-LMS](#l3d-lms)
+  * Revised website design by using html template
+
+* [FS-AGW](#fs-agw)
+  * Fixed some issue with CreateBinder
+  * Discussed with Shaharoz about workbench creation
+  * Discussed with Adrian about bug fixing for PositioinGeoSets
   
 ## REFERENCES
 
