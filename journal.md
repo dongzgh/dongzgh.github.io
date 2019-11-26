@@ -4651,6 +4651,17 @@ order: 1
   * Discussed with Shaharoz about workbench creation
   * Discussed with Adrian about bug fixing for PositioinGeoSets
   
+## 2019-11-21
+
+* Ordered workbench from HomeDepot
+
+* [L3D-LMS](#l3d-lms)
+  * Revised Business Plan - Technologies
+
+* [FS-AGW](#fs-agw)
+  * Created new branch
+  * Merged latest changes to new branch
+  
 ## REFERENCES
 
 ### houses
