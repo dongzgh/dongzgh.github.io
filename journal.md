@@ -4662,6 +4662,42 @@ order: 1
   * Created new branch
   * Merged latest changes to new branch
   
+## 2019-11-22
+
+* Packed stuff and started moving
+* Bought IVAR wood shelf from IKEA
+
+## 2019-11-23
+
+* Attended first RCIA rite in Missia
+
+## 2019-11-24
+
+* Visited Burlington Appleby Ice Center
+* Visisted Tansley Wood library and attended family play
+
+## 2019-11-25
+
+* Sent Volvo S60 to repair
+* Unpacked office supplies
+
+* [L3D-LMS](#l3d-lms)
+  * Talked with Charles and Li about business plan - technologies
+
+## 2019-11-26
+
+* Created team on bitbucket (zhaodbb) and created projects
+* Paid Volvo S60 maintenance and wheel lock change
+
+* [L3D-LMS](#l3d-lms)
+  * Bought book Design, Representations, and Processing for Additive Manufacturing from Morgan & Claypool Publishers
+  * Restarted research of Design for Additive Manufacturing
+
+* [FS-AGW](#fs-agw)
+  * Revised CompareGeometries module
+  * Fixed a bug related with FillNothces when part is not featured
+  * Removed redundant checks and returns in Controls.cpp
+  
 ## REFERENCES
 
 ### houses
