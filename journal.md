@@ -4698,6 +4698,17 @@ order: 1
   * Fixed a bug related with FillNothces when part is not featured
   * Removed redundant checks and returns in Controls.cpp
   
+## 2019-11-27
+
+* Contacted Lubrico and auto workshop to fix Volvo XC60 engine check issues
+
+* [L3D-LMS](#l3d-lms)
+  * Talked with Charles about Funding Application writting
+
+* [FS-AGW](#fs-agw)
+  * Fixed issue related with Create Binder
+  * Reassigned Position Binder and Double Attached issues to team members
+
 ## REFERENCES
 
 ### houses
