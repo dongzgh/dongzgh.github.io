@@ -4708,6 +4708,19 @@ order: 1
 * [FS-AGW](#fs-agw)
   * Fixed issue related with Create Binder
   * Reassigned Position Binder and Double Attached issues to team members
+  
+## 2019-11-28
+
+* Temporarily fixed Volvo XC60 check engine issue
+* Helped Lyu moved chair from old office
+
+* [L3D-LMS](#l3d-lms)
+  * Continued reading Bought book Design, Representations, and Processing for Additive Manufacturing
+
+* [FS-AGW](#fs-agw)
+  * Reviewed current bug list and issue list
+  * Reviewed CreateBinder, MorphBinder and PositionBinder codes
+  * Fixed a bug related with missing display after double attached feature is removed
 
 ## REFERENCES
 
