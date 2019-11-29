@@ -4721,6 +4721,21 @@ order: 1
   * Reviewed current bug list and issue list
   * Reviewed CreateBinder, MorphBinder and PositionBinder codes
   * Fixed a bug related with missing display after double attached feature is removed
+  
+## 2019-11-29
+
+* Returned canvas art back to Amazon
+* Talked with Jingjing about her progress so far
+* Searched canvas print services online
+* Grabbed office chairs from old office
+* Searched Amazon for home audio system and portable speaker
+* Checked Amazon black friday sales
+
+* [L3D-LMS](#l3d-lms)
+  * Continued reading Bought book Design, Representations, and Processing for Additive Manufacturing
+
+* [FS-AGW](#fs-agw)
+  * Fixed issues with Position Binder
 
 ## REFERENCES
 
