@@ -4736,6 +4736,35 @@ order: 1
 
 * [FS-AGW](#fs-agw)
   * Fixed issues with Position Binder
+  
+## 2019-11-30
+
+* Shopped grocery at Tera in Mississauga
+* Visited TansleyWood library
+* Shopped at Aritza at MapleView shopping center
+
+## 2019-12-01
+
+* Shopped plunger at Lowes
+* Fixed plumbing issue of toilet in the first floor washroom
+* Watched movie Curiouse George from Amazon Primer
+* Set up Amzaon Echo Dots at home
+* Shopped cake and flowers from Fordinos
+* Played badminton at Lions badminton club with Helan and Dazman
+* Celebrated Birdthday Party for Min at home
+
+## 2019-12-02
+
+* [FS-AGW](#fs-agw)
+  * Attended weekly sprint review meeting
+  * Talked with team members about this week's tasks
+  * Fixed the bug 22637: PositionGeoSets and BridgeGeoSets diaplys initialization problem
+  * Revised display for FTISelectNotify to zoom fit in case views are not-sycronized
+  * Disabled removing first form group
+  * Revised InitializeFirstForm
+  * Fixed one issue when CreateBinder and CreateTipping are disabled for dobule attached with bridges
+  * Created specification for SelectGeometrySet in 3AW
+  * Extended EvalWorkPart to include bridge geometries
 
 ## REFERENCES
 
