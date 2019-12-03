@@ -4755,6 +4755,10 @@ order: 1
 
 ## 2019-12-02
 
+* [L3D-LMS](#l3d-lms)
+	* Sent LinkedIn profiles of development team to Charles
+	* Created book research note for Design, Representation and Processing for Additive Manufacturing
+
 * [FS-AGW](#fs-agw)
   * Attended weekly sprint review meeting
   * Talked with team members about this week's tasks
@@ -4765,6 +4769,24 @@ order: 1
   * Fixed one issue when CreateBinder and CreateTipping are disabled for dobule attached with bridges
   * Created specification for SelectGeometrySet in 3AW
   * Extended EvalWorkPart to include bridge geometries
+  
+## 2019-12-03
+
+* Bought one utility shelf from JYSK
+* Reviewed PR 2019 Renewal application check list
+* Completed one user testing from UserTesting.com
+* Completed one user testing from TryMyUI
+* Forwarded one article about Study Overseas in Canada to Jingjing
+* Read daily news from 51.ca
+
+* [L3D-LMS](#l3d-lms)
+  * Revised research journal web page styles
+  * Continued working on research note for Design, Representation and Processing for Additive Manufacturing
+  * Discussed with Charles about Research Strategy development
+	
+* [FS-AGW](#fs-agw)
+  * Checked source codes of CreateBinder, MorphBinder and PositionBinder
+  * Checked source codes of SelectGeoSets, PositionGeoSets and BridgeGeoSets
 
 ## REFERENCES
 
