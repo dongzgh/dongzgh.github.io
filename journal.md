@@ -4787,6 +4787,33 @@ order: 1
 * [FS-AGW](#fs-agw)
   * Checked source codes of CreateBinder, MorphBinder and PositionBinder
   * Checked source codes of SelectGeoSets, PositionGeoSets and BridgeGeoSets
+  
+## 2019-12-04
+
+* Read news from WeChat
+* Read news from 51.ca
+* Attended RCIA training
+
+* [L3D-LMS](#l3d-lms)
+  * Continued working on research note for Design, Representation and Processing for Additive Manufacturing
+
+* [FS-AGW](#fs-agw)
+  * Investigated display issue with BridgeGeoSets
+  * Fixed one bug related with GeoSet type checking failure
+  * Cleaned code for Create.*Dlg function pointers
+  
+## 2019-12-05
+
+* Got basement utility shelf (JYSK) from Purolator
+* Read news from 51.ca
+* Printted return slip for shoes from theBay.ca
+
+* [L3D-LMS](#l3d-lms)
+  * Continued working on research note for Design, Representation and Processing for Additive Manufacturing
+
+* [FS-AGW](#fs-agw)
+  * Fixed the bug 22366: binder edge morphing algorithm flaw
+  * Discussed plan for explorative study of connecting AGW and 3AW with other workbenches
 
 ## REFERENCES
 
