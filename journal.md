@@ -4814,6 +4814,18 @@ order: 1
 * [FS-AGW](#fs-agw)
   * Fixed the bug 22366: binder edge morphing algorithm flaw
   * Discussed plan for explorative study of connecting AGW and 3AW with other workbenches
+  
+## 2019-12-06
+
+* Bought car diagnostic code reader (OBD2 reader) from Amazon
+
+* [L3D-LMS](#l3d-lms)
+  * Continued working on research note for Design, Representation and Processing for Additive Manufacturing
+
+* [FS-AGW](#fs-agw)
+  * Fixed some of the issues left over in AGW
+  * Fixed the bug 22734: Material attribute copying
+  * Discussed with Eric about Bridg interface function in Stitch module
 
 ## REFERENCES
 
