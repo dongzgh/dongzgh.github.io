@@ -4826,6 +4826,28 @@ order: 1
   * Fixed some of the issues left over in AGW
   * Fixed the bug 22734: Material attribute copying
   * Discussed with Eric about Bridg interface function in Stitch module
+  
+## 2019-12-07
+
+* Visited ROM
+* Bought grocery from B&T Trust
+
+## 2019-12-08
+
+* Bought grocery from Costco
+* Visited Burlington Mall
+* Returned shoes to the Bay
+* Attended Sunday Missia
+
+## 2019-12-09
+
+* [L3D-LMS](#l3d-lms)
+  * Started thinking about Research Strategy Development
+  * Read Grant Application guidelines
+  * Read review papers about Digital Dentistry
+  
+* [FS-AGW](#fs-agw)
+  * Attended weekly Sprint Review meeting  * 
 
 ## REFERENCES
 
