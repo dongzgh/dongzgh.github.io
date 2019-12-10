@@ -4841,13 +4841,29 @@ order: 1
 
 ## 2019-12-09
 
+* Picked up closets from Canadian Tire
+* Installed utility shelf in the basement
+* Bought gift cards for teachers in day care
+
 * [L3D-LMS](#l3d-lms)
   * Started thinking about Research Strategy Development
   * Read Grant Application guidelines
   * Read review papers about Digital Dentistry
   
 * [FS-AGW](#fs-agw)
-  * Attended weekly Sprint Review meeting  * 
+  * Attended weekly Sprint Review meeting
+
+## 2019-12-10
+
+* Rechecked PR Renew documents
+* Paied Biometrics Fees
+* Asked Refund of Biometrics Fees
+
+* [L3D-LMS](#l3d-lms)
+  * Continued working on research note for Design, Representation and Processing for Additive Manufacturing
+  
+* [FS-AGW](#fs-agw)
+  * Discussed with team members about this weeks tasks
 
 ## REFERENCES
 
