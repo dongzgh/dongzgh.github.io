@@ -4864,6 +4864,20 @@ order: 1
   
 * [FS-AGW](#fs-agw)
   * Discussed with team members about this weeks tasks
+  
+## 2019-12-11
+
+* Bought Sports Concept skating program PSS9 starting from Jan. 25 at 10:30 to 11:00
+* Bought Soccer Shots Alton Kids Care Center program starting from Jan. 24, 10 weeks
+* Bought Soccer Shots free public trial program in Haber Community Center on Dec. 21st
+* Joined waiting list for Burlignton Skating Center 10 weeks program on Satureday 4:55-5:25 starting from Jan. 4th
+* Sealed evelope for PR Renewal Application
+
+* [L3D-LMS](#l3d-lms)
+  * Continued working on research note for Design, Representation and Processing for Additive Manufacturing
+  
+* [FS-AGW](#fs-agw)
+  * Discussed with team members about this weeks tasks
 
 ## REFERENCES
 
