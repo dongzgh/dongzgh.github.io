@@ -4872,12 +4872,25 @@ order: 1
 * Bought Soccer Shots free public trial program in Haber Community Center on Dec. 21st
 * Joined waiting list for Burlignton Skating Center 10 weeks program on Satureday 4:55-5:25 starting from Jan. 4th
 * Sealed evelope for PR Renewal Application
+* Attended Alton Kids Care Center's Christmas Party
+* Attended RCIA course
 
 * [L3D-LMS](#l3d-lms)
   * Continued working on research note for Design, Representation and Processing for Additive Manufacturing
   
 * [FS-AGW](#fs-agw)
   * Discussed with team members about this weeks tasks
+  
+## 2019-12-12
+
+* Bought iphone X and huawei P20 lite spare cables
+
+* [L3D-LMS](#l3d-lms)
+  * Finished reading of Design, Representation and Processing for Additive Manufacturing
+  * Preparing Specific Aims
+  
+* [FS-AGW](#fs-agw)
+  * Discussed with team members about development timeframe
 
 ## REFERENCES
 
