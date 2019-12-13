@@ -4887,10 +4887,21 @@ order: 1
 
 * [L3D-LMS](#l3d-lms)
   * Finished reading of Design, Representation and Processing for Additive Manufacturing
+  * Read papers downloaded from 3D Printing in Medicine
   * Preparing Specific Aims
   
 * [FS-AGW](#fs-agw)
   * Discussed with team members about development timeframe
+  
+## 2019-12-13
+
+* [L3D-LMS](#l3d-lms)
+  * Read papers downloaded from 3D Printing in Medicine
+  * Preparing Specific Aims
+  
+* [FS-AGW](#fs-agw)
+  * Discussed with Eric and Benjemin about the Feature 22165
+  * Dumped feature tree structure of FS
 
 ## REFERENCES
 
