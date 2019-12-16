@@ -4902,6 +4902,27 @@ order: 1
 * [FS-AGW](#fs-agw)
   * Discussed with Eric and Benjemin about the Feature 22165
   * Dumped feature tree structure of FS
+  
+## 2019-12-14
+
+* Visited Tansley Wood community center
+* Visited Mapleview shopping center
+
+* [L3D-LMS](#l3d-lms)
+  * Preparing Research Strategy
+  
+## 2019-12-15
+
+* Visited Tansley Wood community center
+* Shopped grocery at Golden Plaza
+
+* [L3D-LMS](#l3d-lms)
+  * Preparing Research Strategy
+  
+## 2019-12-16
+
+* [L3D-LMS](#l3d-lms)
+  * Preparing Research Strategy
 
 ## REFERENCES
 
