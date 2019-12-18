@@ -4923,7 +4923,30 @@ order: 1
 
 * [L3D-LMS](#l3d-lms)
   * Preparing Research Strategy
+  
+## 2019-12-17
 
+* [L3D-LMS](#l3d-lms)
+  * Revised Charles's application package
+  * Discussed with Charles about application package
+  
+* [FS-AGW](#fs-agw)
+  * Fixed project dependency error of solution file
+  * Created a bug for Mario for fixing marked entity display issue
+  * Created a bug for me for reshape edge binder morphing
+  * Modified core function for generating bridge
+  
+## 2019-12-18
+
+* [L3D-LMS](#l3d-lms)
+  * Formated Chinese version of Business Plan
+  * Continued writting about technology path
+  
+* [FS-AGW](#fs-agw)
+  * Completed gingerbread house
+  * Had lunch at Kelsey'restaurant
+  * Filled PRIDE 2019 form and sent to Eric
+  
 ## REFERENCES
 
 ### houses
