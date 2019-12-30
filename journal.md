@@ -4998,6 +4998,7 @@ order: 1
 
 * Bought another utility shelf from JYSK
 * Checked banking statements and balances
+* Organized research files
 
 * [L3D-LMS](#l3d-lms)
   * Prepared bio-sketch for myself
