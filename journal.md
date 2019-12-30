@@ -4947,6 +4947,61 @@ order: 1
   * Had lunch at Kelsey'restaurant
   * Filled PRIDE 2019 form and sent to Eric
   
+## 2019-12-21
+
+* Shopped grocery at Golden Plaza
+* Shopped nutrient products at Healthy Planet
+* Visisted Tansley Woods library
+
+## 2019-12-22
+
+* Visited Ripley's Aquarium in Toronto
+* Attended messiah
+
+## 2019-12-23
+
+* Watched Star Wars: Rising Skywalker in Cinemaplex
+
+## 2019-12-24
+
+* Visited Tansley Woods library
+* Visited Placious indoor playground and lost UGG shoes
+* Attended messiah
+
+## 2019-12-25
+
+* Attended messiah
+* Visited Niagara Fall
+
+## 2019-12-26
+
+* Visisted Burlington Shopping Centre
+
+## 2019-12-27
+
+* Visited Woodbine indoor playground
+
+* [L3D-LMS](#l3d-lms)
+  * Had meeting with Charles about grant application
+
+## 2019-12-28
+
+* Visted Fortinos and Winners for shopping
+* Washed Volvo S60
+* Bought beers and port wine
+
+## 2019-12-29
+
+* Celebrated holiday with Mom family group
+
+## 2019-12-30
+
+* Bought another utility shelf from JYSK
+* Checked banking statements and balances
+
+* [L3D-LMS](#l3d-lms)
+  * Prepared bio-sketch for myself
+  
 ## REFERENCES
 
 ### houses
