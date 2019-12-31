@@ -5003,6 +5003,11 @@ order: 1
 * [L3D-LMS](#l3d-lms)
   * Prepared bio-sketch for myself
   
+## 2019-12-31
+
+* [L3D-LMS](#l3d-lms)
+  * Written bio-sketch for myself
+  
 ## REFERENCES
 
 ### houses
