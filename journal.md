@@ -5008,6 +5008,19 @@ order: 1
 * [L3D-LMS](#l3d-lms)
   * Written bio-sketch for myself
   
+## 2020-01-02
+
+* Searched Smart Watch and Pay as You Go data plans
+* Submitted registration to Halton Catholic District School Board
+
+* [L3D-LMS](#l3d-lms)
+  * Added webmail related information to Microsoft Team
+  * Continued research lattice structures
+  
+* [FS-AGW](#fs-agw)
+  * Fixed the bug 22899 related with cleaning view after display is changed
+  * Reset daily scrum meeting
+  
 ## REFERENCES
 
 ### houses
