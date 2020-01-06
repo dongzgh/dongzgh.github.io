@@ -1,7 +1,8 @@
 ---
-layout: page
 title: 八大菜系
-permalink: /topics/food/badacaixi
+permalink: /views/food/ba-da-cai-xi
+image: /assets/img/ba-da-cai-xi.jpg
+tags: [food,]
 ---
 
 {:.chinese-paragraph}
