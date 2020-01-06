@@ -5012,6 +5012,7 @@ order: 1
 
 * Searched Smart Watch and Pay as You Go data plans
 * Submitted registration to Halton Catholic District School Board
+* Filled tax forms for Min
 
 * [L3D-LMS](#l3d-lms)
   * Added webmail related information to Microsoft Team
@@ -5021,6 +5022,30 @@ order: 1
   * Fixed the bug 22899 related with cleaning view after display is changed
   * Reset daily scrum meeting
   
+## 2020-01-03
+
+* Reformatted research and journal static document projects
+
+## 2020-01-04
+
+* Visited Burlington Libary at Hyden School
+* Attended Story Time
+* Attended Family Maker
+* Shopped at Healthy Planet
+* Mailed nutriants
+* Drove for grocery shopping
+
+## 2020-01-05
+
+* Shopped at Costco
+* Visited Appleby Ice Center watching games
+* Visited Canadian Tire for shopping wrist guard
+
+## 2020-01-06
+
+* Visited Burlington Pediatrician Dentistry
+* Reformatted research and journal static document projects
+
 ## REFERENCES
 
 ### houses
