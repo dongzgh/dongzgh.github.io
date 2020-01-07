@@ -15,7 +15,7 @@ order: 1
   * Start safe and try to open Chrome and exit properly
   * Restart computer and they are working now
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Searched food containers for Huffman kitchen
   * Bought glass bottles from Canadian Tire for Huffman kitchen
   * Retried LTERIVER Wi-Fi extender and failed
@@ -23,11 +23,11 @@ order: 1
   * Searched Wi-Fi extender from BestBuy
   * Decided to buy one of D-Link from BestBuy
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Finished business concept.md and sent to peer for review
   * Removed Journal page from visual studio online account wiki page
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Decided to use Markdown and pandoc for documentation development
   * Installed pandoc
   * Studied pandoc
@@ -39,15 +39,15 @@ order: 1
 * Reconfigured home network and WiFi hotspot locations
 * MAYA Ethernet phone is connected
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Continued study pandoc
-  * Initialized fs-wfm project report
+  * Initialized Wireframe project report
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Checked Evelyn Lane renovation and paid Louis final 1000 CAD
   * Saved 900 CAD from Ben to TD Bank chequing account
 
-* [L3D-LMS]
+* [L3MONSHAPE](#l3monshape)
   * Discussed with Charles and President Li about business plan 2.0
   * Targeting Gaming industry, specifically ZeniMax Media Inc.
   * Prepared all the expenses incurred so far
@@ -57,7 +57,7 @@ order: 1
 
 * Bought some nutrients from Costco for Sammi
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Sent Charles expenses incurred so far till 2018-01-04
   * Got a message from Chang Gang that Amazon is working on 3D printing market
   * Read article related with Amazon and Body Labs
@@ -65,10 +65,10 @@ order: 1
   * Send message to Jay for further discussion about getting body metrics information
   * Researched the topic of virtual fashion industry
 
-* [FS-WFM](#fs-wfm)
-  * Completed the first section of fs-wfm project report
+* [HEXAGONMI](#hexagonmi)
+  * Completed the first section of Wireframe project report
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Told Sydney and Ashani to repair caulking in the basement on their own
   * Told Sydney and Ashani to replace freezer shelf railing if needed
 
@@ -76,7 +76,7 @@ order: 1
 
 * Bought vehicle toys (3 sets) for Ethan
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Cleaned Evelyn Lane hardwood floor and porcelain tiles
   * Cleaned Evelyn Lane kitchen cabinets and counters
   * Cleaned Evelyn Lane bathroom cabinets and counters
@@ -87,7 +87,7 @@ order: 1
 
 ## 2018-01-07
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Bought Easy Off from Home Depot Oakville-Burloak
   * Bought IKEA TROFAST Frame for Playroom
   * Bought three jars from IKEA
@@ -96,31 +96,31 @@ order: 1
   * Cleaned Evelyn Lane toilets
   * Swept Evelyn Lane floors
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Had meeting with Charles and President about business strategy
   * Prepared things carry on for CES 2018 Las Vegas
 
 ## 2018-01-08
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Read and prepared some parts of IP review questionnaire
 
-* [FS-WFM](#fs-wfm)
-  * Written fs-wfm report till extension surface generation
+* [HEXAGONMI](#hexagonmi)
+  * Written Wireframe report till extension surface generation
 
 ## 2018-01-09
 
 * Visited a nearby shopping mall with Cashman 3D scanning service
 * Tried Roller game and 21 points game in casino
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Visited CES 2018 LVCC North Hall 3D Printing Technology section
   * Talked with some 3D printer and scanner suppliers
   * Visited CES 2018 LVCC South Hall 2 VR/AR, Gaming and AI sections
 
 ## 2018-01-10
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Visited CES 2018 Sand G Hall Israel incubators
 
 ## 2018-01-11
@@ -129,24 +129,24 @@ order: 1
 * A duplicated session of NNDIA window manager caused the problem
 * It's probably related with a recent update of Intel HD graphics card driver
 
-* [FS-WFM](#fs-wfm)
-  * Completed fs-wfm project report for SE&D
+* [HEXAGONMI](#hexagonmi)
+  * Completed Wireframe project report for SE&D
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Sent Glenn email to schedule a time for the discussion of Evelyn Lane listing
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Discussed with Charles about business development strategy
   * Completed first draft of the Patent Application questionnaire and sent to Charles for review
 
 ## 2018-01-12
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Updated the expenses incurred during the trip to CES 2018
   * Started reading of 'Generative Algorithm v2 (Zubin Khabaz)'
 
-* [FS-WFM](#fs-wfm)
-  * Reread fs-wfm project report
+* [HEXAGONMI](#hexagonmi)
+  * Reread Wireframe project report
   * Studied using jekyll and pandoc for API html documentation
 
 * [Houses](*houses)
@@ -155,7 +155,7 @@ order: 1
 
 ## 2018-01-13
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Discussed with president about what's leant from CES 2018
   * Defined tasks for the next week
     1. Define solutions for industrial sectors
@@ -163,32 +163,32 @@ order: 1
     1. Research potential technology companies or teams for the solutions
     1. Discuss with potential technology companies about collaboration
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Passed key of Evelyn Lane to Glenn
   * Signed Lease Agreement from Glenn
   * Updated some mail addresses
 
 ## 2018-01-14
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Glenn listed Evelyn Lane for lease on Realter.ca
   * Glenn showed Evelyn Lane to an old couple and got an offer
   * Assembled TROFAST from IKEA for Ethan's toys
   * Shopped around for curtains in HomeSense, Winners, IKEA and Marshalls
   * Updated some mail addresses
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Reviewed backlogs for the current integration (iteration 8)
   * Continued study of 'Generative Algorithm v2 (Zubin Khabaz)'
 
 ## 2018-01-15
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Reviewed documents from Glenn about the new tenants and accept their offer
   * Shopped around curtains and rods online
   * Declined Glenn's tenants
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study of 'Generative Algorithm v2 (Zubin Khabaz)'
   * Discussed with Charles about business plan 2.0
 
@@ -199,18 +199,18 @@ order: 1
 * Discussed with Shannon about vacation days
 * Bought milk and fruits
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Reviewed patent application questionnaire and started communication with our lawyer
   * Talked with Gary Chang about 3D scanning and 3D printing industry highlights
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Bought oil and vinegar dispensers
   * Organized bulk foods bottles
   * Changed Honeywell thermostat from Fahrenheit to Celsius
 
 ## 2018-01-17
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study of 'Generative Algorithm v2 (Zubin Khabaz)'
   * Revised discussion notes about `virutal fasion` in 20180105.md
   * Revised tasks for the current iteration
@@ -220,30 +220,30 @@ order: 1
 
 ## 2018-01-18
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Decided to use ParaView as platform for backend prototyping and verification
   * Downloaded and installed ParaView
   * Started reading of ParaViewGuide 5.4.0
 
 ## 2018-01-19
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study of ParaViewGuide 5.4.0
   * Talked with our lawyer Michael for patent application process, options and prices
 
 ## 2018-01-20
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Drafted platform technologies PPT
 
 ## 2018-01-21
 
 * Visited Tansley Woods Community Center for child playing
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Cleaned Evelyn Lane again for showing
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Discussed with Charles about platform technologies PPT
   * Revised platform technologies PPT and sent back to Charles
   * Asked Charles to have more time for brief patent description
@@ -252,64 +252,64 @@ order: 1
 
 * See Dr. M. J. Fox for Ethan's 18 month check and vaccination
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reviewing CAD industry trends
   * Started to review latest Geometry Processing researches
   * Discussed with president Li about Charles's PPT
 
 ## 2018-01-23
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reviewing CAD academic trends
 
 ## 2018-01-24
 
 * Bought airline ticket back to China between Apr. 16, 2018 - May. 7, 2018
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Discussed with Charles about PPT
   * Revised Pains slide in PPT
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Started to learn Rhino python scripting
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Pied Huffman Road interim tax for 2018
 
 ## 2018-01-25
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Sent Pains slide in PPT
-  * Put l3d-lms.com to maintenance mode
+  * Put www.l3monshape.com to maintenance mode
   * Bought email services from goddady.com
   * Set up emails for Charles and Dong
   * Revised PPT according to president's requirements
 
 ## 2018-01-26
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continue review CAD industry trends
   * Continue review CAD academic trends
   * Draft brief description for patent application
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Studied Autodesk Forge cloud API platform
 
 ## 2018-01-27
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Discussed with Charles about pain points
   * Reviewed with Charles about logo design
   * Got an initial idea about AI based shape morphing and learning
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Got a lease offer for Evelyn Lane (Victor, production and facility manager)
   * Reviewed rental application and related information
   * Sent to Glenn some suggestions regarding Schedule A
 
 ## 2018-01-28
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Discussed with president Li and Charles about PPT
   * Revised PPT and summary of paint points
   * Drafted initial plan for AI based shaped morphing and learning
@@ -319,21 +319,21 @@ order: 1
 
 ## 2018-01-29
 
-* [FS-WFM](#wirframe)
+* [HEXAGONMI](#hexagonmi)
   * Presented progress of Hoops 3D project
   * Discussed with Kayla about the next step moving forwards
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Started patent technologies brief description
   * Prepared models for describing adaptive morphing
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Closed deal with Glenn for the Evelyn Lane leasing
   * Glenn received deposit from Victor for the first and last months
   
 ## 2018-01-30
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Prepared patent technologies brief review
 
 ## 2018-01-31
@@ -343,46 +343,46 @@ order: 1
 * Decided to use Google for personal affairs
 * Decided to use Microsoft for business affairs
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Sent Charles technology overview PPT for patent application
   * Added Lattice-Based and Pattern-Based Subtractive Morphing to the technology overview PPT
   * Discussed with Charles about the next step
   * Searched posts related with lattice structure modeling
   * Searched posts and books related with topology optimization
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Started to evaluate offset curve in Fusion 360
 
 ## 2018-02-01
 
 * Revised LinkedIn profile and AngleList profile
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Studied Discrete Differential Geometry
   * Studied of thesis 'The Investigation Of A Method To Generate Conformal Lattice Structures For Additive Manufacturing'
   * Reorganized project features and tasks
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Reorganized project features and tasks
 
 ## 2018-01-02
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study of thesis 'The Investigation Of A Method To Generate Conformal Lattice Structures For Additive Manufacturing'
 
 ## 2018-02-03
 
 * Attended RCI Spring Festival Show at the Glad Tidings Pentecostal Church
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study of thesis 'The Investigation Of A Method To Generate Conformal Lattice Structures For Additive Manufacturing'
 
 ## 2018-02-04
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study of thesis 'The Investigation Of A Method To Generate Conformal Lattice Structures For Additive Manufacturing'
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Checked Evelyn Lane's temperature settings
 
 ## 2018-02-05
@@ -391,13 +391,13 @@ order: 1
 * Announced plan change (profit sharing to bonus, salary updates on every mid of January)
 * Updated Dong's Aeroplan personal information
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Finished reading of thesis 'The Investigation Of A Method To Generate Conformal Lattice Structures For Additive Manufacturing'
   * Studied paper 'Opportunities and Challenges for Additive Manufacturing in Space Applications'
   * Reorganized technology project folder structures
   * Read collected web pages about multiscale structure modeling
 
-* [VIB-BYA](#vib-bya)
+* [VISBUYER](#visbuyer)
   * Installed NodeJS on iMac
   * Installed meteor framework on iMac
   * Installed brew on iMac
@@ -412,7 +412,7 @@ order: 1
 
 * Received letter of last year's profit sharing
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Studied paper 'Geometric Modeling Of Cellular Materials For Additive Manufacturing In Biomedical Field A Review'
   * Discussed with Charles and president Li about stock options
   * Discussed with Charles about the next steps
@@ -422,10 +422,10 @@ order: 1
 
 * Took 2 user testing's
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Studied paper 'Optimal Design For Additive Manufacturing Opportunities And Challenges'
 
-* [VIB-BYA](#vib-bya)
+* [VISBUYER](#visbuyer)
   * Connected with remote MongoDB database
   * Taught Min about how to use BuyerAgent locally
 
@@ -433,14 +433,14 @@ order: 1
 
 * Took 2 user testing's
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Studied paper '3D Texture Mapping for Rapid Manufacturing'
   * Studied paper 'A Hybrid Geometric Modeling Method for Large Scale Conformal Cellular Structures'
   * Studied paper 'Cellular Structures for Optimal Performance'
   * Studied paper 'Computer-aided Product Design with Performance-Tailored Mesostructures'
   * Studied paper 'Design and Additive Manufacturing of Cellular Lattice Structures'
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Took picture of Evelyn Lane for junk removal
   * Checked shed of Evelyn Lane
   * Downloaded latest version of 'Resident Tenancy Agreement'
@@ -448,7 +448,7 @@ order: 1
 
 ## 2018-02-09
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Updated project schedule
   * Studied paper 'Design for Additive Manufacturing Trends, Opportunities, Considerations and Constraints'
   * Studied Grasshopper tutorials 'Introduction to Grasshopper Videos by David Rutten'
@@ -456,21 +456,21 @@ order: 1
 
 ## 2018-02-10
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study Grasshopper tutorials 'Design Studio AIR at the University of Melbourne'
 
 ## 2018-02-11
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Discussed with Charles and president Li about the next steps
 
 ## 2018-02-12
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Updated project schedule
   * Studied model (1) for addendum construction methods
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study Grasshopper tutorials 'Design Studio AIR at the University of Melbourne'
   * Continued study paper 'Design for Additive Manufacturing Trends, Opportunities, Considerations and Constraints'
   
@@ -480,34 +480,34 @@ order: 1
   * user name: dongzms@outlook.com
   * password:  VisPL15NGC
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Studied model (2) for addendum construction methods
   * Continued study book 'Discrete Differential Geometry (Keenan Crane)'
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study Grasshopper tutorials 'Design Studio AIR at the University of Melbourne'
   * Continued study paper 'Design for Additive Manufacturing Trends, Opportunities, Considerations and Constraints'
 
 ## 2018-02-14
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study Grasshopper tutorials 'Design Studio AIR at the University of Melbourne'
   * Continued study paper 'Design for Additive Manufacturing Trends, Opportunities, Considerations and Constraints'
 
 ## 2018-02-15
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Studied model (3) for addendum construction methods
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Start reading book 'Grasshopper Primer (3rd Ed.)'
 
 ## 2018-02-16
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Studied model (4) for addendum construction methods
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Finished reading book 'Grasshopper Primer (3rd Ed.)'
   * Read book 'Essential Mathematics for Computational Design (3rd Ed.)'
   * Updated sphinx documentation for design-for-am
@@ -516,7 +516,7 @@ order: 1
 
 * Read recent articles from 'Digital Engineering'
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Researched PaaS serviced providers
   * Researched web annotation tools
   * Researched web design tools
@@ -528,7 +528,7 @@ order: 1
 * Migrated DropBox to git repository
 * Reorganized personal repositories and websites
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Start evaluating 'Elements Free' from nTopology
 
 ## 2018-02-22
@@ -541,7 +541,7 @@ order: 1
 
 * Tried Microsoft Azure VM service
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Start reading 'Rhinoceros 5 User's Guide'
   * Try to use Grasshopper to construct elevation curves
 
@@ -549,25 +549,25 @@ order: 1
 
 * Attended PlayFit with Ethan at the Brant Hill Community Center
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Communicated with Jiayao Zhao about MEAN.JS stack
   * Continued study of Grasshopper tutorials 'Design Studio AIR at the University of Melbourne'
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Cleaned some garbage at the Evelyn Lane
 
 ## 2018-02-26
 
 * Went with Min to the G2 Road Test in Oakville
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study of Grasshopper tutorials 'Design Studio AIR at the University of Melbourne'
   * Searched and downloaded Processing.js books related with generative design
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Discussed with Eric and Hamed about next steps with OmniCAD
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Bought and installed blinds for guest room
   * Installed curtain for office room
   * Bought and installed LED light bulbs for the living room
@@ -576,28 +576,28 @@ order: 1
 
 ## 2018-02-27
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Copied key for the Evelyn Lane
   * Scheduled appointment with Victor to meet at 6:30pm
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Taught with Jingjing about general code structure and software engineering topics
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Redeveloped die face by using surface extensions for model (1) and model (2)
 
 ## 2018-02-28
 
 * Attended Management Essential Training part 1
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study Grasshopper tutorials 'Design Studio AIR at the University of Melbourne'
 
 ## 2018-03-01
 
 * Attended Management Essential Training part 2
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study Grasshopper tutorials 'Design Studio AIR at the University of Melbourne'
 
 ## 2018-03-02
@@ -606,29 +606,29 @@ order: 1
 * Talked to Joanna to lock Home Equity Line of Credit 110,000 CAD at 2.99% (2-year fixed term) and the rest is still kept as open
 * Contacted Reliance Home Comfort to release my water tank account to Victor
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Explored new ways to create die face by using curve extensions
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study Grasshopper tutorials 'Design Studio AIR at the University of Melbourne'
 
 ## 2018-03-12
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Continued investigation of modeling die face in CATIA
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Signed Home Equity Line payment (fixed term 2-year closed) contract
   * Signed Evelyn Lane mortgage renewal (fixed term 2-year closed) contract
   * Asked Sydney to pass mails to Michael into the mail box
 
 ## 2018-03-13
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Continued investigation of modeling die face in CATIA
   * Studied GhPython to develop on top of Grasshopper
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Asked Property Management Guild to give me tenancy update form
   * Asked Sydney and Ashani to update tenancy form
   * Asked Property Management Guild to give me the Rule of Condominium Corporation
@@ -637,19 +637,19 @@ order: 1
 
 * Took Ethan to see doctor for his coughing
 
-* [FS-WFM](#fs-wfm)
-  * Studied model (1) fs-wfm based die face modeling using Rhino Grasshopper
+* [HEXAGONMI](#hexagonmi)
+  * Studied model (1) Wireframe based die face modeling using Rhino Grasshopper
 
 ## 2018-03-15
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Completed status report 20180312/Wireframe Based Die Design Strategy
   * Presented status report and Rhino / Grasshopper capabilities
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Sent signed mortgage renewal package back to Joanna through TD bank internal transfer
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study of using Rhino Grasshopper
   * Updated design-for-am Sphinx documentation structures
   * Reviewed modeLab Rhino Grasshopper Premier
@@ -659,21 +659,21 @@ order: 1
 * Bought iPhone X from Mapleview Apple Retail Store
 * Bought new Nano SIM card from Virgin Mobile at Mapleview Shopping Center
 
-* [FS-WFM](#fs-wfm)
-  * Discussed about the next step of fs-wfm development
+* [HEXAGONMI](#hexagonmi)
+  * Discussed about the next step of Wireframe development
   * Decided to study more challenging cases
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Cleaned disposed garbage at Huffman Road
   * Collected mails directed to Michael from Upper Middle Road
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Reviewed Grasshopper Premier and Tutorials
   * Developed some examples
 
 ## 2018-03-20
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Reviewed 'Optimal Design for Additive Manufacturing Opportunities and Challenges'
   * Continued review 'Design for Additive Manufacturing Trends, Opportunities, Considerations and Constraints'
 
@@ -681,96 +681,96 @@ order: 1
 
 * Talked with team from TechSoft3D about publisher
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Revised grasshopper scripts for transformation
   * Restudied grasshopper script for model (1)
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Downloaded VirtualBox and Ubuntu to set up local virtual machines
   * Continued review 'Design for Additive Manufacturing Trends, Opportunities, Considerations and Constraints'
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Sent mails to Michael in Australia
 
 ## 2018-03-22
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Continued modify grasshopper script for model (1)
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Installed Ubuntu 64 on workstation
   * Set up develop environment on Ubuntu 64
 
 ## 2018-03-23
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Continued modifying grasshopper script for model (1)
   *Added fillets on addendum
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Install ParaView applications on Ubuntu 64
 
 ## 2018-03-25
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Started preparing 2017 tax return
   *Downloaded Studio Tax 2017
   *Initialized Dong's return
 
 ## 2018-03-26
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Continued modifying grasshopper script for model (1)
   *Reorganized display components
   *Reorganized inputs and outputs
   * Continued modifying grasshopper script for model (2)
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Continued preparing 2017 tax return
   *Initialized Min's return
   *Added rental maintenance
 
 ## 2018-03-27
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Continued modifying grasshopper script for model (2)
   *Revised data output tree structure using 'Para Viewer'
   *Created script for boundary analysis based on extension direction and punch direction
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Continued preparing 2017 tax return
   *Added child care expensed from SmallWunders
 
 ## 2018-03-28
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Continued modifying grasshopper script for model (3)
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Continued preparing 2017 tax return
   *Added work-space-in-home-expenses
 
 ## 2018-03-30
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Read book '3D打印：梦想与现实之间'
 
 ## 2018-03-31
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Started reading book '3D打印：三维智能数字化?
 
 ## 2018-04-01
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Read book '3D打印：三维智能数字化?
 
 ## 2018-04-02
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Started reading book 'Additive Manufacturing Technologies (Ian Gibson, David W. Rosen, Brent Stucker)'
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Created grasshopper script for model (7)
   * Created grasshopper script for model (84)
   * Developed Python script to convert images from .png to .jpg
@@ -785,10 +785,10 @@ order: 1
 
 ## 2018-04-09
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Created grasshopper script for model (10)
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Received Partnership Agreement from president Li
   * Contacted Charles to research NX AM features
   * Discussed with Charles about Partnership Agreement
@@ -797,78 +797,78 @@ order: 1
 
 * Fixed the issue with SDF build failure
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Reviewed grasshopper die face master script
   * Developed grasshopper script for part on binder case
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Read word by word about Partnership Agreement
   * Reviewed revised web portal front page and sent to Charles for the second round
 
 ## 2018-04-11
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Reviewed grasshopper die face master script
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Started to write report about 3d printing related software technologies
 
 ## 2018-05-09
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Started writing reports of '3D Printing Industry Review'
   * Started learning of 'materialise Magics'
 
 ## 2018-05-10
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued writing reports of '3D Printing Industry Review'
   * Continued learning of 'materialise Magics'
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Searched for WPF learning materials
 
 ## 2018-05-11
 
 * Reorganized email feeds in outlook.com, Facebook and WeChat
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Started reading of the book 'WPF Unleased'
 
 ## 2018-05-14
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Continued study of the book 'WPF Unleased'
   * Attended group meeting regarding project scope
 
 ## 2018-05-15
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Continued study of the book 'WPF Unleased' (Finished Part I)
   * Started to learn MEAN stack
 
 ## 2018-5-23
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Added left side vertical tabbed doc panels
   * Added toolbox
   * Changed CSS to SCSS
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Researched Chinese government strategies regarding 3D printing industry development
   * Researched famous Chinese 3D printing companies
 
 ## 2018-05-27
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Fixed a bug related with OrbitContorls behavior
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Mowed lawn in the backyard an front yard
 
 ## 2018-05-28
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Pruned npm packages
   * Attended team meeting
   * Fixed wglcanvas overlapping dockpanell issue
@@ -876,28 +876,28 @@ order: 1
   * Enabled stl loading
   * Downloaded some stl files
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Reformatted review reports
   * Revised 3D打印软件知识
 
 ## 2018-05-29
 
-* [FS-WFM](#fs-wfm)
+* [HEXAGONMI](#hexagonmi)
   * Completed wiki page for the project
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Revised 3D打印软件知识
 
 ## 2018-05-30
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Asked Eric about our FEA mesh generation method
   * Researched Shrink Wrapping algorithms for 3D reconstruction
   * Studied paper: Shrinkwrap_an_Efficient_Adaptive_Algorithm_for_Triangulating_an_Iso-Surface
 
 ## 2018-06-01
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Researched volume meshing algorithms
   * Researched how to read academic papers
   * Contacted Michael regarding patent application process
@@ -905,7 +905,7 @@ order: 1
 
 ## 2018-06-02
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Discussed with Charles about software technologies and patent application
 
 ## 2018-06-04
@@ -913,11 +913,11 @@ order: 1
 * Read technology news from Google
 * Read technology news from 雷锋?
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Studied paper: How_to_Shrinkwrap_Through_a_Critical_Point_an_Algorithm_for_the_Adaptive_Triangulation_of_IsoSurfaces_with_Arbitrary_Topology
   * Initialized review: Shrink_Wrapping_Algorithms.md
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Studied Angular 4 tutorials from TutorialsPoint  
 
 ## 2018-06-05
@@ -926,10 +926,10 @@ order: 1
 * Read technology news from Intel
 * Reorganized some of the Chrome bookmarks
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Studied: Polygon_Mesh_Processing, Chapter 8
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Studied TypeScript tutorials from TutorialsPoint
   * Studied RegEx basic tutorial
 
@@ -940,7 +940,7 @@ order: 1
 * Read technology news from Digital Engineering
 * Reorganized some of the Chrome bookmarks
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study: Polygon_Mesh_Processing, Chapter 8
   * Studied paper: Surface_Reconstruction_from_Unorganized_Points
   * Downloaded research papers related with Bubble Packing algorithms
@@ -950,12 +950,12 @@ order: 1
 
 * Reorganized some of the Chrome bookmarks
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study: Introduction_to_Algorithms, Chapter 1, Chapter 2, (Chapter 3, by 3.2)
 
 ## 2018-06-08
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study: Introduction_to_Algorithms, Chapter 3
   * Restudied: SciPy_Lecture_Notes, Chapter 1, Chapter 2
 
@@ -964,7 +964,7 @@ order: 1
 * Visited Dr. Lesley for eye exam
 * Played tale tennis with Joy
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study: Introduction_to_Algorithms, (Chapter 4)
 
 ## 2018-06-10
@@ -980,23 +980,23 @@ order: 1
 
 * Read technology news from Microsoft and downloaded some free eBooks from Microsoft Press
 
-* [Houses](#houses)
+* [ESTATES](#estates)
   * Cleaned
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study: Introduction_to_Algorithms, (Chapter 4)
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Added wglservice
 
 ## 2018-06-12
 
 * Continued reading technology news from Microsoft
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study: Introduction_to_Algorithms, Chapter 4
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Modified wglservice
 
 ## 2018-06-13
@@ -1005,79 +1005,79 @@ order: 1
 * Ordered long-sleeve shirts from theBay.com using LifeWorks gift card and HBC Master Card
 * Ordered birthday cupcakes from sweetbakery.ca
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study: Introduction_to_Algorithms, (Chapter 5, by 5.3)
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Modified wglservice
 
 ## 2018-06-14
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study: Introduction_to_Algorithms, Chapter 5
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Searched resources to learn RxJS Observable in Angular 6
 
 ## 2018-06-15
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Found resources to learn RxJS Observable in Angular 6
   * Restudied Angular 6 official tutorial
 
 ## 2018-06-16
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Studied: Angular 6 Component Interactions
 
 ## 2018-06-17
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Continued study: Angular 6 Component Interactions
   * Studied: Angular 6 Component Lifecycle Hooks
 
 ## 2018-06-18
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Enabled axes display at the screen corner
   * Revised event dispatcher in WglCanvasComponent
 
 ## 2018-06-19
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Updated project backlog
   * Upgraded MessageService
   * Enabled fit view and standard views
   * Revised toolbox button groups
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Studied: Introduction_to_Algorithms, (Chapter 15)
 
 ## 2018-06-20
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Studied alternative icon solutions
   * Started to use icomoon icons
   * Uploaded designed icons to iconfinder.com
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study: Introduction_to_Algorithms, (Chapter 15)
 
 ## 2018-06-21
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Revised icons submitted to iconfinder
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study: Introduction_to_Algorithms, (Chapter 15)
 
 ## 2018-06-22
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Updated project schedule
   * Enabled selection by filters
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study: Introduction_to_Algorithms, (Chapter 15)
 
 ## 2018-06-23
@@ -1090,44 +1090,44 @@ order: 1
 
 * Played table tennis with Joy
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Enabled selection of mesh elements
 
 ## 2018-06-25
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Enabled selection filters
   * Enabled clear selections
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study: Introduction_to_Algorithms, (Chapter 15)
 
 ## 2018-06-26
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Studied: Angular 6 Forms
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study: Introduction_to_Algorithms, (Chapter 15)
 
 ## 2018-06-27
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Created UploadFiles component
   * Dynamically loaded UploadFiles component
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study: Introduction_to_Algorithms, (Chapter 15)
 
 ## 2018-06-28
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Studied how to set up a NodeJS server
   * Studied ExpressJS
 
 ## 2018-06-29
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Studied how to communicate from Angular 2 to ExpressJS
 
 ## 2018-06-30
@@ -1145,32 +1145,32 @@ order: 1
 * Drove to Burlington Beach Way Park
 * Played cards at Joy's house
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued study: Introduction_to_Algorithms, Chapter 15
 
 ## 2018-07-03
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Studied MongoDB (tutorialspoint)
   * Studied NodeJS (w3school)
 
 ## 2018-07-04
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Developed router system on server
   * Enabled password matching validation
   * Enabled user sign up and sign in
 
 ## 2018-07-05
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Enabled uploading files to server
   * Enabled display of file lists on UploadFilesComponent
   * Enabled FileTreeComponent display
 
 ## 2018-07-06
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Enabled FileTreeComponent file deletion
 
 ## 2018-07-07
@@ -1184,19 +1184,19 @@ order: 1
 
 ## 2018-07-09
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Studied cpprestsdk and related libraries
 
 ## 2018-07-10
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Set up framework for translating igs files on server
 
 ## 2018-07-11
 
 * Read news from Microsoft
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Fixed eslint issues with NodeJS files
   * Resubmitted icons to iconfinder.com
   * Downloaded 3xWare from: https://www.3dconnexion.com/service/drivers.html?_s=adyqyeydbi
@@ -1211,13 +1211,13 @@ order: 1
 
 ## 2018-07-16
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Completed FTIFSManifold to JSON serialization
   * Studied NodeJS c++ integration techniques
 
 ## 2018-07-17
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Enabled translate geometry file on server and send to client
 
 ## 2018-07-18
@@ -1225,7 +1225,7 @@ order: 1
 * Read technology news from Google
 * Read technology news from Digital Engineering
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Revised display settings
 
 ## 2018-07-21
@@ -1234,7 +1234,7 @@ order: 1
 
 ## 2018-07-23
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Revise accessibility settings for class members
   * Enabled session store user settings
 
@@ -1242,19 +1242,19 @@ order: 1
 
 * Talked with Louis and Mr. Lin about basement floor problems
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Connected MongoDB using mongodb c driver
   * Redesigned server childprocess for mesh manifold
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Recontinued to read Polygon Mesh Processing algorithms
 
 ## 2018-08-08
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Tried combine JSON reader and writer to be a static library
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Reconfigured database structure
 
 ## 2018-08-15
@@ -1264,30 +1264,30 @@ order: 1
 
 ## 2018-08-16
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Added run-flow to svg toolbox
   * Enabled clear selection in svgcanvas
   * Enabled context menu for svgcanvas
   * Fixed issues with string control of node system
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Reinitialized folder structure and updated source codes
 
 ## 2018-08-17
 
 * Window condensation fixation estimation
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Installed STL reader
   * Reviewed book Polygon Mesh Processing Chapter 2 Mesh Data Structures
 
 ## 2018-08-21
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Read UI design documentation (not completed yet)
   * Revised organization of two applications
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Studied VCL library basics
   * Downloaded Qt 5.9.x
   * Downloaded MeshLab source codes
@@ -1295,19 +1295,19 @@ order: 1
 
 ## 2018-08-22
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Listened UI design from Annika (not completed yet)
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Revised backend geometry reader
   * Enabled importing *.obj file
 
 ## 2018-08-23
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Advised UI redesign
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Collected different model files from TurboSquid
 
 ## 2018-08-27-2018-09-03
@@ -1318,7 +1318,7 @@ order: 1
 
 * Called SunLife Dynacare for tele-interview service, no response
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Booked appointment with Jing Zhou about 3D slicing software
   * Rewrite client code using `async` methods
   * Downloaded some testing `stl` models
@@ -1327,31 +1327,31 @@ order: 1
 
 ## 2018-09-05
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Researched Observable vs. Promise and there relationship with streaming
   * Researched progressive mesh loading technologies
   * Started reading the book `Level of Detail for3D Graphics`
   * Met with Jingchao Zhou and talked about cooperation initiatives
   * Canceled auto renew of l3mon3d.com and l3monprint.com
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Talked with Annika about the design for specific actions
 
 ## 2018-09-06
 
-* [L3D-LMS]
+* [L3MONSHAPE](#l3monshape)
   * Continued reading the book `Level of Detail for3D Graphics`
   * Read paper 'Progressive_Streaming_of_Compressed_3D_Graphics_in_a_Web_Browser'
   * Read paper '3D_Mesh_Viewer_Using_HTML5_Technology'
 
 ## 2018-09-10
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Developed UI skeletons for the Blanking workbench
 
 ## 2018-09-11
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Revised UI design of Blanking workbench
 
 ## 2018-09-12
@@ -1361,17 +1361,17 @@ order: 1
 * Read technology news from NASA, Google and CodeDraft
 * Placed orders of cosmetics from theBay.com
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Revised UI design of Blanking workbench and overall styling
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Read paper 'The POP Buffer Rapid Progressive Clustering by Geometry Quantization'
 
 ## 2018-09-13
 
 * Read Technology Feeds: Google
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Read paper 'Efficient_Implementation_of_Progressive_Meshes'
   * Read paper 'Multi-Resolution_3d_Approximations_For_Rendering_Complex_Scenes'
 
@@ -1379,7 +1379,7 @@ order: 1
 
 * Read Technology Feeds: Microsoft
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Read paper 'Streaming_Compressed_3d_Data_On_The_Web_Using_JavaScript_And_WebGL'
   * Read paper 'Progressive_Meshes'
 
@@ -1389,10 +1389,10 @@ order: 1
 
 ## 2018-09-17
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Compiled FS 2018.1 Release Build to test backend functions
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Read paper 'Sequential_Point_Trees'
   * Read paper 'Instant_Points_Fast_Rendering_of_Unprocessed_Point_Clouds'
   * Started reading book 'OpenGL_Shading_Language'
@@ -1402,11 +1402,11 @@ order: 1
 * Read technology news from Develop3D
 * Read technology news from Intel
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Read PPT for the next workbench design
   * Initialized framework for the incremental workbench
   
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Started reading book 'OpenGL_Shading_Language'
   * Downloaded some papers from Web3D conferences 2014-2018
 
@@ -1415,11 +1415,11 @@ order: 1
 * Read technology news from Digital Engineering
 * Summitted requests to HSA refund for medical expensed since Jun 1st. 2017 for the whole family
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Revised architecture to include multiple related components for incremental workbench
   * Developed material controls page
   
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading book 'OpenGL_Shading_Language'
 
 ## 2018-09-20
@@ -1428,10 +1428,10 @@ order: 1
 * Fixed iPhone X screen crack problem in Maple View Shopping Center
 * Saved non-refund medical information in Tax folder
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Revised material page for incremental workbench
   
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading book 'OpenGL_Shading_Language'
 
 ## 2018-09-22
@@ -1446,11 +1446,11 @@ order: 1
 
 * Started reading report 'Azure_Developer_Guide'
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Completed Mesher action page for Incremental Workbench
   * Discussed about workflow page design
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading book 'OpenGL_Shading_Language'
   * Talked with Charles about the first step for DICOM to STL conversion demonstration
   * Downloaded Web3D conference papers related with massive 3D data transmission over the internet
@@ -1459,14 +1459,14 @@ order: 1
 
 * Continued reading report 'Azure_Developer_Guide'
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Researched solutions for SVG editing
 
 ## 2018-09-26
 
 * Visited Dr. Pampalloni for operation follow up
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Read paper 'A_Scalable_WebGL-based_Approach_for_Visualizing_Massive_3D_Point_Clouds_using_Semantics-Dependent_Rendering_Techniques'
   * Read paper 'Blast_A_Binary_Large_Structured_Transmission_Format_For_The_Web'
   * Read paper 'Dynamic_3D_visualizations_of_complex_function_surfaces_using_X3DOM_and_WebGL'
@@ -1475,10 +1475,10 @@ order: 1
 
 * Continued reading report 'Azure_Developer_Guide'
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Developed skeleton for nested boxes
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Read paper 'glTF Streaming from 3D Repo to X3DOM'
   * Downloaded 'ITK_Software_Guide' books
 
@@ -1486,7 +1486,7 @@ order: 1
 
 * Continued reading report 'Azure_Developer_Guide'
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Revised nested box design based on class definitions
 
 ## 2018-09-29
@@ -1504,27 +1504,27 @@ order: 1
 * Finished reading report ''Azure_Developer_Guide'
 * Searched vacation packages in Caribbean from Expedia.ca and Sunwings.ca
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Continue reading book 'OpenGL_Shading_Language'
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Started reading book 'ITK Software Guide I'
 
 ## 2018-10-02
 
 * Read technology news from Microsoft
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Continue reading book 'OpenGL_Shading_Language'
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Started reading book 'ITK Software Guide I'
 
 ## 2018-10-03
 
 * Searched Puta Cana travel deals
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading book 'ITK Software Guide I'
   * Learnt basics of CMake
 
@@ -1532,13 +1532,13 @@ order: 1
 
 * Visited McMaster Children's Hospital for Ethan's vision check
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued learning CMake basics
   * Continued reading book 'ITK Software Guide I'
 
 ## 2018-10-05
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued learning CMake basics
   * Continued reading book 'ITK Software Guide I'
 
@@ -1556,21 +1556,21 @@ order: 1
 
 * Read technology digests from Digital Engineering
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading book 'ITK Software Guide I'
 
 ## 2018-10-10
 
 * Prepared resume for FlexJobs
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Finished reading book 'ITK Software Guide I'
   * Finished reading book 'ITK Software Guide II' section related with DICOM reading and writing
   * Studied 3DSlicer from online tutorials
 
 ## 2018-10-11
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Started reading book 'The VTK Users Guide'
   * Prepared ReadDICOMSeriesAndWrite3DImage example
   * Prepared ExtractIsoSurface example
@@ -1579,7 +1579,7 @@ order: 1
 
 * Torque checked winter tire
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading book 'The VTK Users Guide'
   * Showed Charles about the current development of 3d reconstruction using ITK
 
@@ -1595,38 +1595,38 @@ order: 1
 
 ## 2018-10-15
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Revised front portal colors for different workbenches
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading book `The VTK Users Guide`
 
 ## 2018-10-16
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Revised menu bar design
   * Modified color schemes according to HxGN's guidebook
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading book `The VTK Users Guide`
 
 ## 2018-10-17
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Started postprocessing workbench design implementation
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading book `The VTK Users Guide`
 
 ## 2018-10-18
 
 * Packed tricycle for donation
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Completed basic user interface design for postprocessing workbench
   * Tried to integrated Ceetron Cloud Component for WebGL display
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading book `The VTK Users Guide`
 
 ## 2018-10-19
@@ -1636,14 +1636,14 @@ order: 1
 * Talked to Alton Kids Center to donate tricycle to the center
 * Bought the new all season tires from Costco
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading book `The VTK Users Guide`
 
 ## 2018-10-20
 
 * Visited theBay at the Oakville Place
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading book `The VTK Users Guide`
 
 ## 2018-10-21
@@ -1657,7 +1657,7 @@ order: 1
 * Read news from YorkBBS
 * Read news from Automotive Engineering
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading book `The VTK Users Guide`
 
 ## 2018-10-23
@@ -1666,7 +1666,7 @@ order: 1
 * Read news from YorkBBS
 * Read news from Autonomous Vehicle Engineering
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading book `The VTK Users Guide`
 
 ## 2018-10-24
@@ -1675,15 +1675,15 @@ order: 1
 * Read news from YorkBBS
 * Read news from Autonomous Vehicle Engineering
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading book `The VTK Users Guide`
 
 ## 2018-10-25
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Glimpsed through the proceedings of LS-Dyna 2018
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Updated Anaconda Python programming environment
 
 ## 2018-10-26
@@ -1691,7 +1691,7 @@ order: 1
 * Contacted Costco.ca requesting resending 2018 rebate cheque
 * Got receipt from Alton Kids Care Centre and uploaded to Baby R & Us claim center
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Read VTK Python wrapper documentation
   * Searched for VTK example data
 
@@ -1699,7 +1699,7 @@ order: 1
 
 * Finished reading of 'Autonomous Vehicle Engineering' Oct. 2018
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Considered strategy for developing medical imaging tool
 
 ## 2018-10-30
@@ -1707,7 +1707,7 @@ order: 1
 * Started reading paper 'Point Cloud Resampling Using Centroidal Voronoi Tessellation Methods'
 * Started reading paper 'Adaptive Quad Patches an Adaptive Regular Structure for Web Distribution and Adaptive Rendering of 3D Models'
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Started to read book 'Insight into Images'
 
 ## 2018-10-31
@@ -1716,17 +1716,17 @@ order: 1
 * Read WeChat news feed
 * Updated library, research and project folder structures
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading of the book 'Insight into Images'
 
-* [FS-OpenPlatform](#fs-opl)
+* [FORMINGTI](#formingti)
   * Read material of OpenForm
 
 ## 2018-11-01
 
 * Read AMUG news
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading of the book 'Insight into Images'
   * Started to read book 'Pattern Classification'
 
@@ -1735,7 +1735,7 @@ order: 1
 * Reviewing book 'Polygon Mesh Processing' Chapter 6 Remeshing
 * Updated icon set 'Scene Related' in iconfinder
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading of the book 'Pattern Classification'
 
 ## 2018-11-05
@@ -1745,12 +1745,12 @@ order: 1
 
 ## 2018-11-06
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Started reading book 'Computational Geometry' Chapter 7 Voronoi Diagrams
 
 ## 2018-11-07
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading book 'Computational Geometry' Chapter 7 Voronoi Diagrams
   * Read [Voronoi Diagrams and a Day at the Beach](http://www.ams.org/publicoutreach/feature-column/fcarc-voronoi)
 
@@ -1759,14 +1759,14 @@ order: 1
 * Read Microsoft news
 * Placed order of Kitchen Aide hand immersion blender
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading book 'Computational Geometry' Chapter 7 Voronoi Diagrams
 
 ## 2018-11-13
 
 * Read Microsoft news
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading book 'Computational Geometry' Chapter 7 Voronoi Diagrams
 
 ## 2018-11-20
@@ -1780,33 +1780,33 @@ order: 1
 * Added subscriber (parent) account to CST.org using suffix 'csts' and 'CST!'
 * Changed CST (RESP) payment from CIBC to TD
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continue reading book 'Pattern Classification'
   * Collected software related with 3D medical image visualization
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Added page of draft plan of how to manage development resolution
 
 ## 2018-11-21
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading book 'Computational Geometry' Chapter 7 Voronoi Diagrams
   * Downloaded CGAL library for installation
   * Searched c++ generic programming related books
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Presented drafted project plan for DFE inside FS
 
 ## 2018-11-22
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Installed CGAL and tested
   * Started to read the book 'The C++ Standard Library - A Tutorial and Reference'
   * Learnt basics of CGAL
 
 ## 2018-11-23
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continue learning of CGAL general concepts
   * Started to learn CGAL Voronoi package
 
@@ -1814,17 +1814,17 @@ order: 1
 
 * Consulted with Volvo Oakville and Burlington Auto Shop for advices regarding the noises
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continue learning of CGAL Voronoi package
 
 ## 2018-11-27
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continue learning of CGAL Voronoi package
 
 ## 2018-12-11
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Installed fresh `paraview-glance` project without any problem
   * Checked development tools on windows for NodeJS projects (https://github.com/Microsoft/NodeJS-guidelines/blob/master/windows-environment.md#compiling-native-addon-modules)
   * Upgraded `NodeJS`, `npm`, `node-gyp`
@@ -1839,28 +1839,28 @@ order: 1
 
 ## 2018-12-12
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Confirmed role for the project
   * Attended kick off meeting for the project
   * Distributed pre-discussion documentations to all involved
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Started to learn Vue.js
 
 ## 2018-12-13
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Set up Microsoft Team platform the Geometry team
   * Discussed with Jim via email about the plan for product definition
-  * Talked with Shararoz and Adrian about the preparations for the development next year
+  * Talked with Shaharoz and Adrian about the preparations for the development next year
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued learning of Vue.js and related technologies
   * Started getting familiar with paraview-glance project source codes
 
 ## 2018-12-14
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Finished learning of Vue.js and related technologies
   * Reorganized Azure DevOps portals
   * Started tweaking paraview-glance user interface
@@ -1872,7 +1872,7 @@ order: 1
 
 ## 2018-12-17
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued tweaking paraview-glance user interface
 
 ## 2018-12-18
@@ -1881,7 +1881,7 @@ order: 1
 * Printed parking tickets
 * Printed insurance information
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Drafted the first version of site design
   * Revised toolbar
   * Sent to Charles Eric Wu's information
@@ -1894,10 +1894,10 @@ order: 1
 * Drafted credit card comparison chart
 * Notified PC Financial about travel plan
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * PRIDE reviewed
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 
 ## 2019-12-21-2019-12-27
 
@@ -1913,12 +1913,12 @@ order: 1
 
 ## 2019-01-01
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Discussed with Charles about business plan
 
 ## 2019-01-02
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Revise business plan
 
 ## 2019-01-05
@@ -1933,7 +1933,7 @@ order: 1
 * Bought Air Canada for airfare back to China Apr. 20 - May. 10, $1838.02
 * Applied Capital One Costco credit card
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continue revise sidebar for database view
 
 ## 2019-01-08
@@ -1944,11 +1944,11 @@ order: 1
 * Read news from YorkBBS
 * Installed Microsoft Office 365
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Changed business plan format to WORD document
   * Talked with Charles about business plan revision
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Read through Jim's draft functional specification
 
 ## 2019-01-09
@@ -1956,11 +1956,11 @@ order: 1
 * Read technology news from Digital Engineering
 * Clean the computer disk
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Revised business plan v3
   * Installed Microsoft Team for personal
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Discussed with Jim about the proposed Functional Specification
   * Fixed outlook issue
   * Fixed Microsoft Team organization issue
@@ -1973,17 +1973,17 @@ order: 1
 * Sent email to Sydney asking about time availability for vent replacement
 * Bought LottoMax ticket
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Discussed with Charles about how to edit document at the same time
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Created backlog for workbench initialization
   * Created backlog for Repair Geometry
   * Discussed with Derek and Jim about workflow management and automation
 
 ## 2019-01-11
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Created backlog for Define/Edit symmetry
   * Created backlog for Generate Features
   * Created backlog for Define/Edit Part Features
@@ -2002,10 +2002,10 @@ order: 1
 * Read YorkBBS news
 * Attended Burlington City Console meeting about Cannabis Retail Opt-in/Opt-out
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Revised the section 'Solutions'
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Talked with Infrastructure team about workbench registration
   * Discussed with Eric about wireframe front and back end supports
 
@@ -2015,13 +2015,13 @@ order: 1
 * Started reading book 'Algorithm Explained'
 * Read technology news from Kitware
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Started research of related products comparison
   * Merged code base with paraview-glance 3.0.2
   * Created backlog for sprint 2
   * Migrated business related documents to Microsoft Team
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Added work item for addendum workbench toolbar
 
 ## 2019-01-16
@@ -2032,10 +2032,10 @@ order: 1
 * Read technology news from Digital Engineering
 * Payed Scotiabank AMEX credit card statement balance
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued working on competitor analysis
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Reviewed Adrian's code for submission
   * Asked Jacob to give us a license configuration flag for release build
   * Added Guidelines for Creating an Experiment Module
@@ -2044,12 +2044,12 @@ order: 1
 
 ## 2019-01-17
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Canceled AutoRenew of Workplace Email from Goddady.com
   * Continued revised software comparison
   * Added L3MONSHAPE project documents to Microsoft Team
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Added Mathew to the team
   * Talked with Jacob about infrastructure code review
   * Talked with Jacob about code review
@@ -2066,10 +2066,10 @@ order: 1
 * Removed automatic PayPal payment account settings
 * Moved delivered Wayfair bed frame to living room
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Talked with Charles about product competition positioning
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Updated specification for Create Elevation Curve
   * Revised folder structures on Microsoft Team
   * Updated operating system to Hexagon.com account
@@ -2095,12 +2095,12 @@ order: 1
 
 * Read technology news from Develop3D_DEC18JAN19
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Started conversation with Mario about product idea
   * Studied how to handle http request from Vue application
   * Enabled sending http request to server
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Check Sprint 2019.1.3 and 2019.1.4
   * Checked Microsoft Team development wiki
   * Check to see how to diagnose work balance
@@ -2110,12 +2110,12 @@ order: 1
 
 * Read technology news from Develop3D_DEC18JAN19
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Created Python script to generate random records
   * Talked with Charles about business plan and demoed paraview-glance
   * Imported generated records into MongoDB
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Check Sprint 2019.1.3 and 2019.1.4
   * Done code review for DeleteFaces
 
@@ -2125,10 +2125,10 @@ order: 1
 * Moved day-to-day journal to Wordpress.com
 * Written post about How to Fight Against Sleepiness
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Revised business plan about key technologies
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Created testing cases for Advanced Geometry Workbench
   * Done code review for DeleteFaces
   * Filled PRIDE Goal for 2019 form
@@ -2139,10 +2139,10 @@ order: 1
 * Read technology news from Develop3D_DEC18JAN19
 * Downloaded GitHub private website repo
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Reviewed business plan and resources from Charles
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Fixed the issue of missing FTIAdvancedGeometry.dll in nightly build
   * Discussed with team about sprint management
   * Asked infrastructure team to create a WireframeLab branch to work
@@ -2151,11 +2151,11 @@ order: 1
 
 * Started to use Bootstrap for jekyll project
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Started to use jekyll for research projects
   * Talked with Charles about merging documents
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Discussed with Adrian about back end merging
   * Discussed with Eric about stand up meeting
   * Discussed with Mario about graphics engine upgrading
@@ -2173,10 +2173,10 @@ order: 1
 * Read technology news from Develop3D_NOV18
 * Revised personal website on GitHub
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Revised business plan by merging and expanding
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Discussed with Infrastructure team about release related activities
   * Prepared documents to show SDF to FS extensions
 
@@ -2185,7 +2185,7 @@ order: 1
 * Searched floor lamps
 * Searched washer and dryer set
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Continued working on create invoke button for WireframeLab
   * Updated CATIA license file
   * Confirmed features for the current sprint
@@ -2197,7 +2197,7 @@ order: 1
 * Read technology news from Develop3D_NOV18
 * Searched floor lamps
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Continued working on create invoke button for WireframeLab
   * Revised FTI Code Review Guidelines to merge some suggestions from Adrain
 
@@ -2205,7 +2205,7 @@ order: 1
 
 * Studied Hexagon Business Conduct and Ethics course for 2019
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Revised wireframe data structure
 
 ## 2019-02-01
@@ -2214,10 +2214,10 @@ order: 1
 * Checked and updated Google settings
 * Updated email accounts linked with financial institutions (TD, CIBC, Scotiabank, PC Financial, Canadian Tire Triangle, Capital One, HBC, PayPal), except Triangle account needs to call customer service (1-800-226-8473) Monday to Friday, 8:00 am to 8:00 pm to change
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Revised business plan by adding details to Solutions
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Fixed a bug that right context menu crashes
   * Developed function to collect boundary faces
   * Developed function to collect boundary points with normals
@@ -2228,7 +2228,7 @@ order: 1
 
 * Returned iTalkBB TV box to pacific center
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Revised business plan by adding details to Solutions
 
 ## 2019-02-03
@@ -2239,7 +2239,7 @@ order: 1
 
 * Read technology news from Develop3D_OCT18
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Report to management about team progress
   * Talked with Shaharoz about feature tree design and work balance
   * Continued working on normal mapping
@@ -2248,7 +2248,7 @@ order: 1
 
 * Read technology news from Develop3D_OCT18
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Written debug function for set/get configuration parameters
 
 ## 2019-02-06
@@ -2256,7 +2256,7 @@ order: 1
 * Discussed with Reliance Comfort to replace water tank
 * Discussed with PC Financial to change email address
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Revised function to snap vertex normal by attenuation
   * Attended meeting for PP requirements
   * Did code review for DeleteHoles
@@ -2269,12 +2269,12 @@ order: 1
 * Changed CST RESP account email address
 * Changed Research Gate email address to Microsoft
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Reviewed tasks about software development
   * Enabled reading json data from server
   * Added template for create record
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Did code review for 'Delete Holes'
   * Did code review for 'Repair Geometry Set'
   * Developed script to format resource.h and resource_lc.h by aligning IDs
@@ -2289,11 +2289,11 @@ order: 1
 
 * Read technology news from Develop3D_OCT18
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Revised business plan to V7
   * Added technology stack picture
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Created empty dialog box for wireframe cell selection
   * Created script for creating dialog box
   * Connected with back end function for locating wireframe cell
@@ -2305,11 +2305,11 @@ order: 1
 * Read technology news from Digital_Engineering_01_19
 * Reorganized some closets in kitchen
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Discussed with Charles about Business Plan V7
   * Enabled creating / editing record on client side
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Presented at the Sprint Meeting
 
 ## 2019-02-13
@@ -2319,7 +2319,7 @@ order: 1
 * X-rayed, examed and scaled teeth at dentistry office
 * Developed jekyll static site for research
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Attended sprint planning meeting
   * Discussed with team members about progress
   * Did code review for symmetry plane back-end functions
@@ -2332,7 +2332,7 @@ order: 1
 * Submitted HSA e-claim for the rest of the dental exam/x-ray/scaling service charges
 * Went through city / library spring events for kids
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Did code review for Repair Parts
   * Did code review for Symmetry Definition
 
@@ -2344,7 +2344,7 @@ order: 1
 * Changed cast floor lamp configuration
 * Organized purchase orders and warranties
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Did code review for Repair Parts
   * Drafted function for wireframe face searching
 
@@ -2362,7 +2362,7 @@ order: 1
 * Read technology news from Digital_Engineering_01_19
 * Updated research site for medical imaging
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Drafted function for wireframe face searching
   * Developed function to check wireframe topology
   
@@ -2372,7 +2372,7 @@ order: 1
 * Asked Scotia Bank about Purchase Insurance
 * Added geometry-modeling topic to research site
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Developed function for wireframe face searching
   * Revised function to check wireframe topology
   * Enabled recreate wireframe in lab
@@ -2382,11 +2382,11 @@ order: 1
 * Received bonus for 2018 from FTI
 * Added additive-manufacturing topic and resource to research site
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Enabled CURD operations
   * Enabled viewer to be default
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Discussed with team about Repair Geometry invocation
   * Revised document link in features
   * Developed back-end function to pick wireframe face
@@ -2398,17 +2398,17 @@ order: 1
 * Revised personal site static pages
 * Updated personal and research site galleries
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Researched upload modules for vue
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Presentation about the current development status of Wireframe Lab
 
 ## 2019-02-25
 
 * Developed script for batch creating and registering page files from library
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Discussed about Forming Suite workflow of workbenches
   
 ## 2019-02-26
@@ -2417,7 +2417,7 @@ order: 1
 * Changed utility email addresses
 * Filled StudioTax for rental, work from home
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Did code review for Define Tipping back end functions
   * Did code review for Define Symmetry front end function - attribute manipulation
   * Enabled display of selected and unselected wirefram faces
@@ -2431,14 +2431,14 @@ order: 1
 * Updated email address for technology labled emails
 * Updated email address for health labled emails
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Revised create_dialog.py using templates
   
 ## 2019-02-28
 
 * Filled form T2019
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Revised create_dialog.py by including copy cpp/h files
   * Revised create_dialog.py by including resource files
   * Revised create_dialog.py by including enabled sorting h file for rc
@@ -2447,7 +2447,7 @@ order: 1
 
 * Read technology news from Digital Engineering 2019-01
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Did code review for back end functions for Define Tipping
   * Did code review for front end functiosn for Define Symmetry
   * Uploaded part database to SharePoint server
@@ -2468,10 +2468,10 @@ order: 1
 
 * Revised research site by added papers from progressive-mesh
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Removed docs from lsprocessor and distributed them to research projects
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Did code review for back end functions for Define Tipping
   * Fixed typo issues with remove_dialog script
   * Restructured script folder by using package
@@ -2481,10 +2481,10 @@ order: 1
 
 * Revised research site by added papers from progressive-mesh
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Leant vuex basics
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Did sprint review on the meeting
 	* Confirmed next sprint features
 	* Sent .reg requests
@@ -2502,7 +2502,7 @@ order: 1
 * Updated CRA account email and mail addresses
 * Updated TD insurance email address
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Discussed with Adrian about back end functions for Create Direction Line
 	* Finished simle create command script
 	* Initialized create command menu script
@@ -2513,7 +2513,7 @@ order: 1
 * Reorganized Private folder from top till Finance
 * Prepared Purchase Insurance claim for tablecloth
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Finished script to create command with menu
 	* Finished script to append subcommand to command with menu
 	* Finished script to insert function header to cpp and h files
@@ -2523,7 +2523,7 @@ order: 1
 * Read technology news from Digital Engineering 2018-12
 * Searched technologies for writing email using Markdown and LaTex
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Discussed with Shaharoz about Create Direction Line design
 	* Discussed with Shaharoz about CreatePlaneDisplay
 	* Created snippet for function header in .h
@@ -2531,12 +2531,12 @@ order: 1
 	
 ## 2019-03-11
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Discussed with Charles about project progress and peoples
 	* Reviewed Vue.js guide
 	* Reviewed vuex guide
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Discussed with Shaharoz about Create Punch Direction Line dialog box design issues
 	
 ## 2019-03-12
@@ -2545,7 +2545,7 @@ order: 1
 * Checked claim form for the lost tablecloth
 * Checked Tax 2019 using TurboTax online
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Asked Muhammand about Define Part Features dialog redundant controls
 	* Revised script for creating command with dialog
 	
@@ -2555,13 +2555,13 @@ order: 1
 * Searche for the difference between different religions
 * Read technology news from Digital_Engineering_2018_12
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Revised script for creating command with dialog
 	* Started to work on subdivide wireframe faces
 	
 ## 2019-03-14
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reviewed Andrian's code for Define/Edit features
 	* Discussed with Shaharoz and Adrian about interface protocol
 	* Developed function to evalute coons patch uv
@@ -2571,11 +2571,11 @@ order: 1
 
 * Read technology news from Digital_Engineering_2018_12
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Purchased professional email services from GoDaddy.com
 	* Redesigned file uploads and downloads in database page
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Continued developing function to subdivide wireframe facesc
 	
 ## 2019-03-16
@@ -2584,7 +2584,7 @@ order: 1
 * Did shopping at the Nations Hamilton
 * Had converstation with Eugene
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Added actions to upload files
 	
 ## 2019-03-17
@@ -2596,11 +2596,11 @@ order: 1
 * Called Conduminium Corp Guid to ask for the vent replacement contractor contact information
 * Called insurance company with Enterprise Car Rental to discuss issue about driveway repaint
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Passed parameters to upload files
 	* Enabled uploading file contents
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Did sprint review and checked progress of features development
 	* Continued development of split wireframe faces
 	* Considering redevelop serach for faces for wireframe considering general case
@@ -2610,11 +2610,11 @@ order: 1
 
 * Got call from GE Appliance and scheduled delivery with Haul Away service
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Bi-weekly meeting with Charles
 	* Enabled uploading files to server
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Continued reading elementry graph related algorithms
 
 ## 2019-03-20
@@ -2623,40 +2623,40 @@ order: 1
 * Washer and dryer delivered
 * Filed claim to UserTesting to claim unpaied amounts
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Did code review for Andrian and Shaharoz for Define/Edit Part Features
 	* Initialized new wireframe face searching function
 	
 ## 2019-03-21
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Enabled uploading multiple files to server and update the record
 	* Enabled styling record without files
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Did code review for Andrian and Shaharoz for Define/Edit Part Features
 	* Continued development of new wireframe face searching function
 	
 ## 2019-03-22
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Enabled updating client record files information
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Continued development of new wireframe face searching function
 	* Redesigned function for miminal loop checking
 
 
 ## 2019-03-24
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Had discussion with President Li about AI in Arts
 	
 ## 2019-03-25
 
 * Diagnosed with Gout and proceeded with treatment
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Installed and tested new features of AGW
   * Continued development of new wireframe face searching function
 	
@@ -2664,11 +2664,11 @@ order: 1
 
 * Diagnosed with Gout and proceeded with treatment
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Updated backlogs
 	* Finished uploading files to server
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reviewed functionalities from CATIA Die Face package
   * Continued development of new wireframe face searching function
 	
@@ -2677,10 +2677,10 @@ order: 1
 * Confirmed quotation appointment with ProConcrete on next Monday noon
 * Asked about Critical Illness promotions
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Enabled downloading zipped files from server
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reviewed Adrian's code for fixing polygon selection
 	* Reivewed Shaharoz's code for feature regeneration
 	* Read Curves and Surfaces to find arbitrary subdivision schemes
@@ -2689,18 +2689,18 @@ order: 1
 
 * Read technology news from A Look at Lightweigting Technology
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Changed style settings for global and local components
 	* Fixed a bug related with delete record on server
 	* Enabled sending search information to server
 	* Enabled searching documents on server
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Created Current Work Items query for the team
 	
 ## 2019-03-29
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Used Vuex to manage database states
 	* Finished database toolbox search and reset functions
 	* Revised template stylings
@@ -2715,11 +2715,11 @@ order: 1
 * Read news from YorkBBS
 * Read news from WeChat channels
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Added backlog for the next sprint
 	* Enabled viewer to be the landing page
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Discussed with parties involved about UI component development
 	* Reviewd chapter 22 related with Coons patches
 
@@ -2729,44 +2729,44 @@ order: 1
 * Searched McMaster graduate programs
 * Read news from YorkBBS
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Had meeting with Charles and Li
 	* Created actions for open remote sample
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Investigated bug #19190
 
 ## 2019-04-03
 
 * Read technology news from A Look at the Light Weight Technology
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Reorganized meeting minutes on Microsoft Team
 	* Enabled load state files from database
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Investigated CPropertyPage and CPropertySheet extensions
 	
 ## 2019-04-04
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Updated meeting minutes on Microsoft Team
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Prepared report for wireframe technology development
 	
 ## 2019-04-08
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Dicussed with Li about architecture
 	* Read report from RSNA about AI in radiology applications
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Tried to use MFC dialog template to create UI component
 
 ## 2019-04-09
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Did code review for Adrian about SplitSurfaces back end functions
 	* Did code review for Shaharoz about bug fixes for Generate Part Features
 	* Developed UI component by registering windows class and using custom control
@@ -2774,7 +2774,7 @@ order: 1
 
 ## 2019-04-10
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Did code review for Adrian about SplitSurfaces back end functions
 	* Did code review for Shaharoz about bug fixes for Generate Part Features
 	* Developed UI component by registering windows class and using custom control
@@ -2783,10 +2783,10 @@ order: 1
 
 * Changed project names on vsonline
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Revised color theme
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Enabled resizing UI component
 	* Revised example dialog box by using one UI component instance
 	
@@ -2796,7 +2796,7 @@ order: 1
 * Researched second hand appliance market
 * Changed project names on vsonline
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Revised UI component resizing
 	* Revised example dialog box by introducing another UI component instances
 	
@@ -2817,14 +2817,14 @@ order: 1
 * Reorganized photo albums on cell phone
 * Picked up grocery from Hu's store
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Tought Shaharoz how to use combo property sheet component
 	
 ## 2019-04-16
 
 * Redesigned concrete plan
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Presented UI component at the Sprint Review meeting
 	* Discussed with Muhammand about issues left over
 	* Reviewed codes from Adrian and Shaharoz for Split Surfaces
@@ -2834,11 +2834,11 @@ order: 1
 * Read technology report Design & Simulation Software Review Round Up
 * Paid Cogeco bill for this month
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Redesigned viewer toolbox
 	* Updated database toolbox using grid system
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Asked for discussion about Geometry workbench feature tree strucutre change
 	* Read Segment Line feature definition
 	* Continued developement of Subdivide Wireframe Faces for quad shaped
@@ -2847,7 +2847,7 @@ order: 1
 
 * Installed stove for Evelyn Lane
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Redeveloped function to read configuration parameters
 	* Revised subdivision algorithm for quad surface
 	* Developed function to display wireframe
@@ -2869,10 +2869,10 @@ order: 1
 * Revised concrete design plan
 * Had Patterned Concrete estimated job price
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Added tools to view toolbox
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Presented progress in Geometry team
 	* Discussed with Shaharoz about combo property page extension
 	* Developed subdivision for silver face
@@ -2881,11 +2881,11 @@ order: 1
 
 * Read technology report Design & Simulation Software Review Round Up
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Reorganized mixins for view toolbox
 	* Had meeting with Charles and Li
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Developed subdivision for triangular face
 	* Fixed some topology issues with subdividing wireframe faces
 	* Fixed an issue related with picking wireframe face
@@ -2895,12 +2895,12 @@ order: 1
 * Reserved parking space from Skyways
 * Designed business card from vistaprint.ca
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Reopened company website
 	* Redesigned businss card
 	* Compared hosting and website builder services
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Did code review for Shaharoz for Comobo Property Sheet extension
 	
 ## 2019-04-25
@@ -2908,14 +2908,14 @@ order: 1
 * Got TD swift code
 * Paied Union Gas monthly fee
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Revised business card title
 	* Read Rapid-TCT conference schedules
 	* Revised toolsets by using components
 	* Added view toolset
 	* Reinstalled lemtri project
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Did code review for Shaharoz for Comobo Property Sheet extension
 	* Did code review for Shaharoz for Create Direction Line
 	
@@ -2924,12 +2924,12 @@ order: 1
 * Got Swift code from CIBC
 * Bought diaper and chicken from Costco
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Revised view toolbox layout
 	* Revised Representation component template
 	* Fixed a bug related with vtkView display
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Did code review for Shaharoz for Comobo Property Sheet extension
 	* Did code review for Adrian for Create Direction Line
 	
@@ -2943,26 +2943,26 @@ order: 1
 
 ## 2019-05-11
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Revised portal page texts and rebuilt on heroku
 	
 ## 2019-05-22
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Fixed some styling issues in viewer toolbox
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reviewd project status
 	
 ## 2019-05-23
 
 * Read technology news from Tech Briefs May 2019
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Fixed some styling issues
 	* Updated some templates
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reviewed codes for wireframe design
 	
 ## 2019-05-24
@@ -2971,7 +2971,7 @@ order: 1
 * Discussed with Glenn about potential rental application
 * Read technology news from Tech Briefs May 2019
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Added Apply callback for CreateContours
 	* Discussed with Shaharoz about combo property sheet cosmetic issue
 	
@@ -2992,10 +2992,10 @@ order: 1
 
 * Read technology news from D3D April 2019
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Enabled showing up Representation panel
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Attended release meeting
 	* Discussed with Shaharoz about Create Direction Line dialog box UI issues
 	
@@ -3004,10 +3004,10 @@ order: 1
 * Visited Pediatric Dentistry
 * Asked Sydney about basement earlier vacation
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Revised template styling
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Checked current Edit Line UI design
 	* Set up meeting for Edit Line UI design confirmation
 	* Set up meeting for AGW progress review
@@ -3017,42 +3017,42 @@ order: 1
 
 * Read technology news from D3D April
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Enabled saving toolsets to database
 	* Added ColorBy module
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Created algorithm to inspect line correlation
 	
 ## 2019-05-30
 
 * Read technology news from D3D April
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Revised control templates and styles
 	* Enabled SliceControl
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Rewritten algorithm to roll boundary in 2D
 	
 ## 2019-05-31
 
 * Read technology news from D3D May
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Enabled molecule module
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Revised algorithm to roll 2D curve
 	
 ## 2019-06-03
 
 * Investigated Scotia Rewards program over the last 12 months
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Put toolsets and commands into configuration
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Discussed with team about Create Direction Line backends
 	* Revised code for rolling 2D curve
 	
@@ -3061,11 +3061,11 @@ order: 1
 * Applied Epic Games senior tools developer remote job
 * Rejected Upchain's invitation
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
  * Added information related controls
  * Reorganized control components
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
  	* Revised code for rolling 2D curve	
 	* Revised code for offseting 3D curve
 	
@@ -3073,7 +3073,7 @@ order: 1
 
 * Read articles from FlexJobs
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Revised code for offseting 3D curve
 
 ## 2019-06-06
@@ -3085,7 +3085,7 @@ order: 1
 * Read technology news from D3D May
 * Updated resume on AngelList
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Revised code for offseting 3D curve
 	* Reviewed new workflow proposal
 	* Revised code for smoothing 2D curve by rolling
@@ -3104,7 +3104,7 @@ order: 1
 * Read news from YorkBBS
 * Watched Raptor's game 5
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reviewed initial codes for unfolding
 	* Discussed workflow management with team
 	* Tought Shaharoz about wireframe
@@ -3115,7 +3115,7 @@ order: 1
 * Sent email to Glenn about earlier move-in
 * Bought scooter for Ethan
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Discussed with Jim about Double Attach
 	* Made some suggestions regarding grouping geometry tools
 	* Reviewed code for tagging geometry forms
@@ -3126,13 +3126,13 @@ order: 1
 * Reorganized company bookmarks
 * Read news from YorkBBS
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Fixed global helper issue
 	* Fixed FieldData display issue
 	* Removed vtkViewer bottom toolbar
 	* Written and submitted Product Advantages
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reviewed code from Adrian for Unfolding
 	* Completed estimation for second half development
 	* Investigated DataKit upgrading issue
@@ -3142,10 +3142,10 @@ order: 1
 * Read technology news from 3D Metal Printing Spring 2019
 * Read news from WeChat Moments
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Updated product targeting applications
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reviewed code from Adrian for Unfolding
 	* Completed estimation for second half development
 	* Investigated DataKit upgrading issue
@@ -3154,10 +3154,10 @@ order: 1
 	
 ## 2019-06-14
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Revised DevOps setup
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Upgraded SDF 3.3 DataKit to V2019.2
 	
 ## 2019-06-15
@@ -3178,10 +3178,10 @@ order: 1
 * Gave daycare Ethon's birthday gifts adn cakes
 * Read technology news from AMUG
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Revised vtkView float toolbar style
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Revised workflow of contour creation
 	* Got spec for Define/Morph Binder and Show Unfolded Flanges
 	* Read spec and developed tasks for Define/Morph binder
@@ -3194,10 +3194,10 @@ order: 1
 * Read technical report '10 Basic 3D Model Repair Functions'
 * Read nTopology blog posts
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Fixed issues related with view display without source
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Discussed Define Binder spec related issues
 	* Redesigned wireframe related geometry data structure
 	
@@ -3205,10 +3205,10 @@ order: 1
 
 * Read technical news from Automotive Engineering 201905
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Fixed issues with server side file async operations
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Discussed with Adrian and Shaharoz about Graphics Widget work
 	
 ## 2019-06-20
@@ -3219,7 +3219,7 @@ order: 1
 * Researched mobile phone (VM) plan details
 * Resaerched China SIM Card (iTalkBB) plan details
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reviewed Adrian's code for binder creation
 	* Developed 3D curve rolling function
 	
@@ -3231,7 +3231,7 @@ order: 1
 * Booked iMac repaire service
 * Booked appointment with TD local branch about opening unlimited chequing account
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reviewed Shaharoz feature tree updates for Binder
 	* Reviewed bugs found in Create Direction Line and Define Symmetry
 
@@ -3252,11 +3252,11 @@ order: 1
 * Discussed about TD chequing account migration
 * Started process of Patterned Concrete work
 	
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Removed redundant Dataset module files
 	* Revised styling of viewer toolbox
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reviewed submision from Shaharoz for Create Binder
 	* Created function to create Hermite GeoCurve
 	* Revised Offset3DGeoCurve and SmoothGeoCurve3DByRolling
@@ -3266,7 +3266,7 @@ order: 1
 * Read technology news from Autonomous Vehicle Engineering 201906
 * Read technology news from WeChat
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Revised Offset3DGeoCurve and SmoothGeoCurve3DByRolling
 	
 ## 2019-06-26
@@ -3278,10 +3278,10 @@ order: 1
 * Read technology news from WeChat
 * Fixed jekyll installation problem
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Enabled updating layout
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reviewed Adrian's code for sihouette binder creation
 	* Revised Offset3DGeoCurve and SmoothGeoCurve3DByRolling
 	* Redesigned Create Contours dialog box for creating seperately
@@ -3291,14 +3291,14 @@ order: 1
 * Visited family doctor asking prescription for blood work
 * Checked asphalt paving in communities
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Developed function to create contour 2
 	
 ## 2019-06-28
 
 * Visited family doctor asking prescription for blood work
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Developed function for create contour 3
 	* Developed function to split contour 0 and contour 1
 	
@@ -3314,7 +3314,7 @@ order: 1
 * Had lunch at Crystal Restaurant in Hamilton
 * Shopped in BT grocery store
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Developed function for create contour 3
 	* Developed function to split contour 0 and contour 1
 	
@@ -3323,14 +3323,14 @@ order: 1
 * Visited Milton Canada Day Celebration
 * Played at the Oakville Beach Front
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Developed function for create segements
 	* Reviewed codes from Shaharoz and Adrian for Define Binder
 	* Prepared PPT for wireframe review
 	
 ## 2019-07-02
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Revised function for create segements
 	* Prepared PPT for wireframe review
 	
@@ -3338,10 +3338,10 @@ order: 1
 
 * Booked appointment for car service and repairation
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Fixed a bug related with ColorBy control update when workbench changes
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Revised function for aligning segements
 	* Did wireframe development stage review
 	* Checked Double Attach specification
@@ -3353,13 +3353,13 @@ order: 1
 * Bought curtain for patio from Amazon
 * Bought french door panel curtain from Amazon
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Revised function for aligning segements
 	* Discussed Double Attach specification
 	
 ## 2019-07-05
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Revised function for aligning segements
 	* Discussed Double Attach specification
 
@@ -3379,7 +3379,7 @@ order: 1
 * Read technology news from D3D June
 * Studied Getting Started with Autodesk Forge
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Revised code to find closest points on contour
 	
 ## 2019-07-09
@@ -3387,10 +3387,10 @@ order: 1
 * Searched Graduate School inforamtionf or Jingjing
 * WestView Paving excavated driveway
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Investigated DICOM loading issue
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Revised code to find closest points on contour
 	* Developed codes to find segments for corner points of contour 0
 	
@@ -3399,10 +3399,10 @@ order: 1
 * Searched Graduate School inforamtionf or Jingjing
 * Changed passwords
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Fixed DICOM loading issue
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Developed codes to find segments for contour 1
 	
 ## 2019-07-11
@@ -3410,12 +3410,12 @@ order: 1
 * Reorganized remote git repositories
 * Created document for Graduate School Application
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Enabled loading local files
 	* Added load local file button
 	* Revised database page style
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reviewed back-end codes for Morph Binder
 	* Investigated possibility of extending FTIComboPropertySheet using FTIComboBox
 	* Revised codes to find segments for contour 1
@@ -3426,7 +3426,7 @@ order: 1
 
 * Created github project for graduate school application
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reviewed back-end codes for Morph Binder
 	* Reviewed front-end codes for Morph Binder
 	* Revised codes for find segments for contours
@@ -3448,11 +3448,11 @@ order: 1
 * Shopped curtains and rods for front door
 * Read news from Wechat
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Revised database page
 	* Fixed git issues
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Revised codes for contour segmentation
 	* Added function to empty contour
 	* Added function to derive contour
@@ -3465,11 +3465,11 @@ order: 1
 
 * Searched McMaster University graduate programs
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Attended sprint meeting
 	* Created local build
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Removed Autodesk installations
 	* Reviewed codes from Adrian for Morph Binder
 	* Reviewed codes from Shaharoz for Morph Binder
@@ -3478,10 +3478,10 @@ order: 1
 
 * Developed personal activities chart
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Updated meeting memo
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Completed segment interpolation
 	* Added ui controls for segment length control
 	
@@ -3489,17 +3489,17 @@ order: 1
 
 * Added Western University CS M.Sc. program information
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Demostrated current stage of development
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Developed PostprocessContourConrners for solving crossing issues
 	
 ## 2019-07-19
 
 * Searched semi-sheer curtain panel for front door
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Developed function to create fillet curve
 	
 ## 2019-07-20
@@ -3519,10 +3519,10 @@ order: 1
 
 * Searched fitness programs
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Researched incubator / acceleration programs near me
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Prepared demo of Create Punch Direction Line and Define Binder for sprint review
 	
 ## 2019-07-23
@@ -3533,11 +3533,11 @@ order: 1
 * Searched deck box for garbages
 * Sent cogeco bills to Min
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Subscribed enterpreneurship course "Entrepreneurship: How To Start A Business From Business Idea" from udemy
 	* Started learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Attended sprint review meeting
 	
 ## 2019-07-24
@@ -3545,16 +3545,16 @@ order: 1
 * Researched University of Toronto Computer Science M.Sc. program information
 * Discussed with Jingjing about TOFEL test preparation
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Added issue for Punch Direction line display
 	* Reorganized Azure DevOps work items for Geometry Team
 	
 ## 2019-07-26
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Prepared wireframe development status report
 	* Reorganized Azure DevOps work items for Geometry Team
 	
@@ -3566,7 +3566,7 @@ order: 1
 * Had lunch at Dong Bei Xiao Chu
 * Shopped grocery at National Fresh Food Market
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	
 ## 2019-07-28
@@ -3575,7 +3575,7 @@ order: 1
 * Shopped bakery and had lunch at T&T Mississauga
 * Visited Halton Hill Fall
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	
 ## 2019-07-29
@@ -3585,10 +3585,10 @@ order: 1
 * Talked with Zhao Liang about Jingjing's studies
 * Searched TV stands and shelfs
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reassigned some issues assigned to me
 	* Discussed issues and bugs resolved by Shaharoz
 	* Added function to clone GeoPoint
@@ -3600,10 +3600,10 @@ order: 1
 * Designed sidewalk yard
 * Talked with Jingjing about TOFEL study
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Had meeting discussed the current status of grant application
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Created function to extract segments
 	
 ## 2019-07-31
@@ -3614,7 +3614,7 @@ order: 1
 * Shpped lumber for garden gate
 * Assembled deck boxes
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reorganized codes for extract segments
 
 ## 2019-08-01
@@ -3622,18 +3622,18 @@ order: 1
 * Searched plumber torch and solder supplies
 * Discussed with Jingjing about application
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	* Searched online business schools
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Fixed a bug related with missing fillet segment
 	
 ## 2019-08-02
 
 * Applied Study.com engineering drawing job
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Revised data structure related with wireframe development
 	
 ## 2019-08-03
@@ -3653,7 +3653,7 @@ order: 1
 
 * Cleaned computer and tried to solve window store issues
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Revised data structure related with wireframe development
 	
 ## 2019-08-07
@@ -3661,10 +3661,10 @@ order: 1
 * Signed up for UpWorks
 * Designed another version for sidewalk landscaping
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Rollbacked data structure changes for wireframe development
 	
 ## 2019-08-08
@@ -3673,7 +3673,7 @@ order: 1
 * Searched HVAC maintenance services near me
 * Searched TV stands from WayFair
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Rollbacked data structure changes for wireframe development
 	
 ## 2019-08-09
@@ -3682,12 +3682,12 @@ order: 1
 * Searched HVAC maintenance services near me
 * Searched TV stands from WayFair
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	* Continued learning of 'Introduction to Biomedical Imaging' from edX
 	* Reorganized DevOps for Volics and Lemtri
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Discussed with Shaharoz about FTIComboBox ownerdrawn issue
 	* Rollbacked and revised data structure for wireframe
 	
@@ -3710,10 +3710,10 @@ order: 1
 * Developed page for badacaixi
 * Installed Rubbermaid Big Max shed in back yard
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Discussed with Charles about grand application
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reported Morph Binder development
 	* Discussed with Shaharoz about ComboBox resolution
 	* Investigated vectors of wireframe segments
@@ -3722,7 +3722,7 @@ order: 1
 
 * Modified page for badacaixi
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reported Morph Binder development in Sprint Review meeting
 	* Reviewed Breadth-first search algorithm
 	* Reviewed Double Attach specification
@@ -3732,7 +3732,7 @@ order: 1
 * Paid Scotia Bank account balance for Jul.16-Aug.15
 * Paid SunLife term insurance for Dong
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Discussed issues with Double Attach specification
 	* Fixed a bug in Create Wireframe realted with corner point regristration in series
 	
@@ -3743,10 +3743,10 @@ order: 1
 * Bought Logitiec H390 from BestBuy.ca
 * Revised badacaixi.md
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Started reviewing PA-19-021 application
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Completed initial draft of wireframe creation
 	
 ## 2019-08-16
@@ -3755,11 +3755,11 @@ order: 1
 * Contacted Hong Gang for meeting
 * Searched shelfing boards and hardwares
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Continued reviewing PA-19-021 application
 	* Downloaded application package
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Revised strategy to retrieve feature data
 	* Attended meeting to change development strategy for Die Face
 	
@@ -3780,17 +3780,17 @@ order: 1
 * Bought dropshipping course from Udemy
 * Visited Liao's home and had lunch at Snug Harbour restaurant
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of Entrepreneurship ad Udemy	
 
 ## 2019-08-19
 
 * Discussed with Jingjing about TOEFL exam
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of Biomedical Imaging at edX
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Revised strategy for contour 0 corner linking
 	
 ## 2019-08-20
@@ -3798,12 +3798,12 @@ order: 1
 * Started learning dropshipping from Udemy
 * Searched Spotify for chinese singers
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of Biomedical Imaging at edX
 	* Continued learning of Entrepreneurship at Udemy
 	* Discussed with Charles and Li about grant application
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Discussed strategy of SDF to FS migration
 	* Prepared document for SDF to FS migration strategy for the moment
 	
@@ -3814,7 +3814,7 @@ order: 1
 * Searched Spotify for chinese singers
 * Finished shelfing for shed
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Continued preparing document for SDF to FS migration strategy for the moment
 	
 ## 2019-08-22
@@ -3824,12 +3824,12 @@ order: 1
 * Bought visbuyer.com hosting service from HostGator
 * Changed HostGator account password
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Prepared spec for Repair Geometry
 	
 ## 2019-08-23
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Started preparation of SDF to FS migration specs
 	
 ## 2019-08-24
@@ -3837,7 +3837,7 @@ order: 1
 * Started l3monshape.com domain transfer to HostGator
 * Downloaded PR card renew forms
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of Entrepreneurship at Udemy
 	
 ## 2019-08-25
@@ -3853,7 +3853,7 @@ order: 1
 * Placed order of Sun Joes tiller form HomeDepot
 * Bought TansleyWood Timid Toddler swim lessons for Ethan
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of Entrepreneurship at Udemy
 	* Continued learning of Biomedical Imaging at edX
 	
@@ -3861,10 +3861,10 @@ order: 1
 
 * Played with Ethan in bathtub
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of Entrepreneurship at Udemy
 		
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Revised Double Attach spec on Microsoft Team
 	
 ## 2019-08-28
@@ -3875,10 +3875,10 @@ order: 1
 * Paved asphalt by Westview
 * Applied overnight parking permit for 5 days
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of Entrepreneurship at Udemy
 		
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reviewed Double Attach spec with team
 	* Redeveloped spec for Split Surface(s)
 	
@@ -3894,11 +3894,11 @@ order: 1
 * Pre-filled IMM5444E.pdf for Dong
 * Pre-filled IMM5444E.pdf for Min
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Studied 2D image series to 3D volume registration using 3D Slicer
 	* Generated 3D volume image for Charles
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Created spec for Generate Feature(s)
 	* Created spec for Create Feature(s)
 	
@@ -3913,11 +3913,11 @@ order: 1
 * Added Captital One to Amazon
 * Updated GPay payment methods
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Generated 3D volume image again for Charles
 	* Continued learning of Entrepreneurship at Udemy
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Created spec for Create Binder
 	* Created spec for Morph Binder
 	
@@ -3928,7 +3928,7 @@ order: 1
 * Visited Innisfil Beach Front park
 * Had dinner at Foodie North
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of Entrepreneurship at Udemy
 	
 ## 2019-09-01
@@ -3945,7 +3945,7 @@ order: 1
 
 * Asked Jingjing about TOELF registration and study plan
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Attended sprint review meeting
 	* Revised Staged Plan I: Embed SDF into FS
 	* Revised DevOps projects scheduling for Embedding SDF into FS
@@ -3957,11 +3957,11 @@ order: 1
 * Added University of Ottawa Computer Science MSc admission information
 * Submitted one engineering graphics editing to CMS8
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of Entrepreneurship at Udemy
 	* Continued reviewing dental CAD/CAE/CAM
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Discussed strategy about Double Attach feature registration
 	* Discussed strategy about upgrading Punch Direciton dialog box
 
@@ -3969,11 +3969,11 @@ order: 1
 
 * Continued learning Shopify from Udemy
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Finished learning of Entrepreneurship at Udemy
 	* Continued reviewing dental CAD/CAE/CAM
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Confirmed Create Punch Direction dialog box comparison
 	* Started investigation of FTIComboBox usage
 	
@@ -3981,7 +3981,7 @@ order: 1
 
 * Continued learning Shopify from Udemy
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Attended meeting to discuss Create Punch Direction dialog box migration
 	* Continued working on ownerdrawn FTIComboBox usage
 	
@@ -3996,7 +3996,7 @@ order: 1
 
 ## 2019-09-09
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Continued working on ownerdrawn FTIComboBox usage
 	* Developed plan for divide workbenches into two
 	
@@ -4004,7 +4004,7 @@ order: 1
 
 * Completed Digital Flipping 1.0 from Udemy
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Continued working on ownerdrawn FTIComboBox usage
 	
 ## 2019-09-11
@@ -4012,7 +4012,7 @@ order: 1
 * Searched business courses from Lynda library account
 * Continued learning from Shopify Academy
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Completed enabling CComboPropertySheet with images
 	* Added meeting minutes for 2019-09-10
 
@@ -4021,11 +4021,11 @@ order: 1
 * Continued learning from Shopify Academy
 * Registered in Respondent
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Discussed with Charles about grand application pain point
 	* Updated dental-cad-cam review
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Discussed with Shaharoz about attribute linkage
 	
 ## 2019-09-13
@@ -4038,7 +4038,7 @@ order: 1
 * Visited walk-in clinic for throut infection
 * Bought fruits for neighbour
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reviewed code from Shaharoz for Direction Vector changes related with Binder Morphing
 
 ## 2019-09-14
@@ -4060,10 +4060,10 @@ order: 1
 * Update iTalkBB credit card account information
 * Checked online ad from Canadian Tire and Home Depot
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Researched RSNA journals for dental 3d printing
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Discussed feature tree changes with Shaharoz and Adrian for double attached
 	* Discussed feature inference from object display issue with Shaharoz
 	
@@ -4072,10 +4072,10 @@ order: 1
 * Restarted dropship learning from Udemy
 * Completed one sketch work for Study.com
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Continued reading research papers for digital dentistry
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reviewed Shaharoz's code for display reference changes
 	* Reviewed Adrian's code for creating elevation curves
 	* Trying to reformating all dialog boxes in AGW
@@ -4086,7 +4086,7 @@ order: 1
 * Searched user testing related online job markets
 * Attended RICA first meeting
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reviewed Shaharoz's code for geometry set display revision
 	* Reviewed Shaharoz's code for symmetry for dobule attach
 	* Updated windows 10 (not functioning correcly)
@@ -4096,7 +4096,7 @@ order: 1
 * Continued searched user testing related online job markets
 * Learned Amazon FBA business model free course
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reformatted IDD_PROPERTY, IDD_SPLIT_DOMAIN and IDD_MERGE_DOMAINS dialog boxes
 	
 ## 2019-09-20
@@ -4107,7 +4107,7 @@ order: 1
 * Bought another Shopify-Aliexpress commerce course from Udemy
 * Contacted vanbeeks landscape supply for soil and mulch delivery
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reformatted IDD_FILL_HOLES, IDD_FILL_NOTCHES and IDD_SPLIT_SURFACES dialog boxes
 	
 ## 2019-09-21
@@ -4131,11 +4131,11 @@ order: 1
 * Ordered Mastercraft random orbit sander
 * Bought penetration oil (cedar natrual) from Home Depot
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Prettyfied volics source codes
 	* Studied kw-doc cli for documentation
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reviewed current project status
 	* Review all the Epics/Features/Tasks for Geometry (descriptions, links)
 	* Rolled back IDD_PROPERTY dialog box design
@@ -4156,7 +4156,7 @@ order: 1
 * Print curtainworks darkening curtain return label
 * Print HSA manual claim form for Min's medical records transfer
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Attended sprint review meeting
 	* Reformatted IDD_PROPERTY, IDD_FILL_HOLES and IDD_FILL_NOTCHES dialog boxes
 	* Reformatted IDD_SPLIT_DOMAIN and IDD_MERGE_DOMAINS dialog boxes
@@ -4170,25 +4170,25 @@ order: 1
 * Attended RCIA course Q2
 * Tinted raising bed frame
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reformatted FTIAdvancedGeometryCallback.cpp
 	
 ## 2019-09-26
 
 * Continued learning Dropshop 7 figure from Udemy
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reformatted FTIMultipleGeometryCallback.cpp
 	* Reformatted resource files used in AGW and MGW
 	
 ## 2019-09-27
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reformatted IDD_CREATE_TIPPING dialog box
 
 ## 2019-09-27
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Read and viewed SIEMENS PLM SolidEdge Generative Design related materials
 	* Updated volics documentation
 	* Created Google Analytics account
@@ -4210,7 +4210,7 @@ order: 1
 * Searched afterlife books from BPL
 * Signed agreement of absence leave and send to HR
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reformatted IDD_SPLIT_SURFACES
 
 ## 2019-10-01
@@ -4219,7 +4219,7 @@ order: 1
 * Compiled latest build
 * Compiled Graduate Studies.xlxm file
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Reformatted dialog box inner group items
   
 ## 2019-10-02
@@ -4230,10 +4230,10 @@ order: 1
 * Attended RCIA course
 * Filed claim for Min's contact lenses from Costco
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Revised project summary from Charles
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Discussed with Shaharoz and Adrian about Position Geometry Sets
   * Reformatted IDD_DEFINE_FEATURES dialog box
   * Reformatted IDD_CREATE_BINDER, IDD_PPAGE_BINDER_FLAT, IDD_PPAGE_BINDER_SILHOUETTE and IDD_MORPH_BINDER dialog boxes
@@ -4246,18 +4246,18 @@ order: 1
 * Updated Graduate Studies.xlxm file with Western University information
 * Continued study Shopify Dropship from Udemy
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Had meeting with Charles about Project Summary
   * Redesigned corporate portal layout
   
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Fixed UI bug related with IDD_CREAET_TIPPING
   
 ## 2019-10-04
 
 * Searched autoTrader Volvo XC60 list
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Fixed #21872: disabled IDD_MOVE_GEOMETRY dialog box resizing
 
 ## 2019-10-05
@@ -4274,7 +4274,7 @@ order: 1
 * Read technology news from DEVELOP3D July/August
 * Bought DimSum for visiting friends
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
 	* Reported AGW progress on weekly review meeting
 	* Revised IDD_CREATE_SYMMETRY dialog box
 	* Revised IDD_MOVE_GEOMETRY dialog box
@@ -4288,7 +4288,7 @@ order: 1
 * Bought batteries for racing car toy
 * Fixed electrical outlets
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Developed Bridge Geometry Sets detail specification
   * Reorganized all the detail specifications so far
   * Checked Azure DevOps features and tasks
@@ -4300,17 +4300,17 @@ order: 1
 * Attended RCIA weekly meeting
 * Prepared Thanks Giving lunch for FTI
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Reformatted UICommand updates for callback functions
   
 ## 2019-10-10
 
 * Searched long weekend destination
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Revised FillHoles and FillNotches
  
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Attended tri-weekly meeting
   
 ## 2019-10-11
@@ -4318,7 +4318,7 @@ order: 1
 * Read latest TCT magazine
 * Searched biomimitrics books and journals
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Attended Release Review meeting
   * Revised FillNotches
   
@@ -4335,10 +4335,10 @@ order: 1
 
 * Read news from nTopology blog
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Searched Peijun Li and his works
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Attended Sprint Review meeting
   * Attended Scrum Master training
   
@@ -4346,14 +4346,14 @@ order: 1
 
 * Read news from ANASYS cloud analysis white paper
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Attended Scrum Master training
   
  ## 2019-10-17-18
 
 * Read technology news from Kitware
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Attended Agile training
   
 ## 2019-10-19
@@ -4375,7 +4375,7 @@ order: 1
 * Bought iPhone/iPad extra charger
 * Searche for tire key
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Attended Release Report meeting
   * Reviewed features developed so far
   * Updated FillHoles and FillNotches module
@@ -4384,7 +4384,7 @@ order: 1
 
 * Read technology news from Kitware
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Enabled dumpping feature tree information
   * Redefined selectioin and display for AGW
   
@@ -4394,17 +4394,17 @@ order: 1
 * Learnt how to use static analysis tools in visual studio
 * Attended RCIA
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Had tri-weekly meeting with Charle and Li
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Redefined selectioin and display for AGW 
   * Fixed some issues with CreateBinder
   * Fixed some issues with UICommand updates
   
 ## 2019-10-24
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Fixed issue with entity selection notification
 	
 ## 2019-10-25
@@ -4424,12 +4424,12 @@ order: 1
 * Updated Graduate Studies.xlxm for York University
 * Asked Jingjing about the exam
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Attended Release Review meeting
 
 ## 2019-10-29
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Revised FTIImport
   * Fixed a bug related with face entity selection
   
@@ -4440,7 +4440,7 @@ order: 1
 * Bought RCIA cookies
 * Attended RCIA course
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Revised FTIImport (changed to display last geometry set)
   * Revised FTISplitGeoSet
   * Revised FTIMergeGeoSets
@@ -4454,7 +4454,7 @@ order: 1
 * Shopped around for Christmas vacation deals
 * Asked for candies
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Revised FTICreateSymmetry
   * Revised FTIFillHoles
   * Revised FTIFillNotch
@@ -4472,7 +4472,7 @@ order: 1
 * Saved private-commerce to cloud
 * Saved private-travel to cloud
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Revised FTIDefineFeature
   
 ## 2019-11-02
@@ -4490,7 +4490,7 @@ order: 1
 * Talked with Jingjing about her TOEFL
 * Had birthday party at home
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Revised FTICreateLineOnSurfaces
   * Revised FTICreateLineOnBoundary
   * Added CreateGeoSetDisplay
@@ -4502,7 +4502,7 @@ order: 1
 * Searched Sun Joes Cordless Snow Shovel
 * Read news from Kitware
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Attended Sprint Review meeting
   * Revised CreateGeoSetDisplay
   * Enabled featured display for FTISplitGeoSet
@@ -4519,23 +4519,23 @@ order: 1
 * Bought Sun Joes Snow Shovel from homedepot.ca
 * Read NVIDIA latest developer news
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Designed company portal
   
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Fixed a bug related with non-initialized function in FillNotches
   * Added function to update First Form by adding leve over faces to Formed Bodies
   * Revised FTIFillNotch by using UpdateFirstForm
   
 ## 2019-11-07
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Developed company portal using Website Builder
   * Published company portal
 
 ## 2019-11-08
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Investigated with Adrian about Trim Condition performance issues
   * Asked Shaharoz to work on CreateTipping and CreateBinder
   
@@ -4552,7 +4552,7 @@ order: 1
 
 ## 2019-11-11
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Attended release review meeting
   * Developed specification for Create Elevation Curves
   * Completed Anti-Corruptioin training online
@@ -4564,14 +4564,14 @@ order: 1
 * Updated Queen's University M.Sc. program information
 * Updated University of Ottwa M.Sc. program information
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Revised company's portal
   * Added email accounts to portal
   * Created Business Framework file for reference
   * Checked installation of Volics on machine
   * Revised Volics styling
   
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Attended release review meeting
   * Revised RecreateTopologyManifold by keeping forms
   
@@ -4581,7 +4581,7 @@ order: 1
 * Updated University of Windsor M.Sc. program information
 * Searched prayer to present in RCIA tonight
  
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Revised Create Contours specification
   * Revised RecreateTopologyManifold by keeping forms
   * Set up meeting to discuss second workbench requirements
@@ -4591,7 +4591,7 @@ order: 1
 * Contactd Jingjing about her plan for the next step
 * Discussed with Charles and Li about next step
  
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Discussed with Shaharoz about Contours and Binder registration
   * Reviewed code for Boundary Trimline creation
   
@@ -4601,7 +4601,7 @@ order: 1
 * Searched on Wish.com for some new gears
 * Started reading of journal papers from CAD Journal
  
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Talked to Shaharoz about how to create a new workbench
   * Dicussed with Adrian about Bridging bug fixation
 
@@ -4620,10 +4620,10 @@ order: 1
 * Searched KANETIC.CA for lower auto insurance
 * Talked with Jingjing about her plan
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Revised website design by using html template
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Discussed with Adrian and Shaharoz about their plan for this week
   * Returned bug to Alex for furthur investigation
   
@@ -4631,10 +4631,10 @@ order: 1
 
 * Chat with TD molech monnex about auto insurance
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Revised website design by using html template
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Fixed issue with Tipping Nothing display
   * Removed part in CreateTiping module
   * Fixed issue with SplitGeoSet
@@ -4643,10 +4643,10 @@ order: 1
 
 * Called TD molech monnex about auto insurance
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Revised website design by using html template
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Fixed some issue with CreateBinder
   * Discussed with Shaharoz about workbench creation
   * Discussed with Adrian about bug fixing for PositioinGeoSets
@@ -4655,10 +4655,10 @@ order: 1
 
 * Ordered workbench from HomeDepot
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Revised Business Plan - Technologies
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Created new branch
   * Merged latest changes to new branch
   
@@ -4681,7 +4681,7 @@ order: 1
 * Sent Volvo S60 to repair
 * Unpacked office supplies
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Talked with Charles and Li about business plan - technologies
 
 ## 2019-11-26
@@ -4689,11 +4689,11 @@ order: 1
 * Created team on bitbucket (zhaodbb) and created projects
 * Paid Volvo S60 maintenance and wheel lock change
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Bought book Design, Representations, and Processing for Additive Manufacturing from Morgan & Claypool Publishers
   * Restarted research of Design for Additive Manufacturing
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Revised CompareGeometries module
   * Fixed a bug related with FillNothces when part is not featured
   * Removed redundant checks and returns in Controls.cpp
@@ -4702,10 +4702,10 @@ order: 1
 
 * Contacted Lubrico and auto workshop to fix Volvo XC60 engine check issues
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Talked with Charles about Funding Application writting
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Fixed issue related with Create Binder
   * Reassigned Position Binder and Double Attached issues to team members
   
@@ -4714,10 +4714,10 @@ order: 1
 * Temporarily fixed Volvo XC60 check engine issue
 * Helped Lyu moved chair from old office
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading Bought book Design, Representations, and Processing for Additive Manufacturing
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Reviewed current bug list and issue list
   * Reviewed CreateBinder, MorphBinder and PositionBinder codes
   * Fixed a bug related with missing display after double attached feature is removed
@@ -4731,10 +4731,10 @@ order: 1
 * Searched Amazon for home audio system and portable speaker
 * Checked Amazon black friday sales
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued reading Bought book Design, Representations, and Processing for Additive Manufacturing
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Fixed issues with Position Binder
   
 ## 2019-11-30
@@ -4755,11 +4755,11 @@ order: 1
 
 ## 2019-12-02
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
 	* Sent LinkedIn profiles of development team to Charles
 	* Created book research note for Design, Representation and Processing for Additive Manufacturing
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Attended weekly sprint review meeting
   * Talked with team members about this week's tasks
   * Fixed the bug 22637: PositionGeoSets and BridgeGeoSets diaplys initialization problem
@@ -4779,12 +4779,12 @@ order: 1
 * Forwarded one article about Study Overseas in Canada to Jingjing
 * Read daily news from 51.ca
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Revised research journal web page styles
   * Continued working on research note for Design, Representation and Processing for Additive Manufacturing
   * Discussed with Charles about Research Strategy development
 	
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Checked source codes of CreateBinder, MorphBinder and PositionBinder
   * Checked source codes of SelectGeoSets, PositionGeoSets and BridgeGeoSets
   
@@ -4794,10 +4794,10 @@ order: 1
 * Read news from 51.ca
 * Attended RCIA training
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued working on research note for Design, Representation and Processing for Additive Manufacturing
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Investigated display issue with BridgeGeoSets
   * Fixed one bug related with GeoSet type checking failure
   * Cleaned code for Create.*Dlg function pointers
@@ -4808,10 +4808,10 @@ order: 1
 * Read news from 51.ca
 * Printted return slip for shoes from theBay.ca
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued working on research note for Design, Representation and Processing for Additive Manufacturing
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Fixed the bug 22366: binder edge morphing algorithm flaw
   * Discussed plan for explorative study of connecting AGW and 3AW with other workbenches
   
@@ -4819,10 +4819,10 @@ order: 1
 
 * Bought car diagnostic code reader (OBD2 reader) from Amazon
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued working on research note for Design, Representation and Processing for Additive Manufacturing
 
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Fixed some of the issues left over in AGW
   * Fixed the bug 22734: Material attribute copying
   * Discussed with Eric about Bridg interface function in Stitch module
@@ -4845,12 +4845,12 @@ order: 1
 * Installed utility shelf in the basement
 * Bought gift cards for teachers in day care
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Started thinking about Research Strategy Development
   * Read Grant Application guidelines
   * Read review papers about Digital Dentistry
   
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Attended weekly Sprint Review meeting
 
 ## 2019-12-10
@@ -4859,10 +4859,10 @@ order: 1
 * Paied Biometrics Fees
 * Asked Refund of Biometrics Fees
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued working on research note for Design, Representation and Processing for Additive Manufacturing
   
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Discussed with team members about this weeks tasks
   
 ## 2019-12-11
@@ -4875,31 +4875,31 @@ order: 1
 * Attended Alton Kids Care Center's Christmas Party
 * Attended RCIA course
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Continued working on research note for Design, Representation and Processing for Additive Manufacturing
   
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Discussed with team members about this weeks tasks
   
 ## 2019-12-12
 
 * Bought iphone X and huawei P20 lite spare cables
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Finished reading of Design, Representation and Processing for Additive Manufacturing
   * Read papers downloaded from 3D Printing in Medicine
   * Preparing Specific Aims
   
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Discussed with team members about development timeframe
   
 ## 2019-12-13
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Read papers downloaded from 3D Printing in Medicine
   * Preparing Specific Aims
   
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Discussed with Eric and Benjemin about the Feature 22165
   * Dumped feature tree structure of FS
   
@@ -4908,7 +4908,7 @@ order: 1
 * Visited Tansley Wood community center
 * Visited Mapleview shopping center
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Preparing Research Strategy
   
 ## 2019-12-15
@@ -4916,21 +4916,21 @@ order: 1
 * Visited Tansley Wood community center
 * Shopped grocery at Golden Plaza
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Preparing Research Strategy
   
 ## 2019-12-16
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Preparing Research Strategy
   
 ## 2019-12-17
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Revised Charles's application package
   * Discussed with Charles about application package
   
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Fixed project dependency error of solution file
   * Created a bug for Mario for fixing marked entity display issue
   * Created a bug for me for reshape edge binder morphing
@@ -4938,11 +4938,11 @@ order: 1
   
 ## 2019-12-18
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Formated Chinese version of Business Plan
   * Continued writting about technology path
   
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Completed gingerbread house
   * Had lunch at Kelsey'restaurant
   * Filled PRIDE 2019 form and sent to Eric
@@ -4981,7 +4981,7 @@ order: 1
 
 * Visited Woodbine indoor playground
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Had meeting with Charles about grant application
 
 ## 2019-12-28
@@ -5000,12 +5000,12 @@ order: 1
 * Checked banking statements and balances
 * Organized research files
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Prepared bio-sketch for myself
   
 ## 2019-12-31
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Written bio-sketch for myself
   
 ## 2020-01-02
@@ -5014,11 +5014,11 @@ order: 1
 * Submitted registration to Halton Catholic District School Board
 * Filled tax forms for Min
 
-* [L3D-LMS](#l3d-lms)
+* [L3MONSHAPE](#l3monshape)
   * Added webmail related information to Microsoft Team
   * Continued research lattice structures
   
-* [FS-AGW](#fs-agw)
+* [HEXAGONMI](#hexagonmi)
   * Fixed the bug 22899 related with cleaning view after display is changed
   * Reset daily scrum meeting
   
@@ -5046,28 +5046,33 @@ order: 1
 * Visited Burlington Pediatrician Dentistry
 * Reformatted research and journal static document projects
 
+* [HEXAGONMI](#hexagonmi)
+  * Searched Wireframe progress document for SE&D
+
+## 2020-01-07
+
+* [HEXAGONMI](#hexagonmi)
+  * Discussed with Shaharoz about Edit Curve volume of codes
+  * Written opinions about Wireframe development
+
 ## REFERENCES
 
-### houses
+### estates
 
-* House moving, renovation and maintenance
+* Real estates related projects
 
-### l3d-lms
+### l3monshape
 
-* Cloud-based geometry processing platform
+* L3monShape related projects
 
-### vib-bya
+### visbuyer
 
-* Cloud-based buyer agent assistant platform
+* Buyer agents related projects
 
-### fs-wfm
+### hexagonmi
 
-* Wireframe based geometry modeling and morphing technology
+* Hexagon MI related projects
 
-### fs-opl
+### formingti
 
-* Open platform for CAD/CAE apps
-
-### fs-agw
-
-* Migrating SDF to FS
+* Forming TI related projects
