@@ -5051,10 +5051,25 @@ order: 1
 
 ## 2020-01-07
 
+* [L3MONSHAPE](#l3monshape)
+  * Revised Business Plan Chinese version to v2
+
 * [HEXAGONMI](#hexagonmi)
   * Discussed with Shaharoz about Edit Curve volume of codes
   * Written opinions about Wireframe development
 
+## 2020-01-08
+
+* Researched research refrence system
+* Created scholoar reference format
+* Written a script to convert #tags to lowercase
+
+* [L3MONSHAPE](#l3monshape)
+  * Read papers about volume rendering
+
+* [HEXAGONMI](#hexagonmi)
+  * Compared codes based with Main trunk
+  
 ## REFERENCES
 
 ### estates
