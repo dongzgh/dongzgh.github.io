@@ -5063,12 +5063,26 @@ order: 1
 * Researched research refrence system
 * Created scholoar reference format
 * Written a script to convert #tags to lowercase
+* Attended RCIA
 
 * [L3MONSHAPE](#l3monshape)
   * Read papers about volume rendering
 
 * [HEXAGONMI](#hexagonmi)
-  * Compared codes based with Main trunk
+  * Tried to merge codes from Main trunk
+  
+## 2020-01-09
+
+* Revised the script to convert #tags to lowercase
+* Updated all research project markdown files
+* Update index.md structure
+
+* [L3MONSHAPE](#l3monshape)
+  * Read papers about volume rendering
+  * Reading The Book of Shaders
+
+* [HEXAGONMI](#hexagonmi)
+  * Merged codes based with Main trunk
   
 ## REFERENCES
 
