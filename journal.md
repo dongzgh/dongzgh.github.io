@@ -5084,6 +5084,16 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
   * Merged codes based with Main trunk
   
+## 2020-01-10
+
+* Reorganized facebook and twitter subscriptions
+
+* [L3MONSHAPE](#l3monshape)
+  * Read papers about volume rendering
+
+* [HEXAGONMI](#hexagonmi)
+  * Attended 2019 Q4 staff meeting
+  
 ## REFERENCES
 
 ### estates
