@@ -238,7 +238,7 @@ order: 1
 
 ## 2018-01-21
 
-* Visited Tansley Woods Community Center for child playing
+* Visited Tansley Wood Community Center for child playing
 
 * [ESTATES](#estates)
   * Cleaned Evelyn Lane again for showing
@@ -3851,7 +3851,7 @@ order: 1
 * Searched tiller from Facebook
 * Searched rack from Facebook
 * Placed order of Sun Joes tiller form HomeDepot
-* Bought TansleyWood Timid Toddler swim lessons for Ethan
+* Bought Tansley Wood Timid Toddler swim lessons for Ethan
 
 * [L3MONSHAPE](#l3monshape)
 	* Continued learning of Entrepreneurship at Udemy
@@ -4740,7 +4740,7 @@ order: 1
 ## 2019-11-30
 
 * Shopped grocery at Tera in Mississauga
-* Visited TansleyWood library
+* Visited Tansley Wood library
 * Shopped at Aritza at MapleView shopping center
 
 ## 2019-12-01
@@ -4951,7 +4951,7 @@ order: 1
 
 * Shopped grocery at Golden Plaza
 * Shopped nutrient products at Healthy Planet
-* Visisted Tansley Woods library
+* Visisted Tansley Wood library
 
 ## 2019-12-22
 
@@ -4964,7 +4964,7 @@ order: 1
 
 ## 2019-12-24
 
-* Visited Tansley Woods library
+* Visited Tansley Wood library
 * Visited Placious indoor playground and lost UGG shoes
 * Attended messiah
 
@@ -5089,10 +5089,28 @@ order: 1
 * Reorganized facebook and twitter subscriptions
 
 * [L3MONSHAPE](#l3monshape)
-  * Read papers about volume rendering
+  * Continued learning on GLSL
 
 * [HEXAGONMI](#hexagonmi)
   * Attended 2019 Q4 staff meeting
+  
+## 2020-01-11
+
+* Visited Burlington Library at Alton
+* Shopped grocerry at Nations
+
+## 2020-01-12
+
+* Visited Mapelview Shopping Center
+* Visited Burlington Library at Tansley Wood
+
+## 2020-01-13
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued learning on GLSL
+  
+* [HEXAGONMI](#hexagonmi)
+  * Merged branch source code and created build
   
 ## REFERENCES
 
