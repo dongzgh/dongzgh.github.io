@@ -5106,11 +5106,24 @@ order: 1
 
 ## 2020-01-13
 
+* Reorganized news channels on Wechat and Weibo
+
 * [L3MONSHAPE](#l3monshape)
   * Continued learning on GLSL
   
 * [HEXAGONMI](#hexagonmi)
   * Merged branch source code and created build
+  
+## 2020-01-14
+
+* Read news from Wechat and Twitter
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued learning on GLSL
+  
+* [HEXAGONMI](#hexagonmi)
+  * Fixed bugs in the new branch
+  * Reviewed source code from Alex Chun
   
 ## REFERENCES
 
