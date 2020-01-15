@@ -5125,6 +5125,20 @@ order: 1
   * Fixed bugs in the new branch
   * Reviewed source code from Alex Chun
   
+## 2020-01-15
+
+* Read news from WeChat and Twitter
+* Added algorithm search in FlexJobs
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued learning on GLSL
+  * Started reading book Graphics Shaders Theory and Practice
+  
+* [HEXAGONMI](#hexagonmi)
+  * Discussed graphics issue with Mario
+  * Discussed parent/children relationship for Edit Curve with Shaharoz
+  * Fixed bugs
+  
 ## REFERENCES
 
 ### estates
