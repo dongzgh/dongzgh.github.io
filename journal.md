@@ -5139,6 +5139,19 @@ order: 1
   * Discussed parent/children relationship for Edit Curve with Shaharoz
   * Fixed bugs
   
+## 2020-01-16
+
+* Checked GoDaddy.com account status
+* Consulted with YMCA about registration
+* Filled YMCA registration form and stored in OneDrive/Private Documents
+* Checked Scotia Bank statement availability
+
+* [L3MONSHAPE](#l3monshape)
+  
+* [HEXAGONMI](#hexagonmi)
+  * Fixed bugs
+  * Discussed with Eric, Alex and Shaharoz about NetShape and Fill Notch strategies
+  
 ## REFERENCES
 
 ### estates
