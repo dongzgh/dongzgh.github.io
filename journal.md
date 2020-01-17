@@ -5154,6 +5154,22 @@ order: 1
   * Fixed bugs
   * Discussed with Eric, Alex and Shaharoz about NetShape and Fill Notch strategies
   
+## 2020-01-16
+
+* Read YC StartUp book
+* Read news from Wechat
+* Read news from Twitter
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued reading Shader Language book
+  
+* [HEXAGONMI](#hexagonmi)
+  * Fixed bugs
+  * Fixed issues
+  * Downloaded latest version of MAIN trunk #26598
+  * Installed the latest version of MAIN trunk
+  * Compiled the latest version of MAIN trunk
+  
 ## REFERENCES
 
 ### estates
