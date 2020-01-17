@@ -5145,8 +5145,10 @@ order: 1
 * Consulted with YMCA about registration
 * Filled YMCA registration form and stored in OneDrive/Private Documents
 * Checked Scotia Bank statement availability
+* Updated private repositories
 
 * [L3MONSHAPE](#l3monshape)
+	* Started reading Shader Language book
   
 * [HEXAGONMI](#hexagonmi)
   * Fixed bugs
