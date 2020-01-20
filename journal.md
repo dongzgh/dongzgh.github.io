@@ -5154,11 +5154,12 @@ order: 1
   * Fixed bugs
   * Discussed with Eric, Alex and Shaharoz about NetShape and Fill Notch strategies
   
-## 2020-01-16
+## 2020-01-17
 
 * Read YC StartUp book
 * Read news from Wechat
 * Read news from Twitter
+* Shopped grocery from Fortino
 
 * [L3MONSHAPE](#l3monshape)
 	* Continued reading Shader Language book
@@ -5169,6 +5170,25 @@ order: 1
   * Downloaded latest version of MAIN trunk #26598
   * Installed the latest version of MAIN trunk
   * Compiled the latest version of MAIN trunk
+  
+## 2020-01-18
+
+* Snow storm, stay at home
+
+## 2020-01-19
+
+* Had gethering at the Aladin's Indoor Playground
+
+## 2020-01-20
+
+* Asked St. Anne Catholic School about registration
+* Send email to Father Ed and Father John about supporting letter
+* Shopped wrist guards, knee pads and elbow pads for Ethan
+* Shopped sled for Ethan
+
+* [HEXAGONMI](#hexagonmi)
+  * Merged soure codes
+  * Created new build into Z:\FS2020_AdvGeo Builds\FSBuild_26598.1_v2020-1-1_x64
   
 ## REFERENCES
 
