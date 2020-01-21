@@ -5190,6 +5190,13 @@ order: 1
   * Merged soure codes
   * Created new build into Z:\FS2020_AdvGeo Builds\FSBuild_26598.1_v2020-1-1_x64
   
+## 2020-01-21
+
+* Read news from Twitter
+
+* [HEXAGONMI](#hexagonmi)
+  * Fixed bugs
+  
 ## REFERENCES
 
 ### estates
