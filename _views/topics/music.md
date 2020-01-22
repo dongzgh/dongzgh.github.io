@@ -1,14 +1,19 @@
 ---
 title: Music
-permalink: /vies/music
+permalink: /views/music
 ---
 
+## Chinese Songs
+
 <div class='d-flex flex-row flex-wrap'>
-  {% assign filtered_items = site.pages | where: 'tags', 'music' %}
-  {% for item in filtered_items %}
+  {% assign pages1 = site.pages | where: 'tags', 'music' %}
+  {% assign pages2 = pages1 | where: 'tags', 'song' %}
+  {% assign pages3 = pages2 | where: 'tags', 'Chinese' %}
+  {% assign groups = pages3 | group_by: 'singer' %}
+  {% for group in groups %}  
   <div class="col-3">
-    <a href="{{ item.permalink }}">
-      <img class="gallery-item-image" src="{{ item.image }}"/>
+    <a href="{{ '/' | append: group.items[0].singer }}">
+      <img class="gallery-item-image" src="{{ '/assets/img/singers/' | append: group.items[0].singer | append: '.jpg' }}"/>
     </a>
   </div>
   {% endfor %}
