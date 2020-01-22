@@ -5193,9 +5193,24 @@ order: 1
 ## 2020-01-21
 
 * Read news from Twitter
+* Revised MathJax and highlightjs libraries from CDN
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued reading Shader Language book
 
 * [HEXAGONMI](#hexagonmi)
   * Fixed bugs
+  
+## 2020-01-22
+
+* Read news from Twitter
+* Obtained registration documents from St. Anne
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued reading Shader Language book
+
+* [HEXAGONMI](#hexagonmi)
+  * Fixed bugs and issues
   
 ## REFERENCES
 
