@@ -5205,6 +5205,17 @@ order: 1
 
 * Read news from Twitter
 * Obtained registration documents from St. Anne
+* Attended RCIA
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued reading Shader Language book
+
+* [HEXAGONMI](#hexagonmi)
+  * Fixed bugs and issues
+  
+## 2020-01-23
+
+* Completed registration at St. Anne
 
 * [L3MONSHAPE](#l3monshape)
   * Continued reading Shader Language book
