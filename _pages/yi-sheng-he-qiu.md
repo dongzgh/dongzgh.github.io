@@ -5,6 +5,9 @@ tags: [music, song, Chinese,]
 singer: danny-chan
 ---
 
+<iframe src="https://open.spotify.com/embed/track/7yhEppCCX9tf2gQ25D01vh" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media">
+</iframe>
+
 {:.chinese-paragraph}
 冷暖哪可休  
 回头多少个秋  

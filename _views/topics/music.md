@@ -14,6 +14,9 @@ permalink: /views/music
   <div class="col-3">
     <a href="{{ '/' | append: group.items[0].singer }}">
       <img class="gallery-item-image" src="{{ '/assets/img/singers/' | append: group.items[0].singer | append: '.jpg' }}"/>
+      <div class="gallery-item-overlay">
+        <div class="gallery-item-title">{{ group.items[0].singer | replace: '-', ' ' }}</div>
+      </div>
     </a>
   </div>
   {% endfor %}
