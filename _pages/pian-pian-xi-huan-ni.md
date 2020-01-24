@@ -5,6 +5,8 @@ tags: [music, song, Chinese,]
 singer: danny-chan
 ---
 
+<iframe src="https://open.spotify.com/embed/track/3WQZGenCnNiC9c7dUPnFrp" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 {:.chinese-paragraph}
 愁绪挥不去苦闷散不去  
 为何我心一片空虚  

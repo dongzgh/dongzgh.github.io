@@ -138,6 +138,14 @@ a:hover .gallery-item-overlay {
   text-transform: uppercase;
 }
 
+.gallery-item-title-bottom {
+  font-size: 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: black;
+  text-align: center;
+}
+
 .link {
   font-weight: 100;
   font-size: 0.5em
@@ -152,11 +160,13 @@ a:hover .gallery-item-overlay {
 /* Special classes */
 .chinese-title-h2 {
   font-size: x-large;
+  font-weight: bold;
   font-family: 'Noto Serif SC', serif;
 }
 
 .chinese-title-h3 {
-  font-size: x-large;
+  font-size: large;
+  font-weight: bold;
   font-family: 'Noto Serif SC', serif;
 }
 

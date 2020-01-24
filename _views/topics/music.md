@@ -10,10 +10,11 @@ permalink: /views/music
   {% assign pages2 = pages1 | where: 'tags', 'song' %}
   {% assign pages3 = pages2 | where: 'tags', 'Chinese' %}
   {% assign groups = pages3 | group_by: 'singer' %}
-  {% for group in groups %}  
+  {% for group in groups %}
   <div class="col-3">
     <a href="{{ '/' | append: group.items[0].singer }}">
-      <img class="gallery-item-image" src="{{ '/assets/img/singers/' | append: group.items[0].singer | append: '.jpg' }}"/>
+      <img class="gallery-item-image"
+        src="{{ '/assets/img/singers/' | append: group.items[0].singer | append: '.jpg' }}" />
       <div class="gallery-item-overlay">
         <div class="gallery-item-title">{{ group.items[0].singer | replace: '-', ' ' }}</div>
       </div>

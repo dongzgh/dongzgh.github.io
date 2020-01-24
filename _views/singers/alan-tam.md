@@ -8,7 +8,7 @@ permalink: /alan-tam
   {% for page in pages %}
   <div class="col-12">
     <a href="{{ page.permalink }}">
-      <span class="chinese-title-h2">{{ page.title }}</span>
+      <span class="chinese-title-h3">{{ page.title }}</span>
     </a>
   </div>
   {% endfor %}

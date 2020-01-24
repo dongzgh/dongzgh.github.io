@@ -5,7 +5,7 @@ layout: home
 <div class='d-flex flex-row flex-wrap'>
   <div class="col-4">
     <a href="/views/art">
-      <img class="gallery-item-image" src="/assets/img/topics/art.jpg"/>
+      <img class="gallery-item-image" src="/assets/img/topics/paint.jpg"/>
     </a>
   </div>
   <div class="col-4">
