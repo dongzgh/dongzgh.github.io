@@ -5223,6 +5223,34 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
   * Fixed bugs and issues
   
+## 2020-01-24
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued reading Shader Language book
+
+* [HEXAGONMI](#hexagonmi)
+  * Fixed bugs and issues
+  
+## 2020-01-25
+
+* Shopped grocery at Costco
+* Had dinner at Helen's home
+
+## 2020-01-26
+
+* Shopped medical masks around
+
+## 2020-01-27
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued reading Shader Language book
+
+* [HEXAGONMI](#hexagonmi)
+  * Attended Sprint Review meeting
+  * Fixed internet connection problem
+  * Merged source codes from Main trunk
+  * Created new build 26670
+  
 ## REFERENCES
 
 ### estates
