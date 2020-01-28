@@ -5249,7 +5249,18 @@ order: 1
   * Attended Sprint Review meeting
   * Fixed internet connection problem
   * Merged source codes from Main trunk
+  
+## 2020-01-28
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued reading Shader Language book
+
+* [HEXAGONMI](#hexagonmi)
+  * Discussed with Shaharoz, Andrian and Eric about Trimline Development material settings
   * Created new build 26670
+  * Renamed some system constants
+  * Created CreateTrimLine specification
+  * Assigned tasks to Helen
   
 ## REFERENCES
 
