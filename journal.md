@@ -5259,6 +5259,14 @@ order: 1
   * Discussed with Shaharoz, Andrian and Eric about Trimline Development material settings
   * Created new build 26670
   * Renamed some system constants
+  
+## 2020-01-29
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued reading Shader Language book
+
+* [HEXAGONMI](#hexagonmi)
+  * Fixed bugs
   * Created CreateTrimLine specification
   * Assigned tasks to Helen
   
