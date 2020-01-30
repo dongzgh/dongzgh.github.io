@@ -5267,8 +5267,18 @@ order: 1
 
 * [HEXAGONMI](#hexagonmi)
   * Fixed bugs
+  
+## 2020-01-30
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued reading Shader Language book
+
+* [HEXAGONMI](#hexagonmi)
   * Created CreateTrimLine specification
   * Assigned tasks to Helen
+  * Updated bugs and issues
+  * Updated backlogs
+  * Fixed bugs and issues
   
 ## REFERENCES
 
