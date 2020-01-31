@@ -5280,6 +5280,16 @@ order: 1
   * Updated backlogs
   * Fixed bugs and issues
   
+## 2020-01-31
+
+* Bought eye drops from Shoppers Drug Mart
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued reading Shader Language book
+
+* [HEXAGONMI](#hexagonmi)
+  * Fixed bugs and issues
+  
 ## REFERENCES
 
 ### estates
