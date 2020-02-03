@@ -5290,6 +5290,26 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
   * Fixed bugs and issues
   
+## 2020-02-01
+
+* Attended skate learning session
+* Shopped grocery at Real Canadian Superstore in Georgetown
+
+## 2020-02-02
+
+* Shopped sled, skate shoes and skeeze
+* Played sledding in Waterdown
+
+## 2020-02-03
+
+* [L3MONSHAPE](#l3monshape)
+  * Learnt webpack
+  * Learnt regular expression
+
+* [HEXAGONMI](#hexagonmi)
+  * Merged source codes
+  * Created build 26762
+  
 ## REFERENCES
 
 ### estates
