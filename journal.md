@@ -5310,6 +5310,15 @@ order: 1
   * Merged source codes
   * Created build 26762
   
+## 2020-02-04
+
+* [L3MONSHAPE](#l3monshape)
+  * Learnt regular expression
+
+* [HEXAGONMI](#hexagonmi)
+  * Done PRIDE review with Eric
+  * Fixed bugs and issues
+  
 ## REFERENCES
 
 ### estates
