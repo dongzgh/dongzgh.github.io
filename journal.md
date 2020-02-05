@@ -5319,6 +5319,14 @@ order: 1
   * Done PRIDE review with Eric
   * Fixed bugs and issues
   
+## 2020-02-05
+
+* [L3MONSHAPE](#l3monshape)
+  * Learnt VueJS
+
+* [HEXAGONMI](#hexagonmi)
+  * Fixed bugs and issues
+  
 ## REFERENCES
 
 ### estates
