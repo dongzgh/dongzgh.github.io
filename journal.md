@@ -5321,11 +5321,22 @@ order: 1
   
 ## 2020-02-05
 
+* Attended RCIA
+
 * [L3MONSHAPE](#l3monshape)
   * Learnt VueJS
 
 * [HEXAGONMI](#hexagonmi)
   * Fixed bugs and issues
+  
+## 2020-02-06
+
+* [L3MONSHAPE](#l3monshape)
+  * Fixed code highlight issues
+  * Learnt VueJS
+
+* [HEXAGONMI](#hexagonmi)
+  * Created two demo cases
   
 ## REFERENCES
 
