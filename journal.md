@@ -5338,6 +5338,16 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
   * Created two demo cases
   
+## 2020-02-07
+
+* [L3MONSHAPE](#l3monshape)
+  * Learnt VueJS
+  * Configured BeautifyJS
+
+* [HEXAGONMI](#hexagonmi)
+  * Created two demo cases
+  * Presented current progress at meeting
+  
 ## REFERENCES
 
 ### estates
