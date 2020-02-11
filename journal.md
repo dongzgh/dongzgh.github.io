@@ -5348,6 +5348,33 @@ order: 1
   * Created two demo cases
   * Presented current progress at meeting
   
+## 2020-02-08
+
+* Shopped grocerry at Costco
+
+## 2020-02-09
+
+* Visited Freelton Antique Store
+
+## 2020-02-10
+
+* [L3MONSHAPE](#l3monshape)
+  * Learnt ThreeJS Shader Material
+  * Started learning of Volumen Rendering
+  
+* [HEXAGONMI](#hexagonmi)
+  * Merged source codes from FS
+  
+## 2020-02-11
+
+* [L3MONSHAPE](#l3monshape)
+  * Configured MathJax for display mode styling
+  * Continued learning of Volumen Rendering
+  
+* [HEXAGONMI](#hexagonmi)
+  * Worked with Rob on alpha build
+  * Discussed with Muhammand about new feature request for 3D Addendum workbench
+  
 ## REFERENCES
 
 ### estates
