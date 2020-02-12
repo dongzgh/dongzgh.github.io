@@ -5370,12 +5370,22 @@ order: 1
 * [L3MONSHAPE](#l3monshape)
   * Configured MathJax for display mode styling
   * Continued learning of Volumen Rendering
-	* Added keybinding to Visual Studio Code
+  * Added keybinding to Visual Studio Code
   
 * [HEXAGONMI](#hexagonmi)
   * Worked with Rob on alpha build
   * Discussed with Muhammand about new feature request for 3D Addendum workbench
   
+## 2020-02-12
+
+* [L3MONSHAPE](#l3monshape)
+  * Configured keyboard bindings for Visual Studio Code
+  * Continued learning of Volumen Rendering
+  * Reorganized documents on Microsoft Team
+  
+* [HEXAGONMI](#hexagonmi)
+  * Discussed with Shaharoz about where to place BTL
+
 ## REFERENCES
 
 ### estates
