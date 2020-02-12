@@ -5370,6 +5370,7 @@ order: 1
 * [L3MONSHAPE](#l3monshape)
   * Configured MathJax for display mode styling
   * Continued learning of Volumen Rendering
+	* Added keybinding to Visual Studio Code
   
 * [HEXAGONMI](#hexagonmi)
   * Worked with Rob on alpha build
