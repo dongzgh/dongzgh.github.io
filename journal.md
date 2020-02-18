@@ -5385,6 +5385,26 @@ order: 1
   
 * [HEXAGONMI](#hexagonmi)
   * Discussed with Shaharoz about where to place BTL
+  
+## 2020-02-13
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued learning of Volumen Rendering
+  * Started writing product description
+  
+* [HEXAGONMI](#hexagonmi)
+  * Checked DevOps Geometry backlogs
+  
+## 2020-02-13
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued learning of Volumen Rendering
+  * Continued writing product description
+  
+* [HEXAGONMI](#hexagonmi)
+  * Searched Microsoft Team apps
+  * Managed AzureDevOps backlog
+  * Fixed bugs and issues
 
 ## REFERENCES
 
