@@ -5390,22 +5390,46 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
   * Continued learning of Volumen Rendering
-  * Started writing product description
+  * Started writing of product description
   
 * [HEXAGONMI](#hexagonmi)
   * Checked DevOps Geometry backlogs
-  
-## 2020-02-13
+	
+## 2020-02-14
 
 * [L3MONSHAPE](#l3monshape)
   * Continued learning of Volumen Rendering
-  * Continued writing product description
+  * Completed writing of product description
+	* Attended meeting
   
 * [HEXAGONMI](#hexagonmi)
-  * Searched Microsoft Team apps
-  * Managed AzureDevOps backlog
-  * Fixed bugs and issues
+  * Checked DevOps Geometry backlogs
+	
+## 2020-02-15
 
+* Bought grocerries from Costco
+
+## 2020-02-16
+
+* Shopped at Homesence in Goergetown
+
+## 2020-02-17
+
+* Watched Frozen II at Cinemaplex Oakville
+
+## 2020-02-18
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued learning of Volumen Rendering
+  
+* [HEXAGONMI](#hexagonmi)
+  * Attended training of Simufact Forming
+	
+## 2020-02-19
+
+* Stayed at home with Ethan
+* Attended RCIA class
+  
 ## REFERENCES
 
 ### estates
