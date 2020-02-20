@@ -5433,6 +5433,11 @@ order: 1
 * [L3MONSHAPE](#l3monshape)
   * Continued learning of Volumen Rendering
   
+## 2020-02-20
+
+* [HEXAGONMI](#hexagonmi)
+  * Attended training of Simufact Additive
+  
 ## REFERENCES
 
 ### estates
