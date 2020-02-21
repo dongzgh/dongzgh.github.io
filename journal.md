@@ -5435,8 +5435,20 @@ order: 1
   
 ## 2020-02-20
 
+* [L3MONSHAPE](#l3monshape)
+  * Continued learning of Volumen Rendering
+  
 * [HEXAGONMI](#hexagonmi)
   * Attended training of Simufact Additive
+  
+## 2020-02-21
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued learning of Volumen Rendering
+  
+* [HEXAGONMI](#hexagonmi)
+  * Installed MSC Apex
+  * Started learning of MSC Apex
   
 ## REFERENCES
 
