@@ -5097,7 +5097,7 @@ order: 1
 ## 2020-01-11
 
 * Visited Burlington Library at Alton
-* Shopped grocerry at Nations
+* Shopped grocery at Nations
 
 ## 2020-01-12
 
@@ -5350,7 +5350,7 @@ order: 1
   
 ## 2020-02-08
 
-* Shopped grocerry at Costco
+* Shopped grocery at Costco
 
 ## 2020-02-09
 
@@ -5407,7 +5407,7 @@ order: 1
 	
 ## 2020-02-15
 
-* Bought grocerries from Costco
+* Bought groceries from Costco
 
 ## 2020-02-16
 
@@ -5449,6 +5449,27 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
   * Installed MSC Apex
   * Started learning of MSC Apex
+  
+## 2020-02-22
+
+* Shopped grocery from Costco
+* Visited library in Alton Village
+
+## 2020-02-23
+
+* Visited LaSalle Park
+* Visited library in Alton Village
+* Shopped fruits from Fortino
+
+## 2020-02-24
+
+* [L3MONSHAPE](#l3monshape)
+  * Reviewed Volume Rendering book chapter 1-3
+  
+* [HEXAGONMI](#hexagonmi)
+  * Merged latest source code from FormingSuite
+  * Created build version 26997
+  * Assigned bug fix to Alex Chubalev
   
 ## REFERENCES
 
