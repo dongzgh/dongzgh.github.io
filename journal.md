@@ -5463,6 +5463,9 @@ order: 1
 
 ## 2020-02-24
 
+* Searched Employment Insurrance Benefits of Canada
+* Searched Employment Standard Act of Ontario
+
 * [L3MONSHAPE](#l3monshape)
   * Reviewed Volume Rendering book chapter 1-3
   
@@ -5470,6 +5473,15 @@ order: 1
   * Merged latest source code from FormingSuite
   * Created build version 26997
   * Assigned bug fix to Alex Chubalev
+	
+## 2020-02-25
+
+* Downloaded StudioTax for 2019
+* Renewed Dynacare Plus membership
+
+* [L3MONSHAPE](#l3monshape)
+  * Started learning of ParaView
+	* Reorganized visualstudio projects
   
 ## REFERENCES
 
