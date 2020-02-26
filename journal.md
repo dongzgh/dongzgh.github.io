@@ -5481,7 +5481,20 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
   * Started learning of ParaView
-	* Reorganized visualstudio projects
+  * Reorganized visualstudio projects
+  * Reorganized book names, pictures and tags
+
+* [HEXAGONMI](#hexagonmi)
+  * Discussed with Shaharoz about preunfolding
+  
+## 2020-02-26
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued learning of ParaView
+  * Modified business plan from Charles
+
+* [HEXAGONMI](#hexagonmi)
+  * Discussed with Team about preunfolding
   
 ## REFERENCES
 
