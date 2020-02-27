@@ -5498,6 +5498,21 @@ order: 1
 
 * [HEXAGONMI](#hexagonmi)
   * Discussed with Team about preunfolding
+  * Fixed bugs
+  
+## 2020-02-27
+
+* Booked Factory Scheduled Maintenance for Volvo S60
+* Researched RRSP ROI for SunLife, TD and CIBC
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued learning of ParaView
+
+* [HEXAGONMI](#hexagonmi)
+  * Learnt MSC Apex GUI SDK development environment
+  * Reported project progress to Eric
+  * Discussed Preunfold Flanges with Shaharoz
+  * Fixed bugs
   
 ## REFERENCES
 
