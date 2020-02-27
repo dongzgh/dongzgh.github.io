@@ -5489,6 +5489,9 @@ order: 1
   
 ## 2020-02-26
 
+* Submitted 24/02/2002 dental claim left over to RBC
+* Initialized Tax Return 2019
+
 * [L3MONSHAPE](#l3monshape)
   * Continued learning of ParaView
   * Modified business plan from Charles
