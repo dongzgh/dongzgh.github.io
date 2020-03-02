@@ -1316,7 +1316,7 @@ order: 1
 
 ## 2018-09-04
 
-* Called SunLife Dynacare for tele-interview service, no response
+* Called Sun Life Dynacare for tele-interview service, no response
 
 * [L3MONSHAPE](#l3monshape)
   * Booked appointment with Jing Zhou about 3D slicing software
@@ -1776,7 +1776,7 @@ order: 1
 * Checked recommendations regarding credit cards combination
 * Checked CIBC chequing account usage for the past 6 months
 * Changed payments to TD insurance from TD instead of CIBC
-* Changed SunLife insurance payments from CIBC to TD
+* Changed Sun Life insurance payments from CIBC to TD
 * Added subscriber (parent) account to CST.org using suffix 'csts' and 'CST!'
 * Changed CST (RESP) payment from CIBC to TD
 
@@ -1888,7 +1888,7 @@ order: 1
 
 ## 2018-12-19
 
-* Checked SunLife life insurance
+* Checked Sun Life life insurance
 * Checked travel insurances provided by credit card companies
 * Compared credit cards
 * Drafted credit card comparison chart
@@ -3730,7 +3730,7 @@ order: 1
 ## 2019-08-14
 
 * Paid Scotia Bank account balance for Jul.16-Aug.15
-* Paid SunLife term insurance for Dong
+* Paid Sun Life term insurance for Dong
 
 * [HEXAGONMI](#hexagonmi)
 	* Discussed issues with Double Attach specification
@@ -5503,7 +5503,7 @@ order: 1
 ## 2020-02-27
 
 * Booked Factory Scheduled Maintenance for Volvo S60
-* Researched RRSP ROI for SunLife, TD and CIBC
+* Researched RRSP ROI for Sun Life, TD and CIBC
 
 * [L3MONSHAPE](#l3monshape)
   * Continued learning of ParaView
@@ -5511,6 +5511,42 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
   * Learnt MSC Apex GUI SDK development environment
   * Reported project progress to Eric
+  * Discussed Preunfold Flanges with Shaharoz
+  * Fixed bugs
+
+## 2020-02-28
+
+* Completed first round Tax Return
+* Bought 5500 RRSP from Sun Life
+* Booked Physiotherapy
+* Asked for quotaion about PCV Box, Engine Mount and Rear Braking Pad and Rotor replacements
+
+* [L3MONSHAPE](#l3monshape)
+  * Downloaded Volume Graphics software for testing
+
+* [HEXAGONMI](#hexagonmi)
+  * Discussed Preunfold Flanges with Shaharoz
+  * Fixed bugs
+
+## 2020-02-29
+
+* Attended Sports Concept skating class
+* Visisted Costco at stony creek
+
+## 2020-03-01
+
+* Attended Sunday Messiah
+* Attended Rite of Election
+* Visited Winners
+
+## 2020-03-02
+
+* Confirmed RRSP contribution to Sun Life
+
+* [L3MONSHAPE](#l3monshape)
+  * Started learning VTK.js
+
+* [HEXAGONMI](#hexagonmi)
   * Discussed Preunfold Flanges with Shaharoz
   * Fixed bugs
   
