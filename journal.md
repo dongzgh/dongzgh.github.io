@@ -5550,6 +5550,16 @@ order: 1
   * Discussed Preunfold Flanges with Shaharoz
   * Fixed bugs
   
+## 2020-03-03
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued learning VTK.js
+  
+* [HEXAGONMI](#hexagonmi)
+  * Discussed DieFace backend issue with Eric and Alex
+  * Built latest source codes
+  * Merged source codes from latest FS
+  
 ## REFERENCES
 
 ### estates
