@@ -5560,6 +5560,15 @@ order: 1
   * Built latest source codes
   * Merged source codes from latest FS
   
+## 2020-03-04
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued learning VTK.js
+  
+* [HEXAGONMI](#hexagonmi)
+  * Discussed scheduling problem with Eric
+  * Create built for the latest merging  
+  
 ## REFERENCES
 
 ### estates
