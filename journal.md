@@ -5562,7 +5562,10 @@ order: 1
   
 ## 2020-03-04
 
+* Tried to fixed the catalyst convertor problem at Good Cars Only Inc.
+
 * [L3MONSHAPE](#l3monshape)
+  * Revised business plan (CN) and (EN)
   * Continued learning VTK.js
   
 * [HEXAGONMI](#hexagonmi)
