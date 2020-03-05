@@ -5570,7 +5570,18 @@ order: 1
   
 * [HEXAGONMI](#hexagonmi)
   * Discussed scheduling problem with Eric
-  * Create built for the latest merging  
+  * Create built for the latest merging
+  
+## 2020-03-05
+
+* [L3MONSHAPE](#l3monshape)
+  * Read revised business plan (CN)
+  * Started learning VTK.js examples
+  
+* [HEXAGONMI](#hexagonmi)
+  * Discussed pre-trim line develop issues in 3AW
+  * Finalized complain process
+  * Fixed bugs and created bug for Eric for filling holes
   
 ## REFERENCES
 
