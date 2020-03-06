@@ -5576,13 +5576,27 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
   * Read revised business plan (CN)
-  * Started learning VTK.js examples
+  * Started learning of VTK.js examples
+  * Discussed with Li and Charles about business plan
   
 * [HEXAGONMI](#hexagonmi)
   * Discussed pre-trim line develop issues in 3AW
   * Finalized complain process
   * Fixed bugs and created bug for Eric for filling holes
   
+## 2020-03-06
+
+* Searched basement closets
+* Searched hockey club programs
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued learning of VTK.js examples
+  
+* [HEXAGONMI](#hexagonmi)
+  * Compared installation differences between Alpha and Main
+  * Updated some BIN folder files from Main
+  * Fixed bugs
+
 ## REFERENCES
 
 ### estates
