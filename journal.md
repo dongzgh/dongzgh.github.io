@@ -5596,6 +5596,25 @@ order: 1
   * Compared installation differences between Alpha and Main
   * Updated some BIN folder files from Main
   * Fixed bugs
+  
+## 2020-03-07
+
+* Shopped at Costco
+
+## 2020-03-08
+
+* Visited Mounsberg for Maple Syrup Festival
+
+## 2020-03-09
+
+* [L3MONSHAPE](#l3monshape)
+  * Researched Jekyll templates
+  
+* [HEXAGONMI](#hexagonmi)
+  * Updated Preunfold Flanges spec
+  * Attended the testing case discussion
+  * Fixed bugs
+  * Finished myCompliance course about cybersecurity
 
 ## REFERENCES
 
