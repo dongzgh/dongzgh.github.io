@@ -5615,6 +5615,15 @@ order: 1
   * Attended the testing case discussion
   * Fixed bugs
   * Finished myCompliance course about cybersecurity
+  
+## 2020-03-11
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued learning of VTK textbook
+  
+* [HEXAGONMI](#hexagonmi)
+  * Fixed bugs and issues
+  * Did code review and created new build
 
 ## REFERENCES
 
