@@ -5616,7 +5616,7 @@ order: 1
   * Fixed bugs
   * Finished myCompliance course about cybersecurity
   
-## 2020-03-11
+## 2020-03-10
 
 * [L3MONSHAPE](#l3monshape)
   * Continued learning of VTK textbook
@@ -5624,6 +5624,16 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
   * Fixed bugs and issues
   * Did code review and created new build
+  
+## 2020-03-11
+
+* Booked appointment for changing rear braking pads and rotors
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued learning of VTK textbook
+  
+* [HEXAGONMI](#hexagonmi)
+  * Fixed bugs
 
 ## REFERENCES
 
