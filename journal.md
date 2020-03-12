@@ -5639,6 +5639,7 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
   * Continued learning of VTK textbook
+  * Started learning of CMake
   * Tried to compile cxx codes
   
 * [HEXAGONMI](#hexagonmi)
