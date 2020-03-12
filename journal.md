@@ -5634,6 +5634,16 @@ order: 1
   
 * [HEXAGONMI](#hexagonmi)
   * Fixed bugs
+  
+## 2020-03-12
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued learning of VTK textbook
+  * Tried to compile cxx codes
+  
+* [HEXAGONMI](#hexagonmi)
+  * Discussed Regeneration issues
+  * Discussed Conversion issues
 
 ## REFERENCES
 
