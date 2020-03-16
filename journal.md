@@ -5645,6 +5645,32 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
   * Discussed Regeneration issues
   * Discussed Conversion issues
+  
+## 2020-03-13
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued learning of CMake
+  * Build VTK cxx example
+  * Updated Python environment
+  
+* [HEXAGONMI](#hexagonmi)
+  * Fixed bugs
+  
+## 2020-03-14
+
+* Drove along Gulph Line Highway #1
+
+## 2020-03-15
+
+* Drove along Highway #52 to Coyaga Foodland Market
+
+## 2020-03-16
+
+* [HEXAGONMI](#hexagonmi)
+  * Set up laptop for remote desktop
+  * Set up laptop for remove office
+  * Set up laptop for remote team
+  * Revised Regeneration Strategy with Shaharoz
 
 ## REFERENCES
 
