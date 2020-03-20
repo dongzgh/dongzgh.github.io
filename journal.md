@@ -5666,11 +5666,32 @@ order: 1
 
 ## 2020-03-16
 
+* Replaced rear brake and rotor for Volvo S60
+
 * [HEXAGONMI](#hexagonmi)
   * Set up laptop for remote desktop
   * Set up laptop for remove office
   * Set up laptop for remote team
   * Revised Regeneration Strategy with Shaharoz
+  
+## 2020-03-17
+
+* [HEXAGONMI](#hexagonmi)
+  * Merged source codes from FormingSuite main trunk
+
+## 2020-03-18
+
+* [HEXAGONMI](#hexagonmi)
+  * Discussed with Shaharoz about Regeneration strategy
+  * Discussed with Muhammad about how to show Direction Vecotr #
+  
+## 2020-03-19
+
+* [HEXAGONMI](#hexagonmi)
+  * Discussed with Shaharoz about Regeneration strategy
+  * Discussed with Mario and Muhammand about color overlay issue in dobule attach
+  * Fixed bugs 
+  * Investigated bugs
 
 ## REFERENCES
 
