@@ -5692,6 +5692,13 @@ order: 1
   * Discussed with Mario and Muhammand about color overlay issue in dobule attach
   * Fixed bugs 
   * Investigated bugs
+  
+## 2020-03-20
+
+* [HEXAGONMI](#hexagonmi)
+  * Discussed with Shaharoz about Delection strategy
+  * Investigated color overlay issue
+  * Investigated bugs and issues
 
 ## REFERENCES
 
