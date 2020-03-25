@@ -5699,7 +5699,32 @@ order: 1
   * Discussed with Shaharoz about Delection strategy
   * Investigated color overlay issue
   * Investigated bugs and issues
+	
+## 2020-03-23
 
+* [HEXAGONMI](#hexagonmi)
+	* Discussed Regeneration strategy with Shaharoz
+	* Attended FS status review meeting
+
+## 2020-03-24
+
+* Ordered groccery from istacard
+
+* [HEXAGONMI](#hexagonmi)
+	* Attended FS Sprint Review meeting
+	* Discussed Regeneration strategy with team
+	* Merged source codes from Forming Suite
+	* Create alpha build
+	
+## 2020-03-25
+
+* [HEXAGONMI](#hexagonmi)
+	* Groomed sprint backlog partially
+	* Moved office applications to local
+	* Did code review for new Direction Vector display
+	* Developed ppt about merged geometry sets
+	* Investigated bugs
+	
 ## REFERENCES
 
 ### estates
