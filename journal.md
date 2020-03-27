@@ -5718,12 +5718,27 @@ order: 1
 	
 ## 2020-03-25
 
+* Updated windows system
+
 * [HEXAGONMI](#hexagonmi)
 	* Groomed sprint backlog partially
 	* Moved office applications to local
 	* Did code review for new Direction Vector display
 	* Developed ppt about merged geometry sets
 	* Investigated bugs
+	
+## 2020-03-26
+
+* Scanned windows system
+* Improved windows system's performance
+
+* [L3MONSHAPE](#l3monshape)
+  * Investigated vcpkg installation
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed display issue with Punch Direction Vector definition
+	* Discussed POL DOL naming issue
+	* Discussed color codes for POL, DOL and BTL
 	
 ## REFERENCES
 
