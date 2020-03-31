@@ -5739,6 +5739,31 @@ order: 1
 	* Discussed display issue with Punch Direction Vector definition
 	* Discussed POL DOL naming issue
 	* Discussed color codes for POL, DOL and BTL
+	* Fixed bugs
+	
+## 2020-03-27
+
+* [L3MONSHAPE](#l3monshape)
+  * Investigated vcpkg installation
+
+* [HEXAGONMI](#hexagonmi)
+	* Fixed bugs
+	
+## 2020-03-28
+
+* Visited small town Fergus north
+
+## 2020-03-29
+
+* Prepared Noddles at home
+
+## 2020-03-30
+
+* Reviewed and filed TAX return for 2019
+
+* [HEXAGONMI](#hexagonmi)
+	* Merged source codes from Forming Suite
+	* Groomed backlog
 	
 ## REFERENCES
 
