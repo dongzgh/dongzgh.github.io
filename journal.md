@@ -5761,9 +5761,44 @@ order: 1
 
 * Reviewed and filed TAX return for 2019
 
+* [L3MONSHAPE](#l3monshape)
+  * Reorganized lemtri project
+	* Downloaed latest business plan
+	* Installed vcpkg
+
 * [HEXAGONMI](#hexagonmi)
 	* Merged source codes from Forming Suite
 	* Groomed backlog
+	
+## 2020-03-31
+
+* Cleaned windows
+
+* [L3MONSHAPE](#l3monshape)
+	* Installed vcpkg
+
+* [HEXAGONMI](#hexagonmi)
+	* Changed passwords
+	* Groomed backlog
+	* Fixed bugs and issues
+	
+## 2020-04-01
+
+* Received rent fees
+* Attended RCIA training
+
+* [HEXAGONMI](#hexagonmi)
+	* Fixed bugs and issues
+	
+## 2020-04-02
+
+* [L3MONSHAPE](#l3monshape)
+	* Initialized business plan v3
+	* Tried vtk cxx and python example
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed regeneration issues
+	* Fixed bugs and issues
 	
 ## REFERENCES
 
