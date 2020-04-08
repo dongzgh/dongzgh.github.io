@@ -972,7 +972,7 @@ order: 1
 * Bought Smart Trike 700 8-1 Compact Tricycle as a gift to Ethan's birthday
 * Changed winter tire to all season tire
 * Fixed patio umbrella
-* Learnt how to use Smart Trike
+* Learned how to use Smart Trike
 * Bought breads from Monastery Bakery
 * Cooked pork ribs
 
@@ -1526,7 +1526,7 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
   * Continued reading book 'ITK Software Guide I'
-  * Learnt basics of CMake
+  * Learned basics of CMake
 
 ## 2018-10-04
 
@@ -1802,7 +1802,7 @@ order: 1
 * [L3MONSHAPE](#l3monshape)
   * Installed CGAL and tested
   * Started to read the book 'The C++ Standard Library - A Tutorial and Reference'
-  * Learnt basics of CGAL
+  * Learned basics of CGAL
 
 ## 2018-11-23
 
@@ -4391,7 +4391,7 @@ order: 1
 ## 2019-10-23
 
 * Read technology news from Kitware
-* Learnt how to use static analysis tools in visual studio
+* Learned how to use static analysis tools in visual studio
 * Attended RCIA
 
 * [L3MONSHAPE](#l3monshape)
@@ -5028,11 +5028,11 @@ order: 1
 
 ## 2020-01-04
 
-* Visited Burlington Libary at Hyden School
+* Visited Burlington Library at Hyden School
 * Attended Story Time
 * Attended Family Maker
 * Shopped at Healthy Planet
-* Mailed nutriants
+* Mailed nutrients
 * Drove for grocery shopping
 
 ## 2020-01-05
@@ -5060,8 +5060,8 @@ order: 1
 
 ## 2020-01-08
 
-* Researched research refrence system
-* Created scholoar reference format
+* Researched research reference system
+* Created scholar reference format
 * Written a script to convert #tags to lowercase
 * Attended RCIA
 
@@ -5123,7 +5123,7 @@ order: 1
   
 * [HEXAGONMI](#hexagonmi)
   * Fixed bugs in the new branch
-  * Reviewed source code from Alex Chun
+  * Reviewed source code from Alex Chung
   
 ## 2020-01-15
 
@@ -5177,7 +5177,7 @@ order: 1
 
 ## 2020-01-19
 
-* Had gethering at the Aladin's Indoor Playground
+* Had gathering at the Aladin's Indoor Playground
 
 ## 2020-01-20
 
@@ -5187,7 +5187,7 @@ order: 1
 * Shopped sled for Ethan
 
 * [HEXAGONMI](#hexagonmi)
-  * Merged soure codes
+  * Merged source codes
   * Created new build into Z:\FS2020_AdvGeo Builds\FSBuild_26598.1_v2020-1-1_x64
   
 ## 2020-01-21
@@ -5303,8 +5303,8 @@ order: 1
 ## 2020-02-03
 
 * [L3MONSHAPE](#l3monshape)
-  * Learnt webpack
-  * Learnt regular expression
+  * Learned webpack
+  * Learned regular expression
 
 * [HEXAGONMI](#hexagonmi)
   * Merged source codes
@@ -5313,7 +5313,7 @@ order: 1
 ## 2020-02-04
 
 * [L3MONSHAPE](#l3monshape)
-  * Learnt regular expression
+  * Learned regular expression
 
 * [HEXAGONMI](#hexagonmi)
   * Done PRIDE review with Eric
@@ -5324,7 +5324,7 @@ order: 1
 * Attended RCIA
 
 * [L3MONSHAPE](#l3monshape)
-  * Learnt VueJS
+  * Learned VueJS
 
 * [HEXAGONMI](#hexagonmi)
   * Fixed bugs and issues
@@ -5333,7 +5333,7 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
   * Fixed code highlight issues
-  * Learnt VueJS
+  * Learned VueJS
 
 * [HEXAGONMI](#hexagonmi)
   * Created two demo cases
@@ -5341,7 +5341,7 @@ order: 1
 ## 2020-02-07
 
 * [L3MONSHAPE](#l3monshape)
-  * Learnt VueJS
+  * Learned VueJS
   * Configured BeautifyJS
 
 * [HEXAGONMI](#hexagonmi)
@@ -5359,8 +5359,8 @@ order: 1
 ## 2020-02-10
 
 * [L3MONSHAPE](#l3monshape)
-  * Learnt ThreeJS Shader Material
-  * Started learning of Volumen Rendering
+  * Learned ThreeJS Shader Material
+  * Started learning of Volume Rendering
   
 * [HEXAGONMI](#hexagonmi)
   * Merged source codes from FS
@@ -5369,8 +5369,8 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
   * Configured MathJax for display mode styling
-  * Continued learning of Volumen Rendering
-  * Added keybinding to Visual Studio Code
+  * Continued learning of Volume Rendering
+  * Added key binding to Visual Studio Code
   
 * [HEXAGONMI](#hexagonmi)
   * Worked with Rob on alpha build
@@ -5380,7 +5380,7 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
   * Configured keyboard bindings for Visual Studio Code
-  * Continued learning of Volumen Rendering
+  * Continued learning of Volume Rendering
   * Reorganized documents on Microsoft Team
   
 * [HEXAGONMI](#hexagonmi)
@@ -5389,7 +5389,7 @@ order: 1
 ## 2020-02-13
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of Volumen Rendering
+  * Continued learning of Volume Rendering
   * Started writing of product description
   
 * [HEXAGONMI](#hexagonmi)
@@ -5398,7 +5398,7 @@ order: 1
 ## 2020-02-14
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of Volumen Rendering
+  * Continued learning of Volume Rendering
   * Completed writing of product description
 	* Attended meeting
   
@@ -5420,7 +5420,7 @@ order: 1
 ## 2020-02-18
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of Volumen Rendering
+  * Continued learning of Volume Rendering
   
 * [HEXAGONMI](#hexagonmi)
   * Attended training of Simufact Forming
@@ -5431,12 +5431,12 @@ order: 1
 * Attended RCIA class
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of Volumen Rendering
+  * Continued learning of Volume Rendering
   
 ## 2020-02-20
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of Volumen Rendering
+  * Continued learning of Volume Rendering
   
 * [HEXAGONMI](#hexagonmi)
   * Attended training of Simufact Additive
@@ -5444,7 +5444,7 @@ order: 1
 ## 2020-02-21
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of Volumen Rendering
+  * Continued learning of Volume Rendering
   
 * [HEXAGONMI](#hexagonmi)
   * Installed MSC Apex
@@ -5463,7 +5463,7 @@ order: 1
 
 ## 2020-02-24
 
-* Searched Employment Insurrance Benefits of Canada
+* Searched Employment Insurance Benefits of Canada
 * Searched Employment Standard Act of Ontario
 
 * [L3MONSHAPE](#l3monshape)
@@ -5472,7 +5472,7 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
   * Merged latest source code from FormingSuite
   * Created build version 26997
-  * Assigned bug fix to Alex Chubalev
+  * Assigned bug fix to Alex Chubarev
 	
 ## 2020-02-25
 
@@ -5509,7 +5509,7 @@ order: 1
   * Continued learning of ParaView
 
 * [HEXAGONMI](#hexagonmi)
-  * Learnt MSC Apex GUI SDK development environment
+  * Learned MSC Apex GUI SDK development environment
   * Reported project progress to Eric
   * Discussed Preunfold Flanges with Shaharoz
   * Fixed bugs
@@ -5531,7 +5531,7 @@ order: 1
 ## 2020-02-29
 
 * Attended Sports Concept skating class
-* Visisted Costco at stony creek
+* Visited Costco at stony creek
 
 ## 2020-03-01
 
@@ -5556,13 +5556,13 @@ order: 1
   * Continued learning VTK.js
   
 * [HEXAGONMI](#hexagonmi)
-  * Discussed DieFace backend issue with Eric and Alex
+  * Discussed DieFace back-end issue with Eric and Alex
   * Built latest source codes
   * Merged source codes from latest FS
   
 ## 2020-03-04
 
-* Tried to fixed the catalyst convertor problem at Good Cars Only Inc.
+* Tried to fixed the catalyst converter problem at Good Cars Only Inc.
 
 * [L3MONSHAPE](#l3monshape)
   * Revised business plan (CN) and (EN)
@@ -5614,7 +5614,7 @@ order: 1
   * Updated Preunfold Flanges spec
   * Attended the testing case discussion
   * Fixed bugs
-  * Finished myCompliance course about cybersecurity
+  * Finished myCompliance course about cyber-security
   
 ## 2020-03-10
 
@@ -5658,7 +5658,7 @@ order: 1
   
 ## 2020-03-14
 
-* Drove along Gulph Line Highway #1
+* Drove along Guelph Line Highway #1
 
 ## 2020-03-15
 
@@ -5683,20 +5683,20 @@ order: 1
 
 * [HEXAGONMI](#hexagonmi)
   * Discussed with Shaharoz about Regeneration strategy
-  * Discussed with Muhammad about how to show Direction Vecotr #
+  * Discussed with Muhammad about how to show Direction Vector #
   
 ## 2020-03-19
 
 * [HEXAGONMI](#hexagonmi)
   * Discussed with Shaharoz about Regeneration strategy
-  * Discussed with Mario and Muhammand about color overlay issue in dobule attach
+  * Discussed with Mario and Muhammand about color overlay issue in double attach
   * Fixed bugs 
   * Investigated bugs
   
 ## 2020-03-20
 
 * [HEXAGONMI](#hexagonmi)
-  * Discussed with Shaharoz about Delection strategy
+  * Discussed with Shaharoz about Deletion strategy
   * Investigated color overlay issue
   * Investigated bugs and issues
 	
@@ -5708,7 +5708,7 @@ order: 1
 
 ## 2020-03-24
 
-* Ordered groccery from istacard
+* Ordered grocery from istacard
 
 * [HEXAGONMI](#hexagonmi)
 	* Attended FS Sprint Review meeting
@@ -5763,7 +5763,7 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
   * Reorganized lemtri project
-	* Downloaed latest business plan
+	* Downloaded latest business plan
 	* Installed vcpkg
 
 * [HEXAGONMI](#hexagonmi)
@@ -5799,6 +5799,59 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
 	* Discussed regeneration issues
 	* Fixed bugs and issues
+	
+## 2020-04-03
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning VTK textbook
+	* Discussed business plan v3 with Charles
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed regeneration issues
+	* Fixed bugs and issues
+	
+## 2020-04-04
+
+* Driven to currier service
+
+## 2020-04-05
+
+* Driven to Dunsville
+
+## 2020-04-06
+
+* Applied Support for Parents Ontario
+* Placed grocery order from Costco.ca
+* Ordered USB hub and batteries from Amazon
+* Ordered grocery from istacart
+
+* [HEXAGONMI](#hexagonmi)
+	* Reported progress in FS review meeting
+	* Merged source codes
+	* Created new alpha build
+	* Talked with Dana about vacation in Q2
+	* Added Alex Chung and Alex Chubarev queries
+	* Talked over the project timeline issue
+	
+## 2020-04-07
+
+* Changed auto insurance policy by suspending XC60 for 2 months
+
+* [HEXAGONMI](#hexagonmi)
+	* Attended all-hands meeting
+	* Fixed bugs (24664, 23554)
+	* Reviewed initial codes for 3AW regeneration
+	* Marked QA tasks related with integration with 'AdvGeo Integration' tag
+	* Discussed PEC/DRTC/BTL display issues
+	* Revised Merged Geometry Sets document
+	
+## 2020-04-08
+
+* [HEXAGONMI](#hexagonmi)
+ * Discussed material definition for 3AW
+ * Discussed binder regeneration issues with Shaharoz
+ * Reviewed codes for CreateLinesOnSurfaces for double attached
+ * Talked with Henny about installation registry changes
 	
 ## REFERENCES
 
