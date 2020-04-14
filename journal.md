@@ -4167,7 +4167,7 @@ order: 1
 ## 2019-09-25
 
 * Continued learning Dropshop 7 figure from Udemy
-* Attended RCIA course Q2
+* Attended RCIA training Q2
 * Tinted raising bed frame
 
 * [HEXAGONMI](#hexagonmi)
@@ -4227,7 +4227,7 @@ order: 1
 * Read technology news from Digital Engineering
 * Updated Graduate Studies.xlxm file with McMaster University information
 * Read God and the Afterlife Chapter 1
-* Attended RCIA course
+* Attended RCIA training
 * Filed claim for Min's contact lenses from Costco
 
 * [L3MONSHAPE](#l3monshape)
@@ -4297,8 +4297,8 @@ order: 1
 ## 2019-10-09
 
 * Read technology news from DEVELOP3D Sep
-* Attended RCIA weekly meeting
-* Prepared Thanks Giving lunch for FTI
+* Attended RCIA training
+* Prepared Thanks Giving lunch for FTIAttended RCIA training
 
 * [HEXAGONMI](#hexagonmi)
   * Reformatted UICommand updates for callback functions
@@ -4392,7 +4392,7 @@ order: 1
 
 * Read technology news from Kitware
 * Learned how to use static analysis tools in visual studio
-* Attended RCIA
+* Attended RCIA training
 
 * [L3MONSHAPE](#l3monshape)
   * Had tri-weekly meeting with Charle and Li
@@ -4438,7 +4438,7 @@ order: 1
 * Crafted pumpking for Halloween
 * Shopped around for used Volvo XC60 in GTA
 * Bought RCIA cookies
-* Attended RCIA course
+* Attended RCIA training
 
 * [HEXAGONMI](#hexagonmi)
   * Revised FTIImport (changed to display last geometry set)
@@ -4873,7 +4873,7 @@ order: 1
 * Joined waiting list for Burlignton Skating Center 10 weeks program on Satureday 4:55-5:25 starting from Jan. 4th
 * Sealed evelope for PR Renewal Application
 * Attended Alton Kids Care Center's Christmas Party
-* Attended RCIA course
+* Attended RCIA training
 
 * [L3MONSHAPE](#l3monshape)
   * Continued working on research note for Design, Representation and Processing for Additive Manufacturing
@@ -5063,7 +5063,7 @@ order: 1
 * Researched research reference system
 * Created scholar reference format
 * Written a script to convert #tags to lowercase
-* Attended RCIA
+* Attended RCIA training
 
 * [L3MONSHAPE](#l3monshape)
   * Read papers about volume rendering
@@ -5205,7 +5205,7 @@ order: 1
 
 * Read news from Twitter
 * Obtained registration documents from St. Anne
-* Attended RCIA
+* Attended RCIA training
 
 * [L3MONSHAPE](#l3monshape)
   * Continued reading Shader Language book
@@ -5321,7 +5321,7 @@ order: 1
   
 ## 2020-02-05
 
-* Attended RCIA
+* Attended RCIA training
 
 * [L3MONSHAPE](#l3monshape)
   * Learned VueJS
@@ -5428,7 +5428,7 @@ order: 1
 ## 2020-02-19
 
 * Stayed at home with Ethan
-* Attended RCIA class
+* Attended RCIA training class
 
 * [L3MONSHAPE](#l3monshape)
   * Continued learning of Volume Rendering
@@ -5847,11 +5847,69 @@ order: 1
 	
 ## 2020-04-08
 
+* Attended RCIA training
+
 * [HEXAGONMI](#hexagonmi)
  * Discussed material definition for 3AW
  * Discussed binder regeneration issues with Shaharoz
  * Reviewed codes for CreateLinesOnSurfaces for double attached
  * Talked with Henny about installation registry changes
+ * Create Sprint Review related queries
+ * Revised Merged Geometry Sets for AGW and 3AW
+ * Revised to save only one Bridge under Bridges
+ 
+## 2020-04-09
+
+* Installed USB hub
+* Replace Remote Car batteries
+
+* [HEXAGONMI](#hexagonmi)
+ * Revised Merged Geometry Set document and sent email
+ * Created task for check Flange partially on bridge
+ * Created task for registering special Merged Geometry Set for Formability/Blanking/Nesting
+ * Created task for providing post-trim lines for Process Planner
+ * Verified bug #24760 is fixe in changeset #27515
+ * Revised Sprint Review queries
+ * Reviewed Sprint work items
+ * Had discussion regarding Material Assignment
+ * Had discussion regarding Process Planing bridge pre-trim lines
+ * Reviewed and discussed the bug #24705
+ * Created task for Adrian to work on Material Assignment enhancements
+ * Groomed backlog
+ 
+## 2020-04-10
+
+* Driven to Limestone
+
+## 2020-04-11
+
+* Driven to Wellington Rockwood
+
+## 2020-04-12
+
+* Driven to Wellington County
+* Purchased stick vacuum, air fryer and ubs hub from Amazon.ca
+
+## 2020-04-13
+
+* Read news fro 51.ca
+* Finished RCIA homework
+
+* [HEXAGONMI](#hexagonmi)
+ * Attended Forming Suite Status Review meeting
+ * Prepared PPT for scrum review meeting
+ * Discussed with Shaharoz about surface deletion issue with Double Attached
+ * Discussed with Shaharoz about Bridge regeneration
+ * Reviewed Sprint backlog
+ * Merged source codes and created Alpha build
+ 
+## 2020-04-14
+
+* [HEXAGONMI](#hexagonmi)
+	* Revised Business Plan to V4.0
+	* Reviewed project status
+
+* [HEXAGONMI](#hexagonmi)
 	
 ## REFERENCES
 
