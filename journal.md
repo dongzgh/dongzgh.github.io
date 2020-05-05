@@ -5905,11 +5905,196 @@ order: 1
  
 ## 2020-04-14
 
-* [HEXAGONMI](#hexagonmi)
+* [L3MONSHAPE](#l3monshape)
 	* Revised Business Plan to V4.0
 	* Reviewed project status
+	* Reviewed Jekyll documentation system
+
+## 2020-04-15
+
+* [L3MONSHAPE](#l3monshape)
+	* Learned how to use Jekyll theme
+	* Learned SASS
+	* Learned gitignore
+	* Initialized lemtri V02
+	* Revised header.masthead
 
 * [HEXAGONMI](#hexagonmi)
+	* Updated regeneration documents
+	* Reviewed source code for Direction Vector regeneration
+	* Working on bug #24844, merging two DrawPolylines functions
+	
+## 2020-04-16
+
+* Talked with Andrean about Rent Issue for May, June and July/August
+* Reinstalled Dell Support & Assistant to check health condition
+* Checked Webcam and Point&Shot Camera for Ethan
+
+* [HEXAGONMI](#hexagonmi)
+	* Updated Select Geometry Set specs and links
+	* Created tasks for Select Geometry Set enhancements
+	* Updated Merged Geometry Set story board
+	* Created task for showing Lines in Merged Geometry Set
+	* Asked Muhammad to prepared warning messages for some validation after surface deletion
+	
+## 2020-04-17
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Shaharoz about DeleteNotify workflow
+	* Did code review for Validation Error Messages
+	* Investigated bugs #24905, #24906 and # 24916
+	* Merged BIN folders from Forming Suite main branch
+	* Created Tasks for Material Definition updates
+
+## 2020-04-18
+
+* Toured Fortino PC Express and Costco
+
+## 2020-04-19
+
+* Exercised in basement
+* Emailed Glenn about his opinion regarding rental
+
+## 2020-04-20
+
+* Talked with Glenn about his opinion regarding rental
+* Developed plan to evaluate current financial status
+* Developed plan to evaluate current rental plan
+* Purchased 5G Wifi adapter
+
+* [HEXAGONMI](#hexagonmi)
+	* Attended Forming Suite status review meeting
+	* Discussed with Shaharoz about deletion implementation strategy
+	* Reviewed updated Regeneration preliminary discussion worksheet
+	* Discussed with Henny and Shaharoz about PEC/DRTC/BTL display issues
+	* Discussed with Henny about Material Definition testing issues
+	* Discussed with Alex about a Hidden/Display behavior of a hidden group entity
+	* Merged source codes and BIN folder from FormingSuite
+	
+## 2020-04-21
+
+* [HEXAGONMI](#hexagonmi)
+	* Fixed missing files from merging source codes
+	* Did code review for Adrian regarding Operation on Lines
+	* Bug #24949: Created new icon for First Form
+	* Bug #23946: Removed hidden property check on geometry display
+	* Bug #24485: Changed menu name name from Features to Part Features
+	* Bug #24488: Change dialog title from Define Features to Define/Edit Features
+	* Fixed a bug relate with FTIFSManifoldUtiltiy::GetGroupeEntities
+	* Tried Alpha installer in Admin account
+	* Reviewed Material Assignment Spec. REV03 and uploaded to the Microsoft Team
+	* Updated Material Assignment related links in AzureDev Ops
+	* Merged FTIStich latest source codes
+	* Added enhancements to the CopyAllForms so that user can also copy to one form
+	
+## 2020-04-22
+
+* Updated Private folder git repositories
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed solution to bug #23959 regarding how to create/display Lines for Double Attached
+	* Asked Shaharoz to confirm Regeneration/Deletion strategy with Muhammad
+	* Discussed Scrum Practice enhancements regarding where to put discussion history
+	* Discussed with Alex Chubarev about how hole filling works
+	* Discussed with Henny about Recreate Holes or Recreate Notches in AGW
+	* Sent email to Muhammad discussing about Recreate Holes and Notches interface
+	* Discussed with Shaharoz about Pre-deletion notification in FTIMFCFeatureTree
+	* Reviewed code about linking 3AW to subsequent workbenches
+	* Fixed bug #24988 and send bug #24989 to Shaharoz
+	* Send bug #24905 to Adrian
+	
+## 2020-04-23
+
+* Exercised in basement
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed how to handle Merged Geometry Set in Double Attached feature
+	* Create meeting minutes for the Merged Geometry Set enhancement
+	* Created feature and links for Merged Geometry Set	
+	* Fixed bug #24905 related with FTISelectNotify handling geometry entity selection
+	* Drafted back end function for Flange on Bridge checking
+	* Drafted back end function to create Master Merged Geometry Set
+	
+## 2020-04-24
+
+* [HEXAGONMI](#hexagonmi)
+	* Fixed bugs in back end function for Flange on Bridge checking
+	* Fixed bugs in back end function to create Master Merged Geometry Set
+	* Discussed with Muhammad about how to design Unfill Holes and Unfill Notches
+	* Uploaded Unfil Holes/Notches spec. REV01 to Microsoft Team and also created links in AzureDev Ops
+	* Created bug #25075 for bridging simple boxes to Alex Chubarev
+	* Fixed one assertion failure in CopyAllAttributes
+	
+## 2020-04-25
+
+* Drove to Erin and Belfountain
+
+## 2020-04-26
+
+* Drove to Hiton Falls
+
+## 2020-04-27
+
+* [HEXAGONMI](#hexagonmi)
+	* Attended Forming Suite status review meeting
+	* Submitted code review for Merged Geometry Sets
+	* Discussed material validation issues with Shaharoz and Adrian
+	* Discussed regeneration strategies for DirectionVector/Symmetry/ThicknessDirection etc.
+	* Created meeting minutes for meeting about Regeneration
+	* Merged source codes from Forming Suites
+	
+## 2020-04-28
+
+* [HEXAGONMI](#hexagonmi)
+	* Tried new solution file for Main and Alpha branch
+	* Discussed with Alex Chubarev about the bug #24305 related with hole filling
+	* Did code review for Skin Location attribute regeneration
+	* Fixed the bug #25018 by enabling inferring geometry from displays in 3AW
+	* Updated FirstForm icon
+
+## 2020-04-29
+
+* [HEXAGONMI](#hexagonmi)
+	* Copied attributes to Merged Geometry Set
+	* Did code review for Material Definition
+	* Revised codes for First Form checkers after form redefinition
+	
+## 2020-04-30
+
+* [HEXAGONMI](#hexagonmi)
+	* Did backlog grooming
+	* Discussed with Muhammad and Eric about how to show Merged Geometry Set 1
+	* Created new enhancement task for Define Direction Vector
+	
+## 2020-05-01
+
+* Transferred rental moneys to bank account
+* Asked about e-transfer cancellation
+
+* [L3MONSHAPE](#l3monshape)
+	* Discussed with Charles about Business Plan
+
+* [HEXAGONMI](#hexagonmi)
+	* Gave Shaharoz some updates about Merged Geometry Sets
+	* Registered MSC domain account
+	* Fixed the bug #25146 related with post-processing Fill Holes, Fill Notches and GenerateFeatures
+	* Created bug #25162 related with FindAllMaterials
+	* Fixed bug #25183 related with Flange on Bridge recognition problem
+	
+## 2020-05-04
+
+* Canceled transfer and resent money to Helen
+
+* [L3MONSHAPE](#l3monshape)
+	* Revised Business Plan
+	
+* [HEXAGONMI](#hexagonmi)
+	* Attended Forming Suite status review meeting
+	* Discussed people resource issue with Eric and Alex
+	* Downloaded latest source codes and built them
+	* Groomed backlog
+	* Discussed with Shaharoz about Edit Features
+	* Attended release schedule discussion
 	
 ## REFERENCES
 
