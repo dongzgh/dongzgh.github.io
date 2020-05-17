@@ -6096,6 +6096,114 @@ order: 1
 	* Discussed with Shaharoz about Edit Features
 	* Attended release schedule discussion
 	
+## 2020-05-05
+
+* Searched for toddle activity trainings
+* Started reading 这样读书就够了
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Alex Chung about adding Direction Vector selection box
+	* Groomed queries
+	* Send email to Rob about pipeline change
+	* Fixed bug #25186 related with warning about multiple First Form in Define Feature
+	* Did code review for Adrian's bug fix related with Operation on Lines in 3AW
+	* Fixed the bug #25247 about checking First Form after Fill Holes, Fill Notches and Merge Geometry Sets
+	
+## 2020-05-06
+
+* Continued reading 这样读书就够了
+* Asked Maggie about expense claim
+
+* [HEXAGONMI](#hexagonmi)
+  * Did retrospective review of the last spring
+	* Asked Muhammad to provide the latest Unfill Holes/Unfill Notch document
+	* Discussed what feature to be edited and how
+	* Removed IsFirstFormFromSDF from source codes
+	
+## 2020-05-07
+
+* Completed reading 这样读书就够了
+* Submitted expense claim to Maggie
+
+* [HEXAGONMI](#hexagonmi)
+  * Commit code for removing IsFirstFormFromSDF
+	* Working on Fill/Unfill Holes
+	
+## 2020-05-08
+
+* Searched Amazon for glasses repair kit
+
+* [HEXAGONMI](#hexagonmi)
+  * Discussed with Alex Chubarev about the bug #24249
+	* Created function to unfill holes
+	* Sent email to Muhammad asking about Edit Features definitions
+	
+## 2020-05-10
+
+* Drove to Terra Cotta Forest
+	
+## 2020-05-11
+
+* Searched Amazon for ground pin
+* Checked out book Recipe for Play
+* Checked out book Rainy Day Activities
+* Checked out book Maker Lab 
+
+* [HEXAGONMI](#hexagonmi)
+  * Attended Forming Suite status review meeting
+	* Discussed with Eric about RecreateHoles function's issues
+	* Checked in codes for Fill/Unfill Holes
+	* Revised Fill/Unfill holes dialog wording
+	* Removed Merged Geometry Set 1 warning sign and revised FTIInfo status check
+	* Merged source codes from Forming Suite
+	
+## 2020-05-12
+
+* Searched Amazon for ground pin
+* Read and returned the book Recipe for Play
+* Read the book Maker's Lab
+
+* [HEXAGONMI](#hexagonmi)
+  * Reassigned the bug #25324 related with new material assignment
+	* Reassigned the bug #25332 related with new material assignment
+	* Reassigned the bug #25333 related with new material assignment
+	* Read Edit Feature specification
+	* Created tasks for Edit Feature
+	
+## 2020-05-13
+
+* Sent Joanna survey form permission problem
+* Filled YMCA registration forms
+
+* [HEXAGONMI](#hexagonmi)
+  * Discussed with Shaharoz about Edit Feature
+	* Discussed with Adrian about Operation on Lines issue in 3AW
+	* Submitted code for Unfill Notch
+	* Fixed the bug #25277 related with removing static displays in Binder Creation
+
+## 2020-05-14
+
+* Read news from Digital Engineering
+
+* [HEXAGONMI](#hexagonmi)
+  * Discussed with Shaharoz about Edit Double Attached Positioning
+	* Discussed with Adrian about Tipping and Binder enabling issues
+	* Sent email to Muhammad asking about Trim Line Development for LDP/PDP
+	* Fixed the bug #25418 related with Select All check box issue in Fill/Unfill Holes
+	
+## 2020-05-15
+
+* Read news from Digital Engineering
+
+* [HEXAGONMI](#hexagonmi)
+  * Discussed Fill/Unfill Holes usability issues with Henny
+	* Fixed the bug #25430 related with enabling/disabling Fill/Unfill Holes
+	* Fixed the bug #25426 related with dumb entity selection
+	* Discussed the bug #25427 related with Fill Holes back-end
+	* Fixed the bug #25431 related selecting free polylines for Unfill Holes
+	* Fixed the bug #25441 related with Fill/Unfill mode settings
+	* Did code review for Edit Feature in 3AW from Shaharoz
+	
 ## REFERENCES
 
 ### estates
