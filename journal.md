@@ -6204,6 +6204,36 @@ order: 1
 	* Fixed the bug #25441 related with Fill/Unfill mode settings
 	* Did code review for Edit Feature in 3AW from Shaharoz
 	
+## 2020-05-16
+
+* Planted vegetable gardens in the backyard
+
+## 2020-05-17
+
+* Got flat tire and replaced it with All-Season tire
+
+## 2020-05-18
+
+* Stayed at home
+
+## 2020-05-19
+
+* Booked appointment with CT for tomorrow to fix ABS sensor issues
+* Contacted GoWrenchAuto for mobile automotive repair service
+* Checked car manual regarding collision detection
+* Updated YMCA registration form
+* Checked YMCA website for registration
+* Bought motion detection LED for back-yard
+* Searched pillow for cervical spondylosis
+
+* [HEXAGONMI](#hexagonmi)
+  * Attended Forming Suite status review meeting
+	* Discussed with Shaharoz and Alex regarding project conversion issue with Bridge Lines
+	* Reviewed code for Material information updates in project converter
+	* Groomed backlog
+	* Forwarded message from Adrian asking about multiple material on Die Face
+	* Working on merging source codes from Forming Suite
+	
 ## REFERENCES
 
 ### estates
