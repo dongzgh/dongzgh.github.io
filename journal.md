@@ -2546,7 +2546,7 @@ order: 1
 * Checked Tax 2019 using TurboTax online
 
 * [HEXAGONMI](#hexagonmi)
-	* Asked Muhammand about Define Part Features dialog redundant controls
+	* Asked Muhammad about Define Part Features dialog redundant controls
 	* Revised script for creating command with dialog
 	
 ## 2019-03-13
@@ -2826,7 +2826,7 @@ order: 1
 
 * [HEXAGONMI](#hexagonmi)
 	* Presented UI component at the Sprint Review meeting
-	* Discussed with Muhammand about issues left over
+	* Discussed with Muhammad about issues left over
 	* Reviewed codes from Adrian and Shaharoz for Split Surfaces
 	
 ## 2019-04-17
@@ -3186,7 +3186,7 @@ order: 1
 	* Got spec for Define/Morph Binder and Show Unfolded Flanges
 	* Read spec and developed tasks for Define/Morph binder
 	* Read spec and developed tasks for Show Unfolded Flanges
-	* Read staged development plan from Muhammand
+	* Read staged development plan from Muhammad
 	* Submitted updated SDF for patch
 	
 ## 2019-06-18
@@ -5374,7 +5374,7 @@ order: 1
   
 * [HEXAGONMI](#hexagonmi)
   * Worked with Rob on alpha build
-  * Discussed with Muhammand about new feature request for 3D Addendum workbench
+  * Discussed with Muhammad about new feature request for 3D Addendum workbench
   
 ## 2020-02-12
 
@@ -5689,7 +5689,7 @@ order: 1
 
 * [HEXAGONMI](#hexagonmi)
   * Discussed with Shaharoz about Regeneration strategy
-  * Discussed with Mario and Muhammand about color overlay issue in double attach
+  * Discussed with Mario and Muhammad about color overlay issue in double attach
   * Fixed bugs 
   * Investigated bugs
   
@@ -6221,10 +6221,10 @@ order: 1
 * Booked appointment with CT for tomorrow to fix ABS sensor issues
 * Contacted GoWrenchAuto for mobile automotive repair service
 * Checked car manual regarding collision detection
-* Updated YMCA registration form
-* Checked YMCA website for registration
 * Bought motion detection LED for back-yard
 * Searched pillow for cervical spondylosis
+* Updated YMCA registration form
+* Checked YMCA website for registration
 
 * [HEXAGONMI](#hexagonmi)
   * Attended Forming Suite status review meeting
@@ -6233,6 +6233,89 @@ order: 1
 	* Groomed backlog
 	* Forwarded message from Adrian asking about multiple material on Die Face
 	* Working on merging source codes from Forming Suite
+	
+## 2020-05-20
+
+* Submitted registration forms to YMCA
+
+## 2020-05-21
+
+* Called GoWrench about ABS sensor fix
+* Checked CRA CCB qualification
+
+* [HEXAGONMI](#hexagonmi)
+  * Completed merge source code from Forming Suite
+	* Reviewed source code from Shaharoz for Edit Feature
+	* Discussed with Adrian about DieFace display issues
+	* Discussed with Muhammad about button hint issues
+	
+## 2020-05-22
+
+* Moved delivered flowers and mulches
+* Booked appointment with Canadian Tire for ABS sensor replacement next Monday 10:00am
+* Asked Gustavo to cancel today's meeting
+
+* [HEXAGONMI](#hexagonmi)
+  * Created Scrum Summary PPT
+	* Updated source codes
+
+## 2020-05-23
+
+* Planted flowers in the front yard
+* Walked in the neighborhood
+
+## 2020-05-24
+
+* Walked in the neighborhood
+* Talked over the phone about 5629 Evelyn Lane rental
+
+## 2020-05-25
+
+* Showed 5629 Evelyn Lane
+* Sent house lease related documents to the potential tenants
+
+* [HEXAGONMI](#hexagonmi)
+  * Fixed the bug #25527 related with internal flange filtering
+  * Fixed the bug #25515 related with Edit Curve can't save revision
+	
+## 2020-05-26
+
+* Asked 5629 Evelyn Lane rental documents
+* Finalized the 5629 Evelyn Lane rental
+
+* [HEXAGONMI](#hexagonmi)
+  * Working on bug #25463 relate with Flange on Bridge recognition
+	* Fixed the bug #25323 related with filtering feature lines from evaluating work part
+	* Investigated the bug #25581 related with incremental Fill Hole
+	
+## 2020-05-27
+
+* Fixed partially ABS sensor problem
+
+* [HEXAGONMI](#hexagonmi)
+  * Merged source codes from Forming Suite
+	* Asked Alex, Muhammad and Jacob about Alex Chung's recent assignments
+	
+## 2020-05-28
+
+* Denied Canadian Tire's diagnosis
+* Booked appointment with Volvo Oakville for City Safety issue
+
+* [HEXAGONMI](#hexagonmi)
+  * Attended release (merging) meeting
+	* Merged source code from Forming Suite
+	* Reviewed Adrian's code for color updates
+	* Created document for project staged review II
+	
+## 2020-05-29
+
+* [HEXAGONMI](#hexagonmi)
+  * Discussed Bridge Regeneration issue with Shaharoz
+	* Discussed the bug #25463 with Henny
+	* Fixed one source code merging issue found by Alex
+	* Updated feature storyboard about Wizard Design
+	* Sent request to Rob to update registry settings for Alpha build
+	* 
 	
 ## REFERENCES
 
