@@ -6315,8 +6315,134 @@ order: 1
 	* Fixed one source code merging issue found by Alex
 	* Updated feature storyboard about Wizard Design
 	* Sent request to Rob to update registry settings for Alpha build
-	* 
 	
+## 2020-05-30
+
+* Walked in Alton Village
+* Put mulch on the east side of the house
+
+## 2020-05-31
+
+* Went to Bronty Creek Provincial Park
+* Walked in Alton Village
+
+## 2020-06-01
+
+* Drove to Volvo Oakville to repair car
+
+* [HEXAGONMI](#hexagonmi)
+	* Sent weekly updates for Stefan
+	* Reviewed back-end functions for SEM parameters
+	* Copied function to export trim lines for FSP
+	* Asked Alex Chubarev to investigate Hole Filling problems (#25677, 78, 79, 80, 81)
+
+## 2020-06-02
+
+* [HEXAGONMI](#hexagonmi)
+  * Discussed the bug #25698 with Alex
+	* Discussed the bug #25687 with Shaharoz
+	* Verified the bug #25697 ad #25699 related with Trimline Development
+	* Discussed with Adrian about Hint Message implementation issues
+	* Migrated FSP export for 3AW
+	
+## 2020-06-03
+
+* [HEXAGONMI](#hexagonmi)
+  * Reviewed hint message source codes and discussed issues with Adrian
+  * Reviewed Edit Positioning source codes
+	* Discussed TLD regeneration issue with Shaharoz
+	* Investigated the bug #25725 related with messy feature definitions
+	* Investigated the bug #25730 related with trim line development
+
+## 2020-06-04
+
+* [HEXAGONMI](#hexagonmi)
+  * Migrated trim line export functions to common modules
+	* Discussed with Eric and Muhammad about trim line data preparation from AGW
+	* Developed transient trim line manifold for DblAttached feature
+	
+## 2020-06-05
+
+* [HEXAGONMI](#hexagonmi)
+	* Discovered material setting issues and discussed with Adrian
+	* Drafted trim line development for LDP/PDP in AGW
+	* Build source codes
+	
+## 2020-06-06
+
+* Visited Arboretum Side Trail
+
+## 2020-06-07
+
+* Visited Princess Point Tail
+
+## 2020-06-08
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Adrian about material inheritance issue
+	* Investigated the bug #25784 related with Unfolding behavior in AGW
+	* Digested material inheritance document
+	* Downloaded codes for merging
+	
+## 2020-06-09
+
+* Checked testing jobs
+* Bought garden hose and sprayer
+* Learned to do paper flowers
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed material id inheritance in the team
+	* Written meeting minutes about material inheritance
+	* Merged source codes from Forming Suites
+	* Triggered alpha build
+	* Created tasks for material regeneration
+	* Created tasks for thickness direction assignments and updates
+	
+## 2020-06-10
+
+* Learned to do paper helicopter
+* Learned to do crossbow
+* Updated dongzgh origami page
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed 3AW wizard updates with Shaharoz
+	* Investigated the bug #25819 related with unfold mesh failure
+	* Investigated the bug #25796 related with material dialog box default selection
+	* Investigated the bug #25795 related with pre-unfold failure
+	* Investigated the bug #25794 related with double attached line copying
+
+## 2020-06-11
+
+* Read news from Digital Engineering
+* Read news from Develop3D
+* Read Develop3D MayJune magazine
+* Replied email to Alton Kids about refund or credit
+
+* [HEXAGONMI](#hexagonmi)
+	* Fixed the bug #25834 related with FTIWorkbench.reg merging
+	* Fixed one issue with FTIResultDisplayUtility.cpp
+	* Delegated the bug #25782 to Muhammad related with LDP feature recognition
+	* Delegated the bug #25837 to Adrian about material thickness warning
+	* Delegated the bug #25788 to Alex Chung about Notch as part in LDP
+	* Investigated the bug #25677 with Alex Chubarev about UpdateBoundaries assertion failures
+	* Did code review for Adrian about manual thickness direction in 3AW
+	
+## 2020-06-12
+
+* Read Develop3D April magazine
+* Read Develop3D March magazine
+* Studied bible - 'Trinity'
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Shaharoz about material regeneration
+	* Written meeting minutes about material regeneration
+	* Investigated the bug #25725 to see if there's a solution
+	* Discussed Notch Fill regeneration on double attached
+	* Written meeting minutes about Notch FIll regeneration on double attached
+	* Completed task #25858 for disabling deletion of trim line data for LDP/PDP
+	* Created task #25859 for enable deletion of Merged Geometry Set 1 and thus Bridge
+	* Created sprint 2020.1.8 summary
+
 ## REFERENCES
 
 ### estates

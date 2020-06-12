@@ -40,4 +40,52 @@ permalink: /views/origami
       <div class="gallery-item-title-bottom">Box</div>
     </div>
   </div>
+  <div class="col-4">
+    <div class="row justify-content-center">
+      <iframe width="200" height="112" src="https://www.youtube.com/embed/3vtiiad2biU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="row justify-content-center">
+      <div class="gallery-item-title-bottom">Paper Craft Ideas</div>
+    </div>
+  </div>
+  <div class="col-4">
+    <div class="row justify-content-center">
+      <iframe width="200" height="112" src="https://www.youtube.com/embed/ugQd9GEwr5E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="row justify-content-center">
+      <div class="gallery-item-title-bottom">Paper Helicopter</div>
+    </div>
+  </div>
+  <div class="col-4">
+    <div class="row justify-content-center">
+      <iframe width="200" height="112" src="https://www.youtube.com/embed/GAl8eAX3wUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="row justify-content-center">
+      <div class="gallery-item-title-bottom">Crossbow</div>
+    </div>
+  </div>
+  <div class="col-4">
+    <div class="row justify-content-center">
+      <iframe width="200" height="112" src="https://www.youtube.com/embed/iovoMNy6VtA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="row justify-content-center">
+      <div class="gallery-item-title-bottom">Moving Whistle</div>
+    </div>
+  </div>
+  <div class="col-4">
+    <div class="row justify-content-center">
+      <iframe width="200" height="112" src="https://www.youtube.com/embed/1PRKgLbjHQ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="row justify-content-center">
+      <div class="gallery-item-title-bottom">Slingshot Gun</div>
+    </div>
+  </div>
+  <div class="col-4">
+    <div class="row justify-content-center">
+      <iframe width="200" height="112" src="https://www.youtube.com/embed/QCOvl8gyB2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="row justify-content-center">
+      <div class="gallery-item-title-bottom">Rocket Gun</div>
+    </div>
+  </div>
 </div>

@@ -12,4 +12,3 @@ categories: Christian
 * James 1:4: So let it grow, for when your endurance is fully developed, you will be perfect and complete, needing nothing
 
 * James 1:12: God blesses those who patiently endure testing and temptation. Afterward they will receive the crown of life that God has promised to those who love him
-
