@@ -6400,8 +6400,8 @@ order: 1
 	
 ## 2020-06-10
 
-* Learned to do paper helicopter
-* Learned to do crossbow
+* Learned to make paper helicopter
+* Learned to make sling shot
 * Updated dongzgh origami page
 
 * [HEXAGONMI](#hexagonmi)
@@ -6442,6 +6442,131 @@ order: 1
 	* Completed task #25858 for disabling deletion of trim line data for LDP/PDP
 	* Created task #25859 for enable deletion of Merged Geometry Set 1 and thus Bridge
 	* Created sprint 2020.1.8 summary
+	
+## 2020-06-13
+
+* With Ethan in Sherwood Park Centennial Biking Trial to practice inline skating
+* Bought vehicle booster and air compressor from Canadian Tire
+* Fixed XC60 boost problem
+* Lubricated secondary garage door
+
+## 2020-06-14
+
+* With Ethan in Appleby Centennial Biking Trail to practice inline skating
+* Made kite at home and tried in Brant Hills Park
+
+## 2020-06-15
+
+* Learned to make paper gun
+
+* [L3MONSHAPE](#l3monshape)
+	* Reorganized volics backlog
+	* Reorganized lemtri backlog
+	* Renamed l3mon3d to l3monshape as organization name
+	* Updated lemtri and volics repo
+	
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Adrian and Alex Chung about the issue 23559 related with thickness direction inconsistency
+	* Cleaned backlog for the sprint 2020.1.8
+	* Updated retrospectives
+	* Downloaded latest source codes from Forming Suite
+	* Updated passwords
+	
+## 2020-06-16
+
+* Learned to make blow rocket
+* Learned to make spinner
+* Paid blood cord bank
+
+* [L3MONSHAPE](#l3monshape)	
+	* Read news from Kitware
+	* Leaned Kitware SliceSALT
+	* Learned Qt3D
+	
+* [HEXAGONMI](#hexagonmi)
+	* Downloaded latest version of source codes
+	* Merged source codes from Forming Suite
+	* Fixed the bug #25879 related with wording of meshing trim line support geometry
+	* Returned the bug #25876 about material can't be set
+	* Investigated the bug #25871 related with Graphics Setting color updates
+
+## 2020-06-17
+
+* Prepared Ethan's birthday decorations
+* Prepared Pumpkin Pie for breakfast
+* With Ethan in Centennial Bike Trail to practice inline skating
+* Had noodle for lunch
+* Watched Superman Return from Prime Video STARZ channels
+* Walked with family in community
+
+## 2020-06-18
+
+* Bought book National Geography Little Kid series from Amazon
+* Bought book National Geography Little Kid series from Book Outlet
+
+* [L3MONSHAPE](#l3monshape)	
+	* Read news from Kitware
+	* Leaned Kitware SliceSALT
+	* Learned Qt WebEngine
+	
+* [HEXAGONMI](#hexagonmi)
+	* Answered Shaharoz regarding material regeneration
+	* Attended the town hall meeting
+	* Attended meeting discussing Notch Regeneration
+	* Attended meeting discussing about thickness direction updates
+	* Attended meeting discussing about material regeneration for TWB
+	* Reviewed source codes for project converter updates
+	* Reviewed source codes for pre-deletions during regeneration
+	* Created meeting minutes about thickness direction inconsistency checking
+	* Created meeting minutes about notch regeneration on double attached
+	
+## 2020-06-20
+
+* Walked in the Kerncliff Park Woodland Loop Trail
+
+## 2020-06-21
+
+* Walked on Bruce Trail to Ball Falls Historical Area
+
+## 2020-06-22
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Shaharoz and Adrian about material regeneration issues
+	* Merged source codes from Forming Suite
+	* Verified the bug #25699 with Alex Chubarev
+	* Drafted function to merge Bridge with Notch
+
+## 2020-06-23
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Eric, Muhammad and Shaharoz about notch regeneration and blank definition
+	* Discussed with Shaharoz about material regeneration
+	* Finalized source code for notch boundary/bridge line merging
+	* Did code review for Adrian about material assignment checking
+	* Drafted source code for FSP trim line exportation
+	
+## 2020-06-24
+
+* [L3MONSHAPE](#l3monshape)
+	* Reviewed book reading list
+	* Reviewed vtk textbook
+	* Rerun some vtk examples
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Adrian about material assignment for UnfoldSkin
+	* Submitted code for generating trim lines for blank definition
+	
+## 2020-06-25
+
+* Cleaned system junk files
+* Revised personal blog contents
+
+* [L3MONSHAPE](#l3monshape)
+	* Reviewed vtk textbook
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Jacob and Rob about replacing Main branch
+	* Reviewed source code from Adrian about thickness direction checking
 
 ## REFERENCES
 
