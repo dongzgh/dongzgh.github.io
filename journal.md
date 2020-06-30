@@ -6567,6 +6567,40 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
 	* Discussed with Jacob and Rob about replacing Main branch
 	* Reviewed source code from Adrian about thickness direction checking
+	
+## 2020-06-26
+
+* [L3MONSHAPE](#l3monshape)
+	* Read news from Kitware
+	* Reviewed Real Time Volume Graphics book
+	* Continued reading of Real Time Volume Graphics book
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed material extension issues with Shaharoz
+	* Submitted code on behalf of Adrian to solve material assignment issue
+ 
+## 2020-06-27
+
+* Walked to Feker's Fall
+
+## 2020-06-28
+
+* Removed lawn at front yard
+* Run the Volvo XC60
+
+## 2020-06-29
+
+* Dumped soil and tire at the Halton Waste Management
+* Tried to fix Volvo XC60 check engine issue
+* Found Volvo XC60 issues with AC
+* Found Volvo XC60 issues with Maintenance
+* Found Volvo XC60 issues with Garage Door Opener
+
+* [L3MONSHAPE](#l3monshape)
+	* Discussed with Charles about PPT pictures
+
+* [HEXAGONMI](#hexagonmi)
+	* Fixed the function to create trim lines for Blank Definition
 
 ## REFERENCES
 
