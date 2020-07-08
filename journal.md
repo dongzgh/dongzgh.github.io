@@ -6591,17 +6591,80 @@ order: 1
 ## 2020-06-29
 
 * Dumped soil and tire at the Halton Waste Management
-* Tried to fix Volvo XC60 check engine issue
+* Fixed Volvo XC60 check engine issue
+* Fixed Volvo XC60 issues with Maintenance
+* Fixed issues with Garage Door Opener
 * Found Volvo XC60 issues with AC
-* Found Volvo XC60 issues with Maintenance
-* Found Volvo XC60 issues with Garage Door Opener
 
 * [L3MONSHAPE](#l3monshape)
 	* Discussed with Charles about PPT pictures
 
 * [HEXAGONMI](#hexagonmi)
 	* Fixed the function to create trim lines for Blank Definition
+	
+## 2020-06-30
 
+* Washed Volvo S60
+
+## 2020-07-01
+
+* Worked in Evelyn Lane yards
+
+## 2020-07-02
+
+* [HEXAGONMI](#hexagonmi)
+	* Merged source codes from Forming Suite
+	* Investigated the bug #26037 about Bridge Edge selection
+	* Fixed the bug #26007 related with copying group entity properties
+	* Drafted Sprint Review report for 2020.1.9
+	
+## 2020-07-03
+
+* Relinked Mint account to banking accounts
+
+* [VISBUYER](#visbuyer)
+	* Checked Udemy courses
+	* Continued shopify drop shipping course
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Shaharoz about Notch Regeneration
+	* Reviewed source code from Alex related with Trim Line Evaluation from 3AW
+	* Fixed the bug #26006 related with SplitSurfaces behavior in 3AW
+	
+## 2020-07-05
+
+* Hiked in Rockway Fall Bruce Trail
+
+## 2020-07-06
+
+* Contacted Alton Child Care Center for official withdraw
+
+* [L3MONSHAPE](#l3monshape)
+	* Started learning of Fusion 360 Generative Design
+	* Learned NX Body Lattice functions
+	* Drafted Generative Design Workflow
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #26072 related with Trim Line Development
+	* Fixed the bug #26081 related with new face assignment to forms
+	* Discussed with Eric about trim line development for LDP/PDP in AGW
+
+## 2020-07-07
+
+* Received updates letter from YMCA
+
+* [L3MONSHAPE](#l3monshape)
+	* Revised Generative Design Workflow
+	
+* [HEXAGONMI](#hexagonmi)
+	* Working on post processing boundary trim line for FSP
+	
+## 2020-07-08
+
+* [HEXAGONMI](#hexagonmi)
+	* Merged source codes from Forming Suite
+	* Reviewed source code from Adrian for bug fixing
+	
 ## REFERENCES
 
 ### estates
