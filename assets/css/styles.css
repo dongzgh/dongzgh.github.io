@@ -174,3 +174,8 @@ a:hover .gallery-item-overlay {
   font-size: large;
   font-family: 'Noto Serif SC', serif;
 }
+
+blockquote {
+  font-size: 14px;
+  border-left: none;
+}

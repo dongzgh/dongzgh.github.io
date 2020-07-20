@@ -6663,7 +6663,107 @@ order: 1
 
 * [HEXAGONMI](#hexagonmi)
 	* Merged source codes from Forming Suite
-	* Reviewed source code from Adrian for bug fixing
+	* Asked Rob to update Alpha installer
+	
+## 2020-07-09
+
+* Received mail letter form HCSB
+
+* [HEXAGONMI](#hexagonmi)
+	* Initialized post processing trim lines for FSP from AGW
+	* Fixed a bug involved in CheckFlangeOnBridge
+	
+## 2020-07-10
+
+* Searched waterfall trails for weekend
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #26115 about the availability of features and trim lines in LDP
+	* Fixed the bug #26114 about wrong flange recognition
+	* Reviewed source code from Adrian about thickness direction checking
+	* Downloaded new main branch to work
+	* Discussed the bug #26125 related with pierce hole trim lines
+	
+## 2020-07-11
+
+* Ethan practiced inline-skating in the community park
+* Bought flowers and decorative grasses from Holland Park
+* Fixed Volvo XC60 refrigerant deficiency problem
+
+## 2020-07-12
+
+* Walked in Chedoke Radial Recreation Trail
+* Planted flowers
+
+## 2020-07-13
+
+* [L3MONSHAPE](#l3monshape)
+	* Reviewed Real Time Volume Graphics
+	* Learned Real Time Volume Graphics Chapter 12
+	
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Adrian about error messages
+	* Investigated the bug #26122 related with unmapped flange unfolding
+	* Updated registry color setting for 177 as requested by Adrian
+	* Fixed the bug #26240 related with failed trim line manifold
+	* Investigated the bug #26243 related with FSM file support
+	
+## 2020-07-14
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued reviewing Real Time Volume Graphics
+	* Started learning Real Time Volume Graphics Chapter 13
+	
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Adrian about interface of ExportFeaturePart function
+	* Added spec for Export Geometries to AzureDevOps and Microsoft Team
+	* Discussed the bug #26242 with Muhammad related with one binder for one geometry
+	* Discussed the risks for implementing split part by binder for now with Muhammad
+	* Discussed with Muhammad about split part by binder and a bug for unfolding
+	* Discussed with Eric and Muhammad about Hole Trims development
+	
+## 2020-07-15
+
+* [HEXAGONMI](#hexagonmi)
+	* Converted trim line from composite curve to polylines
+	* Fixed a bug related with flange pre-trim lines split into multiple pieces
+	* Developed draft function to export featured part
+	
+## 2020-07-16
+
+* [L3MONSHAPE](#l3monshape)
+	* Learned Voreen 5.0 tutorial
+	
+* [HEXAGONMI](#hexagonmi)
+	* Revising draft function to export featured part
+	* Discussed with Muhammad and Eric about how to resolve undefined material on flange in 3AW
+	* Investigated the bug #26122 and #26258 related with unfolding beyond support
+	* Investigated the issue #26283 related with filled holes not showing on double attached
+	
+## 2020-07-17
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning Real Time Volume Graphics Chapter 13
+	
+* [HEXAGONMI](#hexagonmi)
+	* Attended Forming Suite status review meeting
+	* Investigated and discussed the bug #26311 and #26122 related with Process Setup blocking
+	* Created tasks for migrating FTIExportToolingDie and FTIExportToolingPunch
+	
+## 2020-07-18
+
+* Walked and climbed Dundurn Stairs
+
+## 2020-07-19
+
+* Walked in Tansley Woods Forest
+
+## 2020-07-20
+
+* Learned Verse of the Day
+
+* [HEXAGONMI](#hexagonmi)
+	* Migrated FSBExportToolingDie and FSBExportToolingPunch for incremental analysis
 	
 ## REFERENCES
 
