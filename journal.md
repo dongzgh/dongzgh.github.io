@@ -6762,8 +6762,58 @@ order: 1
 
 * Learned Verse of the Day
 
+* [L3MONSHAPE](#l3monshape)
+	* Learned Real Time Volume Graphics Chapter 11
+	* Reviewed VTK Textbook Chapters 1-4
+	
 * [HEXAGONMI](#hexagonmi)
 	* Migrated FSBExportToolingDie and FSBExportToolingPunch for incremental analysis
+	
+## 2020-07-21
+
+* Learned Verse of the Day
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK Textbook Chapter 4
+	
+* [HEXAGONMI](#hexagonmi)
+	* Reviewed source codes from Adrian about material on flange inference
+	* Discussed with Muhammad and Jacob about part for incremental analysis
+	* Checked and closed the bug #26125 about holes not visible in downstream workbenches
+	
+## 2020-07-22
+
+* Created online virtual appointment with ISW Uniform
+* Added interested school uniforms in to ISW Uniform shopping cart
+* Learned Verse of the Day
+
+* [L3MONSHAPE](#l3monshape)
+	* Completed learning of VTK Textbook Chapter 4
+	* Started learning of VTK Textbook Chapter 5
+	
+* [HEXAGONMI](#hexagonmi)
+	* Added comments to FSPExportFeaturedPartFromAGW and FSPExportFeaturedPartFrom3AW
+	* Added comments to FSBExportTooling
+	* Revised FSPExportFeaturedPartFromAGW feature requirements for PDP
+	
+## 2020-07-22
+
+* [HEXAGONMI](#hexagonmi)
+	* Fixed the bug #26394 related with trim line conversion for single geometry set
+	* Fixed the bug #26382 related with embossment copying to merged geometry set
+	* Helped Jacob regenerating parts without trim line development in Double Attached
+	* Copied entity properties for hole exported to featured part
+	* Unfilled skin holes for exported featured part
+	
+## 2020-07-23
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK Textbook Chapter 5
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #26432 related with embossment display in PositionGeoSets
+	* Investigated the bug #26428 and #26429 related with First Form Exportation
+	
 	
 ## REFERENCES
 
