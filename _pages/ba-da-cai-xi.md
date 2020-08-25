@@ -2,7 +2,7 @@
 title: 八大菜系
 permalink: /ba-da-cai-xi
 image: /assets/img/pages/ba-da-cai-xi.jpg
-tags: [food,]
+tags: [food]
 ---
 
 {:.chinese-paragraph}

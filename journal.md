@@ -6814,6 +6814,186 @@ order: 1
 	* Investigated the bug #26432 related with embossment display in PositionGeoSets
 	* Investigated the bug #26428 and #26429 related with First Form Exportation
 	
+## 2020-07-24
+
+* Bought and laid sod in the front yard
+* Tried to fix kid bike rear tire
+
+## 2020-07-25
+
+* Laid sod bought from Terra
+
+## 2020-07-26
+
+* Visited Vivian's house
+* Walked in Morrison Creek Trail in Oakville
+* Bought products from Healthy Planet and shipped them by Crystal
+* Installed new expandable hose in the backyard
+* Uninstalled the kids bike rear tire
+* Learned that Charles's wife is pregnant
+
+## 2020-07-28
+
+* [HEXAGONMI](#hexagonmi)
+	* Rolled back trim line from polylines to composite curve
+	* Revised featured part exportation
+	
+## 2020-07-29-31
+
+* [HEXAGONMI](#hexagonmi)
+	* Revised FSPExportTrimLines and FSBExportTrimLines
+	* Fixed the bug #26495 related put notch face into domains
+	
+## 2020-08-01
+
+* Bought paver stones and created edges around tree
+
+## 2020-08-02
+
+* Reorganized toys in the basement
+
+## 2020-08-03
+
+* Run with Ethan practicing roller skating in Woodland Park
+* Played flying disk with Ethan in community park
+
+## 2020-08-04
+
+* [HEXAGONMI](#hexagonmi)
+	* Added filled holes as trim lines for Process Setup
+	* Closed the bug #26428 related with trim line generation for Process Setup
+	* Forwarded the bug #26174 to Rob to verify the color setting for 177 (Rob fixed it)
+	* Found the bug related with hidden entities in OGL view window
+	* Did code review for Adrian about extending RestoreManifoldData
+	* Fixed the bug #26547 related with dart form recognition and usage
+	* Fixed the bug #26559 related with FSB exported trim lines
+	
+## 2020-08-05
+
+* [HEXAGONMI](#hexagonmi)
+	* Verified the bug #25725 related with dart's treatment on flange during unfolding
+	* Created the bug #26586 related with hidden entity showing again after reloading
+	
+## 2020-08-06
+
+* [HEXAGONMI](#hexagonmi)
+	* Fixed the bug #25725 by considering dart as embossment during unfolding
+	
+## 2020-08-07
+
+* [HEXAGONMI](#hexagonmi)
+	* Fixed several issues with Featured Part exportation
+	
+## 2020-08-08
+
+* Walked in Mill Pond part in Milton
+* Chat with Cao's family in their backyard
+
+## 2020-08-09
+
+* With Ethan practicing roller skating skills
+
+## 2020-08-10
+
+* Checked HomeReliance accounts and bills
+* Replied Bernie's email about church attendence
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK Textbook Chapter 6
+	
+* [HEXAGONMI](#hexagonmi)
+	* Talked with Maggie about Replicon issues
+	* Investigated the bug #26623 and sent it to Shaharoz to deal with it
+	* Fixed a pWorkBridge parameter initialization problem
+	
+## 2020-08-11
+
+* [HEXAGONMI](#hexagonmi)
+	* Checked the bug #26640 related with trim line development stalled
+	* Moved notch faces to a separate group during Featured Part exportation
+	* Sent the bug #26656 related with hidden Post Trim Line group display to Jacob
+	* Discussed with Eric and Muhammad about notch treatment in PP
+
+## 2020-08-12
+
+* Felt sick by taking Indomethacin without taking food
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK Textbook Chapter 6
+	
+* [HEXAGONMI](#hexagonmi)
+	* Fixed the bug #26515 by developing a function to flatten skin forms
+	
+## 2020-08-13
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed Notch enhancement strategies
+	* Discussed with Vasile about the bug #26607
+
+## 2020-08-14
+
+* [HEXAGONMI](#hexagonmi)
+	* Attended FS weekly review meeting
+	* Discussed the bug #26122 related with Error setting on manifold
+	* Discussed with Eric about the bug #26607 related with Feature Part normal exportation
+	* Fixed the bug #26736 related with First Form checking in FSBCopyTrimLines
+	
+## 2020-08-15
+
+* Walked in the Sam Lawrence Park in Hamilton
+
+## 2020-08-16
+
+* Hiked in Beamer Conservation Area in Grimsby
+* Biked in the community park
+
+## 2020-08-17
+
+* [HEXAGONMI](#hexagonmi)
+	* Fixed a bug related with domain connection checking
+	* Checked the bug #26719, but it seems already fixed
+	
+## 2020-08-18
+
+* [HEXAGONMI](#hexagonmi)
+	* Reviewed source code changes made by Adrian related with Notch Filling
+	* Discussed with Shaharoz related with FSP/FSB export updates during regeneration
+	* Reviewed source code changes made by Shaharoz related with FSP/FSB export in regeneration
+	* Verified the bug #25588 related with Show Unfolded Flanges, fixed already
+	* Verified the bug #26758 related with part feature generating
+	* Fixed the bug #26756 related with progress bar reset after Define Material
+	* Investigated the bug #26807 related with Generate Featured Part in LDP and reassigned it to Ankur
+	* Investigated the bug #26724 related with Generate Part Features after Define Part Features
+	
+## 2020-08-19
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated changes to be made regarding Notch strategy changes
+
+## 2020-08-20
+
+* [HEXAGONMI](#hexagonmi)
+	* Revised BridgeGeoSets considering Notches
+	* Revised MergeGeoSet1 considering Notches
+	* Revised MergeGeoSet2 considering Notches
+
+## 2020-08-21
+
+* [HEXAGONMI](#hexagonmi)
+	* Revised FSP2AddTrimLines considering Notches
+	
+## 2020-08-22
+
+* Visited Sawmill Park in Missisauga
+
+## 2020-08-23
+
+* With Ethan practice roller skating in Centennial Bike Way
+
+## 2020-08-24
+
+* [HEXAGONMI](#hexagonmi)
+	* Revised FSP2AddTrimLines for notch case
 	
 ## REFERENCES
 
