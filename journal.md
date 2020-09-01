@@ -6994,6 +6994,81 @@ order: 1
 
 * [HEXAGONMI](#hexagonmi)
 	* Revised FSP2AddTrimLines for notch case
+	* Completed trim line development for AGW double attached
+	* Completed trim line development for AGW single geometry set
+	* Completed featured part generation for AGW double attached
+	* Completed featured part generation for AGW single geometry set
+	
+## 2020-08-25
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Muhammad about Filled Holes assignment in 3AW
+	* Completed trim line development for AGW double attached
+	* Completed trim line development for AGW single geometry set
+	* Completed featured part generation for AGW double attached
+	* Completed featured part generation for AGW single geometry set
+	
+## 2020-08-26
+
+* Revised Eulogy for David Xiao
+* Sent Fuming eulogy about David Xiao
+* Talked with Fuming and Jinfeng
+
+* [HEXAGONMI](#hexagonmi)
+	* Reviewed source codes from Shaharoz and Adrian
+	* Revised codes for ShowUnfoldedFlanges in AGW and 3AW considering notches
+	
+## 2020-08-27
+
+* [HEXAGONMI](#hexagonmi)
+	* Reviewed source codes from Adrian
+	* Fixed the bug #26957 related with Trim Line Development in 3AW when FlattenForms is called
+	* Investigated the bug #26897 related with unfolded flanges beyond support surface checking (Eric)
+	* Investigated the bug #26978 related with support surface generation (Eric)
+	* Investigated the bug #26986 related with wrong die face creation (Chubarev)
+	* Fixed the bug #26657 #26724 related with GenerateFeatures part initialization
+	* Fixed the bug #26982 related with copying polylines into MergedSkin1
+	* Investigated the bug #26914 related with run-off face counting problem (Adrian)
+	* Investigated the bug #26938 related with Punch View is missing in PEC (Shaharoz)
+	* Investigated the bug #26939 related with Die Face creation (Chubarev)
+	* Investigated the bug #26936 related with hole can't be filled (Rick)
+	* Investigated the bug #26913 related with double attached can't be created (Pranav)
+	
+## 2020-08-28
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #26898 related with PEC curve generation (Jim)
+	* Investigated the bug #26900 related with Flange Unfold (Eric)
+	* Investigated the bug #26896 related with Bridge Geometry Sets (Jim)	
+	* Fixed the bug #26993 related with wording for face mesh failure
+	* Investigated the bug #26263 related with Shown Preunfolded Trim Lines (Muhammad)
+	* Reviewed source codes from Shaharoz and Adrian
+	* Investigated the bug #26807 related with Bridge faces not tagged (Vasile)
+	* Investigated the bug #26867 related with manual edited elevation curves' regeneration (Shaharoz)
+	* Investigated the bug #27004 related with Show Unfolded Flanges at narrow notch area (Jim)
+	* Investigated the bug #27008 related with DRTC can't be regenerated (Pranav)
+	* Investigated the bug #26894 related with Position Geometry Set apart (Adrian)
+	
+## 2020-08-29
+
+* Walked in Dundurn Historical Site
+
+## 2020-08-30
+
+* Walked in Fletcher Creek Ecological Reserve
+	
+## 2020-08-31
+
+* [HEXAGONMI](#hexagonmi)
+	* Revised boundary exportation for FSP
+	* Revised featured part exportation for FSP LDP/PDP cases
+	* Investigated the bug #26986 related with wrong contour evaluation during die face creation (Eric)
+	
+## 2020-09-01
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #26914 related with carrying over topology property during trim (Chubarev)
+	* Revised CreateTrimLines to return error codes for downstream usage
 	
 ## REFERENCES
 
