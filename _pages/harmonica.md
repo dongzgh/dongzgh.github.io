@@ -5,6 +5,8 @@ tags: [music, instrument, harmonica]
 image: /assets/img/pages/harmonica.jpg
 ---
 
+spellcheck: off
+
 ## [口琴入门](http://www.xuekouqin.com/rumen/index.html)
 
 * 口琴分为哪些种类？
@@ -39,3 +41,15 @@ image: /assets/img/pages/harmonica.jpg
   * {:.answer} Suzuki
   * {:.answer} Hohner
   * {:.answer} 东方鼎
+
+## [复音口琴](http://www.xuekouqin.com/rumen/fuyin.html)
+
+* 复音口琴的基本构造分为几部分？
+  * {:.answer}盖板
+  * {:.answer}上簧板
+  * {:.answer}琴格
+  * {:.answer}下簧板
+  * {:.answer}座板
+* 复音口琴一般几孔？
+  * {:.answer}24孔
+* 

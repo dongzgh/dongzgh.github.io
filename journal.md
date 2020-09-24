@@ -7059,6 +7059,9 @@ order: 1
 	
 ## 2020-08-31
 
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK Textbook Chapter 7
+	
 * [HEXAGONMI](#hexagonmi)
 	* Revised boundary exportation for FSP
 	* Revised featured part exportation for FSP LDP/PDP cases
@@ -7066,9 +7069,212 @@ order: 1
 	
 ## 2020-09-01
 
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK Textbook Chapter 7
+	* Talked with Charles about the Business Plan
+
 * [HEXAGONMI](#hexagonmi)
 	* Investigated the bug #26914 related with carrying over topology property during trim (Chubarev)
 	* Revised CreateTrimLines to return error codes for downstream usage
+	
+## 2020-09-02
+
+* Read news from Kitware
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK Textbook Chapter 7
+	
+* [HEXAGONMI](#hexagonmi)
+	* Fixed a bug related with ShowUnfoldedFlanges causing memory leaks
+	* Investigated the bug #27030 related with material extension after trimming (Adrian)
+	* Investigated the bug #27038 related with Bridge face tag not copied (Adrian)
+	* Investigated the bug #27044 related with material retrieval in trim line generation (Adrian)
+	
+## 2020-09-03
+
+* Changed Ethan's pediatric dentistry appointment
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #26428 related with trim line generation for Process Setup (Alex)
+	* Investigated the bug #27050 related with usability issue for Bridge regeneration (Muhammad)
+	
+## 2020-09-04
+
+* Changed Ethan's pediatric dentistry appointment
+* Flied kite with Ethan
+* Confirmed appointment with Agustihno (Ethan's Teacher)
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #27050 and resolve the bug with a new task #27080 (Shaharoz)
+	* Fixed the bug #26428 related with marking all holes as Filled in 3AW First Form
+	* Fixed the bug #26899 related with DrawDepth display wrong numbers
+	
+## 2020-09-05
+
+* Shopped at Da Duobai household items
+
+## 2020-09-06
+
+* With Ethan practicing roller skating at Centennial Bike Way
+* Visited Vivian's home
+
+## 2020-09-07
+
+* Walked in community
+* Played 52 cards flip game
+* Flied kite in community park
+* Flied rocket in community park
+
+## 2020-09-08
+
+* Searched books for Ethan from BookOutlet
+
+* [HEXAGONMI](#hexagonmi)
+	* Fixed the notch boundary dragging problem
+	* Discussed with Muhammad and Eric about Boundary trim line segmentation issues
+	* Created sprint report for Geometry Team 2021.0.1-2021.0.2
+	
+## 2020-09-09
+
+* Read news from nTopology
+
+* [L3MONSHAPE](#l3monshape)
+	* Rethink website design
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #23538 related with Reshape Edge binder morphing (Muhammad)
+	* Studied Muhammad's proposal regarding boundary edge segmentation
+	* Investigated the bug #27039 related with Position Geometry Sets (Shaharoz)
+	* Investigated the bug #26617 related with First Form boundary trim lines (Muhammad)
+	* Discussed with Eric and Muhammad about boundary trim line segmentation
+	
+## 2020-09-10
+
+* Read news from nTopology
+* Prepared Ethan's JK stuffs
+
+* [L3MONSHAPE](#l3monshape)
+	* Rethink website design
+
+* [HEXAGONMI](#hexagonmi)
+	* Attended the Unit Test presentation
+	
+## 2020-09-11
+
+* Sent Ethan to school
+
+* [HEXAGONMI](#hexagonmi)
+	* Attended weekly sprint review meeting
+	* Refactoried trim line generation codes reducing the number of normal evaluators
+	* Reviewed source code from Shaharoz and Adrian
+
+## 2020-09-12
+
+* Hiked in Albion Waterfall trail
+
+## 2020-09-13
+
+* Shopped at Burlington Mall
+	
+## 2020-09-14
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #26985 related with on LDP summary generation issue (Ankur)
+	* Investigated the bug #26617 related BTL inside of TLD (Adrian)
+	
+## 2020-09-15
+
+* Organized TODO List related to China information
+* Sent Ethan to school (Official First Day)
+* Read messages from St. Anne
+* Booked absence for Ethan for September 22 pediatric dentistry appointment
+
+* [HEXAGONMI](#hexagonmi)
+	* Revised boundary segmentation for LDP/PDP
+	
+## 2020-09-16
+
+* Signed lease term with Glenn
+
+* [HEXAGONMI](#hexagonmi)
+	* Revised boundary segmentation for LDP/PDP
+	
+## 2020-09-17
+
+* Organized utility bills at Beijing
+* Check personal files to be processed
+* Checked XC60 maintenance warranty
+* Installed mini hockey goal and hover ball
+
+* [L3MONSHAPE](#l3monshape)
+	* Read news from nTopology
+	* Reorganized backlogs
+	* Started website design
+	
+* [HEXAGONMI](#hexagonmi)
+	* Revised boundary segmentation for LDP/PDP
+	* Investigated the bug #27167 related with Bridge faces not in Bridges group (Eric)
+	* Fixed the bug #27208 related with Chinese title is missing
+	* Investigated the bug #27212 related with First Form/Draw naming counter (Jacob)
+	* Investigated the bug #27152 related with one flange is missing after merging (Henny)
+	
+## 2020-09-18
+
+* Learned harmonica essential lessons from YouTube
+
+* [L3MONSHAPE](#l3monshape)
+	* Read news from nTopology
+	* Continued website design
+	
+* [HEXAGONMI](#hexagonmi)
+	* Fixed the bug #26104 related with Binder Edge Morphing wrong reference LCS
+	* Fixed the bug #26934 related with multiple First Form treatment in Define Features
+	* Fixed the bug #27224 related with FlattenSkin not enforcing all flanges in flanges group
+	* Fixed the bug #27224 related with skins not featured
+	
+## 2020-09-19
+
+* Visited Limehouse Conservation Area
+
+## 2020-09-20
+
+* Visited Applevale Orchards for picking apples
+* Visited Oakville South Shell Park
+* Filled Student Registration Verification Form
+* Filled Family Information and Consent form
+
+## 2020-09-21
+
+* [L3MONSHAPE](#l3monshape)
+	* Read news from nTopology
+	* Continued website design
+	
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #27235 related with Double Attached display (Shaharoz)
+	* Investigated the bug #27234 related with Trim Condition evaluation (Adrian
+	* Reviewed source code from Adrian regarding the bug #27234
+	* Fixed the bug #27224 and #27245 related with Bridge face material checking
+	* Investigated the bug #27242 related with feature selection in Double Attached (Shaharoz)
+	
+## 2020-09-22
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #27249 related with extension surface creation (Alex Chubarev)
+	* Investigated the bug #27262 related with material checking in unfolding (Adrian)
+	* Fixed the bug #27265 related with irregular Notch removal
+	* Investigated the bug #27267 related with ugly notch faces (Pranav)
+	* Fixed the bug #27266 related with FSP2AddBoundaries reference polyline checking tolerance
+
+## 2020-09-23
+
+* [L3MONSHAPE](#l3monshape)
+	* Read news from nTopology
+	* Continued website design
+	* Continued study of VTK
+	
+* [HEXAGONMI](#hexagonmi)
+	* Discussed the bug #27281 related with hole on extrusion
+	* Working on the Task #27292 related removing pre-trim lines for Extrusions
 	
 ## REFERENCES
 

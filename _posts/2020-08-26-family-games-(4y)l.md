@@ -26,8 +26,10 @@ categories: Personal
 
 * Poker
   * Snap
+  * 52 Flip
 * Uno
 * Adventure Board Game
+  * Chutes and Ladders
 
 ## Observation
 
@@ -35,3 +37,9 @@ categories: Personal
 * Hide and Seek
 * Eye Found it
 * Puzzles
+  * Wooden Tetris
+  * Wooden Hexagon
+
+## Logic
+
+* Rush Hours
