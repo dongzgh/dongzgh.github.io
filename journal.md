@@ -7265,17 +7265,61 @@ order: 1
 	* Investigated the bug #27267 related with ugly notch faces (Pranav)
 	* Fixed the bug #27266 related with FSP2AddBoundaries reference polyline checking tolerance
 
-## 2020-09-23
+## 2020-09-24
 
 * [L3MONSHAPE](#l3monshape)
-	* Read news from nTopology
 	* Continued website design
 	* Continued study of VTK
 	
 * [HEXAGONMI](#hexagonmi)
 	* Discussed the bug #27281 related with hole on extrusion
-	* Working on the Task #27292 related removing pre-trim lines for Extrusions
+	* Completed the Task #27292 related removing pre-trim lines for Extrusions
+	* Fixed the bug #27293 related with Lines group not visible after trim line generation
 	
+## 2020-09-25
+
+* Booked appointment with optometrist for eye exam
+
+* [HEXAGONMI](#hexagonmi)
+	* Fixed the bug #27298 related with removing marked polylines from merged skin 1
+	* Changed the bug #27303 to task related with removing marked polylines from merged skin 1
+	* Completed the task #27303
+	* Investigated the bug #27294 and can't reproduce it
+	* Fixed the bug #27312 related with PEC offset curve waving
+	
+## 2020-09-26
+
+* Visited Rattrary Mash Conversation Area
+* Guided Ethan to learn to bike without training wheels
+
+## 2020-09-27
+
+* Biked with Ethan in community
+* Visited River and Ruin Side Trail
+
+## 2020-09-28
+
+* Downloaded photos from iPhone
+* Set up Amazon photo backup
+
+* [HEXAGONMI](#hexagonmi)
+	* Fixed the bug #27312 related with wavy PEC
+	* Fixed the bug #27335 related with selection filter is disabled after FillNotch dialog box closed
+	* Investigated the bug #27333 related with COB below part (Adrian)
+	* Investigated the bug #27338 related with boundary edge evaluation after notch filling (Chubarev)
+	
+## 2020-09-29
+
+* Reorganized photos on local computer
+* Refreshed Windows Photo index
+* Searched Kindergarten Online Learning resources from HDCSB
+* Read "Doing Mathematics with Your Child K-6"
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Henny about the bug #27365 related disabling face selection filter after hole filling
+	* Investigated the bug #27465 and assigned it to Alex Chung
+	* Fixed the bug #27236 related with assigning faces to domains after hole filling
+		
 ## REFERENCES
 
 ### estates
