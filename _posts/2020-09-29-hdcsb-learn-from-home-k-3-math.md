@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "HDCSB Learn from Home K-3"
+title:  "HDCSB Learn from Home K-3 (Math)"
 date:   2020-09-29 07:00:00 -0500
 categories: School
 ---
 
-## [Fun with Math—Math Learning](https://elem.hcdsb.org/wp-content/uploads/2020/03/Elem-Celebrating-the-Gift-of-Our-Families.pdf)
+[Fun with Math—Math Learning](https://elem.hcdsb.org/wp-content/uploads/2020/03/Elem-Celebrating-the-Gift-of-Our-Families.pdf)
 
-### [Doing Math with Your Child K-6](http://www.edu.gov.on.ca/eng/literacynumeracy/parentGuideNumEn.pdf)
+## [Doing Math with Your Child K-6](http://www.edu.gov.on.ca/eng/literacynumeracy/parentGuideNumEn.pdf)
 
-#### Note to Parents
+### Note to Parents
 
-* You can use other language to teach kids math
+* Using home language to teach is encouraged
 * 5 strands to teach:
   * Number Sense and Numeration
   * Measurement
@@ -20,15 +20,16 @@ categories: School
   * Data Management and Probability
 * [Ontario math curriculum guidebook](http://edu.gov.on.ca/eng/curriculum/elementary/math18curr.pdf)
 
-#### Some Fun Family Learning Experiences
+### Some Fun Family Learning Experiences
 
-##### Number Sense and Numeration
+#### Number Sense and Numeration
 
 * Counting
   * Sequential (e.g., 1, 2, 3,...)
   * Mixed up (e.g., 5, 6, 7,...,11, 12,...)
   * Skip in pattern (e.g., 1, 3, 5,...)
   * Count down numbers (e.g., hide and seek)
+  * [Bowl them over while learning math facts](https://www.weareteachers.com/active-math-games/)
 * Symbols
   * Number symbol hunt
 * Fraction
@@ -43,8 +44,10 @@ categories: School
   * Broken calculator
     * Ask your child to pretend that the number 8 key on the calculator is broken. Ask how he or she can make the number 18 appear on the screen without the 8 key. (Sample answers include 20 – 2 and 15 + 3).
   * Cashier
+  * [Roll the dice to count and move](https://www.weareteachers.com/active-math-games/)
+  * 
 
-##### Measurement
+#### Measurement
 
 * Comparison
   * Paired (e.g., big or small)
@@ -54,7 +57,7 @@ categories: School
   * Time calculation
 * Unit Conversion
 
-##### Geometry and Spatial Sense
+#### Geometry and Spatial Sense
 
 * Shapes
   * 2D shapes hunt
@@ -63,12 +66,13 @@ categories: School
     * Play I Spy with your child by asking him or her to guess an object you identify by its shape: “I spy something that is round,” “I spy something that has a cylinder shape.” Make this game more challenging by stating two shapes: “I spy something that is round and has a square on it.”
 * Orientation
   * Comparison (e.g., left, right, top,...)
+  * [Head out on a plot graph scavenger hunt](https://www.weareteachers.com/active-math-games/)
 * Symmetry
   * Symmetry hunt
 * Structural Stability
   * Comparison
 
-##### Patterning and Algebra
+#### Patterning and Algebra
 
 * Pattern
   * Sound pattern
@@ -77,7 +81,7 @@ categories: School
   * Number pattern
   * Pattern hunt
 
-##### Data Management and Probability
+#### Data Management and Probability
 
 * Data
   * Survey
@@ -89,4 +93,4 @@ categories: School
   * Best guess
     * Try this game during a car ride. Call out events and have your child decide whether it is something that is likely, is not likely or will never happen.
 
-#### Online Resources (Refer to PDF file)
+### Online Resources (Refer to PDF file)

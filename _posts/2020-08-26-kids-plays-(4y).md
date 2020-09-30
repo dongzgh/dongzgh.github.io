@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Family Games (4y)"
+title:  "Kids Plays (4y)"
 date:   2020-08-26 07:00:00 -0500
 categories: School
 ---
@@ -9,7 +9,6 @@ categories: School
 
 * Jenga
 * Magnetic Dart
-* Hover Shot
 * Toss Rings
 * Balls
   * Balloon
@@ -17,6 +16,7 @@ categories: School
   * Soccer Ball
   * Badminton
   * Ping Pong
+  * Hockey
 * Tabletop
   * Hockey
   * Billiard
@@ -28,7 +28,7 @@ categories: School
   * Snap
   * 52 Flip
 * Uno
-* Adventure Board Game
+* Adventure
   * Chutes and Ladders
 
 ## Observation
@@ -39,7 +39,9 @@ categories: School
 * Puzzles
   * Wooden Tetris
   * Wooden Hexagon
+* Blocks
 
 ## Logic
 
 * Rush Hours
+* Maze

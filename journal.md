@@ -5123,7 +5123,7 @@ order: 1
   
 * [HEXAGONMI](#hexagonmi)
   * Fixed bugs in the new branch
-  * Reviewed source code from Alex Chung
+  * Reviewed source code from Chung
   
 ## 2020-01-15
 
@@ -5472,7 +5472,7 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
   * Merged latest source code from FormingSuite
   * Created build version 26997
-  * Assigned bug fix to Alex Chubarev
+  * Assigned bug fix to Chubarev
 	
 ## 2020-02-25
 
@@ -5830,7 +5830,7 @@ order: 1
 	* Merged source codes
 	* Created new alpha build
 	* Talked with Dana about vacation in Q2
-	* Added Alex Chung and Alex Chubarev queries
+	* Added Chung and Chubarev queries
 	* Talked over the project timeline issue
 	
 ## 2020-04-07
@@ -5995,7 +5995,7 @@ order: 1
 	* Discussed solution to bug #23959 regarding how to create/display Lines for Double Attached
 	* Asked Shaharoz to confirm Regeneration/Deletion strategy with Muhammad
 	* Discussed Scrum Practice enhancements regarding where to put discussion history
-	* Discussed with Alex Chubarev about how hole filling works
+	* Discussed with Chubarev about how hole filling works
 	* Discussed with Henny about Recreate Holes or Recreate Notches in AGW
 	* Sent email to Muhammad discussing about Recreate Holes and Notches interface
 	* Discussed with Shaharoz about Pre-deletion notification in FTIMFCFeatureTree
@@ -6022,7 +6022,7 @@ order: 1
 	* Fixed bugs in back end function to create Master Merged Geometry Set
 	* Discussed with Muhammad about how to design Unfill Holes and Unfill Notches
 	* Uploaded Unfil Holes/Notches spec. REV01 to Microsoft Team and also created links in AzureDev Ops
-	* Created bug #25075 for bridging simple boxes to Alex Chubarev
+	* Created bug #25075 for bridging simple boxes to Chubarev
 	* Fixed one assertion failure in CopyAllAttributes
 	
 ## 2020-04-25
@@ -6047,7 +6047,7 @@ order: 1
 
 * [HEXAGONMI](#hexagonmi)
 	* Tried new solution file for Main and Alpha branch
-	* Discussed with Alex Chubarev about the bug #24305 related with hole filling
+	* Discussed with Chubarev about the bug #24305 related with hole filling
 	* Did code review for Skin Location attribute regeneration
 	* Fixed the bug #25018 by enabling inferring geometry from displays in 3AW
 	* Updated FirstForm icon
@@ -6102,7 +6102,7 @@ order: 1
 * Started reading 这样读书就够了
 
 * [HEXAGONMI](#hexagonmi)
-	* Discussed with Alex Chung about adding Direction Vector selection box
+	* Discussed with Chung about adding Direction Vector selection box
 	* Groomed queries
 	* Send email to Rob about pipeline change
 	* Fixed bug #25186 related with warning about multiple First Form in Define Feature
@@ -6134,7 +6134,7 @@ order: 1
 * Searched Amazon for glasses repair kit
 
 * [HEXAGONMI](#hexagonmi)
-  * Discussed with Alex Chubarev about the bug #24249
+  * Discussed with Chubarev about the bug #24249
 	* Created function to unfill holes
 	* Sent email to Muhammad asking about Edit Features definitions
 	
@@ -6294,7 +6294,7 @@ order: 1
 
 * [HEXAGONMI](#hexagonmi)
   * Merged source codes from Forming Suite
-	* Asked Alex, Muhammad and Jacob about Alex Chung's recent assignments
+	* Asked Alex, Muhammad and Jacob about Chung's recent assignments
 	
 ## 2020-05-28
 
@@ -6334,7 +6334,7 @@ order: 1
 	* Sent weekly updates for Stefan
 	* Reviewed back-end functions for SEM parameters
 	* Copied function to export trim lines for FSP
-	* Asked Alex Chubarev to investigate Hole Filling problems (#25677, 78, 79, 80, 81)
+	* Asked Chubarev to investigate Hole Filling problems (#25677, 78, 79, 80, 81)
 
 ## 2020-06-02
 
@@ -6423,8 +6423,8 @@ order: 1
 	* Fixed one issue with FTIResultDisplayUtility.cpp
 	* Delegated the bug #25782 to Muhammad related with LDP feature recognition
 	* Delegated the bug #25837 to Adrian about material thickness warning
-	* Delegated the bug #25788 to Alex Chung about Notch as part in LDP
-	* Investigated the bug #25677 with Alex Chubarev about UpdateBoundaries assertion failures
+	* Delegated the bug #25788 to Chung about Notch as part in LDP
+	* Investigated the bug #25677 with Chubarev about UpdateBoundaries assertion failures
 	* Did code review for Adrian about manual thickness direction in 3AW
 	
 ## 2020-06-12
@@ -6466,7 +6466,7 @@ order: 1
 	* Updated lemtri and volics repo
 	
 * [HEXAGONMI](#hexagonmi)
-	* Discussed with Adrian and Alex Chung about the issue 23559 related with thickness direction inconsistency
+	* Discussed with Adrian and Chung about the issue 23559 related with thickness direction inconsistency
 	* Cleaned backlog for the sprint 2020.1.8
 	* Updated retrospectives
 	* Downloaded latest source codes from Forming Suite
@@ -6533,7 +6533,7 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
 	* Discussed with Shaharoz and Adrian about material regeneration issues
 	* Merged source codes from Forming Suite
-	* Verified the bug #25699 with Alex Chubarev
+	* Verified the bug #25699 with Chubarev
 	* Drafted function to merge Bridge with Notch
 
 ## 2020-06-23
@@ -7259,7 +7259,7 @@ order: 1
 ## 2020-09-22
 
 * [HEXAGONMI](#hexagonmi)
-	* Investigated the bug #27249 related with extension surface creation (Alex Chubarev)
+	* Investigated the bug #27249 related with extension surface creation (Chubarev)
 	* Investigated the bug #27262 related with material checking in unfolding (Adrian)
 	* Fixed the bug #27265 related with irregular Notch removal
 	* Investigated the bug #27267 related with ugly notch faces (Pranav)
@@ -7317,8 +7317,17 @@ order: 1
 
 * [HEXAGONMI](#hexagonmi)
 	* Discussed with Henny about the bug #27365 related disabling face selection filter after hole filling
-	* Investigated the bug #27465 and assigned it to Alex Chung
+	* Investigated the bug #27465 and assigned it to Chung
 	* Fixed the bug #27236 related with assigning faces to domains after hole filling
+	
+## 2020-09-30
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #27382 related with big binder size (Adrian)
+	* Reviewed source code from Chung related with enabling/disabling surface selection filter
+	* Investigated the bug #27389 related with hole filling failed but return 0 (Chubarev)
+	* Fixed one issue with the bug #27391 related with FlattenSkin when no flanges are defined
+	* Found meshing problem with the bug #27391 and send it to Eric for investigation
 		
 ## REFERENCES
 
