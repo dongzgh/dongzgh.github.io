@@ -30,6 +30,7 @@ categories: School
   * Skip in pattern (e.g., 1, 3, 5,...)
   * Count down numbers (e.g., hide and seek)
   * [Bowl them over while learning math facts](https://www.weareteachers.com/active-math-games/)
+  * [One more or one less](https://docs.google.com/document/d/1QwijrcNJT6VgtUX1EZ-1i5LCpZUhDPHpDlyINbpG4iM/edit)
 * Symbols
   * Number symbol hunt
 * Fraction
@@ -94,3 +95,12 @@ categories: School
     * Try this game during a car ride. Call out events and have your child decide whether it is something that is likely, is not likely or will never happen.
 
 ### Online Resources (Refer to PDF file)
+
+* [Online Resources](https://elem.hcdsb.org/wp-content/uploads/2020/03/Elem-Celebrating-the-Gift-of-Our-Families.pdf) page 36.
+* [TVOKIDS](https://elem.hcdsb.org/wp-content/uploads/2020/03/Elem-Celebrating-the-Gift-of-Our-Families.pdf) page 37
+* [TVOkids Mathematics Channel](https://www.youtube.com/channel/UCxNAcNMKHCXHY9dwVOElKpQ)
+* [TVOkids Science and Technology Channel](https://www.youtube.com/channel/UCBCuoKUX7SIEIBK6YhUbyiA)
+* [TVO MPower](https://mpower.tvo.org/#/login/)
+* [Math Story Time](http://www.mathstorytime.ca/en)
+* [Games to Practice Basic Math Facts](https://gregtangmath.com/)
+* [Hit the Button Interactive Math Game](https://www.topmarks.co.uk/maths-games/hit-the-button)

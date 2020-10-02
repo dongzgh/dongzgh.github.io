@@ -20,3 +20,10 @@ categories: School
   * Recall story  
   * Questions and answers
   * Critical reading
+
+## Online Resources
+
+* [TVOkids Language Channel](https://www.youtube.com/channel/UCdZLh7XMeNmm7B1unPIv49A)
+* [Kid’s Song Lyrics](https://kidsongs.com/lyrics)
+* [Tumblebooks](https://www.tumblebooklibrary.com/Home.aspx?categoryID=77)
+* [Canadian Wildlife Federation](https://cwf-fcf.org/en/resources/games/)

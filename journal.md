@@ -7322,13 +7322,31 @@ order: 1
 	
 ## 2020-09-30
 
+* Continued learning Kindergarten curriculum requirements
+
 * [HEXAGONMI](#hexagonmi)
 	* Investigated the bug #27382 related with big binder size (Adrian)
 	* Reviewed source code from Chung related with enabling/disabling surface selection filter
 	* Investigated the bug #27389 related with hole filling failed but return 0 (Chubarev)
 	* Fixed one issue with the bug #27391 related with FlattenSkin when no flanges are defined
 	* Found meshing problem with the bug #27391 and send it to Eric for investigation
-		
+	
+## 2020-10-01
+
+* Created Daily Routine for Ethan's Learn from Home
+* Bought non-fiction storybooks for Ethan
+* Curated education books for Ethan from Taobao
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #27398 related with extended die face creation failed (Chubarev)
+	* Investigated the bug #26623 related with edit curve selection (Henny)
+
+## 2020-10-02
+
+* [HEXAGONMI](#hexagonmi)
+	* Attended the weekly sprint meeting
+	* Return the bug #27391 to Eric related with normal evaluator redevelopment
+
 ## REFERENCES
 
 ### estates
