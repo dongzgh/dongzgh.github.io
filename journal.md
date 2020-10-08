@@ -7346,6 +7346,53 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
 	* Attended the weekly sprint meeting
 	* Return the bug #27391 to Eric related with normal evaluator redevelopment
+	
+## 2020-10-03
+
+* Visited Scotsdale's Farm
+
+## 2020-10-04
+
+* Played maze at home
+* Played sticker paint at home
+* Droved along Niagara Park way in rainny day
+
+## 2020-10-05
+
+* Submitted school absence for Ethan
+* Asked Agostinho and Stanclik about week long school absence
+* Checked D2L online learning platform
+* Searched free online kids activity books
+* Revised Taobao account information
+* Revised Alipay account information
+* Checked ICBC cell phone information
+
+* [HEXAGONMI](#hexagonmi)
+	* Converted issue #27419 to task and completed it related with Pin button in Edit Curve
+	* Discussed the bug #26623 with Henny and reassigned it to Jacob for investigation
+	* Investigated the bug #27427 related with alignment in Positioning Double Attached (Adrian)
+	* Enabled select previously selected line in Edit Curve and closed the task #27420
+	* Investigated the bug #27439 related with COB not created (Adrian)
+	* Investigated the bug #27440 related with not enough supporting surface for unfolding (Pranav)
+	* Investigated the bug #27441 related with binder size not enough (Pranav)
+	* Investigated the bug #27438 related with failed trim line development (Eric)
+	
+## 2020-10-06
+
+* Started learning Python 3
+* Started to work on LeeCode
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #27438 related with failed trim line development (Eric)
+	* Fixed the bug #27460 related with Notch Filling crashes
+	
+## 2020-10-07
+
+* Continued learning Python 3
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #27485 related with failed die face creation (Chubarev)
+	* Fixed the bug #27486 related with Notch Removal
 
 ## REFERENCES
 
