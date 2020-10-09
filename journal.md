@@ -7390,9 +7390,36 @@ order: 1
 
 * Continued learning Python 3
 
+* [L3MONSHAPE](#l3monshape)
+	* Revised website structure
+	* Discussed with Charles about business plan
+	
 * [HEXAGONMI](#hexagonmi)
 	* Investigated the bug #27485 related with failed die face creation (Chubarev)
 	* Fixed the bug #27486 related with Notch Removal
+	
+## 2020-10-08
+
+* Continued learning Python 3
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #27485 related with failed die face creation with irregular normals (Eric)
+	* Fixed the bug #27475 related with flange pre-trim line naming issue
+	* Investigated the bug #27491 related with failed meshing merged geometry set (Eric)
+	* Investigated the bug #27495 related with 3AW from old project (Kiran)
+	* Fixed the bug #27492 related with face topology property set wrong after merging
+	* Fixed the bug #27462 related issue about GeneratePartFeatures input parameters
+	* Updated all passwords except for SAIG
+	
+## 2020-10-09
+
+* [HEXAGONMI](#hexagonmi)
+	* Fixed the bug #27504 related with display change after thickness direction checking failed
+	* Investigated the bug #27511 related with frozen die face creation (Chubarev)
+	* Fixed the bug #27512 related with Split Surfaces feature tree not updated
+	* Fixed the bug #27513 related with duplicate trim lines generated in First Form
+	* Investigated the bug #27514 related with Generate Part Features failed (Eric)
+	* Reviewed source code from Adrian related with Binder size
 
 ## REFERENCES
 
