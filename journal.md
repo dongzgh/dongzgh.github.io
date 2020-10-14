@@ -7420,6 +7420,38 @@ order: 1
 	* Fixed the bug #27513 related with duplicate trim lines generated in First Form
 	* Investigated the bug #27514 related with Generate Part Features failed (Eric)
 	* Reviewed source code from Adrian related with Binder size
+	
+## 2020-10-10
+
+* Visited Silver Creek Conservation Area
+
+## 2020-10-11
+
+* Visited Dundas Valley Conservation Area
+
+## 2020-10-12
+
+* Visited Clappison Corner and Berry Tract
+
+## 2020-10-13	
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #27513 related with First Form lines regeneration (Henny)
+	* Talked with Shaharoz about some updates
+	* Investigated the bug #27518 related with solid model importation (Muhammad)
+	* Investigated the bug #27462 related with Generate Features notch removed (Eric)
+	* Investigated the bug #27536 related with Generate Features holes unfilled (Eric)
+	
+## 2020-10-14
+
+* [HEXAGONMI](#hexagonmi)
+	* Did code review for Shaharoz
+	* Investigated the bug #27518 related with solid model importation (Eric)
+	* Fixed the bug #27462 related with Generate Part features NetShape input
+	* Investigated the bug #27514 related with Generate Part features partial notch (Eric)
+	* Fixed the bug #27536 related with re-topology of the manifold after Generate Features
+	* Investigated the bug #27554 related with die face creation error (Chubarev)
+	* Investigated the bug #27552 related with pick normal vector (Adrian)
 
 ## REFERENCES
 
