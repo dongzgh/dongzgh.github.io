@@ -7452,6 +7452,118 @@ order: 1
 	* Fixed the bug #27536 related with re-topology of the manifold after Generate Features
 	* Investigated the bug #27554 related with die face creation error (Chubarev)
 	* Investigated the bug #27552 related with pick normal vector (Adrian)
+	
+## 2020-10-15
+
+* Did eye exam at Burlington Eye Center
+* Shopped frame and lenses at Costco
+* Submitted eye exam cost and glasses costs to HSA
+* Asked about Remote Learning at St. Anne and HCDSB
+* Registered at OLG.ca
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #27438 related with binder 0 position die face quality (Muhammad)
+	* Investigated the bug #27569 related with Notch can't be created (Chubarev)
+	* Investigated the bug #26677 related with can't unfold flanges (Muhammad)
+	* Created a task #27574 to address binder 0 position issue (Adrian)
+
+## 2020-10-16
+
+* Received letter from St. Anne about remote learning
+
+* [HEXAGONMI](#hexagonmi)
+	* Groomed backlog
+	
+## 2020-10-17
+
+* Visited Niagara Wirpool Loop
+	
+## 2020-10-18
+
+* Visited Mont Nimo Conservation Area via Bruce Trail
+* Set up iPad for Ethan's D2L and Office 365
+
+## 2020-10-19
+
+* Asked about link to join the Virtual Classroom
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Henny and Muhammad about Binder 0 position design issue (Adrian)
+	* Fixed the bug #27596 related with Edit Curve parameter initialization problem
+	* Checked a crash with Define Features (Shaharoz)
+	
+## 2020-10-20
+
+* Attended virtual kindergarten and asked schedule and team code
+* Got new pair of glasses from Costco
+* Bought some books and gifts from Costco
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #27640 related with die face missing surface (Chubarev)
+	* Verified the bug #26677 related with Show Unfolded Flange causing crash (Muhammad)
+	* Investigated the bug #27623 related with Notch surface deletion issue (Muhammad)
+
+## 2020-10-21
+
+* Attended Virtual Kindergarten
+* Asked Evelyn Lane tenants whent to move out
+* Answered Glenn about when and where to hand out keys to new tenants
+
+* [HEXAGONMI](#hexagonmi)
+	* Did code review for Adrian regarding Rotation issue in Position Geometry Sets
+	* Investigated the bug #27655 related with Enforce Symmetry button not grayed out at start (Annika)
+	* Investigated the bug #27653 related with Position Geometry Set help wording
+	* Fixed the bug #27658 related with a regression issue with material setting in CreateTrimLines
+	* Investigated the bug #27661 related with pre-unfold tirm line regeneration after hole filling (Shaharoz)
+	* Investigated the bug #27663 related with unfold flanges (Eric)
+	* Discussed with Henny about current AGW and 3AW and think about solutions
+	* Fixed the bug #27622 related with notch in show unfolded flanges
+	* Created Query about Notch related bugs and try to verify all of them
+	* Fixed the bug #24144 (regression)
+	* Verified all the bugs related with Notch so far reported
+	* Specifically verified the bug #27662 about notch on flange where it's a new case where flange is defined around part and thus ExtendForm function is revised accordingly
+
+## 2020-10-22
+
+* Continued learning Python 3
+* Attended school Virtual Kindergarten orientation
+* Set to renew Ethan's passport on Feb. 1st, 2021
+* Created document to trace ID updates
+* Registered ID update dates on Calendar
+
+* [HEXAGONMI](#hexagonmi)
+	* Created Query about Unfold related bugs and try to verify all of them
+	* Fixed the bug #24096 memory leak (regression)
+	* Found issue with the bug #25819 and assigned to Eric for investigation (Eric)
+	* Investigated the bug #27670 related with pre-unfold failed after fill/unfill holes (Eric)
+	* Investigated the bug #27675 related with hiding BTL Contour dialog box control (Shaharoz)
+	* Investigate the enhancement #27676 related with Trim Line Development color bar (Shaharoz)
+	* Created the bug #27685 related with Show Unfolded Flanges display (Shaharoz)
+	* Investigated the bug #27678 related with BTL does not merge Trim Line Development well (Adrian)
+	
+## 2020-10-23
+
+* Called Service Ontario about Health Card and Driver License Renewal
+* Renewed Volvo S60 License Sticker
+* Called Halton Condominium Corp about garage door replacement
+* Sent confirmation to chris@pmguild.ca
+* Renewed Health Card and Driver License
+* Checked Volvo XC60 sticker renewal (insurance need to be active)
+* Set rewards check for Costco for the next year (2021/09/21)
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #27683 related with BTL wrong (Adrian)
+	* Discussed with team about how to deal material of DA for undefined cases
+	* Discussed with Shaharoz about the bug related with DA exportation
+	
+## 2020-10-24
+
+* Continued learning of Python 3
+* Signed up for MBA.com
+
+* [L3MONSHAPE](#l3monshape)
+	* Reviewed latest business plan from Charlese
+	* Revised current website template
 
 ## REFERENCES
 
