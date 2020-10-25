@@ -7563,7 +7563,9 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
 	* Reviewed latest business plan from Charlese
-	* Revised current website template
+	* Added words to About Us section
+	* Revised banner background image
+	* Revised wording in Features/Application section	
 
 ## REFERENCES
 
