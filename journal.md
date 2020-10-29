@@ -7562,10 +7562,69 @@ order: 1
 * Signed up for MBA.com
 
 * [L3MONSHAPE](#l3monshape)
-	* Reviewed latest business plan from Charlese
+	* Reviewed latest business plan from Charles
 	* Added words to About Us section
 	* Revised banner background image
-	* Revised wording in Features/Application section	
+	* Revised wording in Features/Application section
+	* Searched for lattice structure generators
+	
+## 2020-10-25
+
+* Visited Silver Creek Conservation Area
+
+* [L3MONSHAPE](#l3monshape)
+	* Had conversation with Charles
+	* Revised Business Plan
+	* Created rough Finance Worksheet
+	
+## 2020-10-26
+
+* Reconfigured WIFI D-Link network
+* Worked with Ethan to calve pumpkin pattern
+* Filled Elementary Virtual School Consent Form
+
+* [L3MONSHAPE](#l3monshape)
+	* Tried Fusion 360 for lattice structures
+	* Tried Fusion 360 for rendering
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #27689 related with Show Unfolded Flanges behavior for DA case (Shaharoz)
+	* Discussed with Adrian and Team about thickness direction issue on solid part
+	* Discussed with Shaharoz and Mohammad about the bug #27689 and resolved the issue
+	* Partially fixed the bug #27679 related with Flange on Bridge recognition, there still thickness issue (Adrian)
+	* Investigated the bug #27677 related with TLD and BTL merging (Adrian)
+
+## 2020-10-27
+
+* Set Nov. 1st 10:00am to meet new tenants at Evelyn
+* Set Oct. 31st 5:00pm to meet old tenants at Evelyn
+* Got Evelyn key from Glenn
+* Fixed Intel Rapid Storage driver issue
+* Communicated with Ethan's teacher about learning
+* Uploaded Ethan's portfolio (art and game)
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Adrian and Team about Thickness Direction for solid part
+	* Discussed with Shaharoz about Show Unfolded Flanges
+
+## 2020-10-28
+
+* [HEXAGONMI](#hexagonmi)
+	* Fixed the bug #27716 related with Hiding Pre-unfold Trim Lines
+	* Fixed the bug #27718 related with Selection Filter checking in PositionGeoSets
+	* Investigated the bug #27732 related with Hint Message (Shaharoz)
+	* Verified all bugs related with Trim Lines
+	
+## 2020-10-29
+
+* Continued learning Python 3
+
+* [L3MONSHAPE](#l3monshape)
+	* Updated Finance Worksheet
+	
+* [HEXAGONMI](#hexagonmi)
+	* Discussed and investigated the bug #27740 related with UpdateGeoSurfaceDisplays() (Adrian)
+	* Investigated the bug #27738 and asked Jim to give more information (Jim)
 
 ## REFERENCES
 
