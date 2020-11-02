@@ -5,43 +5,57 @@ date:   2020-08-26 07:00:00 -0500
 categories: School
 ---
 
-## Motor Skills
+## Motor Skill Games
 
-* Jenga
+* **Jenga**
 * Magnetic Dart
 * Toss Rings
-* Balls
-  * Balloon
-  * Basket Ball
-  * Soccer Ball
-  * Badminton
-  * Ping Pong
-  * Hockey
 * Tabletop
   * Hockey
   * Billiard
   * Soccer
+* Balls
+  * **Balloon**
+  * **Basket Ball**
+  * **Soccer Ball**
+  * Badminton
+  * Ping Pong
+  * **Hockey**
+* **Scooter Riding**
+* **Bike Riding**fdgtt
+* **Roller Skating**
 
-## Lucky Play
+## Lucky Games
 
 * Poker
-  * Snap
-  * 52 Flip
+  * **Snap It!**
 * Uno
 * Adventure
   * Chutes and Ladders
 
-## Observation
+## Memory Games
+
+* Poker
+  * **52 Flip**
+
+## Observation Games
 
 * Scavenger Hunt
-* Hide and Seek
+* **Hide and Seek**
 * Eye Found it
+* **Puzzles**
+
+## Construction Games
+
+* Blocks
+  * **Lego**
+  * **Mega Blocks**
+
+## Logic Games
+
 * Puzzles
   * Wooden Tetris
   * Wooden Hexagon
-* Blocks
-
-## Logic
-
-* Rush Hours
-* Maze
+  * **Wooden Tangram**
+* **Rush Hours**
+* **Maze**

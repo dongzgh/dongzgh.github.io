@@ -7618,13 +7618,39 @@ order: 1
 ## 2020-10-29
 
 * Continued learning Python 3
+* Received all utility confirmation letters for Evelyn
 
 * [L3MONSHAPE](#l3monshape)
 	* Updated Finance Worksheet
+	* Completed picture for lattice structure
 	
 * [HEXAGONMI](#hexagonmi)
 	* Discussed and investigated the bug #27740 related with UpdateGeoSurfaceDisplays() (Adrian)
 	* Investigated the bug #27738 and asked Jim to give more information (Jim)
+	* Fixed the bug #27738 related with connectivity checking for forms
+	* Create Query for 3AW Die Face creation
+	
+## 2020-10-30
+
+* Updated Kids Play (4yr)
+
+* [L3MONSHAPE](#l3monshape)
+	* Developed pictures for lattice structure 1
+	* Developed pictures for surface patterning 1
+	* Developed pictures for part consolidation 1
+	
+* [HEXAGONMI](#hexagonmi)
+	* Attended the Forming Suite weekly review meeting
+	* Reviewed Adrian's face normal evaluation
+	* Investigated bugs under Double Attached
+	
+## 2020-10-31
+
+* Visited Whirlpool trail
+
+## 2020-11-01
+
+* Watched Hail
 
 ## REFERENCES
 
