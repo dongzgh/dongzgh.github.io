@@ -7652,6 +7652,163 @@ order: 1
 
 * Watched Hail
 
+## 2020-11-02
+
+* [L3MONSHAPE](#l3monshape)
+	* Developed pictures for shape morphing 1
+	
+* [HEXAGONMI](#hexagonmi)
+	* Verified the bug #27685 related with Pre-unfold Trim Line display in 3AW
+	* Verified some bugs related with Double Attached
+	* Fixed one issue with the bug #23967 related with FSP2EvalDieFace, add protection	
+	
+## 2020-11-03
+
+* Searched for Indoor Scavenger Hunt ideas
+* Learned how to play card game: war
+* Talked with Evelyn tenants
+* Fixed blinds at Evelyn
+* Turned off backyard water valve at home
+
+* [L3MONSHAPE](#l3monshape)
+	* Developed pictures for shape morphing 1
+	* Developed draft organization chart V1
+	
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Adrian about the bug #27740 related with part feature display in Process Setup
+	* Forwarded the bug #27790 to Ankur to investigate related with Hole, Fill flag in LDP/PDP
+	* Found regression in the bug #25162 and assigned it to Adrian
+	* Found and fixed a memory leak with the bug #25183 related with empty composite curve
+	* Fixed the bug #27790 related with Hole marked as FILL from 3AW
+	
+## 2020-11-04
+
+* Visited Niagara Falls
+* Visited Whirlpool River Recreational Trails
+* Had Birthday dinner at home
+
+## 2020-11-05
+
+* Checked wall mount dimmable reading lamp for master bed room
+* Checked winter tire for Volvo S60 at costco.ca
+* Checked battery for Volvo XC60 at costco.ca
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #27805 related with tooling regeneration (Shaharoz)
+	* Closed the bug #25162 related with old project created in 2020.1
+	* Investigated the bug #27840 related undeleted temp file
+	* Reviewed IsPointInsideTriangle2DExt from Adrian
+	* Fixed the issue with the bug #27790 to set polyline segment marked as fill/unfill
+	* Investigated the bug #27848 related with old project conversion for filled holes
+	
+## 2020-11-06
+
+* Assembled LEGO Garget games
+* Installed master bedroom reading light
+* Checked account balances and expanses
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Eric regarding the bug #27790 about Marked as Fill on trim lines
+	* Fixed the bug #27857 related with temporary file dumping
+	* Investigated the issue #23336 related with Show Details context menu item (Shaharoz)
+	* Investigated the issue #24019 related with moving feature tree item up and down (Shaharoz)
+	
+## 2020-11-07
+
+* Visited Burlington North Bruce Trail
+
+## 2020-11-08
+
+* Visited Mill Pond with Stephanie
+* Reorganized candelabra bulbs in the house
+* Returned Amazon items
+
+## 2020-11-09
+
+* Ordered winter tires from Volvo Oakville
+* Placed order from DoorDash to McDonald
+
+* [L3MONSHAPE](#l3monshape)
+	* Developed pictures for topology optimization
+	* Developed pictures for computational model
+	
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #27862 related with Generate Part Features differences in LDP
+	* Helped Alex Chubarev to recreate some parts
+	* Investigated the bug #27879 related with sum.txt file from solver
+
+## 2020-11-10
+
+* [L3MONSHAPE](#l3monshape)
+	* Developed pictures for simple gui
+	* Developed pictures for cloud computing
+	* Developed pictures for scripting capable
+	* Developed pictures for medical implants
+	* Developed pictures for visual arts
+	* Developed pictures for lightweight design
+	
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Adrian about Thickness Direction parameter setting
+	* Prepared parts for Alex Chubarev's bugs
+	* Continued verification of bugs under QA-Topic Double Attached
+	
+## 2020-11-11
+
+* Sent email to Agostinho asking about cloths leftover
+
+* [L3MONSHAPE](#l3monshape)
+	* Reset HostGator password
+	
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Adrian about Thickness Direction issue
+	
+## 2020-11-12
+
+* Searched hiking and winter shoes for Min and Ethan
+
+* [L3MONSHAPE](#l3monshape)
+	* Uploaded new company website
+	* Updated AzureDevOps backlog system
+	* Create CI/CD pipeline for l3mon
+	
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #27908 related with First Form run off material (Adrian)
+	* Work with Alex Chubarev on some bug parts
+	* Continued verification on QA Topic - Double Attached
+
+## 2020-11-13
+
+* Read technology news from Kitware
+* Read technology news from nTopology
+* Bought CAA membership
+
+* [L3MONSHAPE](#l3monshape)
+	
+* [HEXAGONMI](#hexagonmi)
+	* Reviewed codes from Adrian related with the bug #27908
+	
+## 2020-11-14
+
+* Assembled new reading light in the master bedroom
+* Visited Bruce Trail Iroquois Section
+* Bought car battery from Costco
+* Bought CASIO keyboard piano
+
+* [L3MONSHAPE](#l3monshape)
+	* Discussed with Charles and Li about business plan and website
+	
+## 2020-11-15
+
+* Checked HomeDepot for Blinds
+
+## 2020-11-16
+
+* Filled Parent/Teacher Questionnaire for Ethan
+* Schedule Parent/Teacher interview for Ethan on Nov. 26
+* Checked weekly virtual school schedule
+* Revised Kids Education plan for home schooling
+
+
 ## REFERENCES
 
 ### estates
