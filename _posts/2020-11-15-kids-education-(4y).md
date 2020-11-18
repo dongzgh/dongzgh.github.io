@@ -83,7 +83,6 @@ categories: School
   * Piano Courses
 * Handy <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span>
   * Origami <i class="far fa-thumbs-up"></i>
-  * Clips <i class="far fa-thumbs-up"></i>
   * Crafts <i class="far fa-thumbs-up"></i>
 * Build Games <span style="color: blue"><i class="fas fa-gamepad"></i></span>
   * LEGO

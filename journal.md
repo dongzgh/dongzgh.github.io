@@ -7808,6 +7808,14 @@ order: 1
 * Checked weekly virtual school schedule
 * Revised Kids Education plan for home schooling
 
+## 2020-11-17
+
+* Sent Volvo S60 to Volvo Oakville to install winter tires
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #27949 related with meshing die face for double attached (Eric)
+	* Investigated the bug #27955 related with thickness value reset after regeneration (Adrian)
+	* 
 
 ## REFERENCES
 
