@@ -25,11 +25,13 @@ categories: School
 
 * English Literacy <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Virtual Kindergarten <i class="far fa-thumbs-up"></i>
-  * English Workbooks
+  * Educational Games <i class="far fa-thumbs-up"></i>
+  * English Workbooks 
 * Chinese Literacy <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Chinese Workbooks
 * Mathematics <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Virtual Kindergarten <i class="far fa-thumbs-up"></i>
+  * Educational Games <i class="far fa-thumbs-up"></i>
   * English Workbooks
   * Chinese Workbooks
 * Science <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>

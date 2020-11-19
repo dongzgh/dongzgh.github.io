@@ -7815,7 +7815,21 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
 	* Investigated the bug #27949 related with meshing die face for double attached (Eric)
 	* Investigated the bug #27955 related with thickness value reset after regeneration (Adrian)
-	* 
+	
+## 2020-11-18
+
+* Prepared Kids Education Daily Schedule
+* Scheduled Constant Home Comfort Humidifier (General Aire 900) installation
+
+* [L3MONSHAPE](#l3monshape)
+	* Updated title words and About Us section text format
+	
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Alex Chung and Muhammad about the bug #27966 related with color setting
+	* Investigated the bug #27970 related with color setting on featured part
+	* Reviewed source code from Adrian regarding thickness setting
+	* Discussed with Muhammad and Alex and Adrian about the bug #27966 and #27970
+	* Fixed the bug #27966 and #27970 related with permanent color settings in AGW
 
 ## REFERENCES
 
