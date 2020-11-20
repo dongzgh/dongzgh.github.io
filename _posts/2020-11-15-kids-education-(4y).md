@@ -21,7 +21,7 @@ categories: School
     * 皮皮鲁和鲁西西 <i class="fas fa-cart-arrow-down"></i>
     * 舒克和贝塔 <i class="fas fa-cart-arrow-down"></i>
 
-## Intelligence
+## Mind
 
 * English Literacy <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Virtual Kindergarten <i class="far fa-thumbs-up"></i>
@@ -36,12 +36,14 @@ categories: School
   * Chinese Workbooks
 * Science <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Readings
+    * Year Long Reading Rooms <i class="far fa-thumbs-up"></i>
     * National Geography Kids Series <i class="far fa-thumbs-up"></i>
 * Brain Games <span style="color: blue"><i class="fas fa-gamepad"></i></span>
-  * Riddles <i class="far fa-thumbs-up"></i>
   * Poker
     * Memory <i class="far fa-thumbs-up"></i>
-  * Rush Hour <i class="far fa-thumbs-up"></i>
+  * Teaser
+    * Riddles <i class="far fa-thumbs-up"></i>
+    * Rush Hour <i class="far fa-thumbs-up"></i>
   * Puzzles
     * Maze <i class="far fa-thumbs-up"></i>
     * Jigsaw <i class="far fa-thumbs-up"></i>
@@ -50,7 +52,7 @@ categories: School
     * Tetris
     * Eye Found It
 
-## Physical
+## Body
 
 * Muscle <span style="color: blue"><i class="fas fa-running"></i></span>
   * Body Trainings <i class="far fa-thumbs-up"></i>
@@ -83,7 +85,7 @@ categories: School
   * Painting Courses
 * Music <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span>
   * Piano Courses
-* Handy <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span>
+* Make <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span>
   * Origami <i class="far fa-thumbs-up"></i>
   * Crafts <i class="far fa-thumbs-up"></i>
 * Build Games <span style="color: blue"><i class="fas fa-gamepad"></i></span>

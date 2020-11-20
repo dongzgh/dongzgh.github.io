@@ -7819,7 +7819,7 @@ order: 1
 ## 2020-11-18
 
 * Prepared Kids Education Daily Schedule
-* Scheduled Constant Home Comfort Humidifier (General Aire 900) installation
+* Installed Constant Home Comfort Humidifier (General Aire 900)
 
 * [L3MONSHAPE](#l3monshape)
 	* Updated title words and About Us section text format
@@ -7830,6 +7830,16 @@ order: 1
 	* Reviewed source code from Adrian regarding thickness setting
 	* Discussed with Muhammad and Alex and Adrian about the bug #27966 and #27970
 	* Fixed the bug #27966 and #27970 related with permanent color settings in AGW
+	
+## 2020-11-19
+
+* [HEXAGONMI](#hexagonmi)
+	* Fixed the bug #27949 by added protection to trim line exportation
+	* Discussed with Adrian about the bug #27993 related with Forming Results difference
+	
+## 2020-11-20
+
+* [HEXAGONMI](#hexagonmi)
 
 ## REFERENCES
 
