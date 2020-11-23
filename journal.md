@@ -7840,6 +7840,34 @@ order: 1
 ## 2020-11-20
 
 * [HEXAGONMI](#hexagonmi)
+	* Attended FS Sprint Review meeting
+	* Groomed backlog system
+	
+## 2020-11-21
+
+* Researched about workout plan at home
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK textbook
+	
+## 2020-11-22
+
+* Built snowman
+* Played with snowballs
+* Played tangram
+* Played cards
+* Played puzzle 70 pieces
+	
+## 2020-11-23
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK textbook
+	
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Adrian about the bug #28009 related thickness direction validation 1
+	* Discussed with Shararoz about the bug #28013 related with empty 3AW global settings
+	* Discussed with Eric/Ankur about the bug #27967 related with normal attribute on trim line
+	* Discussed with Chubarev about recreate holes issues related with bug #27922/#27881/#27843 (Dong)
 
 ## REFERENCES
 
