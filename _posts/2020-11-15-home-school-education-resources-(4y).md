@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Kids Education (4y)"
-date:   2020-11-16 07:00:00 -0500
+title:  "Home School Education Resources (4y)"
+date:   2020-11-23 07:00:00 -0500
 categories: School
 ---
 
@@ -88,28 +88,28 @@ categories: School
     * Hexagon
     * Tetris
 
-## Body
+## Body <span style="color: blue"><i class="fas fa-running"></i></span>
 
-* Muscle <span style="color: blue"><i class="fas fa-running"></i></span>
+* Muscle
   * Body Trainings <i class="far fa-thumbs-up"></i>
     * [Little Sports](https://www.youtube.com/channel/UCTIwFB4ciFi5ZCIu-VlwaOg)
-* Riding <span style="color: blue"><i class="fas fa-running"></i></span>
+* Riding 
   * Hiking <i class="far fa-thumbs-up"></i>
   * Roller Skating <i class="far fa-thumbs-up"></i>
   * Scootering <i class="far fa-thumbs-up"></i>
   * Biking <i class="far fa-thumbs-up"></i>
-* Balls <span style="color: blue"><i class="fas fa-running"></i></span>
+* Balls
   * Soccer <i class="far fa-thumbs-up"></i>
   * Basketball <i class="far fa-thumbs-up"></i>
   * Volleyball <i class="far fa-thumbs-up"></i>
   * Hockey <i class="far fa-thumbs-up"></i>
   * Badminton
   * Ping Pong
-* Targets <span style="color: blue"><i class="fas fa-running"></i></span>
+* Targets
   * Magnetic Dart
   * Bowling
   * Toss Rings
-* PE Games <span style="color: blue"><i class="fas fa-running"></i></span>
+* PE Games
   * Indoor
     * [Education Games](https://www.youtube.com/channel/UCUI_IoE6IHH6uacv7qPdsIQ/playlists)
     * [Motor Skill Learning](https://www.youtube.com/channel/UCjrURON47WJ55_DiQhfg-Tw)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Earn Moneys"
-date:   2019-08-14 07:00:00 -0500
+date:   2020-11-23 07:00:00 -0500
 categories: living
 ---
 
@@ -13,19 +13,14 @@ Popular sources of side hustles are listed as below:
 
 #### Online Workers' Market
 
-##### Testing
-
-* **UserTesting**
-* **TryMyUI**
-
-##### Writing
-
-* Contena
-
-##### Anything
-
-* Craigslist/gigs
-* kijiji/jobs
+* Testing
+  * **UserTesting**
+  * **TryMyUI**
+* Writing
+  * Contena
+* Anything
+  * Craigslist/gigs
+  * kijiji/jobs
 
 #### Online Freelancers's Market
 
@@ -74,7 +69,7 @@ Popular sources of side hustles are listed as below:
 * CreateSpace
 * ACX
 
-## Online Apps' Market
+### Online Apps' Market
 
 * Google Play
 * Apple Store
