@@ -12,7 +12,7 @@ categories: School
     * [Growth Mindset](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139955112)
     * [Mindfulness](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139955140)
     * [Class Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140353385)
-  * Videos
+  * Videos <i class="far fa-thumbs-up"></i> 
     * [Peppa Pig](https://www.youtube.com/channel/UCAOtE1V7Ots4DjM8JLlrYgg)
     * [Paw Patrol](https://www.youtube.com/channel/UCvh1WRSaV66pRnkHMf0by_g)
     * [TVOkids Social Studies](https://www.youtube.com/channel/UCuSxahYIqIXM5M7lQtjwBuA)
@@ -27,8 +27,6 @@ categories: School
     * 安徒生童话
     * 一千零一夜
     * 西游记 <i class="far fa-thumbs-up"></i>
-    * 皮皮鲁和鲁西西 <i class="fas fa-cart-arrow-down"></i>
-    * 舒克和贝塔 <i class="fas fa-cart-arrow-down"></i>
 
 ## Mind
 
@@ -48,7 +46,7 @@ categories: School
     * [TVOkids Language](https://www.youtube.com/channel/UCdZLh7XMeNmm7B1unPIv49A)
 * Chinese Literacy <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Readings
-    * 四五快读
+    * 四五快读 <i class="far fa-thumbs-up"></i> 
 * Mathematics <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Virtual Kindergarten <i class="far fa-thumbs-up"></i>
   * Educational Games <i class="far fa-thumbs-up"></i>
@@ -69,23 +67,23 @@ categories: School
     * Weekly Virtual Classrooms <i class="far fa-thumbs-up"></i>
       * [Animal Rooms](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/140193403)
       * [Arctic Animals](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/141626269)
-    * [Pebble Go](https://site.pebblego.com/modules) <i class="far fa-thumbs-up"></i>
+    * [Pebble Go](https://site.pebblego.com/modules)
     * [TVOkids Science and Technology](https://www.youtube.com/channel/UCBCuoKUX7SIEIBK6YhUbyiA)
     * [TVOkids Health and Arts](https://www.youtube.com/channel/UCHcFJHZWvX6XtSc9TvVu0mA)
     * National Geography Kids Series <i class="far fa-thumbs-up"></i>
-* Brain Games <span style="color: blue"><i class="fas fa-gamepad"></i></span>
+* Brain Games <span style="color: blue"><i class="fas fa-gamepad"></i></span> <i class="far fa-thumbs-up"></i>
   * Poker
     * [1](https://www.todaysparent.com/family/activities/10-kid-friendly-card-games/#gallery/kid-friendly-card-games/slide-10)
     * [2](https://www.newarkschools.us/Downloads/Math%20Games%20with%20a%20Deck%20of%20Cards.pdf)
   * Teaser
     * [ThinkFun](https://www.thinkfun.com/)
-      * Rush Hour <i class="far fa-thumbs-up"></i>
+      * Rush Hour
     * Riddles
   * Puzzles
-    * Maze <i class="far fa-thumbs-up"></i>
+    * Maze
       * [Krazydad](https://krazydad.com/)
-    * Jigsaw <i class="far fa-thumbs-up"></i>
-    * Tangram <i class="far fa-thumbs-up"></i>
+    * Jigsaw
+    * Tangram
       * [Tangram Channel](https://www.tangram-channel.com/tangram-puzzles/)
     * Hexagon
     * Tetris
@@ -112,32 +110,29 @@ categories: School
   * Bowling
   * Toss Rings
 * PE Games <span style="color: blue"><i class="fas fa-running"></i></span>
-  * Indoor <i class="far fa-thumbs-up"></i>
+  * Indoor
     * [Education Games](https://www.youtube.com/channel/UCUI_IoE6IHH6uacv7qPdsIQ/playlists)
     * [Motor Skill Learning](https://www.youtube.com/channel/UCjrURON47WJ55_DiQhfg-Tw)
-    * [FlagHouse Activity Channel](https://www.youtube.com/c/FlagHouseActivityChannel/featured)(?)
-  * Outdoor <i class="far fa-thumbs-up"></i>
+    * [FlagHouse Activity Channel](https://www.youtube.com/c/FlagHouseActivityChannel/featured)
+  * Outdoor
     * [Education Games](https://www.youtube.com/channel/UCUI_IoE6IHH6uacv7qPdsIQ/playlists)
 
 ## Arts
 
 * Drawing <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span>
   * Color Book
-  * Sticker Book
+  * Sticker Book <i class="far fa-thumbs-up"></i>
   * Painting Courses
     * [Wow Art](https://www.youtube.com/channel/UCdZutxI1UnH9N3Fh_TeQ4Kw/videosf)
     * [Createful Art](https://www.youtube.com/c/Createfulart/featured)
-    * [TheArtSherpa](https://www.youtube.com/c/TheArtSherpa/featured)(?)
+    * [TheArtSherpa](https://www.youtube.com/c/TheArtSherpa/featured)
 * Music <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span>
-  * Piano Courses
+  * Piano Courses <i class="far fa-thumbs-up"></i>
     * [Hoffman Academy](https://www.youtube.com/channel/UCiKUKTMbojTIPGWPR_eec9w)
 * Crafts <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span> <i class="far fa-thumbs-up"></i>
-  * [123 Easy Paper Crafts 5 minute paper craft](https://www.youtube.com/channel/UCXUH2dmTnXMSxmJfp4-LT8A)
-  * [Kids and Crafts](https://www.youtube.com/channel/UC6YxUEHobzhK2ysYEUni42w)
-  * [TLT Lab Hacks](https://www.youtube.com/channel/UCF-_3d9a5UDtaMdvpljiw4w)
-  * [Crafts for Kids](https://www.youtube.com/channel/UCTn0kzSoLyz6r6H-psXmgjA)
-  * [5 Minute Crafts](https://www.youtube.com/channel/UC295-Dw_tDNtZXFeAPAW6Aw)
-  * [Origami with Jo Nakashima](https://www.youtube.com/channel/UC3ICcukYYeSn26KlCRnhOhA)
+  * [123 Easy Paper Crafts 5 minute paper craft](https://www.youtube.com/channel/UCXUH2dmTnXMSxmJfp4-LT8A) <i class="far fa-thumbs-up"></i>
+  * [TLT Lab Hacks](https://www.youtube.com/channel/UCF-_3d9a5UDtaMdvpljiw4w) <i class="far fa-thumbs-up"></i>
+  * [Origami with Jo Nakashima](https://www.youtube.com/channel/UC3ICcukYYeSn26KlCRnhOhA) <i class="far fa-thumbs-up"></i>
 * Build Games <span style="color: blue"><i class="fas fa-gamepad"></i></span>
   * LEGO
     * Classics <i class="far fa-thumbs-up"></i>
