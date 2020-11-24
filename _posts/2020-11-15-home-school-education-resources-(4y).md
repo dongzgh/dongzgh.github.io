@@ -113,7 +113,6 @@ categories: School
   * Indoor
     * [Education Games](https://www.youtube.com/channel/UCUI_IoE6IHH6uacv7qPdsIQ/playlists)
     * [Motor Skill Learning](https://www.youtube.com/channel/UCjrURON47WJ55_DiQhfg-Tw)
-    * [FlagHouse Activity Channel](https://www.youtube.com/c/FlagHouseActivityChannel/featured)
   * Outdoor
     * [Education Games](https://www.youtube.com/channel/UCUI_IoE6IHH6uacv7qPdsIQ/playlists)
 

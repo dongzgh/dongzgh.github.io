@@ -7860,14 +7860,26 @@ order: 1
 	
 ## 2020-11-23
 
-* [L3MONSHAPE](#l3monshape)
-	* Continued learning of VTK textbook
-	
+* Revised Home School schedule and resources
+
 * [HEXAGONMI](#hexagonmi)
 	* Discussed with Adrian about the bug #28009 related thickness direction validation 1
 	* Discussed with Shararoz about the bug #28013 related with empty 3AW global settings
 	* Discussed with Eric/Ankur about the bug #27967 related with normal attribute on trim line
-	* Discussed with Chubarev about recreate holes issues related with bug #27922/#27881/#27843 (Dong)
+	* Discussed with Chubarev about recreate holes issues related with bug #27922/#27881/#27843 (Dong/Ankur)
+	* Fixed the bug #27967 related with sorting composite curve polylines to be end to start
+	* Verified the bug #27966 related with permanent color settings on surfaces
+	* Investigated the issue #28021 related with silent warning/error dumping
+	
+## 2020-11-24
+
+* Created Words Wall
+	
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #27977 and found it should be created from a temporary build (Pranav)
+	* Investigated the bug #27881 related with recreate holes, not reproducible (Henny)
+	* Investigated the bug #27843 related with filled holes conversion
+	* Discussed the bug #27966 related with permanent color settings on geometry (Shaharoz)
 
 ## REFERENCES
 
