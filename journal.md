@@ -7878,8 +7878,17 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
 	* Investigated the bug #27977 and found it should be created from a temporary build (Pranav)
 	* Investigated the bug #27881 related with recreate holes, not reproducible (Henny)
-	* Investigated the bug #27843 related with filled holes conversion
+	* Discussed with Alex Chung about the bug #27843 related with filled holes conversion
 	* Discussed the bug #27966 related with permanent color settings on geometry (Shaharoz)
+	
+## 2020-11-25
+
+* Did Abs workout from Amazon Fire TV Application Daily Workout
+* Reviewed Harmonica lessons
+* Studied Piano lesson 2
+
+
+	
 
 ## REFERENCES
 
