@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ethan's Lovely Words"
-date:   2020-08-25 07:00:00 -0500
+date:   2020-11-23 07:00:00 -0500
 categories: Personal
 ---
 
