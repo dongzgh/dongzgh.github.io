@@ -817,13 +817,13 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
   * Started writing reports of '3D Printing Industry Review'
-  * Started learning of 'materialise Magics'
+  * Started the learning of 'materialise Magics'
 
 ## 2018-05-10
 
 * [L3MONSHAPE](#l3monshape)
   * Continued writing reports of '3D Printing Industry Review'
-  * Continued learning of 'materialise Magics'
+  * Continued the learning of 'materialise Magics'
 
 * [HEXAGONMI](#hexagonmi)
   * Searched for WPF learning materials
@@ -1533,13 +1533,13 @@ order: 1
 * Visited McMaster Children's Hospital for Ethan's vision check
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning CMake basics
+  * Continued the learning CMake basics
   * Continued reading book 'ITK Software Guide I'
 
 ## 2018-10-05
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning CMake basics
+  * Continued the learning CMake basics
   * Continued reading book 'ITK Software Guide I'
 
 ## 2018-10-07
@@ -1855,7 +1855,7 @@ order: 1
   * Talked with Shaharoz and Adrian about the preparations for the development next year
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of Vue.js and related technologies
+  * Continued the learning of Vue.js and related technologies
   * Started getting familiar with paraview-glance project source codes
 
 ## 2018-12-14
@@ -3535,7 +3535,7 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
 	* Subscribed enterpreneurship course "Entrepreneurship: How To Start A Business From Business Idea" from udemy
-	* Started learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
+	* Started the learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	
 * [HEXAGONMI](#hexagonmi)
 	* Attended sprint review meeting
@@ -3546,7 +3546,7 @@ order: 1
 * Discussed with Jingjing about TOFEL test preparation
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
+	* Continued the learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 
 * [HEXAGONMI](#hexagonmi)
 	* Added issue for Punch Direction line display
@@ -3567,7 +3567,7 @@ order: 1
 * Shopped grocery at National Fresh Food Market
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
+	* Continued the learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	
 ## 2019-07-28
 
@@ -3576,7 +3576,7 @@ order: 1
 * Visited Halton Hill Fall
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
+	* Continued the learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	
 ## 2019-07-29
 
@@ -3586,7 +3586,7 @@ order: 1
 * Searched TV stands and shelfs
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
+	* Continued the learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	
 * [HEXAGONMI](#hexagonmi)
 	* Reassigned some issues assigned to me
@@ -3623,7 +3623,7 @@ order: 1
 * Discussed with Jingjing about application
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
+	* Continued the learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	* Searched online business schools
 
 * [HEXAGONMI](#hexagonmi)
@@ -3662,7 +3662,7 @@ order: 1
 * Designed another version for sidewalk landscaping
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
+	* Continued the learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
 	
 * [HEXAGONMI](#hexagonmi)
 	* Rollbacked data structure changes for wireframe development
@@ -3683,8 +3683,8 @@ order: 1
 * Searched TV stands from WayFair
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
-	* Continued learning of 'Introduction to Biomedical Imaging' from edX
+	* Continued the learning of 'Entrepreneurship: How To Start A Business From Business Idea' from Udemy
+	* Continued the learning of 'Introduction to Biomedical Imaging' from edX
 	* Reorganized DevOps for Volics and Lemtri
 	
 * [HEXAGONMI](#hexagonmi)
@@ -3781,26 +3781,26 @@ order: 1
 * Visited Liao's home and had lunch at Snug Harbour restaurant
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of Entrepreneurship ad Udemy	
+	* Continued the learning of Entrepreneurship ad Udemy	
 
 ## 2019-08-19
 
 * Discussed with Jingjing about TOEFL exam
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of Biomedical Imaging at edX
+	* Continued the learning of Biomedical Imaging at edX
 	
 * [HEXAGONMI](#hexagonmi)
 	* Revised strategy for contour 0 corner linking
 	
 ## 2019-08-20
 
-* Started learning dropshipping from Udemy
+* Started the learning dropshipping from Udemy
 * Searched Spotify for chinese singers
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of Biomedical Imaging at edX
-	* Continued learning of Entrepreneurship at Udemy
+	* Continued the learning of Biomedical Imaging at edX
+	* Continued the learning of Entrepreneurship at Udemy
 	* Discussed with Charles and Li about grant application
 	
 * [HEXAGONMI](#hexagonmi)
@@ -3838,7 +3838,7 @@ order: 1
 * Downloaded PR card renew forms
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of Entrepreneurship at Udemy
+	* Continued the learning of Entrepreneurship at Udemy
 	
 ## 2019-08-25
 
@@ -3854,15 +3854,15 @@ order: 1
 * Bought Tansley Wood Timid Toddler swim lessons for Ethan
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of Entrepreneurship at Udemy
-	* Continued learning of Biomedical Imaging at edX
+	* Continued the learning of Entrepreneurship at Udemy
+	* Continued the learning of Biomedical Imaging at edX
 	
 ## 2019-08-27
 
 * Played with Ethan in bathtub
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of Entrepreneurship at Udemy
+	* Continued the learning of Entrepreneurship at Udemy
 		
 * [HEXAGONMI](#hexagonmi)
 	* Revised Double Attach spec on Microsoft Team
@@ -3876,7 +3876,7 @@ order: 1
 * Applied overnight parking permit for 5 days
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of Entrepreneurship at Udemy
+	* Continued the learning of Entrepreneurship at Udemy
 		
 * [HEXAGONMI](#hexagonmi)
 	* Reviewed Double Attach spec with team
@@ -3915,7 +3915,7 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
 	* Generated 3D volume image again for Charles
-	* Continued learning of Entrepreneurship at Udemy
+	* Continued the learning of Entrepreneurship at Udemy
 	
 * [HEXAGONMI](#hexagonmi)
 	* Created spec for Create Binder
@@ -3929,7 +3929,7 @@ order: 1
 * Had dinner at Foodie North
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of Entrepreneurship at Udemy
+	* Continued the learning of Entrepreneurship at Udemy
 	
 ## 2019-09-01
 
@@ -3952,13 +3952,13 @@ order: 1
 	
 ## 2019-09-04
 
-* Continued learning Shopify from Udemy
+* Continued the learning Shopify from Udemy
 * Confirmed Jinjing about TOEFL Exam registration
 * Added University of Ottawa Computer Science MSc admission information
 * Submitted one engineering graphics editing to CMS8
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of Entrepreneurship at Udemy
+	* Continued the learning of Entrepreneurship at Udemy
 	* Continued reviewing dental CAD/CAE/CAM
 
 * [HEXAGONMI](#hexagonmi)
@@ -3967,7 +3967,7 @@ order: 1
 
 ## 2019-09-05
 
-* Continued learning Shopify from Udemy
+* Continued the learning Shopify from Udemy
 
 * [L3MONSHAPE](#l3monshape)
 	* Finished learning of Entrepreneurship at Udemy
@@ -3979,7 +3979,7 @@ order: 1
 	
 ## 2019-09-06
 
-* Continued learning Shopify from Udemy
+* Continued the learning Shopify from Udemy
 
 * [HEXAGONMI](#hexagonmi)
 	* Attended meeting to discuss Create Punch Direction dialog box migration
@@ -4010,7 +4010,7 @@ order: 1
 ## 2019-09-11
 
 * Searched business courses from Lynda library account
-* Continued learning from Shopify Academy
+* Continued the learning from Shopify Academy
 
 * [HEXAGONMI](#hexagonmi)
 	* Completed enabling CComboPropertySheet with images
@@ -4018,7 +4018,7 @@ order: 1
 
 ## 2019-09-12
 
-* Continued learning from Shopify Academy
+* Continued the learning from Shopify Academy
 * Registered in Respondent
 
 * [L3MONSHAPE](#l3monshape)
@@ -4082,7 +4082,7 @@ order: 1
 	
 ## 2019-09-18
 
-* Continued learning dropship from Udemy
+* Continued the learning dropship from Udemy
 * Searched user testing related online job markets
 * Attended RICA first meeting
 
@@ -4151,7 +4151,7 @@ order: 1
 * Sandded raising bed frames
 * Tried penetration oil on a piece of wood
 * Registered recently bought power tools
-* Started learning Dropship 7 figure leason from Udemy
+* Started the learning Dropship 7 figure leason from Udemy
 * Took on UserTesting job
 * Print curtainworks darkening curtain return label
 * Print HSA manual claim form for Min's medical records transfer
@@ -4166,7 +4166,7 @@ order: 1
 	
 ## 2019-09-25
 
-* Continued learning Dropshop 7 figure from Udemy
+* Continued the learning Dropshop 7 figure from Udemy
 * Attended RCIA training Q2
 * Tinted raising bed frame
 
@@ -4175,7 +4175,7 @@ order: 1
 	
 ## 2019-09-26
 
-* Continued learning Dropshop 7 figure from Udemy
+* Continued the learning Dropshop 7 figure from Udemy
 
 * [HEXAGONMI](#hexagonmi)
 	* Reformatted FTIMultipleGeometryCallback.cpp
@@ -5089,7 +5089,7 @@ order: 1
 * Reorganized facebook and twitter subscriptions
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning on GLSL
+  * Continued the learning on GLSL
 
 * [HEXAGONMI](#hexagonmi)
   * Attended 2019 Q4 staff meeting
@@ -5109,7 +5109,7 @@ order: 1
 * Reorganized news channels on Wechat and Weibo
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning on GLSL
+  * Continued the learning on GLSL
   
 * [HEXAGONMI](#hexagonmi)
   * Merged branch source code and created build
@@ -5119,7 +5119,7 @@ order: 1
 * Read news from Wechat and Twitter
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning on GLSL
+  * Continued the learning on GLSL
   
 * [HEXAGONMI](#hexagonmi)
   * Fixed bugs in the new branch
@@ -5131,7 +5131,7 @@ order: 1
 * Added algorithm search in FlexJobs
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning on GLSL
+  * Continued the learning on GLSL
   * Started reading book Graphics Shaders Theory and Practice
   
 * [HEXAGONMI](#hexagonmi)
@@ -5360,7 +5360,7 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
   * Learned ThreeJS Shader Material
-  * Started learning of Volume Rendering
+  * Started the learning of Volume Rendering
   
 * [HEXAGONMI](#hexagonmi)
   * Merged source codes from FS
@@ -5369,7 +5369,7 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
   * Configured MathJax for display mode styling
-  * Continued learning of Volume Rendering
+  * Continued the learning of Volume Rendering
   * Added key binding to Visual Studio Code
   
 * [HEXAGONMI](#hexagonmi)
@@ -5380,7 +5380,7 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
   * Configured keyboard bindings for Visual Studio Code
-  * Continued learning of Volume Rendering
+  * Continued the learning of Volume Rendering
   * Reorganized documents on Microsoft Team
   
 * [HEXAGONMI](#hexagonmi)
@@ -5389,7 +5389,7 @@ order: 1
 ## 2020-02-13
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of Volume Rendering
+  * Continued the learning of Volume Rendering
   * Started writing of product description
   
 * [HEXAGONMI](#hexagonmi)
@@ -5398,7 +5398,7 @@ order: 1
 ## 2020-02-14
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of Volume Rendering
+  * Continued the learning of Volume Rendering
   * Completed writing of product description
 	* Attended meeting
   
@@ -5420,7 +5420,7 @@ order: 1
 ## 2020-02-18
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of Volume Rendering
+  * Continued the learning of Volume Rendering
   
 * [HEXAGONMI](#hexagonmi)
   * Attended training of Simufact Forming
@@ -5431,12 +5431,12 @@ order: 1
 * Attended RCIA training class
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of Volume Rendering
+  * Continued the learning of Volume Rendering
   
 ## 2020-02-20
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of Volume Rendering
+  * Continued the learning of Volume Rendering
   
 * [HEXAGONMI](#hexagonmi)
   * Attended training of Simufact Additive
@@ -5444,11 +5444,11 @@ order: 1
 ## 2020-02-21
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of Volume Rendering
+  * Continued the learning of Volume Rendering
   
 * [HEXAGONMI](#hexagonmi)
   * Installed MSC Apex
-  * Started learning of MSC Apex
+  * Started the learning of MSC Apex
   
 ## 2020-02-22
 
@@ -5480,7 +5480,7 @@ order: 1
 * Renewed Dynacare Plus membership
 
 * [L3MONSHAPE](#l3monshape)
-  * Started learning of ParaView
+  * Started the learning of ParaView
   * Reorganized visualstudio projects
   * Reorganized book names, pictures and tags
 
@@ -5493,7 +5493,7 @@ order: 1
 * Initialized Tax Return 2019
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of ParaView
+  * Continued the learning of ParaView
   * Modified business plan from Charles
 
 * [HEXAGONMI](#hexagonmi)
@@ -5506,7 +5506,7 @@ order: 1
 * Researched RRSP ROI for Sun Life, TD and CIBC
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of ParaView
+  * Continued the learning of ParaView
 
 * [HEXAGONMI](#hexagonmi)
   * Learned MSC Apex GUI SDK development environment
@@ -5544,7 +5544,7 @@ order: 1
 * Confirmed RRSP contribution to Sun Life
 
 * [L3MONSHAPE](#l3monshape)
-  * Started learning VTK.js
+  * Started the learning VTK.js
 
 * [HEXAGONMI](#hexagonmi)
   * Discussed Preunfold Flanges with Shaharoz
@@ -5553,7 +5553,7 @@ order: 1
 ## 2020-03-03
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning VTK.js
+  * Continued the learning VTK.js
   
 * [HEXAGONMI](#hexagonmi)
   * Discussed DieFace back-end issue with Eric and Alex
@@ -5566,7 +5566,7 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
   * Revised business plan (CN) and (EN)
-  * Continued learning VTK.js
+  * Continued the learning VTK.js
   
 * [HEXAGONMI](#hexagonmi)
   * Discussed scheduling problem with Eric
@@ -5576,7 +5576,7 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
   * Read revised business plan (CN)
-  * Started learning of VTK.js examples
+  * Started the learning of VTK.js examples
   * Discussed with Li and Charles about business plan
   
 * [HEXAGONMI](#hexagonmi)
@@ -5590,7 +5590,7 @@ order: 1
 * Searched hockey club programs
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of VTK.js examples
+  * Continued the learning of VTK.js examples
   
 * [HEXAGONMI](#hexagonmi)
   * Compared installation differences between Alpha and Main
@@ -5619,7 +5619,7 @@ order: 1
 ## 2020-03-10
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of VTK textbook
+  * Continued the learning of VTK textbook
   
 * [HEXAGONMI](#hexagonmi)
   * Fixed bugs and issues
@@ -5630,7 +5630,7 @@ order: 1
 * Booked appointment for changing rear braking pads and rotors
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of VTK textbook
+  * Continued the learning of VTK textbook
   
 * [HEXAGONMI](#hexagonmi)
   * Fixed bugs
@@ -5638,8 +5638,8 @@ order: 1
 ## 2020-03-12
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of VTK textbook
-  * Started learning of CMake
+  * Continued the learning of VTK textbook
+  * Started the learning of CMake
   * Tried to compile cxx codes
   
 * [HEXAGONMI](#hexagonmi)
@@ -5649,7 +5649,7 @@ order: 1
 ## 2020-03-13
 
 * [L3MONSHAPE](#l3monshape)
-  * Continued learning of CMake
+  * Continued the learning of CMake
   * Build VTK cxx example
   * Updated Python environment
   
@@ -5803,7 +5803,7 @@ order: 1
 ## 2020-04-03
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning VTK textbook
+	* Continued the learning VTK textbook
 	* Discussed business plan v3 with Charles
 
 * [HEXAGONMI](#hexagonmi)
@@ -6640,7 +6640,7 @@ order: 1
 * Contacted Alton Child Care Center for official withdraw
 
 * [L3MONSHAPE](#l3monshape)
-	* Started learning of Fusion 360 Generative Design
+	* Started the learning of Fusion 360 Generative Design
 	* Learned NX Body Lattice functions
 	* Drafted Generative Design Workflow
 
@@ -6712,7 +6712,7 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
 	* Continued reviewing Real Time Volume Graphics
-	* Started learning Real Time Volume Graphics Chapter 13
+	* Started the learning Real Time Volume Graphics Chapter 13
 	
 * [HEXAGONMI](#hexagonmi)
 	* Discussed with Adrian about interface of ExportFeaturePart function
@@ -6743,7 +6743,7 @@ order: 1
 ## 2020-07-17
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning Real Time Volume Graphics Chapter 13
+	* Continued the learning Real Time Volume Graphics Chapter 13
 	
 * [HEXAGONMI](#hexagonmi)
 	* Attended Forming Suite status review meeting
@@ -6774,7 +6774,7 @@ order: 1
 * Learned Verse of the Day
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of VTK Textbook Chapter 4
+	* Continued the learning of VTK Textbook Chapter 4
 	
 * [HEXAGONMI](#hexagonmi)
 	* Reviewed source codes from Adrian about material on flange inference
@@ -6789,7 +6789,7 @@ order: 1
 
 * [L3MONSHAPE](#l3monshape)
 	* Completed learning of VTK Textbook Chapter 4
-	* Started learning of VTK Textbook Chapter 5
+	* Started the learning of VTK Textbook Chapter 5
 	
 * [HEXAGONMI](#hexagonmi)
 	* Added comments to FSPExportFeaturedPartFromAGW and FSPExportFeaturedPartFrom3AW
@@ -6808,7 +6808,7 @@ order: 1
 ## 2020-07-23
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of VTK Textbook Chapter 5
+	* Continued the learning of VTK Textbook Chapter 5
 
 * [HEXAGONMI](#hexagonmi)
 	* Investigated the bug #26432 related with embossment display in PositionGeoSets
@@ -6899,7 +6899,7 @@ order: 1
 * Replied Bernie's email about church attendence
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of VTK Textbook Chapter 6
+	* Continued the learning of VTK Textbook Chapter 6
 	
 * [HEXAGONMI](#hexagonmi)
 	* Talked with Maggie about Replicon issues
@@ -6919,7 +6919,7 @@ order: 1
 * Felt sick by taking Indomethacin without taking food
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of VTK Textbook Chapter 6
+	* Continued the learning of VTK Textbook Chapter 6
 	
 * [HEXAGONMI](#hexagonmi)
 	* Fixed the bug #26515 by developing a function to flatten skin forms
@@ -7060,7 +7060,7 @@ order: 1
 ## 2020-08-31
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of VTK Textbook Chapter 7
+	* Continued the learning of VTK Textbook Chapter 7
 	
 * [HEXAGONMI](#hexagonmi)
 	* Revised boundary exportation for FSP
@@ -7070,7 +7070,7 @@ order: 1
 ## 2020-09-01
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of VTK Textbook Chapter 7
+	* Continued the learning of VTK Textbook Chapter 7
 	* Talked with Charles about the Business Plan
 
 * [HEXAGONMI](#hexagonmi)
@@ -7082,7 +7082,7 @@ order: 1
 * Read news from Kitware
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of VTK Textbook Chapter 7
+	* Continued the learning of VTK Textbook Chapter 7
 	
 * [HEXAGONMI](#hexagonmi)
 	* Fixed a bug related with ShowUnfoldedFlanges causing memory leaks
@@ -7322,7 +7322,7 @@ order: 1
 	
 ## 2020-09-30
 
-* Continued learning Kindergarten curriculum requirements
+* Continued the learning Kindergarten curriculum requirements
 
 * [HEXAGONMI](#hexagonmi)
 	* Investigated the bug #27382 related with big binder size (Adrian)
@@ -7379,7 +7379,7 @@ order: 1
 	
 ## 2020-10-06
 
-* Started learning Python 3
+* Started the learning Python 3
 * Started to work on LeeCode
 
 * [HEXAGONMI](#hexagonmi)
@@ -7388,7 +7388,7 @@ order: 1
 	
 ## 2020-10-07
 
-* Continued learning Python 3
+* Continued the learning Python 3
 
 * [L3MONSHAPE](#l3monshape)
 	* Revised website structure
@@ -7400,7 +7400,7 @@ order: 1
 	
 ## 2020-10-08
 
-* Continued learning Python 3
+* Continued the learning Python 3
 
 * [HEXAGONMI](#hexagonmi)
 	* Investigated the bug #27485 related with failed die face creation with irregular normals (Eric)
@@ -7525,7 +7525,7 @@ order: 1
 
 ## 2020-10-22
 
-* Continued learning Python 3
+* Continued the learning Python 3
 * Attended school Virtual Kindergarten orientation
 * Set to renew Ethan's passport on Feb. 1st, 2021
 * Created document to trace ID updates
@@ -7558,7 +7558,7 @@ order: 1
 	
 ## 2020-10-24
 
-* Continued learning of Python 3
+* Continued the learning of Python 3
 * Signed up for MBA.com
 
 * [L3MONSHAPE](#l3monshape)
@@ -7617,7 +7617,7 @@ order: 1
 	
 ## 2020-10-29
 
-* Continued learning Python 3
+* Continued the learning Python 3
 * Received all utility confirmation letters for Evelyn
 
 * [L3MONSHAPE](#l3monshape)
@@ -7848,7 +7848,7 @@ order: 1
 * Researched about workout plan at home
 
 * [L3MONSHAPE](#l3monshape)
-	* Continued learning of VTK textbook
+	* Continued the learning of VTK textbook
 	
 ## 2020-11-22
 
@@ -7886,9 +7886,61 @@ order: 1
 * Did Abs workout from Amazon Fire TV Application Daily Workout
 * Reviewed Harmonica lessons
 * Studied Piano lesson 2
+* Updated Ethan's portfolio
+* Purchased Ontario Parks annual permit
 
+* [HEXAGONMI](#hexagonmi)
+	* Reviewed source codes from Adrian related with thickness direction updates on merged skin
+	* Added comments to the bug #27843 about back-end protection and sent it to Chubarev
+	* Investigated the bug #28028 related with solver failure (Eric)
+	* Investigated the bug #28027 related with dialog box OK confirmation on obsolete feature (Shaharoz)
+	* Started the learning of Google Test framework
 
-	
+## 2020-11-26
+
+* Did Abs workout
+* Read news from nTopology
+* Continued the learning of Piano from bilibii
+* Sent email to tenant in Evelyn about blinds choices
+
+* [HEXAGONMI](#hexagonmi)
+	* Continued the learning of Google Test framework
+	* Attached dump file for the bug #28028 related with formability failure
+
+## 2020-11-27
+
+* Did Abs workout
+* Read nTopology nTop Platform for Generative Design
+* Read 3D System Why Lighter Part Matters
+
+* [L3MONSHAPE](#l3monshape)
+	* Tried SolidWorks online
+
+* [HEXAGONMI](#hexagonmi)
+	* Continued the learning of Google Test framework
+
+## 2020-11-28
+
+* Installed LED lights on tree at front yard
+* Visited Ancaster Mill and Heritage Trail
+
+## 2020-11-29
+
+* Visited Bruce Trail at Dundas Valley G&CC
+
+## 2020-11-30
+
+* [HEXAGONMI](#hexagonmi)
+	* Continued the learning of Google Test framework
+	* Investigated the TESTING folder in SFDytran project
+	* Reviewed source codes from Shaharoz related with the bug #28027
+	* Investigated the bug #28120 related with failed die face creation
+	* Investigated the bug #28132 related with Define Material causes regeneration and removes all error codes (Shaharoz)
+
+## 2020-12-01
+
+* Bought grocery from Fortino
+* 
 
 ## REFERENCES
 

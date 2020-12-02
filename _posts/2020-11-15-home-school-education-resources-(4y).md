@@ -36,11 +36,13 @@ categories: School
     * Weekly Activities 
       * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
       * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141642281)
+      * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142233150)
     * [Word Wall](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140147980)
     * [Sight Words](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141013772)
   * Worksheets
     * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140413885)
     * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141638910)
+    * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142238480)
     * Ultimate Real Kindergarten Workbook
   * Videos
     * [TVOkids Language](https://www.youtube.com/channel/UCdZLh7XMeNmm7B1unPIv49A)
@@ -53,12 +55,14 @@ categories: School
     * Weekly Activities
       * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
       * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141642281)
+      * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142233150)
     * [Math Tools](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140166695)
     * [Counting to 20 Arcade](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139957163)
     * [Adding/Subtracting Arcade](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139957739)
   * Worksheets
     * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140413885)
     * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141638910)
+    * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142238480)
     * Ultimate Real Kindergarten Workbook
   * Videos
     * [TVOkids Mathematics](https://www.youtube.com/channel/UCxNAcNMKHCXHY9dwVOElKpQ)
@@ -67,6 +71,7 @@ categories: School
     * Weekly Virtual Classrooms <i class="far fa-thumbs-up"></i>
       * [Animal Rooms](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/140193403)
       * [Arctic Animals](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/141626269)
+      * [Neighbourhood Animals](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/142232617)
     * [Pebble Go](https://site.pebblego.com/modules)
     * [TVOkids Science and Technology](https://www.youtube.com/channel/UCBCuoKUX7SIEIBK6YhUbyiA)
     * [TVOkids Health and Arts](https://www.youtube.com/channel/UCHcFJHZWvX6XtSc9TvVu0mA)
@@ -90,10 +95,12 @@ categories: School
 
 ## Body <span style="color: blue"><i class="fas fa-running"></i></span>
 
-* Muscle
-  * Body Trainings <i class="far fa-thumbs-up"></i>
+* Training
+  * Workout <i class="far fa-thumbs-up"></i>
     * [Little Sports](https://www.youtube.com/channel/UCTIwFB4ciFi5ZCIu-VlwaOg)
-* Riding 
+  * Speedy Rope
+  * Pogo Sticks <i class="far fa-thumbs-up"></i>
+* Riding
   * Hiking <i class="far fa-thumbs-up"></i>
   * Roller Skating <i class="far fa-thumbs-up"></i>
   * Scootering <i class="far fa-thumbs-up"></i>
@@ -152,6 +159,7 @@ categories: School
   * Game of the Week
     * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140081975)
     * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141612688)
+    * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142215650)
 * Adventure
   * Ladder and Chute
 * Scavenger Hunt <i class="far fa-thumbs-up"></i>
