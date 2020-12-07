@@ -33,16 +33,18 @@ categories: School
 * English Literacy <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Virtual Kindergarten <i class="far fa-thumbs-up"></i>
   * Educational Games <i class="far fa-thumbs-up"></i>
-    * Weekly Activities 
+    * Weekly Activities
       * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
       * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141642281)
       * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142233150)
+      * [12](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
     * [Word Wall](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140147980)
     * [Sight Words](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141013772)
   * Worksheets
     * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140413885)
     * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141638910)
     * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142238480)
+    * [12](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142638535)
     * Ultimate Real Kindergarten Workbook
   * Videos
     * [TVOkids Language](https://www.youtube.com/channel/UCdZLh7XMeNmm7B1unPIv49A)
@@ -56,6 +58,7 @@ categories: School
       * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
       * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141642281)
       * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142233150)
+      * [12](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
     * [Math Tools](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140166695)
     * [Counting to 20 Arcade](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139957163)
     * [Adding/Subtracting Arcade](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139957739)
@@ -63,12 +66,15 @@ categories: School
     * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140413885)
     * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141638910)
     * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142238480)
+    * [12](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142638535)
     * Ultimate Real Kindergarten Workbook
   * Videos
     * [TVOkids Mathematics](https://www.youtube.com/channel/UCxNAcNMKHCXHY9dwVOElKpQ)
 * Science <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Readings
-    * Weekly Virtual Classrooms <i class="far fa-thumbs-up"></i>
+    * Weekly Activities
+      * [12](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142238480)
+    * Virtual Classrooms <i class="far fa-thumbs-up"></i>
       * [Animal Rooms](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/140193403)
       * [Arctic Animals](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/141626269)
       * [Neighbourhood Animals](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/142232617)
@@ -118,6 +124,8 @@ categories: School
   * Toss Rings
 * PE Games
   * Indoor
+    * Weekly Activities
+      * [11](https://www.youtube.com/watch?v=9nKq4jm4LD8&feature=youtu.be)
     * [Education Games](https://www.youtube.com/channel/UCUI_IoE6IHH6uacv7qPdsIQ/playlists)
     * [Motor Skill Learning](https://www.youtube.com/channel/UCjrURON47WJ55_DiQhfg-Tw)
   * Outdoor
@@ -136,6 +144,8 @@ categories: School
   * Piano Courses <i class="far fa-thumbs-up"></i>
     * [Hoffman Academy](https://www.youtube.com/channel/UCiKUKTMbojTIPGWPR_eec9w)
 * Crafts <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span> <i class="far fa-thumbs-up"></i>
+  * Weekly Activities
+    * [12](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
   * [123 Easy Paper Crafts 5 minute paper craft](https://www.youtube.com/channel/UCXUH2dmTnXMSxmJfp4-LT8A) <i class="far fa-thumbs-up"></i>
   * [TLT Lab Hacks](https://www.youtube.com/channel/UCF-_3d9a5UDtaMdvpljiw4w) <i class="far fa-thumbs-up"></i>
   * [Origami with Jo Nakashima](https://www.youtube.com/channel/UC3ICcukYYeSn26KlCRnhOhA) <i class="far fa-thumbs-up"></i>
@@ -156,10 +166,13 @@ categories: School
 ## Funs <span style="color: blue"><i class="fas fa-gamepad"></i></span>
 
 * Virtual Kindergarten
+  * Virtual Classrooms
+    * [12](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/142661259)
   * Game of the Week
     * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140081975)
     * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141612688)
     * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142215650)
+    * [12](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142649614)
 * Adventure
   * Ladder and Chute
 * Scavenger Hunt <i class="far fa-thumbs-up"></i>

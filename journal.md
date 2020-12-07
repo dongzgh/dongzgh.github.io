@@ -7937,11 +7937,58 @@ order: 1
 	* Investigated the bug #28120 related with failed die face creation
 	* Investigated the bug #28132 related with Define Material causes regeneration and removes all error codes (Shaharoz)
 
-## 2020-12-01
+## 2020-12-02
 
 * Bought grocery from Fortino
-* 
+* Searched story channels in Chinese
+* Connected Alexa with cell phone ximalaya
+* Created Sigh Words document
 
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #28143 related with Move Geometry
+	* Reviewed the bug #28132 related with error clean up during regeneration
+
+## 2020-12-03
+
+* Checked Faux Wood blinds at HomeDepot
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #28158 related with part flatness checking during binder creation/positioning (Adrian)
+	* Attended meeting discussing Extrusion Feature identification issue
+	* Learned gmock framework
+	* Researched Unit Test philosophy
+	* Tried to build test demo projects
+	
+## 2020-12-05
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Adrian about binder 0 position issues
+	* Learned Microsoft Visual Studio testing tools
+	* Return the bug #26515 as not duplicable
+
+## 2020-12-06
+
+* Reorganized toys in the living room and play room
+* Visited Spring Creek Trail at the start
+
+## 2020-12-07
+
+* Visited Spring Creek Trail from the middle
+* Bought Faux Wood blinds from HomeDepot
+
+## 2020-12-08
+
+* Consulted with Volvo Oakville about engine oil pressure problem
+* Searched Castrol Engine Oil from Canadian Tire
+* Checked Ethan's computer for accessing Microsoft Team
+* Reorganized computer and TV connection for Microsoft Meeting
+* Scheduled appointment with CIBC portfolio manager
+
+* [HEXAGONMI](#hexagonmi)
+	* Created UnitTesting branch under Proto
+	* Rebuild whole project DEBUG/RELEASE
+	* Added FTIUnitTestLIB project
+	
 ## REFERENCES
 
 ### estates
