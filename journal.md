@@ -7983,6 +7983,8 @@ order: 1
 * Checked Ethan's computer for accessing Microsoft Team
 * Reorganized computer and TV connection for Microsoft Meeting
 * Scheduled appointment with CIBC portfolio manager
+* Placed order for USB adapter for CASIOTONE Keyboard
+* Updated D2L provided weekly learning materials
 
 * [HEXAGONMI](#hexagonmi)
 	* Created UnitTesting branch under Proto

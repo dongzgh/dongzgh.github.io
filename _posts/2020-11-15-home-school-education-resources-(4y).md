@@ -62,6 +62,8 @@ categories: School
     * [Math Tools](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140166695)
     * [Counting to 20 Arcade](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139957163)
     * [Adding/Subtracting Arcade](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139957739)
+  * Game of the Week
+    * [12](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142649614)
   * Worksheets
     * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140413885)
     * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141638910)
@@ -171,8 +173,7 @@ categories: School
   * Game of the Week
     * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140081975)
     * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141612688)
-    * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142215650)
-    * [12](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142649614)
+    * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142215650) 
 * Adventure
   * Ladder and Chute
 * Scavenger Hunt <i class="far fa-thumbs-up"></i>
