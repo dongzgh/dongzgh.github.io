@@ -7985,11 +7985,16 @@ order: 1
 * Scheduled appointment with CIBC portfolio manager
 * Placed order for USB adapter for CASIOTONE Keyboard
 * Updated D2L provided weekly learning materials
+* Bought and filled engine oil
+* Bought booster pack replacement
+* Returned lights and battery maintainer
 
 * [HEXAGONMI](#hexagonmi)
 	* Created UnitTesting branch under Proto
 	* Rebuild whole project DEBUG/RELEASE
 	* Added FTIUnitTestLIB project
+	* Fixed the bug #28155 related with boundary edge matching
+	* Initialized FormingSuite unit testing framework
 	
 ## REFERENCES
 
