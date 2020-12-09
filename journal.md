@@ -8010,8 +8010,14 @@ order: 1
 
 ## 2020-12-09
 
+* Updated education resources
+* Updated flash card templates
+* Visited pediatric dentistry
+
 * [HEXAGONMI](#hexagonmi)
 	* Investigated the bug #28195 related with fixing geometry
+	* Learned test adapter for Google test
+	* 
 
 ## REFERENCES
 
