@@ -7959,24 +7959,24 @@ order: 1
 	* Researched Unit Test philosophy
 	* Tried to build test demo projects
 	
-## 2020-12-05
+## 2020-12-04
 
 * [HEXAGONMI](#hexagonmi)
 	* Discussed with Adrian about binder 0 position issues
 	* Learned Microsoft Visual Studio testing tools
 	* Return the bug #26515 as not duplicable
 
-## 2020-12-06
+## 2020-12-05
 
 * Reorganized toys in the living room and play room
 * Visited Spring Creek Trail at the start
 
-## 2020-12-07
+## 2020-12-06
 
 * Visited Spring Creek Trail from the middle
 * Bought Faux Wood blinds from HomeDepot
 
-## 2020-12-08
+## 2020-12-07
 
 * Consulted with Volvo Oakville about engine oil pressure problem
 * Searched Castrol Engine Oil from Canadian Tire
@@ -7996,6 +7996,15 @@ order: 1
 	* Fixed the bug #28155 related with boundary edge matching
 	* Initialized FormingSuite unit testing framework
 	
+## 2020-12-08
+
+* Sent picture to Guzzo and Palazzolo
+
+* [HEXAGONMI](#hexagonmi)
+	* Read work from home policy
+	* Sent email asking some questions about unit testing framework
+	* 
+
 ## REFERENCES
 
 ### estates

@@ -128,6 +128,7 @@ categories: School
   * Indoor
     * Weekly Activities
       * [11](https://www.youtube.com/watch?v=9nKq4jm4LD8&feature=youtu.be)
+    * [Morning Welcome Song](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/137944740)
     * [Education Games](https://www.youtube.com/channel/UCUI_IoE6IHH6uacv7qPdsIQ/playlists)
     * [Motor Skill Learning](https://www.youtube.com/channel/UCjrURON47WJ55_DiQhfg-Tw)
   * Outdoor
