@@ -48,6 +48,7 @@ categories: School
     * Ultimate Real Kindergarten Workbook
   * Videos
     * [Jack Hartmann Kids Music Channel](https://www.youtube.com/channel/UCVcQH8A634mauPrGbWs7QlQ)
+      * [The Alphabet Song](https://www.youtube.com/watch?v=lhX064AiyGg)
     * [TVOkids Language](https://www.youtube.com/channel/UCdZLh7XMeNmm7B1unPIv49A)
 * Chinese Literacy <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Readings
@@ -128,9 +129,9 @@ categories: School
   * Toss Rings
 * PE Games
   * Indoor
-    * Weekly Activities
-      * [11](https://www.youtube.com/watch?v=9nKq4jm4LD8&feature=youtu.be)
     * [Jack Hartmann Kids Music Channel](https://www.youtube.com/channel/UCVcQH8A634mauPrGbWs7QlQ)
+      * [Boom Chicka Boom](https://www.youtube.com/watch?v=9nKq4jm4LD8)
+      * [Exercise, Rhyme and Freeze](https://www.youtube.com/watch?v=cSPmGPIyykU)
     * [Education Games](https://www.youtube.com/channel/UCUI_IoE6IHH6uacv7qPdsIQ/playlists)
     * [Motor Skill Learning](https://www.youtube.com/channel/UCjrURON47WJ55_DiQhfg-Tw)
   * Outdoor

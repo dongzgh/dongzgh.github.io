@@ -7999,11 +7999,19 @@ order: 1
 ## 2020-12-08
 
 * Sent picture to Guzzo and Palazzolo
+* Returned Amazon Gravity toy
+* Returned micro-b connectors to Amazon
+* Returned air compressor and booster pack to Canadian Tire
+* Installed one blind at Evelyn
 
 * [HEXAGONMI](#hexagonmi)
 	* Read work from home policy
 	* Sent email asking some questions about unit testing framework
-	* 
+
+## 2020-12-09
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #28195 related with fixing geometry
 
 ## REFERENCES
 
