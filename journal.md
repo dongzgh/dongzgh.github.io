@@ -8017,6 +8017,35 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
 	* Investigated the bug #28195 related with fixing geometry
 	* Learned test adapter for Google test
+	
+## 2020-12-10
+
+* Received payment from Ethan's dental claim
+* Submit the rest payment for Ethan's dental exam to HSA account
+* Checked Advanced Kindergarten Registration from HCDSB
+* Asked Shiqi Wang to pick up mails
+
+* [HEXAGONMI](#hexagonmi)
+	* Created task #28211/28212/28213 for validate Extrusion features during Define Part Features
+	* Completed Phishing Awareness course
+	* Completed Social Media Awareness course
+	* Completed Laptop Security course
+	* Tried to build SIMUFACT source codes
+
+## 2020-12-11
+
+* Submitted claim for Microsoft Canadian Consumer Benefits
+* Read nTopology white papers
+
+* [L3MONSHAPE]
+	* Searched free FEA packages (Ansys and MSC)
+	* Checked Hostgater webmail
+	* Started to work on software architecture planning
+	
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Adrian about the bug #28216 related with trim line clean up
+	* Discussed with Shaharoz about material updates introduced light weight regeneration
+	* Asked Egor about SIMUFACT domain connection issues
 	* 
 
 ## REFERENCES
