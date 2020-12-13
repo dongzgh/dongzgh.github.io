@@ -179,3 +179,7 @@ blockquote {
   font-size: 14px;
   border-left: none;
 }
+
+.abctext {
+  display: none;
+}

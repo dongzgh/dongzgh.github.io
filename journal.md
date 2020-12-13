@@ -8046,7 +8046,17 @@ order: 1
 	* Discussed with Adrian about the bug #28216 related with trim line clean up
 	* Discussed with Shaharoz about material updates introduced light weight regeneration
 	* Asked Egor about SIMUFACT domain connection issues
-	* 
+	* Investigated the bug #28247 related with die face creation (Chubarev)
+	* Investigated the bug #28246 related with pre-unfolding (Eric)
+	* Fixed the bug #28237 related with trim line development in 3AW 
+
+## 2020-12-12
+
+* Installed blinds in Evelyn
+* Started learning of ABC notations
+
+* [L3MONSHAPE]
+	* Had meeting with Charles and Li
 
 ## REFERENCES
 

@@ -3,9 +3,8 @@ title: Piano
 permalink: /piano
 tags: [music, instrument, piano]
 image: /assets/img/pages/piano.jpg
----
-
 spellcheck: off
+---
 
 ## [从零起步学钢琴](https://www.bilibili.com/video/BV1R4411j7v5)
 
@@ -26,4 +25,3 @@ spellcheck: off
   * &#119100; - 半休止
   * &#119101; - 四分休止
   * &#119102; - 八分休止
-* 

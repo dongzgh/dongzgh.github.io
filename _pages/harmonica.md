@@ -3,9 +3,8 @@ title: Harmonica
 permalink: /harmonica
 tags: [music, instrument, harmonica]
 image: /assets/img/pages/harmonica.jpg
----
-
 spellcheck: off
+---
 
 ## [口琴基本知识](http://www.xuekouqin.com)
 
