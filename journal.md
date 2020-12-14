@@ -8057,6 +8057,23 @@ order: 1
 
 * [L3MONSHAPE]
 	* Had meeting with Charles and Li
+	
+## 2020-12-13
+
+* Visited South Shell Part
+* Visited Bruce Trail Iroquois section
+
+## 2020-12-14
+
+* Updated Ethan's education resources
+
+* [HEXAGONMI](#hexagonmi)
+	* Reorganized remote computer storage
+	* Updated QT
+	* Tried to build SIMUFACT source codes
+	* Discussed with Shaharoz about material regeneration issues (Shaharoz)
+	* Re-investigated the bug #28155 related with boundary trim line tolerance issue (Pranav)
+	* 
 
 ## REFERENCES
 

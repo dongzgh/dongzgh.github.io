@@ -45,6 +45,7 @@ categories: School
     * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141638910)
     * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142238480)
     * [12](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142638535)
+    * [13](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063226)
     * Ultimate Real Kindergarten Workbook
   * Videos
     * [Jack Hartmann Kids Music Channel](https://www.youtube.com/channel/UCVcQH8A634mauPrGbWs7QlQ)
@@ -61,6 +62,7 @@ categories: School
       * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141642281)
       * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142233150)
       * [12](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
+      * [13](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
     * [Math Tools](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140166695)
     * [Counting to 20 Arcade](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139957163)
     * [Adding/Subtracting Arcade](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139957739)
@@ -71,6 +73,7 @@ categories: School
     * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141638910)
     * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142238480)
     * [12](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142638535)
+    * [13](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063226)
     * Ultimate Real Kindergarten Workbook
   * Videos
     * [Jack Hartmann Kids Music Channel](https://www.youtube.com/channel/UCVcQH8A634mauPrGbWs7QlQ)
@@ -83,6 +86,10 @@ categories: School
       * [Animal Rooms](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/140193403)
       * [Arctic Animals](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/141626269)
       * [Neighbourhood Animals](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/142232617)
+      * [Learn About Christmas](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143093038)
+      * [Learn About Reindeer](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143093089)
+      * [Learn About Elves](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143093195)
+      * [Winter Wonderland](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143096219)
     * [Pebble Go](https://site.pebblego.com/modules)
     * [TVOkids Science and Technology](https://www.youtube.com/channel/UCBCuoKUX7SIEIBK6YhUbyiA)
     * [TVOkids Health and Arts](https://www.youtube.com/channel/UCHcFJHZWvX6XtSc9TvVu0mA)
@@ -147,16 +154,21 @@ categories: School
     * [Createful Art](https://www.youtube.com/c/Createfulart/featured)
     * [TheArtSherpa](https://www.youtube.com/c/TheArtSherpa/featured)
 * Music <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span>
+  * Weekly Activities
+    * [13](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
   * Piano Courses <i class="far fa-thumbs-up"></i>
     * [Hoffman Academy](https://www.youtube.com/channel/UCiKUKTMbojTIPGWPR_eec9w)
 * Crafts <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span> <i class="far fa-thumbs-up"></i>
   * Weekly Activities
     * [12](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
+    * [13](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
   * [123 Easy Paper Crafts 5 minute paper craft](https://www.youtube.com/channel/UCXUH2dmTnXMSxmJfp4-LT8A) <i class="far fa-thumbs-up"></i>
   * [TLT Lab Hacks](https://www.youtube.com/channel/UCF-_3d9a5UDtaMdvpljiw4w) <i class="far fa-thumbs-up"></i>
   * [Origami with Jo Nakashima](https://www.youtube.com/channel/UC3ICcukYYeSn26KlCRnhOhA) <i class="far fa-thumbs-up"></i>
 * Build Games <span style="color: blue"><i class="fas fa-gamepad"></i></span>
   * LEGO
+    * Weekly Activities
+      * [13](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
     * Classics <i class="far fa-thumbs-up"></i>
       * [Official Instructions]((https://play.google.com/store/apps/details?id=com.lego.legobuildinginstructions&hl=en_CA&gl=US))
     * Gadgets <i class="far fa-thumbs-up"></i>
@@ -177,9 +189,11 @@ categories: School
   * Game of the Week
     * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140081975)
     * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141612688)
-    * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142215650) 
+    * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142215650)
+    * [13](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143087406)
 * Adventure
   * Ladder and Chute
 * Scavenger Hunt <i class="far fa-thumbs-up"></i>
+  * [13](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
 * Hide and Seek <i class="far fa-thumbs-up"></i>
 * Jenga
