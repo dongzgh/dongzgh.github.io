@@ -8073,7 +8073,18 @@ order: 1
 	* Tried to build SIMUFACT source codes
 	* Discussed with Shaharoz about material regeneration issues (Shaharoz)
 	* Re-investigated the bug #28155 related with boundary trim line tolerance issue (Pranav)
-	* 
+	* Completed learning of Python3
+	* Continued learning of SciPy 
+	* Started learning of Qt
+
+## 2020-12-15
+
+* Updated Ethan's education materials
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #28238 related with #28237 about trim line generation overlap
+	* Continued learning of Qt
+	* Generated dump file for the bug #28238
 
 ## REFERENCES
 
