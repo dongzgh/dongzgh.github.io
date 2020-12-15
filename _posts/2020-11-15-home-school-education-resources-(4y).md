@@ -99,9 +99,11 @@ categories: School
   * Poker
     * [10 kid-friendly card games](https://www.todaysparent.com/family/activities/10-kid-friendly-card-games/#gallery/kid-friendly-card-games/slide-10)
     * [Math Games with a Deck of Cards](https://www.newarkschools.us/Downloads/Math%20Games%20with%20a%20Deck%20of%20Cards.pdf)
+  * UNO
   * Teaser
     * [ThinkFun](https://www.thinkfun.com/)
       * Rush Hour
+      * Hoppers Solitaire
     * Riddles
   * Puzzles
     * Maze
