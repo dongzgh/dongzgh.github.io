@@ -27,6 +27,8 @@ categories: School
     * 安徒生童话
     * 一千零一夜
     * 西游记 <i class="far fa-thumbs-up"></i>
+  * 喜马拉雅
+    * 鲁滨逊漂流记
 
 ## Mind
 
@@ -95,8 +97,8 @@ categories: School
     * National Geography Kids Series <i class="far fa-thumbs-up"></i>
 * Brain Games <span style="color: blue"><i class="fas fa-gamepad"></i></span> <i class="far fa-thumbs-up"></i>
   * Poker
-    * [1](https://www.todaysparent.com/family/activities/10-kid-friendly-card-games/#gallery/kid-friendly-card-games/slide-10)
-    * [2](https://www.newarkschools.us/Downloads/Math%20Games%20with%20a%20Deck%20of%20Cards.pdf)
+    * [10 kid-friendly card games](https://www.todaysparent.com/family/activities/10-kid-friendly-card-games/#gallery/kid-friendly-card-games/slide-10)
+    * [Math Games with a Deck of Cards](https://www.newarkschools.us/Downloads/Math%20Games%20with%20a%20Deck%20of%20Cards.pdf)
   * Teaser
     * [ThinkFun](https://www.thinkfun.com/)
       * Rush Hour
