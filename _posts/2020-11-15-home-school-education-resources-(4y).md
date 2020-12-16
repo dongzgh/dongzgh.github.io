@@ -49,6 +49,8 @@ categories: School
     * [12](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142638535)
     * [13](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063226)
     * Ultimate Real Kindergarten Workbook
+  * Books
+    * [Tumble Books](https://www.tumblebooklibrary.com/Home.aspx?categoryID=77)
   * Videos
     * [Jack Hartmann Kids Music Channel](https://www.youtube.com/channel/UCVcQH8A634mauPrGbWs7QlQ)
       * [The Alphabet Song](https://www.youtube.com/watch?v=lhX064AiyGg)

@@ -8085,6 +8085,12 @@ order: 1
 	* Investigated the bug #28238 related with #28237 about trim line generation overlap
 	* Continued learning of Qt
 	* Generated dump file for the bug #28238
+	* Fixed the bug #28261 related with direction vector inconsistency between fs2020 and fs2021
+
+## 2020-12-16
+
+* [HEXAGONMI](#hexagonmi)
+	* Continued learning of Qt
 
 ## REFERENCES
 
