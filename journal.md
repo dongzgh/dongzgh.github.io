@@ -8091,6 +8091,18 @@ order: 1
 
 * [HEXAGONMI](#hexagonmi)
 	* Continued learning of Qt
+	* Reinstalled Qt to 5.15.2
+	
+## 2020-12-17
+
+* [HEXAGONMI](#hexagonmi)
+	* Completed drafted PRIDE objectives and review
+	* Reinstalled Qt to 5.15.2
+	* Continued learning of Qt
+	* Reinstalled Anaconda
+	* Reviewed Anaconda and Conda
+	* Continued learning of SciPy
+	* Learned IPython and Jupyter
 
 ## REFERENCES
 

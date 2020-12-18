@@ -25,3 +25,12 @@ spellcheck: off
   * &#119100; - 半休止
   * &#119101; - 四分休止
   * &#119102; - 八分休止
+
+### [10分钟学会双手演奏欢乐颂](https://www.bilibili.com/video/BV1R4411j7v5?p=3)
+
+* 练习钢琴演奏欢乐颂
+  * {:.answer} ![ode-an-die-freude](/assets/img/pages/piano/ode-an-die-freude.png)
+
+### [钢琴演奏中的和弦](https://www.bilibili.com/video/BV1R4411j7v5?p=5)
+
+* 
