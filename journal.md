@@ -8103,6 +8103,40 @@ order: 1
 	* Reviewed Anaconda and Conda
 	* Continued learning of SciPy
 	* Learned IPython and Jupyter
+	
+## 2020-12-18
+
+* Ordered round dinning table
+* Ordered semi-flush ceiling light fixture
+* Learned how to remove vertical blinds
+* Ordered webcam
+
+* [L3MONSHAPE]
+	* Installed Ansys Discovery Aims
+
+* [HEXAGONMI](#hexagonmi)
+	* Reinstalled Qt to 5.15.1
+	* Continued learning of SciPy
+
+## 2020-12-19
+
+* Got documents for HELLOC accessment
+* Paied parking ticket to Burlington city
+* Bought heat pad for back pain
+
+## 2020-12-20
+
+* Visited Sleep Country
+
+## 2020-12-21
+
+* Bought and assembled play table in living room
+
+* [HEXAGONMI](#hexagonmi)
+	* Learned Regular Expression
+	* Reviewed Google Test and Test Adapter for Google Test
+	* Created FTI Unit Tests project in Microsoft Team
+	* Written README.md for Unit Tests project
 
 ## REFERENCES
 
