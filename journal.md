@@ -8137,6 +8137,27 @@ order: 1
 	* Reviewed Google Test and Test Adapter for Google Test
 	* Created FTI Unit Tests project in Microsoft Team
 	* Written README.md for Unit Tests project
+	* Enabled Qt for VS testing projects
+	
+## 2020-12-22
+
+* Hiked Bruce Trail Iroquois section from Twiss Road to Gulph Line
+* Shopped around and bought TEMPUR-PEDIC Support 2.0 mattress from Brick Mattress
+
+## 2020-12-23
+
+* [HEXAGONMI](#hexagonmi)
+	* Studied Unit Testing related topics
+	* Investigated the bug #28366 related with trim line regeneration lock (Shaharoz)
+	* Fixed the bug sent by Eric #28375 related with Trim Line generation
+
+## 2020-12-24
+
+* Checked warranty information about TEMPUR PEDIC mattress
+* Registered TEMPUR-PEDIC mattress online at https://tempurpedic.ca/
+
+* [HEXAGONMI](#hexagonmi)
+	* Learned SIMUFACT source code testing cases
 
 ## REFERENCES
 

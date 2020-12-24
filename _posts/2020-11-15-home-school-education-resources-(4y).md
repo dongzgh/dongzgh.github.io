@@ -63,7 +63,6 @@ categories: School
   * Educational Games <i class="far fa-thumbs-up"></i>
     * Weekly Activities
       * [Roll and Write](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
-      * [Let's Count to 100](https://www.youtube.com/watch?v=0TgLtF3PMOc&feature=youtu.be)
       * [Measuring](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
     * [Math Tools](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140166695)
     * [Counting to 20 Arcade](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139957163)
@@ -79,6 +78,7 @@ categories: School
     * Ultimate Real Kindergarten Workbook
   * Videos
     * [Jack Hartmann Kids Music Channel](https://www.youtube.com/channel/UCVcQH8A634mauPrGbWs7QlQ)
+      * [Let's Count to 100](https://www.youtube.com/watch?v=0TgLtF3PMOc&feature=youtu.be)
     * [TVOkids Mathematics](https://www.youtube.com/channel/UCxNAcNMKHCXHY9dwVOElKpQ)
 * Science <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Readings
@@ -92,7 +92,7 @@ categories: School
       * [Learn About Christmas](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143093038)
       * [Learn About Reindeer](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143093089)
       * [Learn About Elves](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143093195)
-      * [Winter Wonderland](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143096219)     
+      * [Winter Wonderland](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143096219)
     * [Pebble Go](https://site.pebblego.com/modules)
     * [TVOkids Science and Technology](https://www.youtube.com/channel/UCBCuoKUX7SIEIBK6YhUbyiA)
     * [TVOkids Health and Arts](https://www.youtube.com/channel/UCHcFJHZWvX6XtSc9TvVu0mA)
