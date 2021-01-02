@@ -8158,7 +8158,33 @@ order: 1
 
 * [HEXAGONMI](#hexagonmi)
 	* Learned SIMUFACT source code testing cases
+	
+## 2020-12-25
 
+* [HEXAGONMI](#hexagonmi)
+	* Started working on Unit Testing Framework
+	
+## 2020-12-28
+
+* Read technology news from NVIDIA
+* Visited Kens Park community
+
+* [L3MONSHAPE]
+	* Reviewed Real-Time Volume Graphics
+
+## 2020-12-29
+
+* Reviewed articles related with child emotional issues
+* Visited Monarch Trail at Dundas Conservation Area
+
+* [L3MONSHAPE]
+	* Reviewed VTK textbook
+	
+## 2020-12-30
+
+* [L3MONSHAPE]
+	* Reviewed VTK textbook
+	
 ## REFERENCES
 
 ### estates
