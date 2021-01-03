@@ -62,22 +62,22 @@ spellcheck: off
   * {:.answer} 自然调性12个
   * {:.answer} 其他调性
 * 口琴手震音吹法？
-  * {:.answer} @7:00
+  * {:.answer} [手震音](https://www.bilibili.com/video/BV1Rb411j7kq?t=6m30s)
 * 口琴的琶音吹法？
-  * {:.answer} @10:00
+  * {:.answer} [琶音](https://www.bilibili.com/video/BV1Rb411j7kq?t=10m30s)
 * 口琴的颤音吹法？
-  * {:.answer} @12:00
+  * {:.answer} [颤音](https://www.bilibili.com/video/BV1Rb411j7kq?t=12m30s)
 * 口琴的连音吹法？
-  * {:.answer} @14:00
+  * {:.answer} [连音](https://www.bilibili.com/video/BV1Rb411j7kq?t=14m08s)
 * 口琴的断音吹法？
-  * {:.answer} @16:00
+  * {:.answer} [断音](https://www.bilibili.com/video/BV1Rb411j7kq?t=16m18s)
 * 什么是装饰音？
-  * {:.answer} @18:00
+  * {:.answer} [装饰音](https://www.bilibili.com/video/BV1Rb411j7kq?t=18m15s)
 * 什么是和声？
-  * {:.answer} @20:00
+  * {:.answer} [和声](https://www.bilibili.com/video/BV1Rb411j7kq?t=19m37s)
 * 什么是开放合旋？
-  * {:.answer} @22:00
+  * {:.answer} [开放合旋](https://www.bilibili.com/video/BV1Rb411j7kq?t=22m15s)
 * 什么是口琴的多孔含法？
-  * {:.answer} @27:00
+  * {:.answer} [多孔含法](https://www.bilibili.com/video/BV1Rb411j7kq?t=24m08s)
 * 口琴的低音伴奏是怎么实现的？
-  * {:.answer} @30:00
+  * {:.answer} [低音伴奏](https://www.bilibili.com/video/BV1Rb411j7kq?t=28m26s)

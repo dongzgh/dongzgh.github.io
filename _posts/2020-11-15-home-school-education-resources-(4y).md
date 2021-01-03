@@ -102,6 +102,7 @@ categories: School
     * [10 kid-friendly card games](https://www.todaysparent.com/family/activities/10-kid-friendly-card-games/#gallery/kid-friendly-card-games/slide-10)
     * [Math Games with a Deck of Cards](https://www.newarkschools.us/Downloads/Math%20Games%20with%20a%20Deck%20of%20Cards.pdf)
     * [亲子陪伴15个扑克牌小游戏](https://www.sayweee.com/article/view/faxst)
+    * [訓練孩子專注力四大撲克牌遊戲](https://www.leaderkid.com.tw/2019/10/07/%E5%9B%9B%E5%A4%A7%E6%92%B2%E5%85%8B%E7%89%8C%E9%81%8A%E6%88%B2%EF%BC%8C%E8%A8%93%E7%B7%B4%E5%AD%A9%E5%AD%90%E5%B0%88%E6%B3%A8%E5%8A%9B/)
   * UNO
   * Teaser
     * [ThinkFun](https://www.thinkfun.com/)

@@ -31,6 +31,14 @@ spellcheck: off
 * 练习钢琴演奏欢乐颂
   * {:.answer} ![ode-an-die-freude](/assets/img/pages/piano/ode-an-die-freude.png)
 
-### [钢琴演奏中的和弦](https://www.bilibili.com/video/BV1R4411j7v5?p=5)
+### [轻松学会双手演奏生日歌](https://www.bilibili.com/video/BV1R4411j7v5?p=6)
 
-* 
+* 练习钢琴演奏生日歌
+  * {:.answer} ![happy-birthday](/assets/img/pages/piano/happy-birthday.png)
+
+### [如何演奏附点音符](https://www.bilibili.com/video/BV1R4411j7v5?p=7)
+
+* 识别以下五线谱记号？
+  * &#119149; - 附点  
+* 练习钢琴演奏瓦格纳的婚礼进行曲
+  * {:.answer} ![bridal-chorus](/assets/img/pages/piano/bridal-chorus.png)
