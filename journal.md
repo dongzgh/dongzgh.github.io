@@ -8185,6 +8185,20 @@ order: 1
 * [L3MONSHAPE]
 	* Reviewed VTK textbook
 	
+## 2020-01-03
+
+* Continued learning of piano courses
+
+* [L3MONSHAPE]
+	* Continued learning of VTK textbook
+
+## 2020-01-04
+
+* Revised Kids Education plan for home schooling
+
+* [L3MONSHAPE]
+	* Continued learning of VTK textbook
+	
 ## REFERENCES
 
 ### estates

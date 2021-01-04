@@ -29,6 +29,8 @@ categories: School
     * 西游记 <i class="far fa-thumbs-up"></i>
   * 喜马拉雅
     * 鲁滨逊漂流记
+    * 80天环游地球
+    * 神秘岛
 
 ## Mind
 
@@ -40,6 +42,7 @@ categories: School
       * [Animal Write](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
       * [Speed Writing](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
       * [Read Aloud](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
+      * [Label Your House](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
     * [Word Wall](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140147980)
     * [Sight Words](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141013772)
   * Worksheets
@@ -48,12 +51,14 @@ categories: School
     * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142238480)
     * [12](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142638535)
     * [13](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063226)
+    * [14](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669967)
     * Ultimate Real Kindergarten Workbook
   * Books
+    * Virtual Classrooms <i class="far fa-thumbs-up"></i>
+      * [Happy New Year](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143671150)
     * [Tumble Books](https://www.tumblebooklibrary.com/Home.aspx?categoryID=77)
   * Videos
-    * [Jack Hartmann Kids Music Channel](https://www.youtube.com/channel/UCVcQH8A634mauPrGbWs7QlQ)
-      * [The Alphabet Song](https://www.youtube.com/watch?v=lhX064AiyGg)
+    * [The Alphabet Song](https://www.youtube.com/watch?v=lhX064AiyGg)
     * [TVOkids Language](https://www.youtube.com/channel/UCdZLh7XMeNmm7B1unPIv49A)
 * Chinese Literacy <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Readings
@@ -75,10 +80,10 @@ categories: School
     * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142238480)
     * [12](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142638535)
     * [13](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063226)
+    * [14](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669967)
     * Ultimate Real Kindergarten Workbook
   * Videos
-    * [Jack Hartmann Kids Music Channel](https://www.youtube.com/channel/UCVcQH8A634mauPrGbWs7QlQ)
-      * [Let's Count to 100](https://www.youtube.com/watch?v=0TgLtF3PMOc&feature=youtu.be)
+    * [Let's Count to 100](https://www.youtube.com/watch?v=0TgLtF3PMOc&feature=youtu.be)
     * [TVOkids Mathematics](https://www.youtube.com/channel/UCxNAcNMKHCXHY9dwVOElKpQ)
 * Science <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Readings
@@ -143,12 +148,13 @@ categories: School
   * Toss Rings
 * PE Games
   * Indoor
-    * [Jack Hartmann Kids Music Channel](https://www.youtube.com/channel/UCVcQH8A634mauPrGbWs7QlQ)
-      * [Boom Chicka Boom](https://www.youtube.com/watch?v=9nKq4jm4LD8)
-      * [Exercise, Rhyme and Freeze](https://www.youtube.com/watch?v=cSPmGPIyykU)
-      * [Let's Count to 100](https://www.youtube.com/watch?v=0TgLtF3PMOc&feature=youtu.be)
+    * [Boom Chicka Boom](https://www.youtube.com/watch?v=9nKq4jm4LD8)
+    * [Exercise, Rhyme and Freeze](https://www.youtube.com/watch?v=cSPmGPIyykU)
+    * [Let's Count to 100](https://www.youtube.com/watch?v=0TgLtF3PMOc&feature=youtu.be)
     * [Education Games](https://www.youtube.com/channel/UCUI_IoE6IHH6uacv7qPdsIQ/playlists)
     * [Motor Skill Learning](https://www.youtube.com/channel/UCjrURON47WJ55_DiQhfg-Tw)
+    * [Cosmic Yoga](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
+    * [At Home Task](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
   * Outdoor
     * [Education Games](https://www.youtube.com/channel/UCUI_IoE6IHH6uacv7qPdsIQ/playlists)
 
@@ -205,5 +211,7 @@ categories: School
   * Ladder and Chute
 * Scavenge Hunt <i class="far fa-thumbs-up"></i>
   * [Outdoor Scavenge Hunt](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
+* Charades
+  * [Feeling Charades](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
 * Hide and Seek <i class="far fa-thumbs-up"></i>
 * Jenga
