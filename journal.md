@@ -8195,9 +8195,24 @@ order: 1
 ## 2020-01-04
 
 * Revised Kids Education plan for home schooling
+* Installed lighting fixtures
+* Sent Min last two payment stubs
+* Transferred HELLOC with lower rates
+	
+* [HEXAGONMI](#hexagonmi)
+	* Revised README.md as guidance
+	* Tried to develop unit tests for Callback submodule
+
+## 2020-01-05
+
+* Compiled Ethan's Book - 鸡宝宝和大怪物
 
 * [L3MONSHAPE]
 	* Continued learning of VTK textbook
+	
+* [HEXAGONMI](#hexagonmi)
+	* Revised README.md as guidance
+	* Tried to develop unit tests for Callback submodule
 	
 ## REFERENCES
 

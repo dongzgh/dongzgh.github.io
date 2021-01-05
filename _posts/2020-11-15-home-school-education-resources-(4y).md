@@ -12,7 +12,7 @@ categories: School
     * [Growth Mindset](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139955112)
     * [Mindfulness](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139955140)
     * [Class Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140353385)
-  * Videos <i class="far fa-thumbs-up"></i> 
+  * Videos <i class="far fa-thumbs-up"></i>
     * [Peppa Pig](https://www.youtube.com/channel/UCAOtE1V7Ots4DjM8JLlrYgg)
     * [Paw Patrol](https://www.youtube.com/channel/UCvh1WRSaV66pRnkHMf0by_g)
     * [TVOkids Social Studies](https://www.youtube.com/channel/UCuSxahYIqIXM5M7lQtjwBuA)
@@ -62,7 +62,7 @@ categories: School
     * [TVOkids Language](https://www.youtube.com/channel/UCdZLh7XMeNmm7B1unPIv49A)
 * Chinese Literacy <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Readings
-    * 四五快读 <i class="far fa-thumbs-up"></i> 
+    * 四五快读 <i class="far fa-thumbs-up"></i>
 * Mathematics <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Virtual Kindergarten <i class="far fa-thumbs-up"></i>
   * Educational Games <i class="far fa-thumbs-up"></i>
@@ -113,6 +113,7 @@ categories: School
     * [ThinkFun](https://www.thinkfun.com/)
       * Rush Hour
       * Hoppers Solitaire
+      * 15 Puzzle
     * Riddles
   * Puzzles
     * Maze
