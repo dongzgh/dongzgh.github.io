@@ -8213,6 +8213,17 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
 	* Revised README.md as guidance
 	* Tried to develop unit tests for Callback submodule
+	* Sent updates to team
+	
+## 2020-01-06
+
+* Updated education resources
+
+* [L3MONSHAPE]
+	* Continued learning of VTK textbook
+	
+* [HEXAGONMI](#hexagonmi)
+	* Tried to develop unit tests for Callback submodule
 	
 ## REFERENCES
 

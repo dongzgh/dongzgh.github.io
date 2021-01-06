@@ -108,6 +108,7 @@ categories: School
     * [Math Games with a Deck of Cards](https://www.newarkschools.us/Downloads/Math%20Games%20with%20a%20Deck%20of%20Cards.pdf)
     * [亲子陪伴15个扑克牌小游戏](https://www.sayweee.com/article/view/faxst)
     * [訓練孩子專注力四大撲克牌遊戲](https://www.leaderkid.com.tw/2019/10/07/%E5%9B%9B%E5%A4%A7%E6%92%B2%E5%85%8B%E7%89%8C%E9%81%8A%E6%88%B2%EF%BC%8C%E8%A8%93%E7%B7%B4%E5%AD%A9%E5%AD%90%E5%B0%88%E6%B3%A8%E5%8A%9B/)
+    * [适合孩子玩的经典扑克游戏](/assets/doc/适合孩子玩的经典扑克游戏.docx)
   * UNO
   * Teaser
     * [ThinkFun](https://www.thinkfun.com/)
@@ -129,6 +130,8 @@ categories: School
 * Training
   * Workout <i class="far fa-thumbs-up"></i>
     * [Little Sports](https://www.youtube.com/channel/UCTIwFB4ciFi5ZCIu-VlwaOg)
+    * [Hexagon MI Working at Home Stretches & Exercises](/assets/doc/Hexagon-MI-Working-at-home-Stretches%20&%20Exercises.pdf)
+    * [Hexagon MI Working at Home Workouts](/assets/doc/Hexagon-MI-Working-at-home-Workouts.pdf)
   * Speedy Rope
   * Pogo Sticks <i class="far fa-thumbs-up"></i>
 * Riding
@@ -156,6 +159,7 @@ categories: School
     * [Motor Skill Learning](https://www.youtube.com/channel/UCjrURON47WJ55_DiQhfg-Tw)
     * [Cosmic Yoga](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
     * [At Home Task](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
+    * [集中注意力训练](https://www.ixigua.com/6910500374973533440/)
   * Outdoor
     * [Education Games](https://www.youtube.com/channel/UCUI_IoE6IHH6uacv7qPdsIQ/playlists)
 
@@ -182,6 +186,7 @@ categories: School
   * [123 Easy Paper Crafts 5 minute paper craft](https://www.youtube.com/channel/UCXUH2dmTnXMSxmJfp4-LT8A) <i class="far fa-thumbs-up"></i>
   * [TLT Lab Hacks](https://www.youtube.com/channel/UCF-_3d9a5UDtaMdvpljiw4w) <i class="far fa-thumbs-up"></i>
   * [Origami with Jo Nakashima](https://www.youtube.com/channel/UC3ICcukYYeSn26KlCRnhOhA) <i class="far fa-thumbs-up"></i>
+  * [纸杯手套怪物](https://www.ixigua.com/6911241193145896207/)
 * Build Games <span style="color: blue"><i class="fas fa-gamepad"></i></span>
   * LEGO
     * Weekly Activities
