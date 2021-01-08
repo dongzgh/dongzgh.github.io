@@ -169,9 +169,9 @@ categories: School
   * Color Book
   * Sticker Book <i class="far fa-thumbs-up"></i>
   * Painting Courses
+    * [Art for Kids Hub](https://www.youtube.com/channel/UC5XMF3Inoi8R9nSI8ChOsdQ)
+    * [Crateful Art](https://www.youtube.com/c/Createfulart/featured)
     * [Wow Art](https://www.youtube.com/channel/UCdZutxI1UnH9N3Fh_TeQ4Kw/videosf)
-    * [Createful Art](https://www.youtube.com/c/Createfulart/featured)
-    * [TheArtSherpa](https://www.youtube.com/c/TheArtSherpa/featured)
 * Music <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span>
   * Weekly Activities
     * [Christmas Music Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)

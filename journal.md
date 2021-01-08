@@ -8219,11 +8219,19 @@ order: 1
 
 * Updated education resources
 
-* [L3MONSHAPE]
-	* Continued learning of VTK textbook
-	
 * [HEXAGONMI](#hexagonmi)
 	* Tried to develop unit tests for Callback submodule
+	
+## 2020-01-07
+
+* [HEXAGONMI](#hexagonmi)
+	* Tried to develop unit tests for Callback submodule
+	
+## 2020-01-08
+
+* [HEXAGONMI](#hexagonmi)
+	* Resolved issue of wrapping some utility classes into FTIFSDLL
+	* Resolved issue of referencing static member variable declared in DLL
 	
 ## REFERENCES
 
