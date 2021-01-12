@@ -19,7 +19,7 @@ categories: School
   * 5-Minute Series
     * Peppa Pig <i class="far fa-thumbs-up"></i>
     * Paw Patrol <i class="far fa-thumbs-up"></i>
-    * Disney Pixar
+    * Disney Pixar <i class="far fa-thumbs-up"></i>
     * Whitney the Pooh
   * 不一样的卡梅拉 <i class="far fa-thumbs-up"></i>
   * 米小兔故事云
@@ -28,9 +28,10 @@ categories: School
     * 一千零一夜
     * 西游记 <i class="far fa-thumbs-up"></i>
   * 喜马拉雅
-    * 鲁滨逊漂流记
+    * 鲁滨逊漂流记 <i class="far fa-thumbs-up"></i>
     * 80天环游地球
-    * 神秘岛
+    * 神秘岛 <i class="far fa-thumbs-up"></i>
+    * 地心游记 <i class="far fa-thumbs-up"></i>
 
 ## Mind
 
@@ -43,7 +44,7 @@ categories: School
       * [Speed Writing](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
       * [Read Aloud](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
       * [Label Your House](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
-    * [Word Wall](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140147980)
+    * [Word Wall](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140147980) <i class="far fa-thumbs-up"></i>
     * [Sight Words](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141013772)
   * Worksheets
     * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140413885)
@@ -58,7 +59,7 @@ categories: School
       * [Happy New Year](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143671150)
     * [Tumble Books](https://www.tumblebooklibrary.com/Home.aspx?categoryID=77)
   * Videos
-    * [The Alphabet Song](https://www.youtube.com/watch?v=lhX064AiyGg)
+    * [The Alphabet Song](https://www.youtube.com/watch?v=lhX064AiyGg) <i class="far fa-thumbs-up"></i>
     * [TVOkids Language](https://www.youtube.com/channel/UCdZLh7XMeNmm7B1unPIv49A)
 * Chinese Literacy <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Readings
@@ -73,7 +74,7 @@ categories: School
     * [Counting to 20 Arcade](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139957163)
     * [Adding/Subtracting Arcade](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139957739)
   * Game of the Week
-    * [War](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142649614)
+    * [War](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142649614) <i class="far fa-thumbs-up"></i>
   * Worksheets
     * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140413885)
     * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141638910)
@@ -83,7 +84,7 @@ categories: School
     * [14](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669967)
     * Ultimate Real Kindergarten Workbook
   * Videos
-    * [Let's Count to 100](https://www.youtube.com/watch?v=0TgLtF3PMOc&feature=youtu.be)
+    * [Let's Count to 100](https://www.youtube.com/watch?v=0TgLtF3PMOc&feature=youtu.be) <i class="far fa-thumbs-up"></i>
     * [TVOkids Mathematics](https://www.youtube.com/channel/UCxNAcNMKHCXHY9dwVOElKpQ)
 * Science <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Readings
@@ -109,16 +110,21 @@ categories: School
     * [亲子陪伴15个扑克牌小游戏](https://www.sayweee.com/article/view/faxst)
     * [訓練孩子專注力四大撲克牌遊戲](https://www.leaderkid.com.tw/2019/10/07/%E5%9B%9B%E5%A4%A7%E6%92%B2%E5%85%8B%E7%89%8C%E9%81%8A%E6%88%B2%EF%BC%8C%E8%A8%93%E7%B7%B4%E5%AD%A9%E5%AD%90%E5%B0%88%E6%B3%A8%E5%8A%9B/)
     * [适合孩子玩的经典扑克游戏](/assets/doc/适合孩子玩的经典扑克游戏.docx)
-  * UNO
+  * UNO <i class="far fa-thumbs-up"></i>
   * Teaser
     * [ThinkFun](https://www.thinkfun.com/)
-      * Rush Hour
-      * Hoppers Solitaire
+      * Rush Hour <i class="far fa-thumbs-up"></i>
+      * Hoppers Solitaire <i class="far fa-thumbs-up"></i>
       * 15 Puzzle
     * Riddles
   * Puzzles
     * Maze
-      * [Krazydad](https://krazydad.com/)
+      * [Krazydad](https://krazydad.com/mazes/)
+    * Pixidoku
+      * [Krazydad](https://krazydad.com/pixidoku/)
+    * Numberlink
+      * [Brain Games for Clever Kids: Puzzles to Exercise Your Mind](https://www.amazon.ca/gp/product/1780552491/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+      * [Any Puzzle Media](http://www.anypuzzle.com/Numberlink)
     * Jigsaw
     * Tangram
       * [Tangram Channel](https://www.tangram-channel.com/tangram-puzzles/)
@@ -175,7 +181,8 @@ categories: School
 * Music <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span>
   * Weekly Activities
     * [Christmas Music Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
-  * Piano Courses <i class="far fa-thumbs-up"></i>
+  * Piano Courses
+    * [零起步学钢琴](https://www.bilibili.com/video/BV1R4411j7v5) <i class="far fa-thumbs-up"></i>
     * [Hoffman Academy](https://www.youtube.com/channel/UCiKUKTMbojTIPGWPR_eec9w)
 * Crafts <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span> <i class="far fa-thumbs-up"></i>
   * Weekly Activities

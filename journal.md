@@ -8232,6 +8232,35 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
 	* Resolved issue of wrapping some utility classes into FTIFSDLL
 	* Resolved issue of referencing static member variable declared in DLL
+	* Rollbacked changes to FTIFS project trying duplicating dll
+	
+## 2020-01-09
+
+* [L3MONSHAPE]
+	* Continued learning of VTK textbook
+
+* [HEXAGONMI](#hexagonmi)
+	* Created duplicating FTIFS dll
+	
+## 2020-01-10
+
+* Visited Bruce Trail Iroquois section at Twiss Road west side
+
+## 2020-01-11
+
+* [HEXAGONMI](#hexagonmi)
+	* Configuring solution and project settings for testing framework
+
+## 2020-01-12
+
+* Updated education resources to include number-link and related games
+* Updated school schedule from now on including Art/Drama/Music
+
+* [L3MONSHAPE]
+	* Continued learning of VTK textbook
+	
+* [HEXAGONMI](#hexagonmi)
+	* Updated solution and project files
 	
 ## REFERENCES
 

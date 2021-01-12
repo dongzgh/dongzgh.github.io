@@ -16,7 +16,7 @@ categories: School
 | 12:00 - 1:00 | Lunch                 |               |               |
 | 1:00 - 1:15  | Lunch Whole Group     |               |               |
 |              |                       | 1:15 - 1:55   | Learning Time |
-| 1:55-2:15    | Small Group D         |               |               |
+| 1:45-2:25    | Art/Drama/Music       |               |               |
 |              |                       | 2:30 - 3:00   | Gaming Time   |
 | 3:00 - 3:20  | Afternoon Whole Group |               |               |
 |              |                       | 3:20 - 3: 30  | Snack Time    |

@@ -74,5 +74,7 @@ Popular sources of side hustles are listed as below:
 * Google Play
 * Apple Store
 
+Flip things if possible instead starting from scratch!
+
 [#FDA4DD]: https://www.entrepreneur.com/article/293954
 [#96FE6F]: https://www.sidehustlenation.com/ideas/
