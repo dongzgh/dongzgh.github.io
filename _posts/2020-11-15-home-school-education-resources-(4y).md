@@ -31,6 +31,7 @@ categories: School
     * 鲁滨逊漂流记 <i class="far fa-thumbs-up"></i>
     * 80天环游地球
     * 神秘岛 <i class="far fa-thumbs-up"></i>
+    * 爱丽丝仙境奇遇记
     * 地心游记 <i class="far fa-thumbs-up"></i>
 
 ## Mind
@@ -46,6 +47,7 @@ categories: School
       * [Label Your House](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
     * [Word Wall](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140147980) <i class="far fa-thumbs-up"></i>
     * [Sight Words](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141013772)
+    * Organizing Stuffs e.g., making pizza
   * Worksheets
     * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140413885)
     * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141638910)
@@ -53,6 +55,7 @@ categories: School
     * [12](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142638535)
     * [13](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063226)
     * [14](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669967)
+    * [15](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144157040)
     * Ultimate Real Kindergarten Workbook
   * Books
     * Virtual Classrooms <i class="far fa-thumbs-up"></i>
@@ -75,6 +78,7 @@ categories: School
     * [Adding/Subtracting Arcade](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139957739)
   * Game of the Week
     * [War](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142649614) <i class="far fa-thumbs-up"></i>
+    * [Double Numbers](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144191724)
   * Worksheets
     * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140413885)
     * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141638910)
@@ -82,6 +86,7 @@ categories: School
     * [12](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142638535)
     * [13](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063226)
     * [14](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669967)
+    * [15](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144157040)
     * Ultimate Real Kindergarten Workbook
   * Videos
     * [Let's Count to 100](https://www.youtube.com/watch?v=0TgLtF3PMOc&feature=youtu.be) <i class="far fa-thumbs-up"></i>
@@ -90,6 +95,7 @@ categories: School
   * Readings
     * Weekly Activities
       * [Read Aloud](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
+      * [Solar System](https://site.pebblego.com/modules/2/categories/2992)
     * Virtual Classrooms <i class="far fa-thumbs-up"></i>
       * [Animal Rooms](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/140193403)
       * [Arctic Animals](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/141626269)
@@ -99,6 +105,8 @@ categories: School
       * [Learn About Reindeer](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143093089)
       * [Learn About Elves](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143093195)
       * [Winter Wonderland](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143096219)
+      * [Trip to Space](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/144179070)
+      * [Space Virtual Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/144179660)
     * [Pebble Go](https://site.pebblego.com/modules)
     * [TVOkids Science and Technology](https://www.youtube.com/channel/UCBCuoKUX7SIEIBK6YhUbyiA)
     * [TVOkids Health and Arts](https://www.youtube.com/channel/UCHcFJHZWvX6XtSc9TvVu0mA)
@@ -130,6 +138,7 @@ categories: School
       * [Tangram Channel](https://www.tangram-channel.com/tangram-puzzles/)
     * Hexagon
     * Tetris
+    * [Tic Tac Toe](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144191305)
 
 ## Body <span style="color: blue"><i class="fas fa-running"></i></span>
 
@@ -176,6 +185,15 @@ categories: School
   * Sticker Book <i class="far fa-thumbs-up"></i>
   * Painting Courses
     * [Art for Kids Hub](https://www.youtube.com/channel/UC5XMF3Inoi8R9nSI8ChOsdQ)
+      * [How To Draw A Funny Monster](https://youtu.be/4Os0j46SFrU)
+      * [How To Draw A Flower (Tulip)](https://youtu.be/MX3vHndP4YM)
+      * [How to Draw An Elf](https://youtu.be/ssZol9hLSD0)
+      * [How to Draw Santa](https://youtu.be/8L2W2bWElF0)
+      * [How To Draw A Cartoon Zebra](https://youtu.be/e4_axKkbb48)
+      * [How To Draw A Cartoon Butterfly](https://youtu.be/pDxtH-OkFxU)
+      * [How To Draw A Dinosaur With Shapes](https://youtu.be/EZ2h6W4YVz0)
+      * [How To Draw A Pig For Young Artists](https://youtu.be/Pu7v_3qUfs8)
+      * [How To Draw A Cartoon Lion](https://youtu.be/dWGsch52q70)
     * [Crateful Art](https://www.youtube.com/c/Createfulart/featured)
     * [Wow Art](https://www.youtube.com/channel/UCdZutxI1UnH9N3Fh_TeQ4Kw/videosf)
 * Music <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span>
@@ -223,7 +241,9 @@ categories: School
 * Adventure
   * Ladder and Chute
 * Scavenge Hunt <i class="far fa-thumbs-up"></i>
-  * [Outdoor Scavenge Hunt](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
+  * Weekly Activities
+    * [Outdoor Scavenge Hunt 1](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
+    * [Outdoor Scavenge Hunt 2](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144191305)
 * Charades
   * [Feeling Charades](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
 * Hide and Seek <i class="far fa-thumbs-up"></i>

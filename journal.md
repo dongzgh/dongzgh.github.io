@@ -8255,12 +8255,38 @@ order: 1
 
 * Updated education resources to include number-link and related games
 * Updated school schedule from now on including Art/Drama/Music
+* Booked appointment for Ethan's second vaccine shot for age 4-6
 
 * [L3MONSHAPE]
 	* Continued learning of VTK textbook
 	
 * [HEXAGONMI](#hexagonmi)
 	* Updated solution and project files
+	* Enabled exporting functions to test from callback submodule
+	
+## 2020-01-13
+
+* Started the application for Dong's passport renewal
+* Started the application for Ethan's passport
+
+* [L3MONSHAPE]
+	* Continued learning of VTK textbook
+	
+* [HEXAGONMI](#hexagonmi)
+	* Developed new system level toolbar for testing
+
+## 2020-01-14
+
+* Downloaded SourceTree and Github Desktop for complicated git management
+* Created remote repository for Local
+* Read digests from ProductHunt
+* Updated education resources
+
+* [L3MONSHAPE]
+	* Continued learning of VTK textbook
+	
+* [HEXAGONMI](#hexagonmi)
+	* Updated resource projects of FTIFS
 	
 ## REFERENCES
 
