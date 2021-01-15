@@ -16,11 +16,10 @@ Popular sources of side hustles are listed as below:
 * Testing
   * **UserTesting**
   * **TryMyUI**
-* Writing
-  * Contena
 * Anything
   * Craigslist/gigs
   * kijiji/jobs
+  * Amazon/Mechanical Turks
 
 #### Online Freelancers's Market
 

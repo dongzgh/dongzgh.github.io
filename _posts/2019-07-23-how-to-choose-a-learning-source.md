@@ -11,7 +11,7 @@ Popular learning sources are listed below with their pros, cons and bottom lines
 
 * **Pros**: Easy access, Quick
 * **Cons**: Not systematic, Hard to fitter
-* **Bottom Line**: Informed 
+* **Bottom Line**: Informed
 
 ## Courses
 

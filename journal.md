@@ -8287,6 +8287,20 @@ order: 1
 	
 * [HEXAGONMI](#hexagonmi)
 	* Updated resource projects of FTIFS
+	* Tried strategy to write and read dumped data for testing
+	* Considering procedural modeling by application
+	* Checked MyHR settings for PRIDE program
+	
+## 2020-01-15
+
+* Verified Dong's passport copy
+* Ordered bankers box from amazon
+* Rethinking about side business models
+
+* [L3MONSHAPE]
+	* Continued learning of VTK textbook
+	
+* [HEXAGONMI](#hexagonmi)
 	
 ## REFERENCES
 
