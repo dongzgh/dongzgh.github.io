@@ -41,13 +41,12 @@ categories: School
   * Educational Games <i class="far fa-thumbs-up"></i>
     * Weekly Activities
       * [Alphabet Line Up](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
-      * [Animal Write](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
-      * [Speed Writing](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
-      * [Read Aloud](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
       * [Label Your House](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
+      * [Pet the Cat Read Aloud](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721079)
     * [Word Wall](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140147980) <i class="far fa-thumbs-up"></i>
-    * [Sight Words](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141013772)
-    * Organizing Stuffs e.g., making pizza
+    * Alphabet memory game (e.g., match lower and upper)
+    * Flash card learning
+    * Organizing stuff game (e.g., making pizza)
   * Worksheets
     * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140413885)
     * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141638910)
@@ -56,6 +55,7 @@ categories: School
     * [13](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063226)
     * [14](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669967)
     * [15](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144157040)
+    * [16](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721355)
     * Ultimate Real Kindergarten Workbook
   * Books
     * Virtual Classrooms <i class="far fa-thumbs-up"></i>
@@ -79,6 +79,7 @@ categories: School
   * Game of the Week
     * [War](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142649614) <i class="far fa-thumbs-up"></i>
     * [Double Numbers](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144191724)
+    * [Space and Addition Card Game](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721402)
   * Worksheets
     * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140413885)
     * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141638910)
@@ -87,6 +88,7 @@ categories: School
     * [13](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063226)
     * [14](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669967)
     * [15](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144157040)
+    * [16](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721355)
     * Ultimate Real Kindergarten Workbook
   * Videos
     * [Let's Count to 100](https://www.youtube.com/watch?v=0TgLtF3PMOc&feature=youtu.be) <i class="far fa-thumbs-up"></i>
@@ -167,13 +169,15 @@ categories: School
   * Toss Rings
 * PE Games
   * Indoor
+    * Weekly Activities
+      * [Cosmic Yoga](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
+      * [At Home Task](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
+      * [Ball Toss](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721079)
     * [Boom Chicka Boom](https://www.youtube.com/watch?v=9nKq4jm4LD8)
     * [Exercise, Rhyme and Freeze](https://www.youtube.com/watch?v=cSPmGPIyykU)
     * [Let's Count to 100](https://www.youtube.com/watch?v=0TgLtF3PMOc&feature=youtu.be)
     * [Education Games](https://www.youtube.com/channel/UCUI_IoE6IHH6uacv7qPdsIQ/playlists)
     * [Motor Skill Learning](https://www.youtube.com/channel/UCjrURON47WJ55_DiQhfg-Tw)
-    * [Cosmic Yoga](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
-    * [At Home Task](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
     * [集中注意力训练](https://www.ixigua.com/6910500374973533440/)
   * Outdoor
     * [Education Games](https://www.youtube.com/channel/UCUI_IoE6IHH6uacv7qPdsIQ/playlists)
@@ -194,6 +198,8 @@ categories: School
       * [How To Draw A Dinosaur With Shapes](https://youtu.be/EZ2h6W4YVz0)
       * [How To Draw A Pig For Young Artists](https://youtu.be/Pu7v_3qUfs8)
       * [How To Draw A Cartoon Lion](https://youtu.be/dWGsch52q70)
+      * [How To Draw A Tiger](https://youtu.be/kAx8-pFj2CU)
+      * [How To Draw A Witch](https://youtu.be/0C8stMVqzCg)
     * [Crateful Art](https://www.youtube.com/c/Createfulart/featured)
     * [Wow Art](https://www.youtube.com/channel/UCdZutxI1UnH9N3Fh_TeQ4Kw/videosf)
 * Music <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span>
@@ -208,9 +214,11 @@ categories: School
     * [Decorate Your Snow Person](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
     * [Popsicle Stick Christmas Tree](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
     * [Holiday Craft](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
+    * [Build Your Own Rocket](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721079)
   * [123 Easy Paper Crafts 5 minute paper craft](https://www.youtube.com/channel/UCXUH2dmTnXMSxmJfp4-LT8A) <i class="far fa-thumbs-up"></i>
   * [TLT Lab Hacks](https://www.youtube.com/channel/UCF-_3d9a5UDtaMdvpljiw4w) <i class="far fa-thumbs-up"></i>
   * [Origami with Jo Nakashima](https://www.youtube.com/channel/UC3ICcukYYeSn26KlCRnhOhA) <i class="far fa-thumbs-up"></i>
+    * [Origami Boat (Traditional Model)](https://youtu.be/dFopAwWZ8ss)
   * [纸杯手套怪物](https://www.ixigua.com/6911241193145896207/)
 * Build Games <span style="color: blue"><i class="fas fa-gamepad"></i></span>
   * LEGO

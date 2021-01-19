@@ -8296,12 +8296,41 @@ order: 1
 * Verified Dong's passport copy
 * Ordered bankers box from amazon
 * Rethinking about side business models
-
-* [L3MONSHAPE]
-	* Continued learning of VTK textbook
+* Read articles about pros and cons of the Drop-shipping business model
+* Read articles about pros and cons of the affiliate marketing business model
+* Searched Tax 2020 software
+* Printed flash cards for Fruits
+* Started game of Tic Tac Toe
 	
 * [HEXAGONMI](#hexagonmi)
-	
+	* Solved memory leak issue with workbench creation
+	* Moved workbench creation and cleaning to test level
+	* Created support structure for different environmental configurations
+
+## 2020-01-16
+
+* Visited Bronte Creek Provincial Park
+
+## 2020-01-17
+
+* Visited Spencer Smith park skating rink
+
+## 2020-01-18
+
+* Completed one UserTesting test
+* Checked documents needed for Dong's Passport Renewal
+* Checked documents needed for Ethan's Passport Application
+* Reorganized projects on BitBucket including personal files
+* Created project for hexforming on visualstudio.com
+* Creatd KDP account for writing
+* Ordered bank draft from TD Canada Trust
+* Bought Canada Post Xpresspost
+* Ordered car plat shields
+* Attended Alpha course in evening
+
+* [HEXAGONMI](#hexagonmi)
+	* Reorganized code for multiple cases
+
 ## REFERENCES
 
 ### estates
