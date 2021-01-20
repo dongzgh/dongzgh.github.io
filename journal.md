@@ -8331,6 +8331,29 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
 	* Reorganized code for multiple cases
 
+## 2020-01-19
+
+* Initialized Tax Return for 2020
+* Checked Kashkick to see how it works
+* Installed car plate shields
+* Installed new iTalkBB TV box
+* Updated S60 insurance to include theft coverage
+* Bought Amazon Blink Outdoor cameras
+
+* [L3MONSHAPE]
+	* Reviewed new business plan from Charles
+	
+* [HEXAGONMI](#hexagonmi)
+	* Reorganized files and namespaces in FTIAdvancedGeometryTest
+	
+## 2020-01-20
+
+* Updated Education Resourced to include nursery songs
+* Researched FBA business model
+
+* [HEXAGONMI](#hexagonmi)
+	* Reorganized files and namespaces in FTIAdvancedGeometryTest
+	
 ## REFERENCES
 
 ### estates

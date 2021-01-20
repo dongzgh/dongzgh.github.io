@@ -167,15 +167,16 @@ categories: School
   * Magnetic Dart
   * Bowling
   * Toss Rings
+* Exercise
+  * [Boom Chicka Boom](https://youtu.be/9nKq4jm4LD8)
+  * [Shake Your Sillies Out](https://youtu.be/NwT5oX_mqS0)
+  * [Let's Count to 100](https://youtu.be/1dkPouLWCyc)
 * PE Games
   * Indoor
     * Weekly Activities
       * [Cosmic Yoga](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
       * [At Home Task](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
       * [Ball Toss](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721079)
-    * [Boom Chicka Boom](https://www.youtube.com/watch?v=9nKq4jm4LD8)
-    * [Exercise, Rhyme and Freeze](https://www.youtube.com/watch?v=cSPmGPIyykU)
-    * [Let's Count to 100](https://youtu.be/1dkPouLWCyc)
     * [Education Games](https://www.youtube.com/channel/UCUI_IoE6IHH6uacv7qPdsIQ/playlists)
     * [Motor Skill Learning](https://www.youtube.com/channel/UCjrURON47WJ55_DiQhfg-Tw)
     * [集中注意力训练](https://www.ixigua.com/6910500374973533440/)
@@ -205,6 +206,7 @@ categories: School
 * Music <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span>
   * Weekly Activities
     * [Christmas Music Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
+  * Nursery Songs
   * Piano Courses
     * [零起步学钢琴](https://www.bilibili.com/video/BV1R4411j7v5) <i class="far fa-thumbs-up"></i>
     * [Hoffman Academy](https://www.youtube.com/channel/UCiKUKTMbojTIPGWPR_eec9w)
