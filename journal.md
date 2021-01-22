@@ -8350,10 +8350,41 @@ order: 1
 
 * Updated Education Resourced to include nursery songs
 * Researched FBA business model
+* Initialized Security Safe
+* Initialized Humidity Indicator
+* Started to research topics related with KDP
 
+* [L3MONSHAPE]
+	* Revised research mind maps
+	
 * [HEXAGONMI](#hexagonmi)
 	* Reorganized files and namespaces in FTIAdvancedGeometryTest
+	* Added Regular_2 and Regular_3 for FTIWorkbenchDisplay tests
+	* Researched code coverage analysis tools for Visual Studio C++ projects
+	* Tested OpenCppCoverage with google tests
 	
+## 2020-01-21
+
+* Developed 100 numbers document for Ethan
+* Added Blink camera to Alexa
+* Fixed fridge pull bar
+* Removed error code for Volvo XC60
+* Reset Humidifier lever to Winter
+
+* [HEXAGONMI](#hexagonmi)
+	* Searched for code coverage tools
+	* Fixed the bug #28509 related with flange pre-trimline extraction
+
+## 2020-01-22
+
+* Checked material to be submitted for passport renewal
+* Started to filling tax return using TurboTax Online
+
+* [L3MONSHAPE]
+
+* [HEXAGONMI](#hexagonmi)
+ * Retested OpenCppCoverage and made it to work
+
 ## REFERENCES
 
 ### estates
