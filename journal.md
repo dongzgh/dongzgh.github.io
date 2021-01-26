@@ -8407,6 +8407,16 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
 	* Added tests for license configuration
 
+## 2020-01-26
+
+* Started learning of KDP on Udemy
+
+* [L3MONSHAPE]
+	* Started learning of Ansys
+	
+* [HEXAGONMI](#hexagonmi)
+	* Added tests for license configuration
+	
 ## REFERENCES
 
 ### estates
