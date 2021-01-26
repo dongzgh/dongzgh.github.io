@@ -222,6 +222,9 @@ categories: School
   * [Origami with Jo Nakashima](https://www.youtube.com/channel/UC3ICcukYYeSn26KlCRnhOhA) <i class="far fa-thumbs-up"></i>
     * [Origami Boat (Traditional Model)](https://youtu.be/dFopAwWZ8ss)
   * [纸杯手套怪物](https://www.ixigua.com/6911241193145896207/)
+  * Origami
+    * [Simple Boat](https://youtu.be/dFopAwWZ8ss)
+    * [Simple Crane](https://youtu.be/6VqF8WGuBLA)
 * Build Games <span style="color: blue"><i class="fas fa-gamepad"></i></span>
   * LEGO
     * Weekly Activities

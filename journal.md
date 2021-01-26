@@ -8380,10 +8380,31 @@ order: 1
 * Checked material to be submitted for passport renewal
 * Started to filling tax return using TurboTax Online
 
-* [L3MONSHAPE]
-
 * [HEXAGONMI](#hexagonmi)
  * Retested OpenCppCoverage and made it to work
+
+## 2020-01-23
+
+* Cut hair for Ethan
+* Visited Short Hill Provincial Parents
+
+## 2020-01-24
+
+* With Ethan skating at Spencer Smith park
+* Got books from Max's home
+
+## 2020-01-25
+
+* Sent Volvo S60 for maintenance
+* Asked about the process of trade-in evaluation
+* Asked about Shopper's Drug Mart passport photo
+* Attended Alpha program
+
+* [L3MONSHAPE]
+	* Started learning of Ansys
+	
+* [HEXAGONMI](#hexagonmi)
+	* Added tests for license configuration
 
 ## REFERENCES
 
