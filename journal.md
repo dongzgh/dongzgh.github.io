@@ -8399,6 +8399,7 @@ order: 1
 * Asked about the process of trade-in evaluation
 * Asked about Shopper's Drug Mart passport photo
 * Attended Alpha program
+* Continued research of KDP
 
 * [L3MONSHAPE]
 	* Started learning of Ansys

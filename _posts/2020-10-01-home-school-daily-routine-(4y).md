@@ -2,7 +2,7 @@
 layout: post
 title:  "Home School Daily Routine (4y)"
 date:   2020-11-23 07:00:00 -0500
-categories: School
+categories: school
 ---
 
 ## Template 1-5

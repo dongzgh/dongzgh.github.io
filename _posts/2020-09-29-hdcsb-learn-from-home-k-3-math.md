@@ -2,7 +2,7 @@
 layout: post
 title:  "HDCSB Learn from Home K-3 (Math)"
 date:   2020-09-29 07:00:00 -0500
-categories: School
+categories: school
 ---
 
 [Fun with Math—Math Learning](https://elem.hcdsb.org/wp-content/uploads/2020/03/Elem-Celebrating-the-Gift-of-Our-Families.pdf)
@@ -46,7 +46,8 @@ categories: School
     * Ask your child to pretend that the number 8 key on the calculator is broken. Ask how he or she can make the number 18 appear on the screen without the 8 key. (Sample answers include 20 – 2 and 15 + 3).
   * Cashier
   * [Roll the dice to count and move](https://www.weareteachers.com/active-math-games/)
-  * 
+
+  *
 
 #### Measurement
 

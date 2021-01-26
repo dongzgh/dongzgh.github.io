@@ -2,7 +2,7 @@
 layout: post
 title:  "Home School Education Resources (4y)"
 date:   2020-12-02 07:00:00 -0500
-categories: School
+categories: school
 ---
 
 ## Ethics <span style="color: blue"><i class="fab fa-readme"></i></span>
@@ -147,8 +147,8 @@ categories: School
 * Training
   * Workout <i class="far fa-thumbs-up"></i>
     * [Little Sports](https://www.youtube.com/channel/UCTIwFB4ciFi5ZCIu-VlwaOg)
-    * [Hexagon MI Working at Home Stretches & Exercises](/assets/doc/Hexagon-MI-Working-at-home-Stretches%20&%20Exercises.pdf)
-    * [Hexagon MI Working at Home Workouts](/assets/doc/Hexagon-MI-Working-at-home-Workouts.pdf)
+    * [Hexagon MI Working at Home Stretches & Exercises](/assets/doc/Hexagon%20MI%20Working%20at%20Home%20Stretches%20&%20Exercises.pdf)
+    * [Hexagon MI Working at Home Workouts](/assets/doc/Hexagon%20MI%20Working%20at%20Home%20Workouts.pdf)
   * Speedy Rope
   * Pogo Sticks <i class="far fa-thumbs-up"></i>
 * Riding

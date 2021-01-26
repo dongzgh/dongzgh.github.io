@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Reset Volvo XC60 Service Reminder"
 date:   2020-06-29 07:00:00 -0500
-categories: Car
+categories: car
 ---
 
 * Insert key without pressing break pedal
