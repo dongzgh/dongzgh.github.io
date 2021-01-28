@@ -8038,7 +8038,7 @@ order: 1
 * Read nTopology white papers
 
 * [L3MONSHAPE]
-	* Searched free FEA packages (Ansys and MSC)
+	* Searched free FEA packages (ANSYS and MSC)
 	* Checked Hostgater webmail
 	* Started to work on software architecture planning
 	
@@ -8112,7 +8112,7 @@ order: 1
 * Ordered webcam
 
 * [L3MONSHAPE]
-	* Installed Ansys Discovery Aims
+	* Installed ANSYS Discovery Aims
 
 * [HEXAGONMI](#hexagonmi)
 	* Reinstalled Qt to 5.15.1
@@ -8402,7 +8402,7 @@ order: 1
 * Continued research of KDP
 
 * [L3MONSHAPE]
-	* Started learning of Ansys
+	* Started learning of ANSYS
 	
 * [HEXAGONMI](#hexagonmi)
 	* Added tests for license configuration
@@ -8412,11 +8412,31 @@ order: 1
 * Started learning of KDP on Udemy
 
 * [L3MONSHAPE]
-	* Started learning of Ansys
+	* Started learning of ANSYS
 	
 * [HEXAGONMI](#hexagonmi)
-	* Added tests for license configuration
+	* Initialized tests for feature tree menu notification
 	
+## 2020-01-27
+
+* Continued learning of KDP on Udemy
+
+* [L3MONSHAPE]
+	* Created model in Fusion 360 for simulation
+	
+* [HEXAGONMI](#hexagonmi)
+	* Asked Marco some questions related with GUI unit tests
+	* Added initial tests for feature tree menu notification
+	
+## 2020-01-28
+
+* Continued learning of KDP on Udemy
+
+* [L3MONSHAPE]
+	* Created ANSYS model for Topology Optimization
+	
+* [HEXAGONMI](#hexagonmi)
+
 ## REFERENCES
 
 ### estates

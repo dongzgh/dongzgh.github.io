@@ -48,7 +48,17 @@ categories: money
 ## Writing
 
 * Use your own experiences **[#55fb18]**{:.citation}
-  
+* Name some tools for editing?
+  * {:.answer} Canva
+  * {:.answer} Google Docs
+  * {:.answer} Microsoft Office
+* Name some general interior template resources?
+  * {:.answer} BookBolt
+  * {:.answer} Profitable Journals
+  * {:.answer} ColorPLR
+* Name some general cover template dimension resources?
+  * {:.answer} Tangent Template
+
 ## Marketing
 
 * Publish on digital platforms **[#55fb18]**{:.citation}
