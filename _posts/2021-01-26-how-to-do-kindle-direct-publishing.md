@@ -61,18 +61,24 @@ categories: money
 
 ## Marketing
 
-* Publish on digital platforms **[#55fb18]**{:.citation}
-  * {:.answer} Amazon KDP
-  * {:.answer} IngramSpark
-  * {:.answer} CreateSpace
-  * {:.answer} Barnes and Noble
+* Publish on digital platforms
+  * {:.answer} Amazon KDP **[#55fb18]**{:.citation}
+  * {:.answer} IngramSpark **[#55fb18]**{:.citation}
+  * {:.answer} Barnes and Noble **[#55fb18]**{:.citation}
+  * {:.answer} Gooten **[#8aea7b]**{:.citation}
+  * {:.answer} Teelaunch **[#8aea7b]**{:.citation}
 * Publish yourself and lead to other resources **[#55fb18]**{:.citation}
 * What alternative strategies of make money by writing books?
   * {:.answer} Use book as a marketing channel **[#55fb18]**{:.citation}
   * {:.answer} Publish on the market
-
+* Name some websites that can help to create book launch page?
+  * {:.answer} Booklaunch
+  * {:.answer} [Adazing](https://www.adazing.com/cover-mocks/)
+  
 [#55fb18]: https://www.inc.com/danny-iny/how-to-really-make-money-as-a-book-author-even-if-you-dont-sell-a-single-copy.html
 [#c5ecba]: https://www.entrepreneur.com/article/306135
 [#20e23b]: https://kb.helium10.com/hc/en-us/articles/360013059613-Is-There-a-Recommended-Sequence-for-Using-Helium-10-s-Tools-
 [#5946cb]: https://kb.helium10.com/hc/en-us/articles/360050197534-Xray-PRO-Training-Video-Success-Score-and-Two-Factor-Success-Score
 [#c2269c]: https://www.udemy.com/course/make-money-publishing-low-content-books-on-amazon/learn/lecture/14059559#overview
+[#8aea7b]: https://www.udemy.com/course/make-money-publishing-low-content-books-on-amazon/learn/lecture/14059825#overview
+[#b1f393]: https://www.udemy.com/course/make-money-publishing-low-content-books-on-amazon/learn/lecture/14820976#overview

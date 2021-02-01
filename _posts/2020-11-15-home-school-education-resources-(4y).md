@@ -43,6 +43,7 @@ categories: school
       * [Alphabet Line Up](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
       * [Label Your House](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
       * [Pet the Cat Read Aloud](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721079)
+      * [Space Cards](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145893432)
     * [Word Wall](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140147980) <i class="far fa-thumbs-up"></i>
     * Alphabet memory game (e.g., match lower and upper)
     * Flash card learning
@@ -56,6 +57,7 @@ categories: school
     * [14](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669967)
     * [15](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144157040)
     * [16](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721355)
+    * [17](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145715119)
     * Ultimate Real Kindergarten Workbook
   * Books
     * Virtual Classrooms <i class="far fa-thumbs-up"></i>
@@ -89,6 +91,7 @@ categories: school
     * [14](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669967)
     * [15](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144157040)
     * [16](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721355)
+    * [17](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145715119)
     * Ultimate Real Kindergarten Workbook
   * Videos
     * [Let's Count to 100](https://youtu.be/1dkPouLWCyc) <i class="far fa-thumbs-up"></i>
@@ -98,6 +101,7 @@ categories: school
     * Weekly Activities
       * [Read Aloud](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
       * [Solar System](https://site.pebblego.com/modules/2/categories/2992)
+      * [Solar System](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/145715217)
     * Virtual Classrooms <i class="far fa-thumbs-up"></i>
       * [Animal Rooms](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/140193403)
       * [Arctic Animals](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/141626269)
@@ -217,6 +221,10 @@ categories: school
     * [Popsicle Stick Christmas Tree](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
     * [Holiday Craft](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
     * [Build Your Own Rocket](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721079)
+  * Arts with Mrs. Kawnik
+    * [Pattern Mitten Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144852767)
+    * [Dot Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145780825)
+    * [Recycle Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/146889049)
   * [123 Easy Paper Crafts 5 minute paper craft](https://www.youtube.com/channel/UCXUH2dmTnXMSxmJfp4-LT8A) <i class="far fa-thumbs-up"></i>
   * [TLT Lab Hacks](https://www.youtube.com/channel/UCF-_3d9a5UDtaMdvpljiw4w) <i class="far fa-thumbs-up"></i>
   * [Origami with Jo Nakashima](https://www.youtube.com/channel/UC3ICcukYYeSn26KlCRnhOhA) <i class="far fa-thumbs-up"></i>
