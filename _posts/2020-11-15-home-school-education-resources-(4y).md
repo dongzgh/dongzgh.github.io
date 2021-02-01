@@ -42,12 +42,12 @@ categories: school
     * Weekly Activities
       * [Alphabet Line Up](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
       * [Label Your House](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
-      * [Pet the Cat Read Aloud](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721079)
       * [Space Cards](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145893432)
     * [Word Wall](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140147980) <i class="far fa-thumbs-up"></i>
-    * Alphabet memory game (e.g., match lower and upper)
-    * Flash card learning
-    * Organizing stuff game (e.g., making pizza)
+    * Alphabet Matching
+    * Flash Cards
+      * Making things
+      * Organizing things
   * Worksheets
     * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140413885)
     * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141638910)
@@ -60,6 +60,8 @@ categories: school
     * [17](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145715119)
     * Ultimate Real Kindergarten Workbook
   * Books
+    * Weekly Activities
+      * [Pet the Cat Read Aloud](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721079)
     * Virtual Classrooms <i class="far fa-thumbs-up"></i>
       * [Happy New Year](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143671150)
     * [Tumble Books](https://www.tumblebooklibrary.com/Home.aspx?categoryID=77)
