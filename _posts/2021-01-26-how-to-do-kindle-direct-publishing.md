@@ -11,6 +11,12 @@ categories: money
 
 ## Research
 
+### Inspiration
+
+* Name some resource to get ideas?
+  * {:.answer} [Etsy](https://www.etsy.com/ca/?ref=lgo) **[#8a3ecf]**{:.citation}
+  * {:.answer} [Pinterest](https://www.pinterest.ca/) **[#8a3ecf]**{:.citation}
+
 ### Strategy
 
 * What types of books to write? **[#c2269c]**{:.citation}
@@ -35,6 +41,16 @@ categories: money
     * Types of Paths (e.g., career)
 * People pay to get information organized **[#c2269c]**{:.citation}
 
+### Tools
+
+* Name some tools used for research?
+  * {:.answer} Google
+  * {:.answer} Amazon
+  * {:.answer} [AnswerThePublic](https://answerthepublic.com/) **[#90a13c]**{:.citation}
+  * {:.answer} [UberSuggest](https://neilpatel.com/ubersuggest/) **[#90a13c]**{:.citation}
+  * {:.answer} [KeywordTool](https://keywordtool.io/) **[#90a13c]**{:.citation}
+  * {:.answer} [GoogleTrends](https://trends.google.com/trends/?geo=US) **[#90a13c]**{:.citation}
+
 ### Helium 10
 
 * What's the sequence of using tools? **[#20e23b]**{:.citation}
@@ -48,16 +64,24 @@ categories: money
 ## Writing
 
 * Use your own experiences **[#55fb18]**{:.citation}
-* Name some tools for editing?
-  * {:.answer} Canva
+* Name some resources for cover templates?
+  * {:.answer} [Canva](https://www.canva.com/) **[#3b44cf]**{:.citation}
   * {:.answer} Google Docs
   * {:.answer} Microsoft Office
-* Name some general interior template resources?
-  * {:.answer} BookBolt
+* Name some resources for interior templates?
+  * {:.answer} [TangentTemplate](https://templates.tangent.rocks/) **[#3326d4]**{:.citation}
+  * {:.answer} [BookBolt](https://bookbolt.io/) **[#b91b66]**{:.citation}
   * {:.answer} Profitable Journals
   * {:.answer} ColorPLR
-* Name some general cover template dimension resources?
-  * {:.answer} Tangent Template
+  * {:.answer} [CreativeFabrica](https://www.creativefabrica.com/) **[#3f6f78]**{:.citation}
+* Name some tools for PDF editing?
+  * {:.answer} [PDFCandy](https://pdfcandy.com/) **[#271baa]**{:.citation}
+* Name some resources for book cover templates?
+  * {:.answer} [KDP Cover Templates](https://kdp.amazon.com/en_US/cover-templates)
+  * {:.answer} [Bookow](https://www.bookow.com/) **[#fe6572]**{:.citation}
+* Name some resources for vector pictures?
+  * {:.answer} [Vecteezy](https://www.vecteezy.com/) **[#7caa76]**{:.citation}
+  * {:.answer} [CreativeMarket](https://creativemarket.com/) **[#7caa76]**{:.citation}
 
 ## Marketing
 
@@ -74,7 +98,21 @@ categories: money
 * Name some websites that can help to create book launch page?
   * {:.answer} Booklaunch
   * {:.answer} [Adazing](https://www.adazing.com/cover-mocks/)
+* What ad marketing platforms can be considered?
+  * {:.answer} Facebook Ad
+  * {:.answer} Google Ad
+  * {:.answer} Amazon Ad
+  * {:.answer} Amazon Author Page
+  * {:.answer} Blog
   
+## Payment
+
+* When Amazon pays you? **[#086dd0]**{:.citation}
+  * {:.answer} Once product is shipped, not sold
+* What methods are available for money transfer? **[#086dd0]**{:.citation}
+  * {:.answer} TransWise
+  * {:.answer} Payoneer (Amazon Owned)
+
 [#55fb18]: https://www.inc.com/danny-iny/how-to-really-make-money-as-a-book-author-even-if-you-dont-sell-a-single-copy.html
 [#c5ecba]: https://www.entrepreneur.com/article/306135
 [#20e23b]: https://kb.helium10.com/hc/en-us/articles/360013059613-Is-There-a-Recommended-Sequence-for-Using-Helium-10-s-Tools-
@@ -82,3 +120,13 @@ categories: money
 [#c2269c]: https://www.udemy.com/course/make-money-publishing-low-content-books-on-amazon/learn/lecture/14059559#overview
 [#8aea7b]: https://www.udemy.com/course/make-money-publishing-low-content-books-on-amazon/learn/lecture/14059825#overview
 [#b1f393]: https://www.udemy.com/course/make-money-publishing-low-content-books-on-amazon/learn/lecture/14820976#overview
+[#086dd0]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/24127602#overview
+[#90a13c]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/21580634#overview
+[#3326d4]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/21355782#overview
+[#b91b66]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/21357712#overview
+[#3b44cf]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/21356752#overview
+[#271baa]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/21367866#overview
+[#3f6f78]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/24141644#overview
+[#fe6572]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/21368000#overview
+[#7caa76]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/24130538#overview
+[#8a3ecf]:https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/24139538#overview

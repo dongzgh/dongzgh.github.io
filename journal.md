@@ -8436,6 +8436,56 @@ order: 1
 	* Created ANSYS model for Topology Optimization
 	
 * [HEXAGONMI](#hexagonmi)
+	* Reorganized testing suites for callback submodule
+
+## 2020-01-29
+
+* Continued learning of KDP on Udemy
+
+* [HEXAGONMI](#hexagonmi)
+	* Reorganized testing suites for callback submodule
+	
+## 2020-01-30
+
+* Visited Spencer Smith Park for Ethan's skating
+* Installed Blink camera at the front door
+
+## 2020-01-31
+
+* Visited Spencer Smith Park for Ethan's skating
+* Added Autodeposit to TD account
+* Added Blink camera to Alexa app
+* Started reading of Kindle book
+
+## 2020-02-01
+
+* Checked vacation balance
+* Checked PRIDE report
+* Submitted vacation request for Feb. 11-12
+* Attended the Alpha program
+
+* [HEXAGONMI](#hexagonmi)
+	* Cleaned up system junks
+	* Reinstalled MSC Apex 2020
+	* Added ISSUES.md to development channel
+	* Fixed the bug #28574 related with flange pre-trim lines not exported
+	
+## 2020-02-02
+
+* Continued learning of KDP
+
+* [HEXAGONMI](#hexagonmi)
+	* Checked Marco's answers to my questions
+	* Sent status meeting requests
+	* Researched Control submodule
+	* Researched how to annotate document
+
+## 2020-02-03
+
+* Checked tests on UserTesting and TryMyUI
+* Continued learning of KDP
+
+* [HEXAGONMI](#hexagonmi)
 
 ## REFERENCES
 
