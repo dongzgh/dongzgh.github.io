@@ -8484,8 +8484,11 @@ order: 1
 
 * Checked tests on UserTesting and TryMyUI
 * Continued learning of KDP
+* Researched OLG lottery and bought LottoMax
+* Downloaded T4 and RRSP forms for Dong
 
 * [HEXAGONMI](#hexagonmi)
+	* Investigated the functions in Control submodule
 
 ## REFERENCES
 
