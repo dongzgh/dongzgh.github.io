@@ -82,6 +82,22 @@ categories: money
 * Name some resources for vector pictures?
   * {:.answer} [Vecteezy](https://www.vecteezy.com/) **[#7caa76]**{:.citation}
   * {:.answer} [CreativeMarket](https://creativemarket.com/) **[#7caa76]**{:.citation}
+* What's PLR or RR products?
+  * {:.answer} Private Label Right / Resell Right
+  * {:.answer} Also called White Labeled Products
+  * {:.answer} Already existent many years, e.g., Walmart Great Value, Costco Kirkland etc.
+  * {:.answer} Pay the most or all inclusive rights to the product upfront
+  * {:.answer} Allows you to resell directly on your own brand
+  * {:.answer} Allows you to modify it and resell it on your own brand
+* Name some PLR (RR) content websites?
+  * {:.answer} [ResellRightsWeekly](http://resell-rights-weekly.com/members/?rid=244180) **[#51dd26]**{:.citation}
+* Which tool to use to publish on Kindle?
+  * {:.answer} Kindle Create
+* Name some sources to outsource?
+  * {:.answer} [UpWork](https://www.upwork.com/) **[#f4895b]**{:.citation}
+  * {:.answer} [WeWorkRemotely](https://weworkremotely.com/) **[#f4895b]**{:.citation}
+  * {:.answer} [99Designs](https://99designs.ca/) **[#f4895b]**{:.citation}
+  * {:.answer} [Fiverr](https://www.fiverr.com/) **[#f4895b]**{:.citation}
 
 ## Marketing
 
@@ -104,6 +120,12 @@ categories: money
   * {:.answer} Amazon Ad
   * {:.answer} Amazon Author Page
   * {:.answer} Blog
+* What's KENP program?
+  * {:.answer} Kindle Edition Normalized Pages (Payed per Page Read) **[#f815dc]**{:.citation}
+* Name some channels for marketing?
+  * {:.answer} Amazon Ad Campaign
+  * {:.answer} Pinterest
+  * {:.answer} Facebook
   
 ## Payment
 
@@ -112,6 +134,8 @@ categories: money
 * What methods are available for money transfer? **[#086dd0]**{:.citation}
   * {:.answer} TransWise
   * {:.answer} Payoneer (Amazon Owned)
+* How long you have to wait for Amazon's payment?
+  * {:.answer} 60 days
 
 [#55fb18]: https://www.inc.com/danny-iny/how-to-really-make-money-as-a-book-author-even-if-you-dont-sell-a-single-copy.html
 [#c5ecba]: https://www.entrepreneur.com/article/306135
@@ -129,4 +153,7 @@ categories: money
 [#3f6f78]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/24141644#overview
 [#fe6572]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/21368000#overview
 [#7caa76]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/24130538#overview
-[#8a3ecf]:https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/24139538#overview
+[#8a3ecf]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/24139538#overview
+[#51dd26]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/24144106#overview
+[#f815dc]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/24293824#overview
+[#f4895b]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/21625614#overview

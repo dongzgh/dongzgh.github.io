@@ -8490,6 +8490,15 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
 	* Investigated the functions in Control submodule
 
+## 2020-02-04
+
+* Checked tests on UserTesting and TryMyUI
+* Continued learning of KDP
+* Researched PLR products
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the functions in Control submodule
+	
 ## REFERENCES
 
 ### estates

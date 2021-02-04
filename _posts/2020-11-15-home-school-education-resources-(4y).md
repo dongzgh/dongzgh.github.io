@@ -66,7 +66,8 @@ categories: school
       * [Happy New Year](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143671150)
     * [Tumble Books](https://www.tumblebooklibrary.com/Home.aspx?categoryID=77)
   * Videos
-    * [The Alphabet Song](https://www.youtube.com/watch?v=lhX064AiyGg) <i class="far fa-thumbs-up"></i>
+    * [The Alphabet Song](https://youtu.be/lhX064AiyGg) <i class="far fa-thumbs-up"></i>
+    * [Jack Harman Sight Words](https://youtu.be/gIZjrcG9pW0)
     * [TVOkids Language](https://www.youtube.com/channel/UCdZLh7XMeNmm7B1unPIv49A)
 * Chinese Literacy <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Readings
