@@ -8499,6 +8499,14 @@ order: 1
 * [HEXAGONMI](#hexagonmi)
 	* Investigated the functions in Control submodule
 	
+## 2020-02-05
+
+* Checked online appointment for Dong's passport renewal
+* Booked reminder on calendar for the next available spots
+
+* [HEXAGONMI](#hexagonmi)
+	* Presented FTI Unit Testing project status report
+	
 ## REFERENCES
 
 ### estates

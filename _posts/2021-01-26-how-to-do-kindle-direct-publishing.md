@@ -82,15 +82,34 @@ categories: money
 * Name some resources for vector pictures?
   * {:.answer} [Vecteezy](https://www.vecteezy.com/) **[#7caa76]**{:.citation}
   * {:.answer} [CreativeMarket](https://creativemarket.com/) **[#7caa76]**{:.citation}
-* What's PLR or RR products?
-  * {:.answer} Private Label Right / Resell Right
+* What's PLR?
+  * {:.answer} Private Label Right
   * {:.answer} Also called White Labeled Products
   * {:.answer} Already existent many years, e.g., Walmart Great Value, Costco Kirkland etc.
   * {:.answer} Pay the most or all inclusive rights to the product upfront
   * {:.answer} Allows you to resell directly on your own brand
   * {:.answer} Allows you to modify it and resell it on your own brand
-* Name some PLR (RR) content websites?
-  * {:.answer} [ResellRightsWeekly](http://resell-rights-weekly.com/members/?rid=244180) **[#51dd26]**{:.citation}
+* What's advantage and disadvantage of PLR products? **[#01f933]**{:.citation}
+  * {:.answer} Advantages:
+    * Time Savings
+    * Cost Effective
+    * Flexibility
+    * Ownership Claim
+  * {:.answer} Disadvantages:
+    * Non-exclusive
+    * Generic
+    * Restrictions
+* Name some PLR content websites? **[#e15541]**{:.citation}
+  * {:.answer} [PLR.me](https://www.plr.me/)
+  * {:.answer} [IDPLR](https://www.idplr.com/)
+  * {:.answer} [ResellRightsWeekly](http://resell-rights-weekly.com/members/?rid=244180)
+* What's RR and MRR? **[#7cfd25]**{:.citation}
+  * {:.answer} RR - Resale Right
+    * Customer can't resell
+    * No authorship and copyright
+  * {:.answer} MRR - Master Resale Right
+    * Customer can resell
+    * No authorship and copyright
 * Which tool to use to publish on Kindle?
   * {:.answer} Kindle Create
 * Name some sources to outsource?
@@ -154,6 +173,8 @@ categories: money
 [#fe6572]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/21368000#overview
 [#7caa76]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/24130538#overview
 [#8a3ecf]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/24139538#overview
-[#51dd26]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/24144106#overview
 [#f815dc]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/24293824#overview
 [#f4895b]: https://www.udemy.com/course/how-to-self-publish-books-on-amazon-kdp-for-extra-income/learn/lecture/21625614#overview
+[#7cfd25]: https://www.streetdirectory.com/etoday/plr-mrr-and-rr-explained-wowaue.html
+[#01f933]: https://www.thebalancesmb.com/private-label-rights-for-home-business-1794347#:~:text=Private%20label%20rights%20(PLR)%20help,to%20post%20on%20your%20blog.
+[#e15541]: https://thewebjourney.com/best-plr-sites/
