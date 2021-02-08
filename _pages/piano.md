@@ -42,3 +42,9 @@ spellcheck: off
   * &#119149; - 附点  
 * 练习钢琴演奏瓦格纳的婚礼进行曲
   * {:.answer} ![bridal-chorus](/assets/img/pages/piano/bridal-chorus.png)
+
+### [如何演奏附点音符](https://www.bilibili.com/video/BV1R4411j7v5?p=7)
+
+* 识别以下五线谱记号？
+  * &#9839; - 升号
+  * &#9838; - 还原

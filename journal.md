@@ -8517,6 +8517,20 @@ order: 1
 * Researched bible verses resources online
 * Started to learn KDP publishing documents
 
+## 2020-02-07
+
+* Visited Scenic Waterfall and Princess Waterfall in Hamilton
+
+## 2020-02-08
+
+* Updated education resources from D2L
+* Started to use Instagram (Facebook) for photo and video sharing
+* Continued learning of piano
+
+* [HEXAGONMI](#hexagonmi)
+	* Continued investigation of Control submodule
+	* Checked active items on AzereDevOps and initialized talk about the planning
+	* 
 
 ## REFERENCES
 
