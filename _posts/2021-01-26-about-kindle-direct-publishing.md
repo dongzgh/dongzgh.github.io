@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to do Kindle Direct Publishing"
+title:  "About Kindle Direct Publishing"
 date:   2021-01-26 07:00:00 -0500
 categories: money
 ---

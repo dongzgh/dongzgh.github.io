@@ -8504,9 +8504,20 @@ order: 1
 * Checked online appointment for Dong's passport renewal
 * Booked reminder on calendar for the next available spots
 
+* [L3MONSHAPE]
+	* Started	to revise GUI images
+
 * [HEXAGONMI](#hexagonmi)
 	* Presented FTI Unit Testing project status report
+	* Discussed the bug #28583 related with embossment treatment
+	* Investigated the bug #28613 related with hole filling and assigned it to Chubarev
 	
+## 2020-02-06
+
+* Researched bible verses resources online
+* Started to learn KDP publishing documents
+
+
 ## REFERENCES
 
 ### estates

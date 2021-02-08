@@ -41,7 +41,6 @@ categories: school
   * Educational Games <i class="far fa-thumbs-up"></i>
     * Weekly Activities
       * [Alphabet Line Up](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
-      * [Label Your House](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
       * [Space Cards](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145893432)
     * [Word Wall](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140147980) <i class="far fa-thumbs-up"></i>
     * Alphabet Matching
@@ -58,16 +57,20 @@ categories: school
     * [15](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144157040)
     * [16](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721355)
     * [17](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145715119)
+    * [19](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/148574191)
     * Ultimate Real Kindergarten Workbook
   * Books
     * Weekly Activities
       * [Pet the Cat Read Aloud](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721079)
     * Virtual Classrooms <i class="far fa-thumbs-up"></i>
       * [Happy New Year](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143671150)
+      * [Valentine's Day Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/148578406)
+      * [Love From the Crayons](https://youtu.be/5DONb49ig0M)
     * [Tumble Books](https://www.tumblebooklibrary.com/Home.aspx?categoryID=77)
   * Videos
     * [The Alphabet Song](https://youtu.be/lhX064AiyGg) <i class="far fa-thumbs-up"></i>
     * [Jack Harman Sight Words](https://youtu.be/gIZjrcG9pW0)
+    * [Animal Alphabet Song](https://youtu.be/VgDmGu7Pur8)
     * [TVOkids Language](https://www.youtube.com/channel/UCdZLh7XMeNmm7B1unPIv49A)
 * Chinese Literacy <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Readings
@@ -85,6 +88,7 @@ categories: school
     * [War](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142649614) <i class="far fa-thumbs-up"></i>
     * [Double Numbers](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144191724)
     * [Space and Addition Card Game](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721402)
+    * [2D Shapes](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/146650578)
   * Worksheets
     * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140413885)
     * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141638910)
@@ -95,6 +99,7 @@ categories: school
     * [15](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144157040)
     * [16](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721355)
     * [17](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145715119)
+    * [19](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/148574191)
     * Ultimate Real Kindergarten Workbook
   * Videos
     * [Let's Count to 100](https://youtu.be/1dkPouLWCyc) <i class="far fa-thumbs-up"></i>
@@ -184,6 +189,7 @@ categories: school
       * [Cosmic Yoga](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
       * [At Home Task](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
       * [Ball Toss](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721079)
+      * [Roll the Dice Excursive](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/146649372)
     * [Education Games](https://www.youtube.com/channel/UCUI_IoE6IHH6uacv7qPdsIQ/playlists)
     * [Motor Skill Learning](https://www.youtube.com/channel/UCjrURON47WJ55_DiQhfg-Tw)
     * [集中注意力训练](https://www.ixigua.com/6910500374973533440/)
@@ -213,6 +219,7 @@ categories: school
 * Music <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span>
   * Weekly Activities
     * [Christmas Music Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
+    * [Let's Go For A Walk Outside](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/148574214)
   * Nursery Songs
   * Piano Courses
     * [零起步学钢琴](https://www.bilibili.com/video/BV1R4411j7v5) <i class="far fa-thumbs-up"></i>
@@ -224,6 +231,8 @@ categories: school
     * [Popsicle Stick Christmas Tree](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
     * [Holiday Craft](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
     * [Build Your Own Rocket](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721079)
+    * [Paper Snowflakes](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/146649372)
+    * [Valentine's Craft](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/148574214)
   * Arts with Mrs. Kawnik
     * [Pattern Mitten Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144852767)
     * [Dot Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145780825)
