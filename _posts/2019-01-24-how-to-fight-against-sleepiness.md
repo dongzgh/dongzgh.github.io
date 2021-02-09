@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Fight Against Sleepiness"
 date:   2019-01-24 10:00:00 -0500
-categories: living
+tags: [living]
 ---
 
 Following is a list of activities that can help to fight against sleepiness:

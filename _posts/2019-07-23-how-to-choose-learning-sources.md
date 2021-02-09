@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "How to Choose A Learning Source"
+title:  "How to Choose Learning Sources"
 date:   2019-07-23 10:00:00 -0500
-categories: living
+tags: [learning]
 ---
 
 Popular learning sources are listed below with their pros, cons and bottom lines:

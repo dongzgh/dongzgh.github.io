@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "How to Understand Business Models"
+title:  "How to Classify Business Models"
 date:   2019-09-12 07:00:00 -0500
-categories: money
+tags: [money]
 ---
 
 Generally, business models can be divided into two categories:

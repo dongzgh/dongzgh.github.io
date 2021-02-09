@@ -1,8 +1,8 @@
 ---
-layout: page
-title: Journal
-permalink: /journal/
-order: 1
+layout: post
+title:  "Journaling Daily Activities"
+date:   2018-01-03 07:00:00 -0500
+tags: [personal]
 ---
 
 ## 2018-01-03
@@ -17,6 +17,8 @@ order: 1
 
 * [ESTATES](#estates)
   * Searched food containers for Huffman kitchen
+
+  
   * Bought glass bottles from Canadian Tire for Huffman kitchen
   * Retried LTERIVER Wi-Fi extender and failed
   * Decided to return LTERIVER Wi-Fi extender to Amazon

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "About Kindle Direct Publishing"
+title:  "Kindle Direct Publishing - Learning"
 date:   2021-01-26 07:00:00 -0500
-categories: money
+tags: [money, book]
 ---
 
 ## Mind Map

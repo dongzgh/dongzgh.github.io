@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Ethan's Lovely Words"
+title:  "Journaling Ethan's Words"
 date:   2020-11-23 07:00:00 -0500
-categories: personal
+tags: [personal]
 ---
 
 * 淘淘最开心的日子就是和妈妈亲嘴的日子

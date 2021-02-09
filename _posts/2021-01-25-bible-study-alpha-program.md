@@ -2,12 +2,12 @@
 layout: post
 title:  "Bible Study - Alpha Program"
 date:   2021-01-25 07:00:00 -0500
-categories: Christian
+tags: [christian]
 ---
 
 ## Questions
 
-### #3
+### #3 Why Jesus Died?
 
 * Why did Jesus die?
   * {:.answer} Because he loves you, he sacrifices himself to take away all of your sins and forgive you.
@@ -18,7 +18,7 @@ categories: Christian
 * God can forgive everything, but can I?
   * {:.answer} God is superior, we can't and we have to ask God to do it for us.
 
-### #4
+### #4 What's Faith?
 
 * What's faith?
   * {:.answer} Believe in God and set up a relationship
@@ -28,3 +28,19 @@ categories: Christian
   * {:.answer} Friend
 * Jesus knock the door, and want to be part of that person's life
 * You invite, he will come in and always be with you
+
+### #5 Why We Pray?
+
+* Why we need to pray?
+  * {:.answer} Communication between me and God
+  * {:.answer} Communication nourishing and grow relationship
+* What's the rewards of pray?
+  * {:.answer} Peace
+  * {:.answer} Change perspective
+* Traffic light analogy and tunnel analogy
+* Thank You, Sorry and Please
+* Simple, Honest and Keep it Going
+
+### #6
+
+Q: Construct a pray for others?

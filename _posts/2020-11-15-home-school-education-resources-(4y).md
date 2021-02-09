@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Home School Education Resources (4y)"
+title:  "Home School - Education Resources (4y)"
 date:   2020-12-02 07:00:00 -0500
-categories: school
+tags: [school]
 ---
 
 ## Ethics <span style="color: blue"><i class="fab fa-readme"></i></span>

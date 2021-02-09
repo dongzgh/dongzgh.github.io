@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "How to Earn Moneys"
+title:  "How to Earn Side Hustles"
 date:   2020-11-23 07:00:00 -0500
-categories: money
+tags: [money]
 ---
 
 Popular sources of side hustles are listed as below:
@@ -24,7 +24,7 @@ Popular sources of side hustles are listed as below:
 #### Online Freelancers's Market
 
 * UpWorks
-* Fivrr
+* Fiverr
 
 #### Online Remote Jobs's Market
 
