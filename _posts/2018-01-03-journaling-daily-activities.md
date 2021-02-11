@@ -8532,7 +8532,16 @@ tags: [personal]
 * [HEXAGONMI](#hexagonmi)
 	* Continued investigation of Control submodule
 	* Checked active items on AzereDevOps and initialized talk about the planning
-	* 
+	
+## 2020-02-09
+
+* Checked UserTesting and TryMyUI
+* Researched Gratitude Journal
+
+* [L3MONSHAPE]
+	* Revised GUI images
+
+* [HEXAGONMI](#hexagonmi)
 
 ## REFERENCES
 
