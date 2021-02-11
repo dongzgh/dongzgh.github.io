@@ -8541,8 +8541,6 @@ tags: [personal]
 * [L3MONSHAPE]
 	* Revised GUI images
 
-* [HEXAGONMI](#hexagonmi)
-
 ## REFERENCES
 
 ### estates
