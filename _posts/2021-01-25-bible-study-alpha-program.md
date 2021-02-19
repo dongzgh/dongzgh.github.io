@@ -2,7 +2,7 @@
 layout: post
 title:  "Bible Study - Alpha Program"
 date:   2021-01-25 07:00:00 -0500
-tags: [christian]
+tags: [Christian]
 ---
 
 ## Questions
@@ -41,6 +41,13 @@ tags: [christian]
 * Thank You, Sorry and Please
 * Simple, Honest and Keep it Going
 
-### #6
+### #6 What's Bible?
 
-Q: Construct a pray for others?
+* What's bible?
+  * {:.answer} Words inspired by God
+* Science's job is to reveal how God has created the universe
+* How to read bible?
+  * {:.answer} Start with a plan
+* Bible is spiritual food
+* Everyone who calls on the name of Lord will be saved
+* Do you think that Lord maybe trying to speak to you?

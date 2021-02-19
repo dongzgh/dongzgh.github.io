@@ -8194,7 +8194,7 @@ tags: [personal]
 * [L3MONSHAPE]
 	* Continued learning of VTK textbook
 
-## 2020-01-04
+## 2021-01-04
 
 * Revised Kids Education plan for home schooling
 * Installed lighting fixtures
@@ -8205,7 +8205,7 @@ tags: [personal]
 	* Revised README.md as guidance
 	* Tried to develop unit tests for Callback submodule
 
-## 2020-01-05
+## 2021-01-05
 
 * Compiled Ethan's Book - 鸡宝宝和大怪物
 
@@ -8217,26 +8217,26 @@ tags: [personal]
 	* Tried to develop unit tests for Callback submodule
 	* Sent updates to team
 	
-## 2020-01-06
+## 2021-01-06
 
 * Updated education resources
 
 * [HEXAGONMI](#hexagonmi)
 	* Tried to develop unit tests for Callback submodule
 	
-## 2020-01-07
+## 2021-01-07
 
 * [HEXAGONMI](#hexagonmi)
 	* Tried to develop unit tests for Callback submodule
 	
-## 2020-01-08
+## 2021-01-08
 
 * [HEXAGONMI](#hexagonmi)
 	* Resolved issue of wrapping some utility classes into FTIFSDLL
 	* Resolved issue of referencing static member variable declared in DLL
 	* Rollbacked changes to FTIFS project trying duplicating dll
 	
-## 2020-01-09
+## 2021-01-09
 
 * [L3MONSHAPE]
 	* Continued learning of VTK textbook
@@ -8244,16 +8244,16 @@ tags: [personal]
 * [HEXAGONMI](#hexagonmi)
 	* Created duplicating FTIFS dll
 	
-## 2020-01-10
+## 2021-01-10
 
 * Visited Bruce Trail Iroquois section at Twiss Road west side
 
-## 2020-01-11
+## 2021-01-11
 
 * [HEXAGONMI](#hexagonmi)
 	* Configuring solution and project settings for testing framework
 
-## 2020-01-12
+## 2021-01-12
 
 * Updated education resources to include number-link and related games
 * Updated school schedule from now on including Art/Drama/Music
@@ -8266,7 +8266,7 @@ tags: [personal]
 	* Updated solution and project files
 	* Enabled exporting functions to test from callback submodule
 	
-## 2020-01-13
+## 2021-01-13
 
 * Started the application for Dong's passport renewal
 * Started the application for Ethan's passport
@@ -8277,7 +8277,7 @@ tags: [personal]
 * [HEXAGONMI](#hexagonmi)
 	* Developed new system level toolbar for testing
 
-## 2020-01-14
+## 2021-01-14
 
 * Downloaded SourceTree and Github Desktop for complicated git management
 * Created remote repository for Local
@@ -8293,14 +8293,14 @@ tags: [personal]
 	* Considering procedural modeling by application
 	* Checked MyHR settings for PRIDE program
 	
-## 2020-01-15
+## 2021-01-15
 
 * Verified Dong's passport copy
 * Ordered bankers box from amazon
 * Rethinking about side business models
 * Read articles about pros and cons of the Drop-shipping business model
 * Read articles about pros and cons of the affiliate marketing business model
-* Searched Tax 2020 software
+* Searched Tax 2021 software
 * Printed flash cards for Fruits
 * Started game of Tic Tac Toe
 	
@@ -8309,15 +8309,15 @@ tags: [personal]
 	* Moved workbench creation and cleaning to test level
 	* Created support structure for different environmental configurations
 
-## 2020-01-16
+## 2021-01-16
 
 * Visited Bronte Creek Provincial Park
 
-## 2020-01-17
+## 2021-01-17
 
 * Visited Spencer Smith park skating rink
 
-## 2020-01-18
+## 2021-01-18
 
 * Completed one UserTesting test
 * Checked documents needed for Dong's Passport Renewal
@@ -8333,9 +8333,9 @@ tags: [personal]
 * [HEXAGONMI](#hexagonmi)
 	* Reorganized code for multiple cases
 
-## 2020-01-19
+## 2021-01-19
 
-* Initialized Tax Return for 2020
+* Initialized Tax Return for 2021
 * Checked Kashkick to see how it works
 * Installed car plate shields
 * Installed new iTalkBB TV box
@@ -8348,7 +8348,7 @@ tags: [personal]
 * [HEXAGONMI](#hexagonmi)
 	* Reorganized files and namespaces in FTIAdvancedGeometryTest
 	
-## 2020-01-20
+## 2021-01-20
 
 * Updated Education Resourced to include nursery songs
 * Researched FBA business model
@@ -8365,7 +8365,7 @@ tags: [personal]
 	* Researched code coverage analysis tools for Visual Studio C++ projects
 	* Tested OpenCppCoverage with google tests
 	
-## 2020-01-21
+## 2021-01-21
 
 * Developed 100 numbers document for Ethan
 * Added Blink camera to Alexa
@@ -8377,7 +8377,7 @@ tags: [personal]
 	* Searched for code coverage tools
 	* Fixed the bug #28509 related with flange pre-trimline extraction
 
-## 2020-01-22
+## 2021-01-22
 
 * Checked material to be submitted for passport renewal
 * Started to filling tax return using TurboTax Online
@@ -8385,17 +8385,17 @@ tags: [personal]
 * [HEXAGONMI](#hexagonmi)
  * Retested OpenCppCoverage and made it to work
 
-## 2020-01-23
+## 2021-01-23
 
 * Cut hair for Ethan
 * Visited Short Hill Provincial Parents
 
-## 2020-01-24
+## 2021-01-24
 
 * With Ethan skating at Spencer Smith park
 * Got books from Max's home
 
-## 2020-01-25
+## 2021-01-25
 
 * Sent Volvo S60 for maintenance
 * Asked about the process of trade-in evaluation
@@ -8409,7 +8409,7 @@ tags: [personal]
 * [HEXAGONMI](#hexagonmi)
 	* Added tests for license configuration
 
-## 2020-01-26
+## 2021-01-26
 
 * Started learning of KDP on Udemy
 
@@ -8419,7 +8419,7 @@ tags: [personal]
 * [HEXAGONMI](#hexagonmi)
 	* Initialized tests for feature tree menu notification
 	
-## 2020-01-27
+## 2021-01-27
 
 * Continued learning of KDP on Udemy
 
@@ -8430,7 +8430,7 @@ tags: [personal]
 	* Asked Marco some questions related with GUI unit tests
 	* Added initial tests for feature tree menu notification
 	
-## 2020-01-28
+## 2021-01-28
 
 * Continued learning of KDP on Udemy
 
@@ -8440,26 +8440,26 @@ tags: [personal]
 * [HEXAGONMI](#hexagonmi)
 	* Reorganized testing suites for callback submodule
 
-## 2020-01-29
+## 2021-01-29
 
 * Continued learning of KDP on Udemy
 
 * [HEXAGONMI](#hexagonmi)
 	* Reorganized testing suites for callback submodule
 	
-## 2020-01-30
+## 2021-01-30
 
 * Visited Spencer Smith Park for Ethan's skating
 * Installed Blink camera at the front door
 
-## 2020-01-31
+## 2021-01-31
 
 * Visited Spencer Smith Park for Ethan's skating
 * Added Autodeposit to TD account
 * Added Blink camera to Alexa app
 * Started reading of Kindle book
 
-## 2020-02-01
+## 2021-02-01
 
 * Checked vacation balance
 * Checked PRIDE report
@@ -8468,11 +8468,11 @@ tags: [personal]
 
 * [HEXAGONMI](#hexagonmi)
 	* Cleaned up system junks
-	* Reinstalled MSC Apex 2020
+	* Reinstalled MSC Apex 2021
 	* Added ISSUES.md to development channel
 	* Fixed the bug #28574 related with flange pre-trim lines not exported
 	
-## 2020-02-02
+## 2021-02-02
 
 * Continued learning of KDP
 
@@ -8482,7 +8482,7 @@ tags: [personal]
 	* Researched Control submodule
 	* Researched how to annotate document
 
-## 2020-02-03
+## 2021-02-03
 
 * Checked tests on UserTesting and TryMyUI
 * Continued learning of KDP
@@ -8492,7 +8492,7 @@ tags: [personal]
 * [HEXAGONMI](#hexagonmi)
 	* Investigated the functions in Control submodule
 
-## 2020-02-04
+## 2021-02-04
 
 * Checked tests on UserTesting and TryMyUI
 * Continued learning of KDP
@@ -8501,7 +8501,7 @@ tags: [personal]
 * [HEXAGONMI](#hexagonmi)
 	* Investigated the functions in Control submodule
 	
-## 2020-02-05
+## 2021-02-05
 
 * Checked online appointment for Dong's passport renewal
 * Booked reminder on calendar for the next available spots
@@ -8514,16 +8514,16 @@ tags: [personal]
 	* Discussed the bug #28583 related with embossment treatment
 	* Investigated the bug #28613 related with hole filling and assigned it to Chubarev
 	
-## 2020-02-06
+## 2021-02-06
 
 * Researched bible verses resources online
 * Started to learn KDP publishing documents
 
-## 2020-02-07
+## 2021-02-07
 
 * Visited Scenic Waterfall and Princess Waterfall in Hamilton
 
-## 2020-02-08
+## 2021-02-08
 
 * Updated education resources from D2L
 * Started to use Instagram (Facebook) for photo and video sharing
@@ -8533,13 +8533,63 @@ tags: [personal]
 	* Continued investigation of Control submodule
 	* Checked active items on AzereDevOps and initialized talk about the planning
 	
-## 2020-02-09
+## 2021-02-09
 
 * Checked UserTesting and TryMyUI
 * Researched Gratitude Journal
 
 * [L3MONSHAPE]
 	* Revised GUI images
+
+## 2021-02-11 - 2021-02-13
+
+* Celebrated Chinese New Year at home
+
+## 2021-02-14
+
+* With Ethan Skated at Spencer Smith park
+
+## 2021-02-15
+
+* Visited Tiffany Falls Conservation Area
+
+## 2021-02-16
+
+* Checked UserTesting, TryMyUI and ferpection
+
+* [HEXAGONMI](#hexagonmi)
+	* Continued working on reviewing functions in Control submodule
+	* Downloaded Apex Generative Design and documentation
+	* Set up scrum planning meeting
+	
+## 2021-02-17
+
+* Sent updated business plan with new pictures to Charles
+* Designed Gratitude Journal II interior
+* Updated Passport Renewal appointment setting for Mar. 3rd
+
+* [HEXAGONMI](#hexagonmi)
+	* Reviewed storyboard for new design for Double Attached
+	* Set up meeting to discuss the new Double Attached design
+	
+## 2021-02-18
+
+* Payed Interim Burlington Tax for Evelyn
+* Payed Interim Burlington Tax for Upper Middle
+* Updated Driver Insurance slip
+* Checked Gratitude Journal 1 interior formats
+* Designed Gratitude Journal 1 cover
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed new design of Double Attached
+	* Read Shaharoz's first investigation regarding the new Double Attached design
+
+## 2021-02-19
+
+* Checked UserTesting, TryMyUI and ferpection
+* Continued formatting Gratitude Journal 1
+
+* [HEXAGONMI](#hexagonmi)
 
 ## REFERENCES
 
