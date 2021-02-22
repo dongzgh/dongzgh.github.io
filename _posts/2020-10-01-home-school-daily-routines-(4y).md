@@ -9,15 +9,15 @@ tags: [school]
 
 | 9:00 - 9:25  | Morning Whole Group   |               |               |
 |--------------|-----------------------|---------------|---------------|
-|              |                       | 9:25 - 10:25  | Learning Time |
-| 10:25 -10:45 | Small Group D         |               |               |
-|              |                       | 10:45 - 11:00 | Snack Time    |
+|              |                       | 9:25 - 10:00  | Learning Time |
+| 10:00 -10:25 | Small Group B         |               |               |
+|              |                       | 10:25 - 11:00 | Snack Time    |
 |              |                       | 11:00 - 12:00 | Activity Time |
 | 12:00 - 1:00 | Lunch                 |               |               |
 | 1:00 - 1:15  | Lunch Whole Group     |               |               |
-|              |                       | 1:15 - 1:55   | Learning Time |
-| 1:45-2:25    | Art/Drama/Music       |               |               |
-|              |                       | 2:30 - 3:00   | Gaming Time   |
+| 1:30 - 1:50  | Small Group B         |               |               |
+| 1:30 - 1:50  | Art/Drama/Music       |               |               |
+|              |                       | 1:50 - 3:00   | Gaming Time   |
 | 3:00 - 3:20  | Afternoon Whole Group |               |               |
 |              |                       | 3:20 - 3: 30  | Snack Time    |
 |              |                       | 3:30 - 4:30   | Gaming Time   |

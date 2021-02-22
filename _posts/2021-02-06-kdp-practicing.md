@@ -93,6 +93,9 @@ tags: [money, book]
   * {:.answer} Don't repeat
   * {:.answer} Write regularly
   * {:.answer} Occasionally, not daily
+* Name some lessons learned?
+  * {:.answer} Not all fonts are supported on KDP paperback
+  * {:.answer} Font effects normally not supported on KDP paperback
 
 [#249a16]: https://positivepsychology.com/gratitude-journal/
 [#d26e2e]: https://ggia.berkeley.edu/practice/gratitude_journal

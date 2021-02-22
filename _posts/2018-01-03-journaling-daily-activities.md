@@ -8590,6 +8590,24 @@ tags: [personal]
 * Continued formatting Gratitude Journal 1
 
 * [HEXAGONMI](#hexagonmi)
+	* Discussed with Shaharoz about the implementation of the new design for Double Attached
+	* Assigned Adrian task to move validate functions to DLL Utility sub-module
+	* Updated design document for the feature #28311
+
+## 2021-02-20
+
+* Revised My Gratitude Journal styles and fonts
+* Published My Gratitude Journal
+* With Ethan practiced skating at the Spencer Smith Park
+* Returned two microscopes to Amazon
+
+## 2021-02-021
+
+* With Ethan skated at Stephanie's back yard
+
+## 2021-02-22
+
+* 
 
 ## REFERENCES
 
