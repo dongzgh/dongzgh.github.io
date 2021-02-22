@@ -57,7 +57,9 @@ tags: [school]
     * [15](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144157040)
     * [16](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721355)
     * [17](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145715119)
+    * [18](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/146650542)
     * [19](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/148574191)
+    * [20](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/149653921)
     * Ultimate Real Kindergarten Workbook
   * Books
     * Weekly Activities
@@ -99,7 +101,9 @@ tags: [school]
     * [15](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144157040)
     * [16](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721355)
     * [17](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145715119)
+    * [18](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/146650542)
     * [19](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/148574191)
+    * [20](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/149653921)
     * Ultimate Real Kindergarten Workbook
   * Videos
     * [Let's Count to 100](https://youtu.be/1dkPouLWCyc) <i class="far fa-thumbs-up"></i>
@@ -110,6 +114,8 @@ tags: [school]
       * [Read Aloud](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
       * [Solar System](https://site.pebblego.com/modules/2/categories/2992)
       * [Solar System](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/145715217)
+      * [Ocean Animal](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/149653912)
+      * [Health Eating](https://www.firstpalette.com/pdf/cube.pdf)
     * Virtual Classrooms <i class="far fa-thumbs-up"></i>
       * [Animal Rooms](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/140193403)
       * [Arctic Animals](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/141626269)
@@ -121,6 +127,9 @@ tags: [school]
       * [Winter Wonderland](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143096219)
       * [Trip to Space](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/144179070)
       * [Space Virtual Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/144179660)
+      * [Ocean Animals](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/149654090)
+      * [Ocean Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/149654122)
+      * [3D Shapes](9https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/150057536)
     * [Pebble Go](https://site.pebblego.com/modules)
     * [TVOkids Science and Technology](https://www.youtube.com/channel/UCBCuoKUX7SIEIBK6YhUbyiA)
     * [TVOkids Health and Arts](https://www.youtube.com/channel/UCHcFJHZWvX6XtSc9TvVu0mA)
@@ -183,6 +192,7 @@ tags: [school]
   * [Boom Chicka Boom](https://youtu.be/9nKq4jm4LD8)
   * [Shake Your Sillies Out](https://youtu.be/NwT5oX_mqS0)
   * [Let's Count to 100](https://youtu.be/1dkPouLWCyc)
+  * [Under the Sea Yoga](https://youtu.be/qC83oFEeVZA)
 * PE Games
   * Indoor
     * Weekly Activities
@@ -220,6 +230,7 @@ tags: [school]
   * Weekly Activities
     * [Christmas Music Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
     * [Let's Go For A Walk Outside](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/148574214)
+    * [Sing a Long Concert](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/149653912)
   * Nursery Songs
   * Piano Courses
     * [零起步学钢琴](https://www.bilibili.com/video/BV1R4411j7v5) <i class="far fa-thumbs-up"></i>
@@ -233,6 +244,8 @@ tags: [school]
     * [Build Your Own Rocket](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721079)
     * [Paper Snowflakes](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/146649372)
     * [Valentine's Craft](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/148574214)
+    * [Ocean in a Jar](https://youtu.be/15CL4D41e30)
+    * [Make a Cube](https://www.firstpalette.com/pdf/cube.pdf)
   * Arts with Mrs. Kawnik
     * [Pattern Mitten Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144852767)
     * [Dot Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145780825)
@@ -271,6 +284,7 @@ tags: [school]
     * [War](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142649614)
     * [Dash to Decorate](https://hcdsb.elearningontario.ca/content/enforced/17568618-BL_SK_JKSKH-01_846774_2021/Dash%20To%20Decorate2.pdf)
     * [Greedy Santa](https://hcdsb.elearningontario.ca/content/enforced/17568618-BL_SK_JKSKH-01_846774_2021/Greedy%20Santa1.pdf)
+    * [Number Path](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/150057527)
 * Adventure
   * Ladder and Chute
 * Scavenge Hunt <i class="far fa-thumbs-up"></i>
