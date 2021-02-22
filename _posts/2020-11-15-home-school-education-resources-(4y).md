@@ -38,15 +38,14 @@ tags: [school]
 
 * English Literacy <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Virtual Kindergarten <i class="far fa-thumbs-up"></i>
-  * Educational Games <i class="far fa-thumbs-up"></i>
-    * Weekly Activities
-      * [Alphabet Line Up](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
-      * [Space Cards](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145893432)
-    * [Word Wall](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140147980) <i class="far fa-thumbs-up"></i>
-    * Alphabet Matching
+  * Educational Activities <i class="far fa-thumbs-up"></i>
+    * [Alphabet Line Up](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
+    * Alphabet match game
     * Flash Cards
       * Making things
       * Organizing things
+      * [Space Cards](https://prekinders-wpengine.netdna-ssl.com/wp-content/uploads/2015/10/space-word-cards.pdf)
+  * [Word Wall](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140147980) <i class="far fa-thumbs-up"></i>
   * Worksheets
     * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140413885)
     * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141638910)
@@ -62,8 +61,7 @@ tags: [school]
     * [20](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/149653921)
     * Ultimate Real Kindergarten Workbook
   * Books
-    * Weekly Activities
-      * [Pet the Cat Read Aloud](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721079)
+    * [Pet the Cat Read Aloud](https://video.link/w/XdNFb)
     * Virtual Classrooms <i class="far fa-thumbs-up"></i>
       * [Happy New Year](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143671150)
       * [Valentine's Day Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/148578406)
@@ -79,10 +77,9 @@ tags: [school]
     * 四五快读 <i class="far fa-thumbs-up"></i>
 * Mathematics <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Virtual Kindergarten <i class="far fa-thumbs-up"></i>
-  * Educational Games <i class="far fa-thumbs-up"></i>
-    * Weekly Activities
-      * [Roll and Write](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
-      * [Measuring](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
+  * Educational Activities <i class="far fa-thumbs-up"></i>
+    * [Roll and Write](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
+    * [Measuring](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
     * [Math Tools](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140166695)
     * [Counting to 20 Arcade](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139957163)
     * [Adding/Subtracting Arcade](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139957739)
@@ -110,12 +107,10 @@ tags: [school]
     * [TVOkids Mathematics](https://www.youtube.com/channel/UCxNAcNMKHCXHY9dwVOElKpQ)
 * Science <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Readings
-    * Weekly Activities
-      * [Read Aloud](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
-      * [Solar System](https://site.pebblego.com/modules/2/categories/2992)
-      * [Solar System](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/145715217)
-      * [Ocean Animal](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/149653912)
-      * [Health Eating](https://www.firstpalette.com/pdf/cube.pdf)
+    * [Animals in Winter](https://youtu.be/eLDbjt_FiTM)
+    * [Solar System](https://site.pebblego.com/modules/2/categories/2992)
+    * [Solar System](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/145715217)
+    * [Ocean Animal](https://site.pebblego.com/modules/1/categories/4/articles/55)
     * Virtual Classrooms <i class="far fa-thumbs-up"></i>
       * [Animal Rooms](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/140193403)
       * [Arctic Animals](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/141626269)
@@ -142,6 +137,7 @@ tags: [school]
     * [訓練孩子專注力四大撲克牌遊戲](https://www.leaderkid.com.tw/2019/10/07/%E5%9B%9B%E5%A4%A7%E6%92%B2%E5%85%8B%E7%89%8C%E9%81%8A%E6%88%B2%EF%BC%8C%E8%A8%93%E7%B7%B4%E5%AD%A9%E5%AD%90%E5%B0%88%E6%B3%A8%E5%8A%9B/)
     * [适合孩子玩的经典扑克游戏](/assets/doc/适合孩子玩的经典扑克游戏.docx)
   * UNO <i class="far fa-thumbs-up"></i>
+    * UNO stack (2,4, etc.)
   * Teaser
     * [ThinkFun](https://www.thinkfun.com/)
       * Rush Hour <i class="far fa-thumbs-up"></i>
@@ -177,6 +173,7 @@ tags: [school]
   * Roller Skating <i class="far fa-thumbs-up"></i>
   * Scootering <i class="far fa-thumbs-up"></i>
   * Biking <i class="far fa-thumbs-up"></i>
+  * Stake boarding <i class="far fa-thumbs-up"></i>
 * Balls
   * Soccer <i class="far fa-thumbs-up"></i>
   * Basketball <i class="far fa-thumbs-up"></i>
@@ -195,11 +192,10 @@ tags: [school]
   * [Under the Sea Yoga](https://youtu.be/qC83oFEeVZA)
 * PE Games
   * Indoor
-    * Weekly Activities
-      * [Cosmic Yoga](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
-      * [At Home Task](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
-      * [Ball Toss](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721079)
-      * [Roll the Dice Excursive](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/146649372)
+    * [Cosmic Yoga](https://video.link/w/5V7kb)
+    * [Ball Toss](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721079)
+    * [Roll the Dice Excersice](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/146649372)
+    * [At Home Task](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
     * [Education Games](https://www.youtube.com/channel/UCUI_IoE6IHH6uacv7qPdsIQ/playlists)
     * [Motor Skill Learning](https://www.youtube.com/channel/UCjrURON47WJ55_DiQhfg-Tw)
     * [集中注意力训练](https://www.ixigua.com/6910500374973533440/)
@@ -224,28 +220,28 @@ tags: [school]
       * [How To Draw A Cartoon Lion](https://youtu.be/dWGsch52q70)
       * [How To Draw A Tiger](https://youtu.be/kAx8-pFj2CU)
       * [How To Draw A Witch](https://youtu.be/0C8stMVqzCg)
+      * [How To Draw A Cow](https://youtu.be/ezegUT9U6fM)
+      * [How to Draw An Ox](https://youtu.be/jNawjZ40pOY)
     * [Crateful Art](https://www.youtube.com/c/Createfulart/featured)
     * [Wow Art](https://www.youtube.com/channel/UCdZutxI1UnH9N3Fh_TeQ4Kw/videosf)
 * Music <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span>
-  * Weekly Activities
-    * [Christmas Music Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
-    * [Let's Go For A Walk Outside](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/148574214)
-    * [Sing a Long Concert](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/149653912)
+  * [Christmas Music Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
+  * [Let's Go For A Walk Outside](https://youtu.be/BWR3DxGHLD4)
+  * [Sing a Long Concert](https://youtu.be/6-xqosckJ5c)
   * Nursery Songs
   * Piano Courses
     * [零起步学钢琴](https://www.bilibili.com/video/BV1R4411j7v5) <i class="far fa-thumbs-up"></i>
     * [Hoffman Academy](https://www.youtube.com/channel/UCiKUKTMbojTIPGWPR_eec9w)
 * Crafts <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span> <i class="far fa-thumbs-up"></i>
-  * Weekly Activities
-    * [Christmas Garland](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
-    * [Decorate Your Snow Person](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
-    * [Popsicle Stick Christmas Tree](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
-    * [Holiday Craft](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
-    * [Build Your Own Rocket](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721079)
-    * [Paper Snowflakes](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/146649372)
-    * [Valentine's Craft](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/148574214)
-    * [Ocean in a Jar](https://youtu.be/15CL4D41e30)
-    * [Make a Cube](https://www.firstpalette.com/pdf/cube.pdf)
+  * [Christmas Garland](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
+  * [Decorate Your Snow Person](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
+  * [Popsicle Stick Christmas Tree](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
+  * [Holiday Craft](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
+  * [Build Your Own Rocket](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721079)
+  * [Paper Snowflakes](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/146649372)
+  * [Valentine's Craft](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/148574214)
+  * [Ocean in a Jar](https://youtu.be/15CL4D41e30)
+  * [Make a Cube](https://www.firstpalette.com/pdf/cube.pdf)
   * Arts with Mrs. Kawnik
     * [Pattern Mitten Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144852767)
     * [Dot Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145780825)
@@ -260,8 +256,7 @@ tags: [school]
     * [Simple Crane](https://youtu.be/6VqF8WGuBLA)
 * Build Games <span style="color: blue"><i class="fas fa-gamepad"></i></span>
   * LEGO
-    * Weekly Activities
-      * [Lego Challenge](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
+    * [Lego Challenge](https://docs.google.com/presentation/d/1vUPIlqiRse1FyWxYk2JFtJzbwBvvLB71qGtfp1e1h78/edit#slide=id.p)
     * Classics <i class="far fa-thumbs-up"></i>
       * [Official Instructions]((https://play.google.com/store/apps/details?id=com.lego.legobuildinginstructions&hl=en_CA&gl=US))
     * Gadgets <i class="far fa-thumbs-up"></i>
@@ -288,9 +283,8 @@ tags: [school]
 * Adventure
   * Ladder and Chute
 * Scavenge Hunt <i class="far fa-thumbs-up"></i>
-  * Weekly Activities
-    * [Outdoor Scavenge Hunt 1](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
-    * [Outdoor Scavenge Hunt 2](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144191305)
+  * [Outdoor Scavenge Hunt 1](https://docs.google.com/presentation/d/1ASm1oa-34MiVHv598jnQeR1DUtHDSGhWN2xDv6a94c8/edit#slide=id.p)
+  * [Outdoor Scavenge Hunt 2](https://www.cbc.ca/parents/content/pdf/CBCParents_WinterScavengerHunt.pdf)
 * Charades
   * [Feeling Charades](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
 * Hide and Seek <i class="far fa-thumbs-up"></i>

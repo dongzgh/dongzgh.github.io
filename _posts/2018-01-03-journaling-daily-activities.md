@@ -8607,7 +8607,11 @@ tags: [personal]
 
 ## 2021-02-22
 
-* 
+* Updated learning resources for Ethan by removing weekly activities
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Shaharoz about MFC embedded dialog issues
+	* Discussed with Adrian about refator DefineMaterial function
 
 ## REFERENCES
 
