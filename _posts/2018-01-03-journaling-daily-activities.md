@@ -8615,7 +8615,16 @@ tags: [personal]
 	* Discussed with Shaharoz about MFC embedded dialog issues
 	* Discussed with Adrian about refator DefineMaterial function
 	* Refactoried some functions in DLL Utility sub-module
+	
+## 2021-02-23
 
+* Working on the Tax Return 2020 until Rental Worksheet
+* Read GitHub repository digests
+
+* [HEXAGONMI](#hexagonmi)
+	* Helped Shaharoz with embedding dialog box issues
+	* Read and refactored some functions in DLL Utility sub-module
+	
 ## REFERENCES
 
 ### estates
