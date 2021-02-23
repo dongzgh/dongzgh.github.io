@@ -51,3 +51,16 @@ tags: [Christian]
 * Bible is spiritual food
 * Everyone who calls on the name of Lord will be saved
 * Do you think that Lord maybe trying to speak to you?
+
+### #7 God has been guiding us always
+
+* Your life has significance.
+* How God speaks to us?
+  * {:.answer} Commanding scripture
+  * {:.answer} Compelling spirit
+  * {:.answer} Consul of the saints
+  * {:.answer} Common sense
+* Stay where you are until you are called by God
+* Ephesians 2:10 - ‘You’re God’s masterpiece. He created you anew in Christ Jesus, so that you can do the good things he planned for you long ago.’
+* Psalm 32:8 - ‘I will instruct you and teach you in the way you should go; I will counsel you and watch over you.’
+* Psalm 119:105 - ‘Your word is a lamp to my feet and a light to my path.’
