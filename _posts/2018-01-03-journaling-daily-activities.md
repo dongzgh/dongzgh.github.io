@@ -8641,7 +8641,10 @@ tags: [personal]
 * Filed Tax Return 2020 using Studio Tax
 
 * [HEXAGONMI](#hexagonmi)
-	* 
+	* Reviewed source code changes from Adrian related with material assignment
+	* Investigated the bug #28835 and #28836 related with topologically ill geometry
+	* Discussed with Shaharoz about dialog sizing issues
+	* Assigned the bug #28845 related with same material error to Adrian
 
 ## REFERENCES
 

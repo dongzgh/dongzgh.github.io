@@ -48,3 +48,7 @@ spellcheck: off
 * 识别以下五线谱记号？
   * &#9839; - 升号
   * &#9838; - 还原
+
+### [巩固知识点练习曲送别](https://www.bilibili.com/video/BV1R4411j7v5?p=8)
+
+* 练习钢琴演奏送别
