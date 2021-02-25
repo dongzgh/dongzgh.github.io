@@ -8625,6 +8625,24 @@ tags: [personal]
 	* Helped Shaharoz with embedding dialog box issues
 	* Read and refactored some functions in DLL Utility sub-module
 	
+## 2021-02-24
+
+* Deposited more funds to OLG
+* Bought Daily Grand and Lotto Max
+* Continued working on TAX Return 2020
+* Updated Gratitude Journal 1 style
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Shaharoz about the interface designs
+	* Assigned the bug 28809 to Adrian related with thickness direction issue
+
+## 2021-02-25
+
+* Filed Tax Return 2020 using Studio Tax
+
+* [HEXAGONMI](#hexagonmi)
+	* 
+
 ## REFERENCES
 
 ### estates
