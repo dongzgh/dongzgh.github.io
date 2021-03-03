@@ -8646,6 +8646,57 @@ tags: [personal]
 	* Discussed with Shaharoz about dialog sizing issues
 	* Assigned the bug #28845 related with same material error to Adrian
 
+## 2021-02-26
+
+* Updated Gratitude Journal content
+* Evaluated RRSP contribution on SunLife
+
+* [HEXAGONMI](#hexagonmi)
+	* Returned the bug #28649 related with display driver issues
+	* Checked PSA benefits
+	* Reviewed source code changes from Adrian related with run-off surface IDs
+	* Attended Scrum Practice meeting
+	* Discussed with Shaharoz about embed dialog box design
+
+## 2021-02-27
+
+* Opened SunLife RRSP account
+* Purchased from SunLife RRSP account 80000 mutual funds
+* With Ethan inline skates in the community
+
+## 2021-02-28
+
+* Played cards with Ethan
+* Inline skates with Ethan in the community park
+* Learned Amazon campaign
+
+## 2021-03-01
+
+* Reviewed products purchased from Amazon.ca
+* Attended the Alpha program
+
+* [HEXAGONMI](#hexagonmi)
+	* Reviewed source code refactor from Adrian
+	* Discussed with Adrian about strategy to fix thickness direction issues
+	* Reviewed PPT from Shaharoz about issues with new Double Attached design
+
+## 2021-03-02
+
+* Updated DynacarePlus membership renewal for Min and Dong
+
+* [HEXAGONMI](#hexagonmi)
+	* Reviewed source code changes from Adrian related with Thickness Direction
+	* Discussed with Adrian about code submission and testing
+	* Continued working on DLL Utility sub-module
+	* Created section in wiki about installation of nightly build
+	
+## 2021-03-03
+
+* Continued learning of Amazon Advertising
+
+* [HEXAGONMI](#hexagonmi)
+	* Installed software for the new laptop
+
 ## REFERENCES
 
 ### estates

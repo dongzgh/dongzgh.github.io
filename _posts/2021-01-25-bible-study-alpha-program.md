@@ -64,3 +64,18 @@ tags: [Christian]
 * Ephesians 2:10 - ‘You’re God’s masterpiece. He created you anew in Christ Jesus, so that you can do the good things he planned for you long ago.’
 * Psalm 32:8 - ‘I will instruct you and teach you in the way you should go; I will counsel you and watch over you.’
 * Psalm 119:105 - ‘Your word is a lamp to my feet and a light to my path.’
+
+### #8-#9 Who is the Holy Spirit?
+
+* Gift of the Holy Spirit
+* Soft heart and hard feet
+* Jesus, if you are real, come to my life
+* Longing, receiving
+* Holy spirit is freedom
+* Fire, physical manifestation
+
+### #10 What's the purpose of living?
+
+* Be authentic
+* First ambition, second ambition
+* Living sacrifice

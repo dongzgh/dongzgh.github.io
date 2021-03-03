@@ -71,6 +71,53 @@ tags: [money, book]
   * {:.answer} 250 EUR (EU marketplaces)
   * {:.answer} 30,000 JPY (Amazon.co.jp)
 
+## [Introduction to Targeting Methods](https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/13053/original/index.html?_courseId=336#/page/5e50352a888843704463563b)
+
+* What are the four targeting options?
+  * {:.answer} Close match
+  * {:.answer} Loose match
+  * {:.answer} Substitutes
+  * {:.answer} Complements
+
+## [Keyword Targeting](https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/13053/original/index.html?_courseId=336#/page/5e50352a888843704463564f)
+
+* What are the three basic rules in keyword matching?
+  * {:.answer} Close variations
+  * {:.answer} Misspellings not accounted
+  * {:.answer} Ignored words
+* What are the four types of keyword matching?
+  * {:.answer} Close match
+  * {:.answer} Phrase match
+  * {:.answer} Exact match
+  * {:.answer} Negative match
+
+## [Introduction to Building a Campaign](https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/10119/original/index.html?_courseId=337#/page/5de6ae270707a72fcc24bbae)
+
+* How to measure campaign efficiency?
+  * {:.answer} Advertising efficiency
+  * {:.answer} Brand awareness
+* What are the two metrics for evaluating advertising performance?
+  * {:.answer} ACOS (Advertising cost of sales): the lower the better
+  * {:.answer} ROAS (Return of advertising spend): the higher the better
+* What's the measure to evaluate brand awareness?
+  * {:.answer} Impression: the higher the better
+
+## [Setting Budget and Duration](https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/10119/original/index.html?_courseId=337#/page/5de6ae270707a72fcc24bc06)
+
+* What are the two budge options for?
+  * {:.answer} Sponsored product: daily budget
+  * {:.answer} Sponsored brand: daily budget or lifetime budget
+* What's suggested daily budget range?
+  * {:.answer} $1 - $10
+* Can you change your daily budget when campaign is on?
+  * {:.answer} Yes
+* Can you spend more than your daily budget for some days?
+  * {:.answer} Yes, as long as the average daily budget is within the daily budget
+* What's suggested lifetime budget?
+  * {:.answer} $$\ge$$ $100
+* Can you change your lifetime budge when campaign is on?
+  * {:.answer} Only increase
+
 ## Gratitude Journal
 
 * What's the benefit of gratitude journal? **[#249a16]**{:.citation}
