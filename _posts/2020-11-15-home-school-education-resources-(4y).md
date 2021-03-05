@@ -104,6 +104,7 @@ tags: [school]
     * Ultimate Real Kindergarten Workbook
   * Videos
     * [Let's Count to 100](https://youtu.be/1dkPouLWCyc) <i class="far fa-thumbs-up"></i>
+    * [Let's Count to 1](https://youtu.be/8jMmZaFvRpE) <i class="far fa-thumbs-up"></i>
     * [TVOkids Mathematics](https://www.youtube.com/channel/UCxNAcNMKHCXHY9dwVOElKpQ)
 * Science <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
   * Readings
