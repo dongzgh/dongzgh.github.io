@@ -8697,6 +8697,13 @@ tags: [personal]
 * [HEXAGONMI](#hexagonmi)
 	* Installed software for the new laptop
 
+## 2021-03-04
+
+* [HEXAGONMI](#hexagonmi)
+  * Migrated FSUnitTesting from Proto to Main branch
+  * Tried to build release version for UnitTesting
+  * Verified PPT related with Sprint Review
+
 ## REFERENCES
 
 ### estates

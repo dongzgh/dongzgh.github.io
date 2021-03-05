@@ -136,7 +136,7 @@ tags: [school]
     * [Math Games with a Deck of Cards](https://www.newarkschools.us/Downloads/Math%20Games%20with%20a%20Deck%20of%20Cards.pdf)
     * [亲子陪伴15个扑克牌小游戏](https://www.sayweee.com/article/view/faxst)
     * [訓練孩子專注力四大撲克牌遊戲](https://www.leaderkid.com.tw/2019/10/07/%E5%9B%9B%E5%A4%A7%E6%92%B2%E5%85%8B%E7%89%8C%E9%81%8A%E6%88%B2%EF%BC%8C%E8%A8%93%E7%B7%B4%E5%AD%A9%E5%AD%90%E5%B0%88%E6%B3%A8%E5%8A%9B/)
-    * [适合孩子玩的经典扑克游戏](/assets/doc/适合孩子玩的经典扑克游戏.docx)
+    * [适合孩子玩的经典扑克游戏](/assets/doc/18%20Classical%20Games%20for%20Kids.docx)
   * UNO <i class="far fa-thumbs-up"></i>
     * UNO stack (2,4, etc.)
   * Teaser
