@@ -118,6 +118,27 @@ tags: [money, book]
 * Can you change your lifetime budge when campaign is on?
   * {:.answer} Only increase
 
+## [Bidding on Keywords](https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/16973/original/index.html?_courseId=337#/page/5de6ae270707a72fcc24bbcf?element=5de6ae270707a72fcc24bbf1)
+
+* What are three types of match?
+  * {:.answer} Broad
+  * {:.answer} Phrase
+  * {:.answer} Exact
+* What's the bidding strategy difference between top of search and secondary?
+  * {:.answer} Top of Search: highest bidding
+  * {:.answer} Secondary Search: highest (bidding + adjustment)
+
+## [Set up a Sponsored Ads Campaign](https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/16973/original/index.html?_courseId=337#/menu/5de6ae270707a72fcc24bbab)
+
+* What are the three types of product bidding strategies?
+  * {:.answer} Down only
+  * {:.answer} Up and down
+  * {:.answer} Fixed
+* What are the three types of placement?
+  * {:.answer} Top of search
+  * {:.answer} Rest of search
+  * {:.answer} Product page
+
 ## Gratitude Journal
 
 * What's the benefit of gratitude journal? **[#249a16]**{:.citation}

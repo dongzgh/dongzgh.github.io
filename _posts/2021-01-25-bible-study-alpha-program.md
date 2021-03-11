@@ -79,3 +79,9 @@ tags: [Christian]
 * Be authentic
 * First ambition, second ambition
 * Living sacrifice
+
+### #11 How can I resist evil?
+
+* Evil tactics:
+  * Doubt
+  * Temptation

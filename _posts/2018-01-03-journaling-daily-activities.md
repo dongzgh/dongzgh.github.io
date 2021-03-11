@@ -8538,7 +8538,7 @@ tags: [personal]
 * Checked UserTesting and TryMyUI
 * Researched Gratitude Journal
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Revised GUI images
 
 ## 2021-02-11 - 2021-02-13
@@ -8703,6 +8703,47 @@ tags: [personal]
   * Migrated FSUnitTesting from Proto to Main branch
   * Tried to build release version for UnitTesting
   * Verified PPT related with Sprint Review
+
+## 2021-03-06-07
+
+* With Ethan skated at the Spencer Smith park
+
+## 2021-03-08
+
+* Bought new 2.5 HDD/SDD reader
+
+* [L3MONSHAPE](#l3monshape)
+  * Continued learning VTK
+	* Had talk with Charles about the project
+
+* [HEXAGONMI](#hexagonmi)
+	* Continued working on UnitTesting migration
+
+## 2021-03-09
+
+* Purchased furnitures from IKEA
+* Checked how to repair internal HDD
+
+* [HEXAGONMI](#hexagonmi)
+	* Submitted codes for UnitTesting into main branch
+	
+## 2021-03-10
+
+* Searched office desk chair
+
+* [HEXAGONMI](#hexagonmi)
+	* Fixed FTIFS_TLB_32 solution issuess
+	* Completed GDPR training
+	* Discussed with Adrian about the bug #27518 related with solid model checker
+	* Reviewed source codes from Adrian related with FindEnttitiesByReferences
+	* Continued learning of Visual Studio extension development
+
+## 2021-03-11
+
+* Updated education resources for Ethan
+
+* [HEXAGONMI](#hexagonmi)
+	* 
 
 ## REFERENCES
 
