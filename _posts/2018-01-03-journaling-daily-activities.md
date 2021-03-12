@@ -8741,9 +8741,13 @@ tags: [personal]
 ## 2021-03-11
 
 * Updated education resources for Ethan
+* Read technology digests from Product Hunt
+* Visited dentistry for filling and night guard scanning
+* Continued learning Advertising on Amazon
 
 * [HEXAGONMI](#hexagonmi)
-	* 
+	* Send updates about Unit Testing framework development
+	* Fixed the bug #29036 related with toolbar registry local user profile not updated
 
 ## REFERENCES
 

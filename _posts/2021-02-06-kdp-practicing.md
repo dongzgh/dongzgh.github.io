@@ -5,16 +5,13 @@ date:   2021-02-06 07:00:00 -0500
 tags: [money, book]
 ---
 
-## [Paperback Manuscript Templates](https://kdp.amazon.com/en_US/help/topic/G201834230)
+## Book Preparation
 
-* What's ISBN?
+* What's ISBN? **[#d01229]**{:.citation}
   * {:.answer} International Standard Book Number
-
-## [Build Your Book - Format a Paperback Manuscript](https://kdp.amazon.com/en_US/help/topic/G202145400)
-
-* What's the recommended page size (trim size)?
+* What's the recommended page size (trim size)? **[#9a6060]**{:.citation}
   * {:.answer} $$6'\times 9'$$ ($$15.24mm \times 24.86mm$$)
-* What's the recommended margin size?
+* What's the recommended margin size? **[#9a6060]**{:.citation}
   * |Page count|Inside (gutter) margins|Outside margins (no bleed)|Outside margins (with bleed)|
 |--- |--- |--- |--- |
 |24 to 150 pages|0.375 in (9.6 mm)|at least 0.25 in (6.4 mm)|at least 0.375 in (9.6 mm)|
@@ -22,122 +19,163 @@ tags: [money, book]
 |301 to 500 pages|0.625 in (15.9 mm)|at least 0.25 in (6.4 mm)|at least 0.375 in (9.6 mm)|
 |501 to 700 pages|0.75 in (19.1 mm)|at least 0.25 in (6.4 mm)|at least 0.375 in (9.6 mm)|
 |701 to 828 pages|0.875 in (22.3 mm)|at least 0.25 in (6.4 mm)|at least 0.375 in (9.6 mm)|
-* What's resolution is required for images?
+* What's resolution is required for images? **[#9a6060]**{:.citation}
   * {:.answer} Higher than 300dpi
-* How to disabling image downsampling?
+* How to disabling image downsampling? **[#9a6060]**{:.citation}
   * ![Turn Off Down Sampling](/assets/img/posts/kdp-practicing-turn-off-down-sampling.png)
-* How to export PDF document?
+* How to export PDF document? **[#9a6060]**{:.citation}
   * ![Export PDF 1](/assets/img/posts/kdp-practicing-export-pdf-1.png)
   * ![Export PDF 2](/assets/img/posts/kdp-practicing-export-pdf-2.png)
-
-## [Paperback Fonts](https://kdp.amazon.com/en_US/help/topic/G202145450)
-
-* What's the acceptable lowest font size?
+* What's the acceptable lowest font size? **[#e81c2f]**{:.citation}
   * {:.answer} 7pt
-* How to embed fonts?
+* How to embed fonts? **[#e81c2f]**{:.citation}
   * ![Embed Fonts](/assets/img/posts/kdp-practicing-embed-fonts.png)
-
-## [Format Images in Your Paperback](https://kdp.amazon.com/en_US/help/topic/G202169030)
-
-* Do I need to flatten images?
+* Do I need to flatten images? **[#fac12c]**{:.citation}
   * {:.answer} After printing to PDF, all image layers are flattened
-
-## [Create a Paperback Cover](https://kdp.amazon.com/en_US/help/topic/G201953020)
-
-* What's the file size limit for cover PDF?
+* What's the file size limit for cover PDF? **[#7097c3]**{:.citation}
   * {:.answer} Less than 40MB
-
-## [Print Options](https://kdp.amazon.com/en_US/help/topic/G201834180)
-
-* What ink options are available?
+* What ink options are available? **[#85b9b1]**{:.citation}
   * {:.answer} Black ink and 55# (90 GSM) cream paper
   * {:.answer} Black ink and 55# (90 GSM) white paper
   * {:.answer} Color ink and 60# (100 GSM) white paper
-* Will color printing be tagged a higher price?
+* Will color printing be tagged a higher price? **[#85b9b1]**{:.citation}
   * {:.answer} Yes
-* What types of cover finish are available?
+* What types of cover finish are available? **[#85b9b1]**{:.citation}
   * {:.answer} Glossy - for non-fiction
   * {:.answer} Matte - for fiction
-
-## [Printing Cost](https://kdp.amazon.com/en_US/help/topic/G201834340)
-
-* What's the royalty for paperback?
+* What's the royalty for paperback? **[#0d382c]**{:.citation}
   * {:.answer} Fixed 60%
-* How to calculate the minimum sell price?
+* How to calculate the minimum sell price? **[#0d382c]**{:.citation}
   * {:.answer} 60% of printing cost
-* How much is the maximum list price?
+* How much is the maximum list price? **[#0d382c]**{:.citation}
   * {:.answer} 250 USD (Amazon.com)
   * {:.answer} 350 CAD (Amazon.ca)
   * {:.answer} 250 EUR (EU marketplaces)
   * {:.answer} 30,000 JPY (Amazon.co.jp)
 
-## [Introduction to Targeting Methods](https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/13053/original/index.html?_courseId=336#/page/5e50352a888843704463563b)
+[#d01229]: https://kdp.amazon.com/en_US/help/topic/G201834230
+[#9a6060]: https://kdp.amazon.com/en_US/help/topic/G202145400
+[#e81c2f]: https://kdp.amazon.com/en_US/help/topic/G202145450
+[#fac12c]: https://kdp.amazon.com/en_US/help/topic/G202169030
+[#7097c3]: https://kdp.amazon.com/en_US/help/topic/G201953020
+[#85b9b1]: https://kdp.amazon.com/en_US/help/topic/G201834180
+[#0d382c]: https://kdp.amazon.com/en_US/help/topic/G201834340
 
-* What are the four targeting options?
+## Book Marketing
+
+* What are the four targeting options? **[#22218e]**{:.citation}
   * {:.answer} Close match
   * {:.answer} Loose match
   * {:.answer} Substitutes
   * {:.answer} Complements
-
-## [Keyword Targeting](https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/13053/original/index.html?_courseId=336#/page/5e50352a888843704463564f)
-
-* What are the three basic rules in keyword matching?
+* What are the three basic rules in keyword matching? **[#e9b0af]**{:.citation}
   * {:.answer} Close variations
   * {:.answer} Misspellings not accounted
   * {:.answer} Ignored words
-* What are the four types of keyword matching?
+* What are the four types of keyword matching? **[#e9b0af]**{:.citation}
   * {:.answer} Close match
   * {:.answer} Phrase match
   * {:.answer} Exact match
   * {:.answer} Negative match
-
-## [Introduction to Building a Campaign](https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/10119/original/index.html?_courseId=337#/page/5de6ae270707a72fcc24bbae)
-
-* How to measure campaign efficiency?
+* How to measure campaign efficiency? **[#cd504c]**{:.citation}
   * {:.answer} Advertising efficiency
   * {:.answer} Brand awareness
-* What are the two metrics for evaluating advertising performance?
+* What are the two metrics for evaluating advertising performance? **[#cd504c]**{:.citation}
   * {:.answer} ACOS (Advertising cost of sales): the lower the better
   * {:.answer} ROAS (Return of advertising spend): the higher the better
-* What's the measure to evaluate brand awareness?
+* What's the measure to evaluate brand awareness? **[#cd504c]**{:.citation}
   * {:.answer} Impression: the higher the better
-
-## [Setting Budget and Duration](https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/10119/original/index.html?_courseId=337#/page/5de6ae270707a72fcc24bc06)
-
-* What are the two budge options for?
+* What are the two budge options for? **[#99d228]**{:.citation}
   * {:.answer} Sponsored product: daily budget
   * {:.answer} Sponsored brand: daily budget or lifetime budget
-* What's suggested daily budget range?
+* What's suggested daily budget range? **[#99d228]**{:.citation}
   * {:.answer} $1 - $10
-* Can you change your daily budget when campaign is on?
+* Can you change your daily budget when campaign is on? **[#99d228]**{:.citation}
   * {:.answer} Yes
-* Can you spend more than your daily budget for some days?
+* Can you spend more than your daily budget for some days? **[#99d228]**{:.citation}
   * {:.answer} Yes, as long as the average daily budget is within the daily budget
-* What's suggested lifetime budget?
+* What's suggested lifetime budget? **[#99d228]**{:.citation}
   * {:.answer} $$\ge$$ $100
-* Can you change your lifetime budge when campaign is on?
+* Can you change your lifetime budge when campaign is on? **[#99d228]**{:.citation}
   * {:.answer} Only increase
-
-## [Bidding on Keywords](https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/16973/original/index.html?_courseId=337#/page/5de6ae270707a72fcc24bbcf?element=5de6ae270707a72fcc24bbf1)
-
-* What are three types of match?
+* What are three types of match? **[#6aea62]**{:.citation}
   * {:.answer} Broad
   * {:.answer} Phrase
   * {:.answer} Exact
-* What's the bidding strategy difference between top of search and secondary?
+* What's the bidding strategy difference between top of search and secondary? **[#6aea62]**{:.citation}
   * {:.answer} Top of Search: highest bidding
   * {:.answer} Secondary Search: highest (bidding + adjustment)
-
-## [Set up a Sponsored Ads Campaign](https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/16973/original/index.html?_courseId=337#/menu/5de6ae270707a72fcc24bbab)
-
-* What are the three types of product bidding strategies?
+* What are the three types of product bidding strategies? **[#ed3f6f]**{:.citation}
   * {:.answer} Down only
   * {:.answer} Up and down
   * {:.answer} Fixed
-* What are the three types of placement?
+* What are the three types of placement? **[#ed3f6f]**{:.citation}
   * {:.answer} Top of search
   * {:.answer} Rest of search
   * {:.answer} Product page
+* What's the meaning of the following industry standard metrics? **[#35729d]**{:.citation}
+  * {:.answer} Impression: A count of how many times your ad has been shown to customers.
+  * {:.answer} Clicks: A count of how many times customers have clicked on an ad.
+  * {:.answer} Cost Per Click: Average cost per click (aCPC) is the average amount that you have spent for a click.
+  * {:.answer} Click Through Rate: The ratio of how often customers click on your ad when it is shown.
+  * {:.answer} Return on Ad Spend: Calculated as the total product sales divided by total ad spend.
+  * {:.answer} Spend: The total amount of your advertising budget you've spent.
+* What's the meaning of the following ecommerce metrics? **[#35729d]**{:.citation}
+  * {:.answer} Detailed Page Views: A count of how many times customers visited your product detail page.
+  * {:.answer} Conversion Rate: Percent of the customers who clicked on your ad and made a purchase.
+  * {:.answer} Units Sold: The total number of your brand's products sold on Amazon.
+  * {:.answer} Total Orders: A count of the orders placed for your brand's products.
+  * {:.answer} Attributed Sales: The total dollar value of your brand's products sold.
+  * {:.answer} Advertising Cose of Sales: ACOS is the amount you’ve spent on a campaign divided by total sales during the campaign. 
+* What's new to brand metrics? **[#35729d]**{:.citation}
+  * {:.answer} A metric measuring orders and sales generated first-time cusstomers of your brand.
+* What's the timing window a customer considered as new customer? **[#35729d]**{:.citation}
+  * {:.answer} 12 months
+* How seller's attribution is evaluated? **[#695223]**{:.citation}
+  * {:.answer} Within 7 days any products converted
+* What's the purpose of Search term report? **[#a2517e]**{:.citation}
+  * {:.answer} See what customer will buy
+* What's the purpose of Placement report? **[#a2517e]**{:.citation}
+  * {:.answer} See where compaign is more effictive
+* What's the most effective metric for Sales efficiency? **[#a888b7]**{:.citation}
+  * {:.answer} ACOS/ROAS
+* What's the most effective metric for brand awareness? **[#a888b7]**{:.citation}
+  * {:.answer} Impression
+* Which report to use for identifying most effective ASIN? **[#24c093]**{:.citation}
+  * {:.answer} Advertised product report
+* What's Parent/Child ASIN group? **[#cf1cc7]**{:.citation}
+  * {:.answer} A parent ASIN with children variations
+* What's the differnece between vendor and seller? **[#cf1cc7]**{:.citation}
+  * {:.answer} Vendor through FBA
+* What's Featured Offer? **[#cf1cc7]**{:.citation}
+  * {:.answer} Offer from Amazon
+* What should be checked against retail readyness? **[#311b8a]**{:.citation}
+  * {:.answer} Title and description
+  * {:.answer} Images and video
+  * {:.answer} Customer reviews
+  * {:.answer} Star rating
+  * {:.answer} Inventory
+  * {:.answer} Enhanced content
+* What's the number of suggested bullet points? **[#b59ae5]**{:.citation}
+  * {:.answer} 5
+* Which program can be used for boosting earlier reviews? **[#b59ae5]**{:.citation}
+  * {:.answer} Seller: Earlier review
+  * {:.answer} Vendor: Vine program
+
+[#22218e]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/13053/original/index.html?_courseId=336#/page/5e50352a888843704463563b
+[#e9b0af]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/13053/original/index.html?_courseId=336#/page/5e50352a888843704463564f
+[#cd504c]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/10119/original/index.html?_courseId=337#/page/5de6ae270707a72fcc24bbae
+[#99d228]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/10119/original/index.html?_courseId=337#/page/5de6ae270707a72fcc24bc06
+[#6aea62]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/16973/original/index.html?_courseId=337#/page/5de6ae270707a72fcc24bbcf
+[#ed3f6f]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/16973/original/index.html?_courseId=337#/menu/5de6ae270707a72fcc24bbab
+[#35729d]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17143/original/index.html?_courseId=338#/page/5fdbcba37b62b1529403ab25
+[#695223]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17143/original/index.html?_courseId=338#/page/5fdbcba37b62b1529403ab0f
+[#a2517e]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17143/original/index.html?_courseId=338#/page/5fdbcba47b62b1529403ab45
+[#a888b7]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17147/original/index.html?_courseId=339#/page/5df02994009a452ced83c861
+[#24c093]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17147/original/index.html?_courseId=339#/page/5df02994009a452ced83c872
+[#cf1cc7]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17149/original/index.html?_courseId=1521#/page/5db9942be3c60a639b08793c
+[#311b8a]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17149/original/index.html?_courseId=1521#/page/5db9942be3c60a639b08794d
+[#b59ae5]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17149/original/index.html?_courseId=1521#/page/5db9942ce3c60a639b087970
 
 ## Gratitude Journal
 
@@ -161,7 +199,7 @@ tags: [money, book]
   * {:.answer} Don't repeat
   * {:.answer} Write regularly
   * {:.answer} Occasionally, not daily
-* Name some lessons learned?
+* Name some lessons learned? **[#d26e2e]**{:.citation}
   * {:.answer} Not all fonts are supported on KDP paperback
   * {:.answer} Font effects normally not supported on KDP paperback
 
