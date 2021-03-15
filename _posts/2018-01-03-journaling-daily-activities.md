@@ -8749,6 +8749,26 @@ tags: [personal]
 	* Send updates about Unit Testing framework development
 	* Fixed the bug #29036 related with toolbar registry local user profile not updated
 
+## 2021-03-12
+
+* Paied Burlington Hydro monthly bill
+* Read technology news from Dyndrite
+* Read technology news from NVDIA
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Shararoz about dialog mouse movement handler implementation
+	* Continued development of Visual Studio plug-in for Unit Test boilerplate
+	* Created query for bugs in Geometry team
+	* Investigating bugs that deserve writting unit tests
+	* Removed some redundunt functions in Control submodule
+	* Groomed Sprint backlog
+
+## 2021-03-13
+
+* Visted Forks of the Credit Provincial Park
+* Washed ice gripper and skateboard
+* Assembled new office desk chair
+
 ## REFERENCES
 
 ### estates
