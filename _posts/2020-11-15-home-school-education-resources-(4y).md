@@ -5,7 +5,7 @@ date:   2020-12-02 07:00:00 -0500
 tags: [school]
 ---
 
-## Ethics <span style="color: blue"><i class="fab fa-readme"></i></span>
+## Ethics 
 
 ### Stories
 
@@ -36,14 +36,18 @@ tags: [school]
 
 ## Mind
 
-### English Literacy <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
+### English Literacy
 
 * Virtual Kindergarten <i class="far fa-thumbs-up"></i>
 * Educational Activities <i class="far fa-thumbs-up"></i>
+  * [The Alphabet Song](https://youtu.be/lhX064AiyGg) <i class="far fa-thumbs-up"></i>
   * [Alphabet Line Up](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
   * [Alphabet Rooms](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141630219)
   * Alphabet match game
   * English Words
+    * [Jack Harman Sight Words](https://www.youtube.com/watch?v=gIZjrcG9pW0&list=PLsAsYlJSSx-qcUr6D4i-LPBvkV2Suy0iV)
+    * [Sight Words](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141013772)
+    * [Animal Alphabet Song](https://youtu.be/VgDmGu7Pur8)
     * [Space Cards](https://prekinders-wpengine.netdna-ssl.com/wp-content/uploads/2015/10/space-word-cards.pdf)
     * [3D Shapes](https://hcdsb.elearningontario.ca/content/enforced/17568618-BL_SK_JKSKH-01_846774_2021/3D%20Shapes%20Concentration%20Game%201.pdf)
     * [Days of the Week](https://docs.google.com/document/d/1EktTvz8ypayBdaDLS_NwspERJc-xHo9oxTBc1lJkeXU/copy)
@@ -78,21 +82,19 @@ tags: [school]
     * [Rainbow Fish Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/150887274)
   * [Tumble Books](https://www.tumblebooklibrary.com/Home.aspx?categoryID=77)
 * Videos
-  * [The Alphabet Song](https://youtu.be/lhX064AiyGg) <i class="far fa-thumbs-up"></i>
-  * [Animal Alphabet Song](https://youtu.be/VgDmGu7Pur8)
-  * [Jack Harman Sight Words](https://youtu.be/gIZjrcG9pW0)
-  * [Sight Words](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141013772)
   * [TVOkids Language](https://www.youtube.com/channel/UCdZLh7XMeNmm7B1unPIv49A)
 
-### Chinese Literacy <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
+### Chinese Literacy 
 
 * Readings
   * 四五快读 <i class="far fa-thumbs-up"></i>
 
-### Mathematics <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
+### Mathematics 
 
 * Virtual Kindergarten <i class="far fa-thumbs-up"></i>
 * Educational Activities <i class="far fa-thumbs-up"></i>
+  * [Let's Count to 100](https://youtu.be/1dkPouLWCyc) <i class="far fa-thumbs-up"></i>
+  * [Let's Count to 1](https://youtu.be/8jMmZaFvRpE) <i class="far fa-thumbs-up"></i>
   * [Roll and Write](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
   * [Measuring](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
   * [Math Tools](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140166695)
@@ -117,12 +119,10 @@ tags: [school]
   * [19](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/148574191)
   * [20](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/149653921)
   * Ultimate Real Kindergarten Workbook
-* Videos
-  * [Let's Count to 100](https://youtu.be/1dkPouLWCyc) <i class="far fa-thumbs-up"></i>
-  * [Let's Count to 1](https://youtu.be/8jMmZaFvRpE) <i class="far fa-thumbs-up"></i>
+* Videos  
   * [TVOkids Mathematics](https://www.youtube.com/channel/UCxNAcNMKHCXHY9dwVOElKpQ)
 
-### Science <span style="color: blue"><i class="fas fa-graduation-cap"></i></span>
+### Science 
 
 * Readings
   * [Solar System](https://site.pebblego.com/modules/2/categories/2992)

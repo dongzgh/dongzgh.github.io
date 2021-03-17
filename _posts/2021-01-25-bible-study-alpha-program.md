@@ -85,3 +85,5 @@ tags: [Christian]
 * Evil tactics:
   * Doubt
   * Temptation
+
+### #12 Why and how should I tell others?

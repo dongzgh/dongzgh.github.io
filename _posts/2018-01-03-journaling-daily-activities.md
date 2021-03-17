@@ -8767,7 +8767,26 @@ tags: [personal]
 
 * Visted Forks of the Credit Provincial Park
 * Washed ice gripper and skateboard
+
+## 2021-03-14
+
 * Assembled new office desk chair
+
+## 2021-03-15
+
+* Assmebled dresser and cube
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed and reviewed with Adrian about tipping vector extraction code refactoring
+	* Started working on FTITranslateGeometryByDataKit::Evaluate testing cases
+	
+## 2021-03-16
+
+* Read technology digests from NVIDIA
+
+* [HEXAGONMI](#hexagonmi)
+	* Reviewed source codes from Adrian related with Line on Boundary
+	* Continued working on FTITranslateGeometryByDataKit::Evaluate testing cases
 
 ## REFERENCES
 
