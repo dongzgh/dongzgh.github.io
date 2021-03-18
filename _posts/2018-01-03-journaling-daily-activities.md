@@ -8787,6 +8787,8 @@ tags: [personal]
 * [HEXAGONMI](#hexagonmi)
 	* Reviewed source codes from Adrian related with Line on Boundary
 	* Continued working on FTITranslateGeometryByDataKit::Evaluate testing cases
+	* Discussed with Shaharoz about design of MirrorDblAttached dialog box
+	* Developed structure for testing assets management
 
 ## REFERENCES
 
