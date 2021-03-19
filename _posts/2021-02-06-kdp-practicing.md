@@ -63,20 +63,65 @@ tags: [money, book]
 
 ## Book Marketing
 
-* What are the four targeting options? **[#22218e]**{:.citation}
+### Learn about Sponsored ad types
+
+* What are the differences amoung vendor, seller and agents? **[#fd6a93]**{:.citation}
+  * {:.answer} Vendor: individual occasional seller (e.g., KDP)
+  * {:.answer} Seller: branch registered professional seller
+  * {:.answer} Agent: representative of vendor or seller
+* What are the two types of Sponsored ads? **[#fd6a93]**{:.citation}
+  * {:.answer} Sponsored Products
+  * {:.answer} Sponsored Brands
+* Where can set Sponsored ads? **[#fd6a93]**{:.citation}
+  * {:.answer} Vendor: Advertising Console
+  * {:.answer} Seller: Seller Central
+* What are the two factors affecting the Sponsored ads' auction process? **[#71440e]**{:.citation}
+  * {:.answer} Keyword relavency
+  * {:.answer} CPC (Cost per Click bid)
+* What's the amount to pay for a winner bid? **[#71440e]**{:.citation}
+  * {:.answer} Slightly higher than the second highest CPC
+* What's the meaning of the bid price? **[#71440e]**{:.citation}
+  * {:.answer} You pay Amazon up to the amount you bid if user clicks the bid
+* Do you need to pay the bid if user doesn't click? **[#71440e]**{:.citation}
+  * {:.answer} No
+
+[#fd6a93]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17139/original/index.html?_courseId=335#/page/5df7979d82a0716237f06bf0
+[#71440e]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17139/original/index.html?_courseId=335#/page/5df7979e82a0716237f06c18
+
+### Target your Sponsord ads campaign
+
+* What are the two targeting methods? **[#22218e]**{:.citation}
+  * {:.answer} Automatic targeting (Sponsored product only)
+  * {:.answer} Manual targeting
+* What are the four options for automatic targeting? **[#22218e]**{:.citation}
   * {:.answer} Close match
   * {:.answer} Loose match
   * {:.answer} Substitutes
   * {:.answer} Complements
-* What are the three basic rules in keyword matching? **[#e9b0af]**{:.citation}
+* What are the two options for manual targeting? **[#22218e]**{:.citation}
+  * {:.answer} Keyword targeting
+  * {:.answer} Product targeting
+* What are the basic keyword rules? **[#3d22b3]**{:.citation}
   * {:.answer} Close variations
-  * {:.answer} Misspellings not accounted
+  * {:.answer} Misspellings
   * {:.answer} Ignored words
-* What are the four types of keyword matching? **[#e9b0af]**{:.citation}
-  * {:.answer} Close match
-  * {:.answer} Phrase match
-  * {:.answer} Exact match
-  * {:.answer} Negative match
+* What are the four types of keyword match? **[#3d22b3]**{:.citation}
+  * {:.answer} Broad match: all keywords no matter orders, before and after
+  * {:.answer} Phrase match: all keywords in the same order no matter before and after
+  * {:.answer} Exact match: exact keywords
+  * {:.answer} Negative match: including negative phrase match and negative exact match
+* What are the two product targeting options? **[#ab495a]**{:.citation}
+  * {:.answer} Targeting by category
+  * {:.answer} Targeting by individual product
+* What's negative product targeting? **[#ab495a]**{:.citation}
+  * {:.answer} Define where you don't want your ads to be seen
+* Which targeting method can be refined? **[#ab495a]**{:.citation}
+  * {:.answer} Targeting by category
+
+[#22218e]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/13053/original/index.html?_courseId=336#/page/5e50352a888843704463563b
+[#3d22b3]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17141/original/index.html?_courseId=336#/page/5e50352a888843704463564f
+[#ab495a]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17141/original/index.html?_courseId=336#/page/5e50352b8888437044635672
+
 * How to measure campaign efficiency? **[#cd504c]**{:.citation}
   * {:.answer} Advertising efficiency
   * {:.answer} Brand awareness
@@ -162,8 +207,6 @@ tags: [money, book]
   * {:.answer} Seller: Earlier review
   * {:.answer} Vendor: Vine program
 
-[#22218e]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/13053/original/index.html?_courseId=336#/page/5e50352a888843704463563b
-[#e9b0af]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/13053/original/index.html?_courseId=336#/page/5e50352a888843704463564f
 [#cd504c]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/10119/original/index.html?_courseId=337#/page/5de6ae270707a72fcc24bbae
 [#99d228]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/10119/original/index.html?_courseId=337#/page/5de6ae270707a72fcc24bc06
 [#6aea62]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/16973/original/index.html?_courseId=337#/page/5de6ae270707a72fcc24bbcf

@@ -8039,7 +8039,7 @@ tags: [personal]
 * Submitted claim for Microsoft Canadian Consumer Benefits
 * Read nTopology white papers
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Searched free FEA packages (ANSYS and MSC)
 	* Checked Hostgater webmail
 	* Started to work on software architecture planning
@@ -8057,7 +8057,7 @@ tags: [personal]
 * Installed blinds in Evelyn
 * Started learning of ABC notations
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Had meeting with Charles and Li
 	
 ## 2020-12-13
@@ -8113,7 +8113,7 @@ tags: [personal]
 * Learned how to remove vertical blinds
 * Ordered webcam
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Installed ANSYS Discovery Aims
 
 * [HEXAGONMI](#hexagonmi)
@@ -8171,7 +8171,7 @@ tags: [personal]
 * Read technology news from NVIDIA
 * Visited Kens Park community
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Reviewed Real-Time Volume Graphics
 
 ## 2020-12-29
@@ -8179,19 +8179,19 @@ tags: [personal]
 * Reviewed articles related with child emotional issues
 * Visited Monarch Trail at Dundas Conservation Area
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Reviewed VTK textbook
 	
 ## 2020-12-30
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Reviewed VTK textbook
 	
 ## 2020-01-03
 
 * Continued learning of piano courses
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of VTK textbook
 
 ## 2021-01-04
@@ -8209,7 +8209,7 @@ tags: [personal]
 
 * Compiled Ethan's Book - 鸡宝宝和大怪物
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of VTK textbook
 	
 * [HEXAGONMI](#hexagonmi)
@@ -8238,7 +8238,7 @@ tags: [personal]
 	
 ## 2021-01-09
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of VTK textbook
 
 * [HEXAGONMI](#hexagonmi)
@@ -8259,7 +8259,7 @@ tags: [personal]
 * Updated school schedule from now on including Art/Drama/Music
 * Booked appointment for Ethan's second vaccine shot for age 4-6
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of VTK textbook
 	
 * [HEXAGONMI](#hexagonmi)
@@ -8271,7 +8271,7 @@ tags: [personal]
 * Started the application for Dong's passport renewal
 * Started the application for Ethan's passport
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of VTK textbook
 	
 * [HEXAGONMI](#hexagonmi)
@@ -8284,7 +8284,7 @@ tags: [personal]
 * Read digests from ProductHunt
 * Updated education resources
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Continued learning of VTK textbook
 	
 * [HEXAGONMI](#hexagonmi)
@@ -8342,7 +8342,7 @@ tags: [personal]
 * Updated S60 insurance to include theft coverage
 * Bought Amazon Blink Outdoor cameras
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Reviewed new business plan from Charles
 	
 * [HEXAGONMI](#hexagonmi)
@@ -8356,7 +8356,7 @@ tags: [personal]
 * Initialized Humidity Indicator
 * Started to research topics related with KDP
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Revised research mind maps
 	
 * [HEXAGONMI](#hexagonmi)
@@ -8403,7 +8403,7 @@ tags: [personal]
 * Attended Alpha program
 * Continued research of KDP
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Started learning of ANSYS
 	
 * [HEXAGONMI](#hexagonmi)
@@ -8413,7 +8413,7 @@ tags: [personal]
 
 * Started learning of KDP on Udemy
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Started learning of ANSYS
 	
 * [HEXAGONMI](#hexagonmi)
@@ -8423,7 +8423,7 @@ tags: [personal]
 
 * Continued learning of KDP on Udemy
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Created model in Fusion 360 for simulation
 	
 * [HEXAGONMI](#hexagonmi)
@@ -8434,7 +8434,7 @@ tags: [personal]
 
 * Continued learning of KDP on Udemy
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Created ANSYS model for Topology Optimization
 	
 * [HEXAGONMI](#hexagonmi)
@@ -8506,7 +8506,7 @@ tags: [personal]
 * Checked online appointment for Dong's passport renewal
 * Booked reminder on calendar for the next available spots
 
-* [L3MONSHAPE]
+* [L3MONSHAPE](#l3monshape)
 	* Started	to revise GUI images
 
 * [HEXAGONMI](#hexagonmi)
@@ -8789,6 +8789,26 @@ tags: [personal]
 	* Continued working on FTITranslateGeometryByDataKit::Evaluate testing cases
 	* Discussed with Shaharoz about design of MirrorDblAttached dialog box
 	* Developed structure for testing assets management
+
+## 2021-03-17
+
+* Picked antibiotics for teeth infection
+* Booked appointment with Volvo Oakville for DSTC issue
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Shaharoz about back-end issues to support MirrorDblAttached
+	* Reviewed source codes from Shararoz and Adrian
+	* Discussed with Rob, Jacob and Eric about remote testing resources
+	* Reorganized remote desktop machine for testing purpose
+
+## 2021-03-18
+
+* Restarted training on Sponsored ads Certification
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK textbook
+	
+* [HEXAGONMI](#hexagonmi)
 
 ## REFERENCES
 

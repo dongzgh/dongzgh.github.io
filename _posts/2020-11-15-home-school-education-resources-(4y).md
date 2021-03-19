@@ -265,6 +265,7 @@ tags: [school]
   * [Music Lesson 1](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/149662637)
   * [Music Lesson 2](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/150110197)
   * [Music Lesson 3](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/151024384)
+  * [Music Lesson 4](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/topics/151564931)
 * [Christmas Music Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
 * [Let's Go For A Walk Outside](https://youtu.be/BWR3DxGHLD4)
 * [Sing a Long Concert](https://youtu.be/6-xqosckJ5c)
