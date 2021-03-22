@@ -8841,8 +8841,13 @@ tags: [personal]
 ## 2021-03-22
 
 * Continued learning of Sponsored ads from Amazon
+* Received referral to orthodontist for root canal treatment
 
 * [HEXAGONMI](#hexagonmi)
+	* Updated strategy for remote testing
+	* Updated testing techniques for data driven tests
+	* Updated project documents on Microsoft Team
+	* Removed mock warnings for uninterested calls
 
 ## REFERENCES
 

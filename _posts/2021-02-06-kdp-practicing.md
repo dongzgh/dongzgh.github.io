@@ -243,18 +243,33 @@ tags: [money, book]
 
 ### Optimize your sponsored ads campaign
 
-* What's the most effective metric for Sales efficiency? **[#a888b7]**{:.citation}
-  * {:.answer} ACOS/ROAS
-* What's the most effective metric for Brand awareness? **[#a888b7]**{:.citation}
-  * {:.answer} Impression
 * Which report to use for identifying most effective ASIN? **[#24c093]**{:.citation}
   * {:.answer} Advertised product report
+* What's the general strategy for increasing sales efficiency? **[#24c093]**{:.citation}
+  * {:.answer} Decrease ACOS/ROAS
+* What's the general strategy for increasing brand awareness? **[#24c093]**{:.citation}
+  * {:.answer} Adding more ASINs for the campaign
+* Which report to use for identifying underperforming keywords? **[#8ad283]**{:.citation}
+  * {:.answer} Targeting report
+* Which report to use for discovering potential keywords? **[#8ad283]**{:.citation}
+  * {:.answer} Search term report
+
+[#24c093]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17147/original/index.html?_courseId=339#/page/5df02994009a452ced83c872
+[#8ad283]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17147/original/index.html?_courseId=339#/page/5df02994009a452ced83c87f
+
+### Optimize for retail readiness
+
 * What's Parent/Child ASIN group? **[#cf1cc7]**{:.citation}
   * {:.answer} A parent ASIN with children variations
-* What's the difference between vendor and seller? **[#cf1cc7]**{:.citation}
-  * {:.answer} Vendor through FBA
 * What's Featured Offer? **[#cf1cc7]**{:.citation}
-  * {:.answer} Offer from Amazon
+  * {:.answer} Vendor: ships and sold by Amazon
+  * {:.answer} Seller: ships from and sold by XXX or sold by XXX and fulfilled by Amazon
+* What's the recommended number of images? **[#311b8a]**{:.citation}
+  * {:.answer} $$\ge$$4
+* What's the recommended rating? **[#311b8a]**{:.citation}
+  * {:.answer} $$\ge$$3.5
+* What's the recommended number of reviews? **[#311b8a]**{:.citation}
+  * {:.answer} $$\ge$$15
 * What should be checked against retail readiness? **[#311b8a]**{:.citation}
   * {:.answer} Title and description
   * {:.answer} Images and video
@@ -262,14 +277,21 @@ tags: [money, book]
   * {:.answer} Star rating
   * {:.answer} Inventory
   * {:.answer} Enhanced content
+* How inventory level will affect product campaign? **[#b59ae5]**{:.citation}
+  * {:.answer} No inventory no campaign
+* How inventory level will affect brand campaign? **[#b59ae5]**{:.citation}
+  * {:.answer} No inventory no campaign
+  * {:.answer} Less than 3 ASINs no campaign
 * What's the number of suggested bullet points? **[#b59ae5]**{:.citation}
   * {:.answer} 5
 * Which program can be used for boosting earlier reviews? **[#b59ae5]**{:.citation}
   * {:.answer} Seller: Earlier review
   * {:.answer} Vendor: Vine program
+* What are the two options for enhanced content? **[#b59ae5]**{:.citation}
+  * {:.answer} A+ enhanced content
+  * {:.answer} Enhanced brand content
 
-[#a888b7]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17147/original/index.html?_courseId=339#/page/5df02994009a452ced83c861
-[#24c093]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17147/original/index.html?_courseId=339#/page/5df02994009a452ced83c872
+
 [#cf1cc7]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17149/original/index.html?_courseId=1521#/page/5db9942be3c60a639b08793c
 [#311b8a]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17149/original/index.html?_courseId=1521#/page/5db9942be3c60a639b08794d
 [#b59ae5]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17149/original/index.html?_courseId=1521#/page/5db9942ce3c60a639b087970

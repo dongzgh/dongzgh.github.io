@@ -217,7 +217,6 @@ tags: [school]
 * Exercise
   * [Boom Chicka Boom](https://youtu.be/9nKq4jm4LD8)
   * [Shake Your Sillies Out](https://youtu.be/NwT5oX_mqS0)
-  * [Let's Count to 100](https://youtu.be/1dkPouLWCyc)
   * [Under the Sea Yoga](https://youtu.be/qC83oFEeVZA)
 * PE Games
   * Indoor
@@ -257,6 +256,8 @@ tags: [school]
     * [How To Draw A Witch](https://youtu.be/0C8stMVqzCg)
     * [How To Draw A Cow](https://youtu.be/ezegUT9U6fM)
     * [How to Draw An Ox](https://youtu.be/jNawjZ40pOY)
+    * [How to Draw A Shark](https://youtu.be/aGkSeFw8MdQ)
+    * [How to Draw People](https://www.youtube.com/playlist?list=PLnoO3k54vcBRRGrCMyKOTDLCw2XmzvRdv)
   * [Crateful Art](https://www.youtube.com/c/Createfulart/featured)
   * [Wow Art](https://www.youtube.com/channel/UCdZutxI1UnH9N3Fh_TeQ4Kw/videosf)
 
