@@ -21,7 +21,7 @@ tags: [money, book]
 |701 to 828 pages|0.875 in (22.3 mm)|at least 0.25 in (6.4 mm)|at least 0.375 in (9.6 mm)|
 * What's resolution is required for images? **[#9a6060]**{:.citation}
   * {:.answer} Higher than 300dpi
-* How to disabling image downsampling? **[#9a6060]**{:.citation}
+* How to disabling image down sampling? **[#9a6060]**{:.citation}
   * ![Turn Off Down Sampling](/assets/img/posts/kdp-practicing-turn-off-down-sampling.png)
 * How to export PDF document? **[#9a6060]**{:.citation}
   * ![Export PDF 1](/assets/img/posts/kdp-practicing-export-pdf-1.png)
@@ -65,9 +65,9 @@ tags: [money, book]
 
 ### Learn about Sponsored ad types
 
-* What are the differences amoung vendor, seller and agents? **[#fd6a93]**{:.citation}
-  * {:.answer} Vendor: individual occasional seller (e.g., KDP)
-  * {:.answer} Seller: branch registered professional seller
+* What are the differences among vendor, seller and agents? **[#fd6a93]**{:.citation}
+  * {:.answer} Vendor: Amazon buys and resells your products to customers
+  * {:.answer} Seller: directly sells products to customers
   * {:.answer} Agent: representative of vendor or seller
 * What are the two types of Sponsored ads? **[#fd6a93]**{:.citation}
   * {:.answer} Sponsored Products
@@ -76,7 +76,7 @@ tags: [money, book]
   * {:.answer} Vendor: Advertising Console
   * {:.answer} Seller: Seller Central
 * What are the two factors affecting the Sponsored ads' auction process? **[#71440e]**{:.citation}
-  * {:.answer} Keyword relavency
+  * {:.answer} Keyword relevancy
   * {:.answer} CPC (Cost per Click bid)
 * What's the amount to pay for a winner bid? **[#71440e]**{:.citation}
   * {:.answer} Slightly higher than the second highest CPC
@@ -88,7 +88,7 @@ tags: [money, book]
 [#fd6a93]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17139/original/index.html?_courseId=335#/page/5df7979d82a0716237f06bf0
 [#71440e]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17139/original/index.html?_courseId=335#/page/5df7979e82a0716237f06c18
 
-### Target your Sponsord ads campaign
+### Target your Sponsored ads campaign
 
 * What are the two targeting methods? **[#22218e]**{:.citation}
   * {:.answer} Automatic targeting (Sponsored product only)
@@ -122,42 +122,91 @@ tags: [money, book]
 [#3d22b3]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17141/original/index.html?_courseId=336#/page/5e50352a888843704463564f
 [#ab495a]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17141/original/index.html?_courseId=336#/page/5e50352b8888437044635672
 
-* How to measure campaign efficiency? **[#cd504c]**{:.citation}
-  * {:.answer} Advertising efficiency
+### Set up a Sponsored ads campaign
+
+* How to measure campaign effectiveness? **[#cd504c]**{:.citation}
+  * {:.answer} Campaign efficiency
   * {:.answer} Brand awareness
-* What are the two metrics for evaluating advertising performance? **[#cd504c]**{:.citation}
+* What are the two metrics for evaluating Campaign efficiency? **[#cd504c]**{:.citation}
   * {:.answer} ACOS (Advertising cost of sales): the lower the better
   * {:.answer} ROAS (Return of advertising spend): the higher the better
-* What's the measure to evaluate brand awareness? **[#cd504c]**{:.citation}
+* What's the measure to evaluate Brand awareness? **[#cd504c]**{:.citation}
   * {:.answer} Impression: the higher the better
-* What are the two budge options for? **[#99d228]**{:.citation}
+* What are the two budget options for? **[#99d228]**{:.citation}
   * {:.answer} Sponsored product: daily budget
   * {:.answer} Sponsored brand: daily budget or lifetime budget
-* What's suggested daily budget range? **[#99d228]**{:.citation}
+* Can you switch between daily budget and lifetime budget once it's set up? **[#99d228]**{:.citation}
+  * {:.answer} No
+* What's the minimum daily budget? **[#99d228]**{:.citation}
+  * {:.answer} $1
+* What's the maximum amount charged over a calendar month based on the daily budget? **[#99d228]**{:.citation}
+  * {:.answer} (daily budget) * (calendar month days)
+* Will your daily budget be overcharged over a day?
+  * {:.answer} Yes, up to 10% increase for high-traffic days
+* What happens when daily budget is used up? **[#99d228]**{:.citation}
+  * {:.answer} Amazon stops serving your campaign
+* What's recommended daily budget range? **[#99d228]**{:.citation}
   * {:.answer} $1 - $10
-* Can you change your daily budget when campaign is on? **[#99d228]**{:.citation}
+* Can you change your daily budget once it's set up? **[#99d228]**{:.citation}
   * {:.answer} Yes
-* Can you spend more than your daily budget for some days? **[#99d228]**{:.citation}
-  * {:.answer} Yes, as long as the average daily budget is within the daily budget
 * What's suggested lifetime budget? **[#99d228]**{:.citation}
   * {:.answer} $$\ge$$ $100
-* Can you change your lifetime budge when campaign is on? **[#99d228]**{:.citation}
-  * {:.answer} Only increase
-* What are three types of match? **[#6aea62]**{:.citation}
+* What happens when lifetime budget is used up? **[#99d228]**{:.citation}
+  * {:.answer} Amazon stops serving your campaign
+* Can you change your lifetime budge once it's set up? **[#99d228]**{:.citation}
+  * {:.answer} Increase only
+* What are the two options for campaign duration? **[#99d228]**{:.citation}
+  * {:.answer} Continuously: increase impression
+  * {:.answer} By end date: seasonal promotions
+* What are the two types of keywords? **[#6aea62]**{:.citation}
+  * {:.answer} Brand keywords: low search volume, high rate of conversion
+  * {:.answer} Category keywords: large search volume, low rate of conversion
+* How keyword match types are moved from loose to restrictive? **[#6aea62]**{:.citation}
+  * {:.answer} Automatic
   * {:.answer} Broad
   * {:.answer} Phrase
   * {:.answer} Exact
-* What's the bidding strategy difference between top of search and secondary? **[#6aea62]**{:.citation}
-  * {:.answer} Top of Search: highest bidding
-  * {:.answer} Secondary Search: highest (bidding + adjustment)
-* What are the three types of product bidding strategies? **[#ed3f6f]**{:.citation}
+* How keyword types are moved from less competitive to more competitive? **[#6aea62]**{:.citation}
+  * {:.answer} Brand keywords
+  * {:.answer} Category keywords
+* What's staggering bidding strategy? **[#6aea62]**{:.citation}
+  * {:.answer} Higher bid for more competitive and more restrictive
+* What's suggested bid incremental rates from loose to restrictive? **[#6aea62]**{:.citation}
+  * {:.answer} From automatic to broad: 40-50% increase
+  * {:.answer} From broad to phrase: 20-25% increase
+  * {:.answer} From phrase to exact: 25-35% increase
+* What's the auction winning algorithm difference between the top of search placement and others? **[#6aea62]**{:.citation}
+  * {:.answer} Top of search: highest bidding
+  * {:.answer} Other placements: highest final bidding (bidding + adjustment)
+* What's the basic strategy to use automatic targeting and manual targeting together? **[#6aea62]**{:.citation}
+  * {:.answer} Use automatic targeting first
+  * {:.answer} Download term report
+  * {:.answer} Select keywords perform well for manual targeting
+* Can we use product targeting and keyword targeting at the same time? **[#410644]**{:.citation}
+  * {:.answer} Seller: in the same campaign, but not in the same group
+  * {:.answer} Vendor: only one is allowed for the same campaign
+* Can you compete with yourself if you use both product targeting and keyword targeting for the same campaign? **[#410644]**{:.citation}
+  * {:.answer} No
+* What are the three types of product bidding adjustment? **[#410644]**{:.citation}
   * {:.answer} Down only
   * {:.answer} Up and down
   * {:.answer} Fixed
-* What are the three types of placement? **[#ed3f6f]**{:.citation}
+* What are the three types of placement? **[#410644]**{:.citation}
   * {:.answer} Top of search
   * {:.answer} Rest of search
   * {:.answer} Product page
+* How much you can increase your bid for a certain placement? **[#410644]**{:.citation}
+  * {:.answer} Up to 900% for top of search and product page
+
+[#cd504c]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/10119/original/index.html?_courseId=337#/page/5de6ae270707a72fcc24bbae
+[#99d228]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/10119/original/index.html?_courseId=337#/page/5de6ae270707a72fcc24bc06
+[#6aea62]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/16973/original/index.html?_courseId=337#/page/5de6ae270707a72fcc24bbcf
+[#410644]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/16973/original/index.html?_courseId=337#/page/5de6ae270707a72fcc24bbf2
+
+### Interpret your sponsored ads performance
+
+* What's brand halo? **[#35729d]**{:.citation}
+  * {:.answer} User clicks your Sponsored ad, but finally purchased another one
 * What's the meaning of the following industry standard metrics? **[#35729d]**{:.citation}
   * {:.answer} Impression: A count of how many times your ad has been shown to customers.
   * {:.answer} Clicks: A count of how many times customers have clicked on an ad.
@@ -171,30 +220,42 @@ tags: [money, book]
   * {:.answer} Units Sold: The total number of your brand's products sold on Amazon.
   * {:.answer} Total Orders: A count of the orders placed for your brand's products.
   * {:.answer} Attributed Sales: The total dollar value of your brand's products sold.
-  * {:.answer} Advertising Cose of Sales: ACOS is the amount you’ve spent on a campaign divided by total sales during the campaign. 
+  * {:.answer} Advertising Cost of Sales: ACOS is the amount you’ve spent on a campaign divided by total sales during the campaign.
 * What's new to brand metrics? **[#35729d]**{:.citation}
-  * {:.answer} A metric measuring orders and sales generated first-time cusstomers of your brand.
-* What's the timing window a customer considered as new customer? **[#35729d]**{:.citation}
+  * {:.answer} A metric measuring orders and sales generated by first-time customers of your brand.
+* What's the timing window a customer considered as a new customer? **[#35729d]**{:.citation}
   * {:.answer} 12 months
-* How seller's attribution is evaluated? **[#695223]**{:.citation}
-  * {:.answer} Within 7 days any products converted
+* What's the time period of sales attribution evaluation for a vendor? **[#695223]**{:.citation}
+  * {:.answer} 14 days
+* What's the time period of sales attribution evaluation for a seller? **[#695223]**{:.citation}
+  * {:.answer} 7 days
+* What's the difference between Sponsored Product and Sponsored Brand in terms of sales attribution? **[#695223]**{:.citation}
+  * {:.answer} Sponsored product: products from the vendor or seller
+  * {:.answer} Sponsored brand: products of the same brand from everyone (vendor, seller and third parties)
 * What's the purpose of Search term report? **[#a2517e]**{:.citation}
-  * {:.answer} See what customer will buy
+  * {:.answer} See what customer normally search
 * What's the purpose of Placement report? **[#a2517e]**{:.citation}
-  * {:.answer} See where compaign is more effictive
+  * {:.answer} See where campaign is more effective
+
+[#35729d]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17143/original/index.html?_courseId=338#/page/5fdbcba37b62b1529403ab25
+[#695223]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17143/original/index.html?_courseId=338#/page/5fdbcba37b62b1529403ab0f
+[#a2517e]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17143/original/index.html?_courseId=338#/page/5fdbcba47b62b1529403ab45
+
+### Optimize your sponsored ads campaign
+
 * What's the most effective metric for Sales efficiency? **[#a888b7]**{:.citation}
   * {:.answer} ACOS/ROAS
-* What's the most effective metric for brand awareness? **[#a888b7]**{:.citation}
+* What's the most effective metric for Brand awareness? **[#a888b7]**{:.citation}
   * {:.answer} Impression
 * Which report to use for identifying most effective ASIN? **[#24c093]**{:.citation}
   * {:.answer} Advertised product report
 * What's Parent/Child ASIN group? **[#cf1cc7]**{:.citation}
   * {:.answer} A parent ASIN with children variations
-* What's the differnece between vendor and seller? **[#cf1cc7]**{:.citation}
+* What's the difference between vendor and seller? **[#cf1cc7]**{:.citation}
   * {:.answer} Vendor through FBA
 * What's Featured Offer? **[#cf1cc7]**{:.citation}
   * {:.answer} Offer from Amazon
-* What should be checked against retail readyness? **[#311b8a]**{:.citation}
+* What should be checked against retail readiness? **[#311b8a]**{:.citation}
   * {:.answer} Title and description
   * {:.answer} Images and video
   * {:.answer} Customer reviews
@@ -207,13 +268,6 @@ tags: [money, book]
   * {:.answer} Seller: Earlier review
   * {:.answer} Vendor: Vine program
 
-[#cd504c]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/10119/original/index.html?_courseId=337#/page/5de6ae270707a72fcc24bbae
-[#99d228]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/10119/original/index.html?_courseId=337#/page/5de6ae270707a72fcc24bc06
-[#6aea62]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/16973/original/index.html?_courseId=337#/page/5de6ae270707a72fcc24bbcf
-[#ed3f6f]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/16973/original/index.html?_courseId=337#/menu/5de6ae270707a72fcc24bbab
-[#35729d]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17143/original/index.html?_courseId=338#/page/5fdbcba37b62b1529403ab25
-[#695223]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17143/original/index.html?_courseId=338#/page/5fdbcba37b62b1529403ab0f
-[#a2517e]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17143/original/index.html?_courseId=338#/page/5fdbcba47b62b1529403ab45
 [#a888b7]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17147/original/index.html?_courseId=339#/page/5df02994009a452ced83c861
 [#24c093]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17147/original/index.html?_courseId=339#/page/5df02994009a452ced83c872
 [#cf1cc7]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17149/original/index.html?_courseId=1521#/page/5db9942be3c60a639b08793c
@@ -233,7 +287,7 @@ tags: [money, book]
   * {:.answer} Don't set limits for a day
   * {:.answer} Can be elaborated
   * {:.answer} Can be creative
-* What to be considered for gratitude journal writting? **[#d26e2e]**{:.citation}
+* What to be considered for gratitude journal writing? **[#d26e2e]**{:.citation}
   * {:.answer} Be specific
   * {:.answer} Go for depth over breadth
   * {:.answer} Get personal

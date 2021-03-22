@@ -8809,6 +8809,40 @@ tags: [personal]
 	* Continued learning of VTK textbook
 	
 * [HEXAGONMI](#hexagonmi)
+	* Disscussed with Shaharoz about some dialog repositioning issue
+
+## 2021-03-19
+
+* Started reviewing Sponsord ads certification training
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK textbook
+	
+* [HEXAGONMI](#hexagonmi)
+	* Developed scripts for generating testing cases for FTIUtility::FTITranslateGeometryByDataKitTS::Evaluate
+	* Developed tests instantiation
+	
+## 2021-03-20
+
+* Visited Eye Dr. Ryan at Burlington Eyecare with Ethan
+* With Ethan practiced rollerskating at Centenial Bike Way
+* Teached Ethan to play with airplane shooter
+* Let Ethan tried new rollerskates from K2
+
+## 2021-03-21
+
+* Continued Sponsord ads certification training
+* With Ethan practiced roller skates in Centenial Bike Way
+* With Ethan practiced football at Centenial Bike Way
+
+* [HEXAGONMI](#hexagonmi)
+	* Revised scripts for generating cases for data driven tests
+
+## 2021-03-22
+
+* Continued learning of Sponsored ads from Amazon
+
+* [HEXAGONMI](#hexagonmi)
 
 ## REFERENCES
 

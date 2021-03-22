@@ -80,6 +80,7 @@ tags: [school]
     * [Valentine's Day Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/148578406)
     * [Love From the Crayons](https://youtu.be/5DONb49ig0M)
     * [Rainbow Fish Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/150887274)
+  * First Time Reader series
   * [Tumble Books](https://www.tumblebooklibrary.com/Home.aspx?categoryID=77)
 * Videos
   * [TVOkids Language](https://www.youtube.com/channel/UCdZLh7XMeNmm7B1unPIv49A)
@@ -222,7 +223,7 @@ tags: [school]
   * Indoor
     * [Cosmic Yoga](https://video.link/w/5V7kb)
     * [Ball Toss](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721079)
-    * [Roll the Dice Excersice](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/146649372)
+    * [Roll the Dice Exercise](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/146649372)
     * [At Home Task](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
     * [Education Games](https://www.youtube.com/channel/UCUI_IoE6IHH6uacv7qPdsIQ/playlists)
     * [Motor Skill Learning](https://www.youtube.com/channel/UCjrURON47WJ55_DiQhfg-Tw)
