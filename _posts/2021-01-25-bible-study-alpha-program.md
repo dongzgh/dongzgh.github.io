@@ -87,3 +87,10 @@ tags: [Christian]
   * Temptation
 
 ### #12 Why and how should I tell others?
+
+### #13 Healing
+
+* Never give up
+* We pray, someone will be healed
+* Miraculous healing happens
+* God brings us to heal others
