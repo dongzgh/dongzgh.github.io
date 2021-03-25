@@ -291,7 +291,6 @@ tags: [money, book]
   * {:.answer} A+ enhanced content
   * {:.answer} Enhanced brand content
 
-
 [#cf1cc7]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17149/original/index.html?_courseId=1521#/page/5db9942be3c60a639b08793c
 [#311b8a]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17149/original/index.html?_courseId=1521#/page/5db9942be3c60a639b08794d
 [#b59ae5]: https://learningconsole.amazonadvertising.com/uploads/resource_courses/targets/17149/original/index.html?_courseId=1521#/page/5db9942ce3c60a639b087970

@@ -8849,6 +8849,35 @@ tags: [personal]
 	* Updated project documents on Microsoft Team
 	* Removed mock warnings for uninterested calls
 
+## 2021-03-23
+
+* Started research on Amazon KDP marketing strategies through Fiverr
+* Started research on KDP Rocket
+* Rescheduled dental night guard appointment to Apr.
+* Called Volvo asking about the seat belt recall
+
+* [HEXAGONMI](#hexagonmi)
+	* Resolved spin button asking parent reposition issue for Shaharoz (Mirror DA Main Shelve 3)
+	* Developed batch testing script for generating testing specific header files
+
+## 2021-03-24
+
+* Researched KDP low content marketing
+* Asked Min to submit Health Insurance claims for dental treatment to RBC
+* Submitted PSA claims for the two inline skates for Ethan
+* Submitted PSA claim for the office chair for Dong
+* Requested return for the protective gear bought for Ethan from Amazon
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #29224
+
+## 2021-03-25
+
+* Submitted PSA claim for Ethan's books from Bookoutlet
+
+* [HEXAGONMI](#hexagonmi)
+	* Developed unit tests for Controls.cpp
+
 ## REFERENCES
 
 ### estates
