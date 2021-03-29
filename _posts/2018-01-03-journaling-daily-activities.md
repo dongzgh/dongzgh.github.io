@@ -8876,7 +8876,9 @@ tags: [personal]
 * Submitted PSA claim for Ethan's books from Bookoutlet
 
 * [HEXAGONMI](#hexagonmi)
+	* Reviewed source codes from Shaharoz about the mirror dialog box
 	* Developed unit tests for Controls.cpp
+	* Developed VSAddOn enabling debug information retrieval
 
 ## REFERENCES
 
