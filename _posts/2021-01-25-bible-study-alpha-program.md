@@ -94,3 +94,11 @@ tags: [Christian]
 * We pray, someone will be healed
 * Miraculous healing happens
 * God brings us to heal others
+
+### 14 Church
+
+* Church is friends
+* The fire is reignited
+* Christianity is unity
+* It's a marriage
+* "I can do something you can't do, you can do something that I can't do, but together we can do great things!" Mother Terresa

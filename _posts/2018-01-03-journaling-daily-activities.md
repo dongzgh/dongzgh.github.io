@@ -8880,6 +8880,48 @@ tags: [personal]
 	* Developed unit tests for Controls.cpp
 	* Developed VSAddOn enabling debug information retrieval
 
+## 2021-03-26
+
+* Visited Bronte Creek Provincial Park
+
+## 2021-03-27
+
+* Shopping around for Min
+
+## 2021-03-28
+
+* [HEXAGONMI](#hexagonmi)
+	* Researched methods for call unmanaged C++ codes fro C#
+	* Fixed the bug #29283 related with opening the testing toolbar
+	* Reviewed source code from Shararoz related with Mirror Double Attached front-end
+	* Continued working on PInvoke from VSSDK
+
+## 2021-03-29
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Shaharoz and Adrian about Feature Tree handling of MDA
+	* Groomed backlog system and scheduled scrum planning
+	* Reviewed source code changes from Adrian realted with MDA backend
+	
+## 2021-03-30
+
+* [HEXAGONMI](#hexagonmi)
+	* Had scrum planning meeting with the team
+	* Settled code refactoring and cleaning issues with QA
+	* Continued working on PInvoke from VSSDK
+	
+## 2021-03-31
+
+* [HEXAGONMI](#hexagonmi)
+	* Continued working on PInvoke from VSSDK
+	
+## 2021-04-01
+
+* [HEXAGONMI](#hexagonmi)
+	* Continued working on PInvoke from VSSDK
+	* Discussded with Shararoz and Mahammad about the hidden Skin feature registration
+	* Reviewed source codes from Shaharoz and Adrian
+	
 ## REFERENCES
 
 ### estates
