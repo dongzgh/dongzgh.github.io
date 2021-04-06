@@ -8921,6 +8921,7 @@ tags: [personal]
 	* Continued working on PInvoke from VSSDK
 	* Discussded with Shararoz and Mahammad about the hidden Skin feature registration
 	* Reviewed source codes from Shaharoz and Adrian
+	* Investigated the bug #29354 which is not related with Geometry workbench
 	
 ## REFERENCES
 
