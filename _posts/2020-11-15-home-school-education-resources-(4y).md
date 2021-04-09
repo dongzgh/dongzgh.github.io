@@ -290,6 +290,14 @@ tags: [school]
 * Piano Courses
   * [零起步学钢琴](https://www.bilibili.com/video/BV1R4411j7v5) <i class="far fa-thumbs-up"></i>
   * [Hoffman Academy](https://www.youtube.com/channel/UCiKUKTMbojTIPGWPR_eec9w)
+* Piano Practices
+  * Brother John
+  * Jingle Bell
+  * Marry Had a Little Lamb
+  * Little Star
+  * Hot Cross Bun
+  * 送别
+  * 爱的代价
 
 ### Crafts <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span> <i class="far fa-thumbs-up"></i>
 

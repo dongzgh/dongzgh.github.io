@@ -8923,6 +8923,56 @@ tags: [personal]
 	* Reviewed source codes from Shaharoz and Adrian
 	* Investigated the bug #29354 which is not related with Geometry workbench
 	
+## 2021-04-02
+
+* Visited Speyside Bruce Trail
+
+## 2021-04-03
+
+* Visited Beaver Dam Trail
+
+## 2021-04-04
+
+* Visited Rock Point Provincial Park
+
+## 2021-04-05
+
+* Visited Hilton Fall Side Trail
+
+## 2021-04-06
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK textbook
+
+* [HEXAGONMI](#hexagonmi)
+	* Reviewed source code from Shaharoz related with Mirror Double Attached
+	* Redesigned data serialization for data driven tests
+	* Developed tests for FillHoles in Control submodule
+	
+## 2021-04-07
+
+* [HEXAGONMI](#hexagonmi)
+	* Reviewed source codes from Shaharoz about feature deletion
+	* Reorganized testing assets folder
+	* Updated documents related with unit testing design
+
+## 2021-04-08
+
+* Booked appointment for annual health check
+* Rescheduled appointment with my dentist about night guard adjustment
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Shaharoz about one deletion issue in Mirror DblAttached
+	* Reviewed source codes updates from Adrian
+	* Developed tests for FillHoles in Control submodule
+	
+## 2021-04-08
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Shaharoz about issue found during DblAttach regeneration when notch is created
+	* Fixed issues related with ReattachBridgeLine and FSP2EvalDieFace for the notch case
+	* Added more tests for FTIFillHolesUpdate to check status
+
 ## REFERENCES
 
 ### estates
