@@ -8966,12 +8966,34 @@ tags: [personal]
 	* Reviewed source codes updates from Adrian
 	* Developed tests for FillHoles in Control submodule
 	
-## 2021-04-08
+## 2021-04-09
 
 * [HEXAGONMI](#hexagonmi)
 	* Discussed with Shaharoz about issue found during DblAttach regeneration when notch is created
 	* Fixed issues related with ReattachBridgeLine and FSP2EvalDieFace for the notch case
 	* Added more tests for FTIFillHolesUpdate to check status
+
+## 2021-04-10
+
+* Visited Christine Lake at Hamilton
+
+## 2021-04-11
+
+* Worked at the front yard
+* Biked in the Millcroft community
+
+## 2021-04-12
+
+* Read news from NVIDIA related with GTC
+* Submitted dental claim for Min's dental on Apr. 08
+
+* [HEXAGONMI](#hexagonmi)
+	* Added tests for refill unfilled holes
+	* Discussed with Adrian related with one bug of bridging
+	* Sent Henny workflows needs more attention during testing
+	* Send Alex Chubarev the bug 29614 for investigation and discussed with Adrian later on
+	* Updated testing script for imports
+	* Developed Unit Test staged report and sent it
 
 ## REFERENCES
 
