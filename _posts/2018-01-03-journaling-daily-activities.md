@@ -6361,7 +6361,7 @@ tags: [personal]
 * [HEXAGONMI](#hexagonmi)
   * Migrated trim line export functions to common modules
 	* Discussed with Eric and Muhammad about trim line data preparation from AGW
-	* Developed transient trim line manifold for DblAttached feature
+	* Developed transient trim line manifold for DblAttach feature
 	
 ## 2020-06-05
 
@@ -8962,7 +8962,7 @@ tags: [personal]
 * Rescheduled appointment with my dentist about night guard adjustment
 
 * [HEXAGONMI](#hexagonmi)
-	* Discussed with Shaharoz about one deletion issue in Mirror DblAttached
+	* Discussed with Shaharoz about one deletion issue in Mirror DblAttach
 	* Reviewed source codes updates from Adrian
 	* Developed tests for FillHoles in Control submodule
 	
@@ -8987,14 +8987,66 @@ tags: [personal]
 * Read news from NVIDIA related with GTC
 * Submitted dental claim for Min's dental on Apr. 08
 
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK textbook
+	
 * [HEXAGONMI](#hexagonmi)
 	* Added tests for refill unfilled holes
 	* Discussed with Adrian related with one bug of bridging
 	* Sent Henny workflows needs more attention during testing
-	* Send Alex Chubarev the bug 29614 for investigation and discussed with Adrian later on
+	* Send Alex Chubarev the bug #29614 for investigation and discussed with Adrian later on
 	* Updated testing script for imports
 	* Developed Unit Test staged report and sent it
 
+## 2021-04-13
+
+* Completed root canal for the last tooth on the upper left
+* Asked Dr. Heidary about how to proceed
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #29631 related with fill notch and fill holes in DblAttach
+	* Reviewed source codes from Shaharoz related with ShowUnfoldedFlanges
+	* Investigated the bug #29647 related with display of second part in DblAttach
+	* Investigated the bug #29646 related with trim line generation
+
+## 2021-04-14
+
+* Rechecked piano lessons for Ethan
+* Confirmed dental appointment for filling
+* Learnd GTC NVIDIA demo sessions
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK textbook
+	
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #29646 related with trim line generation
+	* Confirmed with Adiran and Shaharoz about the progress of Mirror Double Attached
+	* Investigated the bug #29628 related with filling holes
+	* Investigated the bug #29646 related with newly merged geometry set has been shifted
+	
+## 2021-04-15
+
+* Did blood work at Dynacare Plus
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK textbook
+	
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #29668 related with boundary edges becoming one piece, returned
+	* Discussed with Shaharoz, Adrian and Muhammad about Edit Positioning data retrieval
+	
+## 2021-04-16
+
+* Searched trails for the weekend
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK textbook
+	
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #29665 which is solved after shift problem is solved
+	* Improved FSP2ExportTrimLines by reusing die face mesh created before
+	* Revised FSP2EvalDieFace by using the correct punch faces and notch faces
+	
 ## REFERENCES
 
 ### estates

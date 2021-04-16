@@ -296,6 +296,7 @@ tags: [school]
   * Marry Had a Little Lamb
   * Little Star
   * Hot Cross Bun
+  * Happy Birthday
   * 送别
   * 爱的代价
 

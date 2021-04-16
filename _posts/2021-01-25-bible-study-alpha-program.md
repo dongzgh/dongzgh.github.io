@@ -102,3 +102,12 @@ tags: [Christian]
 * Christianity is unity
 * It's a marriage
 * "I can do something you can't do, you can do something that I can't do, but together we can do great things!" Mother Terresa
+
+### 15 Catholic Church
+
+* What are the 4 characteristics of a church?
+  * Unity
+  * Holy
+  * Catholic - universal/fullness
+  * Apostolic - traditional
+* Faith is like a marriage, you have to know the family
