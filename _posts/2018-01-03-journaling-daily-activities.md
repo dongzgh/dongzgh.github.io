@@ -9046,6 +9046,31 @@ tags: [personal]
 	* Investigated the bug #29665 which is solved after shift problem is solved
 	* Improved FSP2ExportTrimLines by reusing die face mesh created before
 	* Revised FSP2EvalDieFace by using the correct punch faces and notch faces
+
+## 2021-04-17
+
+* Visited Hidden Valley Trail to RBG
+
+## 2021-04-18
+
+* Played soccer and flying disc at the Sherwood Forest Park
+	
+## 2021-04-19
+
+* Updated TAX Return for 2020
+
+* [HEXAGONMI](#hexagonmi)
+	* Updated backlog for the sprint
+	* Fixed one issue with building testing files while searching Roaming Directory
+
+## 2021-04-20
+
+* Updated TAX Return for 2020
+
+* [HEXAGONMI](#hexagonmi)
+	* Fixed the issue with building testing files while searching Roaming Directory
+	* Did sprint retrospective and planning
+	* Fixed FTIMFCDLL testing macro issue
 	
 ## REFERENCES
 

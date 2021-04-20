@@ -111,3 +111,22 @@ tags: [Christian]
   * Catholic - universal/fullness
   * Apostolic - traditional
 * Faith is like a marriage, you have to know the family
+
+### 16 Catholic Sacrament
+
+* Guilt, remorse, confess
+  * Wrong way
+    * Ignorance
+    * Excuses
+    * Rationalize
+    * Blame
+    * Distract
+* Guilt is the repercussion of sins
+* Ministry of practices
+* Confession
+  * Examination of conscience
+  * Approach
+  * Confess your sins
+  * Penance
+  * Act of Contrition
+  * Absolution
