@@ -9059,6 +9059,9 @@ tags: [personal]
 
 * Updated TAX Return for 2020
 
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK textbook
+	
 * [HEXAGONMI](#hexagonmi)
 	* Updated backlog for the sprint
 	* Fixed one issue with building testing files while searching Roaming Directory
@@ -9066,12 +9069,70 @@ tags: [personal]
 ## 2021-04-20
 
 * Updated TAX Return for 2020
+* Talked with Chang Gang regarding an opportunity of 3D slicer development
 
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK textbook
+	
 * [HEXAGONMI](#hexagonmi)
 	* Fixed the issue with building testing files while searching Roaming Directory
 	* Did sprint retrospective and planning
 	* Fixed FTIMFCDLL testing macro issue
 	
+## 2021-04-21
+
+* Registered for Dong's passport renewal
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #29737 related with material setting not reset
+	* Completed task #29634 related with mesh generation during trim line development
+
+## 2021-04-22
+
+* Checked passport renewal form
+* Updated TAX Return for 2020
+	
+* [L3MONSHAPE](#l3monshape)
+	* Developed video clip for Chang Gang's demostration
+	* Continued learning of VTK textbook
+	
+* [L3MONSHAPE](#l3monshape)
+	* Developed video clip for Chang Gang for the demostration
+	* Continued learning of VTK textbook
+	* Investigated the bug #29758 with Shararoz related with Dumb flag not set properly
+	* Investigated the bug #29759 related with back-end failure in Mirror DblAttach
+	* Attended the meeting with Henny and Muhammad related with unit testing show case
+	* Investigated the bug #29762 related with geometry flipped during Mirror DblAttached
+	
+## 2021-04-23
+
+* Submitted Dong's and Min's hiking shoes expenses to PSA
+
+* [L3MONSHAPE](#l3monshape)
+	* Investigated the bug #29762 related with Mirror DblAttached rotates part
+	* Reviewed source codes from Shaharoz related with dumb mask setting
+	* Added testing case for trim line development for PP in AGW
+	
+## 2021-04-24
+
+* Visited RBG Aboretum see cherry blossom
+* Learned about Dad's health condition
+
+## 2021-04-25
+
+* Visited Grindstone Mash Trail at RBG
+* Discussed with Aunt about Dad's health condition
+* Research how to get back to China
+* Research how to install home security system
+* Contact Community Center about nursary arrangements
+
+## 2021-04-26
+
+* [L3MONSHAPE](#l3monshape)
+	* Reviewed source cocdes from Shararoz related with Edit Position Geometry Sets
+	* Attendeed meeting with Shaharoz and Muhammad related with Edit Position Geometry Sets
+	* 
+
 ## REFERENCES
 
 ### estates
