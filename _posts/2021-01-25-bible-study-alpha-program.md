@@ -130,3 +130,8 @@ tags: [Christian]
   * Penance
   * Act of Contrition
   * Absolution
+
+### 17 Mass and Eucharist
+
+* Lamb of God, God is revealed himself in lamb (flesh and blood). This is sacrifice.
+* 

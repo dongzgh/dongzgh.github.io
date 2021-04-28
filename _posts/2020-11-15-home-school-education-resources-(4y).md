@@ -72,6 +72,9 @@ tags: [school]
   * [24](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/151436412)
   * [25](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/151896003)
   * [26](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/152350093)
+  * [27](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/152655835)
+  * [29](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/153018847)
+  * [30](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/154612986)
   * Ultimate Real Kindergarten Workbook
 * Books
   * [Pet the Cat Read Aloud](https://video.link/w/XdNFb)
@@ -85,8 +88,12 @@ tags: [school]
     * [Rainbow Fish Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/150887274)
     * [Easter Library 1](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/152350831)
     * [Easter Library 2](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/152351246)
+    * [Friends are Family](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/154909023)
+    * [Snuggle Up and Read](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/152659464)
+    * [Snuggle Up and Read](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/154910641)
   * First Time Reader series
   * [Tumble Books](https://www.tumblebooklibrary.com/Home.aspx?categoryID=77)
+  * [Pebble Go](https://site.pebblego.com/modules/5/categories/5010)  
 * Videos
   * [TVOkids Language](https://www.youtube.com/channel/UCdZLh7XMeNmm7B1unPIv49A)
 
@@ -155,8 +162,12 @@ tags: [school]
     * [3D Shapes](9https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/150057536)
     * [Shark Virtual](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/151436444)
     * [Sharks](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/151436448)
+    * [Family](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/152659376)
+    * [Earth Day](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/153026101)
+    * [Earth Day](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/153026960)
   * [Pebble Go](https://site.pebblego.com/modules)
   * National Geography Kids Series <i class="far fa-thumbs-up"></i>
+  * [Scholastic Books](https://lplibrary01.scholasticlearningzone.com/#!/student-books)
 * Video
 * [Animals in Winter](https://youtu.be/eLDbjt_FiTM)
 * [Ocean Zones](https://youtu.be/fHVE4B-UjmM)
@@ -280,6 +291,8 @@ tags: [school]
   * [Music Lesson 5](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/topics/151976199)
   * [Music Lesson 6](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/topics/152475749)
   * [Drama Lesson 1](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/topics/152732037)
+  * [Drama Lesson 2](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/topics/153992854)
+  * [Drama Lesson 3](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/topics/155303311)
 * [Christmas Music Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
 * [Let's Go For A Walk Outside](https://youtu.be/BWR3DxGHLD4)
 * [Sing a Long Concert](https://youtu.be/6-xqosckJ5c)
@@ -357,7 +370,9 @@ tags: [school]
   * [Outdoor Scavenge Hunt 1](https://docs.google.com/presentation/d/1ASm1oa-34MiVHv598jnQeR1DUtHDSGhWN2xDv6a94c8/edit#slide=id.p)
   * [Outdoor Scavenge Hunt 2](https://www.cbc.ca/parents/content/pdf/CBCParents_WinterScavengerHunt.pdf)
   * [Scavenge Hunt](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/151895998)
+  * [Family Scavenge Hunt](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/152655813)
 * Charades
   * [Feeling Charades](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
+  * [Kids Charades](https://docs.google.com/document/d/1j5V9LM759GZEIPDLOlHp4-g2lBfOieN3x1S-Vb4mYT0/edit)
 * Hide and Seek <i class="far fa-thumbs-up"></i>
 * Jenga

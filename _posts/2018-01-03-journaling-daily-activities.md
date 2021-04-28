@@ -9096,7 +9096,7 @@ tags: [personal]
 	* Developed video clip for Chang Gang's demostration
 	* Continued learning of VTK textbook
 	
-* [L3MONSHAPE](#l3monshape)
+* [HEXAGONMI](#hexagonmi)
 	* Developed video clip for Chang Gang for the demostration
 	* Continued learning of VTK textbook
 	* Investigated the bug #29758 with Shararoz related with Dumb flag not set properly
@@ -9108,7 +9108,7 @@ tags: [personal]
 
 * Submitted Dong's and Min's hiking shoes expenses to PSA
 
-* [L3MONSHAPE](#l3monshape)
+* [HEXAGONMI](#hexagonmi)
 	* Investigated the bug #29762 related with Mirror DblAttached rotates part
 	* Reviewed source codes from Shaharoz related with dumb mask setting
 	* Added testing case for trim line development for PP in AGW
@@ -9128,9 +9128,34 @@ tags: [personal]
 
 ## 2021-04-26
 
-* [L3MONSHAPE](#l3monshape)
+* Researched assets inheritance related topics
+
+* [HEXAGONMI](#hexagonmi)
 	* Reviewed source cocdes from Shararoz related with Edit Position Geometry Sets
 	* Attendeed meeting with Shaharoz and Muhammad related with Edit Position Geometry Sets
+	* Prepared training material for FTIUnitTesting
+
+## 2021-04-27
+
+* Paid gas bill
+* Bought StudioTAX for 2020 Tax Return
+* Submitted CRA NETFILE for Dong and Min
+* Rollbacked TD limit to its original state
+* Booked appointment for COV19 Vaccination
+
+* [HEXAGONMI](#hexagonmi)
+	* Revised FTIUnitTesting Training I
+	* Changed FTIUnitTestsLIB name to FTIUnitTestingLIB
+	* Prepared Tutorial I video	
+	
+## 2021-04-28
+
+* [L3MONSHAPE](#l3monshape)
+	* Developed video clip for Chang Gang's demostration
+	* Continued learning of VTK textbook
+
+* [HEXAGONMI](#hexagonmi)
+	* Removed redundant namespace statements
 	* 
 
 ## REFERENCES
