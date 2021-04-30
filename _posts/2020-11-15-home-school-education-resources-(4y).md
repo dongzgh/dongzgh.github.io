@@ -307,9 +307,10 @@ tags: [school]
   * Brother John
   * Jingle Bell
   * Marry Had a Little Lamb
-  * Little Star
+  * Twinkle Twinkle Little Star
   * Hot Cross Bun
   * Happy Birthday
+  * Itsy Betsy Spider
   * 送别
   * 爱的代价
 

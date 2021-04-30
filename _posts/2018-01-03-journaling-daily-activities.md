@@ -6361,7 +6361,7 @@ tags: [personal]
 * [HEXAGONMI](#hexagonmi)
   * Migrated trim line export functions to common modules
 	* Discussed with Eric and Muhammad about trim line data preparation from AGW
-	* Developed transient trim line manifold for DblAttach feature
+	* Developed transient trim line manifold for DblAttached feature
 	
 ## 2020-06-05
 
@@ -8962,14 +8962,14 @@ tags: [personal]
 * Rescheduled appointment with my dentist about night guard adjustment
 
 * [HEXAGONMI](#hexagonmi)
-	* Discussed with Shaharoz about one deletion issue in Mirror DblAttach
+	* Discussed with Shaharoz about one deletion issue in Mirror DblAttached
 	* Reviewed source codes updates from Adrian
 	* Developed tests for FillHoles in Control submodule
 	
 ## 2021-04-09
 
 * [HEXAGONMI](#hexagonmi)
-	* Discussed with Shaharoz about issue found during DblAttach regeneration when notch is created
+	* Discussed with Shaharoz about issue found during DblAttached regeneration when notch is created
 	* Fixed issues related with ReattachBridgeLine and FSP2EvalDieFace for the notch case
 	* Added more tests for FTIFillHolesUpdate to check status
 
@@ -9004,9 +9004,9 @@ tags: [personal]
 * Asked Dr. Heidary about how to proceed
 
 * [HEXAGONMI](#hexagonmi)
-	* Investigated the bug #29631 related with fill notch and fill holes in DblAttach
+	* Investigated the bug #29631 related with fill notch and fill holes in DblAttached
 	* Reviewed source codes from Shaharoz related with ShowUnfoldedFlanges
-	* Investigated the bug #29647 related with display of second part in DblAttach
+	* Investigated the bug #29647 related with display of second part in DblAttached
 	* Investigated the bug #29646 related with trim line generation
 
 ## 2021-04-14
@@ -9100,7 +9100,7 @@ tags: [personal]
 	* Developed video clip for Chang Gang for the demostration
 	* Continued learning of VTK textbook
 	* Investigated the bug #29758 with Shararoz related with Dumb flag not set properly
-	* Investigated the bug #29759 related with back-end failure in Mirror DblAttach
+	* Investigated the bug #29759 related with back-end failure in Mirror DblAttached
 	* Attended the meeting with Henny and Muhammad related with unit testing show case
 	* Investigated the bug #29762 related with geometry flipped during Mirror DblAttached
 	
@@ -9150,13 +9150,37 @@ tags: [personal]
 	
 ## 2021-04-28
 
+* Submitted dental claim for Min's scaling on Apr.22
+
 * [L3MONSHAPE](#l3monshape)
 	* Developed video clip for Chang Gang's demostration
 	* Continued learning of VTK textbook
 
 * [HEXAGONMI](#hexagonmi)
 	* Removed redundant namespace statements
-	* 
+	* Reviewed source code from Shaharoz related with Edit Mirror DblAttached
+
+## 2021-04-29
+
+* [L3MONSHAPE](#l3monshape)
+	* Developed video clip for Chang Gang's demostration
+	* Continued learning of VTK textbook
+
+* [HEXAGONMI](#hexagonmi)
+	* Attended Mirror DblAttached testing presentation
+	* Added more testing cases for FTIResourceUtilityTSFSPExportFeaturedPartAGW
+	
+	* Reviewed document from Adrian related with PositionGeoSets
+
+## 2021-04-30
+
+* [L3MONSHAPE](#l3monshape)
+	* Developed video clip for Chang Gang's demostration
+	* Continued learning of VTK textbook
+
+* [HEXAGONMI](#hexagonmi)
+	* Added more testing cases for FTIResourceUtilityTSFSPExportFeaturedPartAGW
+	* Prepared Tutorial II - Create a Test for Workbench DLL
 
 ## REFERENCES
 
