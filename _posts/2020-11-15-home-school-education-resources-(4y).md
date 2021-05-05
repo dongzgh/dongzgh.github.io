@@ -81,6 +81,7 @@ tags: [school]
   * [Not A Box](https://youtu.be/PMCKXaFsmCA)
   * [Ocean Poem](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/150887207)
   * [If Jesus Came to Visit Me](https://video.link/w/fNNXb)
+  * [The Way I Feel](https://www.youtube.com/watch?v=MSdSWlfCpJ8)
   * Virtual Classrooms <i class="far fa-thumbs-up"></i>
     * [Happy New Year](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143671150)
     * [Valentine's Day Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/148578406)
@@ -146,6 +147,7 @@ tags: [school]
   * [Seasons](https://site.pebblego.com/modules/2/categories/2994)
   * [Insects](https://site.pebblego.com/modules/1/categories/21)
   * [Birds](https://site.pebblego.com/modules/1/categories/17)
+  * [Catholic Education](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/155854950)
   * Virtual Classrooms <i class="far fa-thumbs-up"></i>
     * [Animal Rooms](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/140193403)
     * [Arctic Animals](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/141626269)
@@ -293,6 +295,7 @@ tags: [school]
   * [Drama Lesson 1](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/topics/152732037)
   * [Drama Lesson 2](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/topics/153992854)
   * [Drama Lesson 3](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/topics/155303311)
+  * [Drama Lesson 4](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/topics/155881827)
 * [Christmas Music Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
 * [Let's Go For A Walk Outside](https://youtu.be/BWR3DxGHLD4)
 * [Sing a Long Concert](https://youtu.be/6-xqosckJ5c)
@@ -372,6 +375,7 @@ tags: [school]
   * [Outdoor Scavenge Hunt 2](https://www.cbc.ca/parents/content/pdf/CBCParents_WinterScavengerHunt.pdf)
   * [Scavenge Hunt](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/151895998)
   * [Family Scavenge Hunt](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/152655813)
+  * [Bird Bingo](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/155588703)
 * Charades
   * [Feeling Charades](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
   * [Kids Charades](https://docs.google.com/document/d/1j5V9LM759GZEIPDLOlHp4-g2lBfOieN3x1S-Vb4mYT0/edit)

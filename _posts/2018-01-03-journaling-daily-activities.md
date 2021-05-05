@@ -9174,6 +9174,8 @@ tags: [personal]
 
 ## 2021-04-30
 
+* Submitted personal day request on Replicon
+
 * [L3MONSHAPE](#l3monshape)
 	* Developed video clip for Chang Gang's demostration
 	* Continued learning of VTK textbook
@@ -9181,6 +9183,42 @@ tags: [personal]
 * [HEXAGONMI](#hexagonmi)
 	* Added more testing cases for FTIResourceUtilityTSFSPExportFeaturedPartAGW
 	* Prepared Tutorial II - Create a Test for Workbench DLL
+
+## 2021-05-01
+
+* Visited Silver Creek and Hungry Hollow trail
+
+## 2021-05-02
+
+* Worked at front yard
+
+## 2021-05-03
+
+* Brought Ethan to Pediatic Urgent Care for tick bite treatment
+
+* [L3MONSHAPE](#l3monshape)
+	* Developed video clip for Chang Gang's demostration
+	* Continued learning of VTK textbook
+
+* [HEXAGONMI](#hexagonmi)
+	* Reviewed source code refactory from Shaharoz
+	
+## 2021-05-04
+
+* [L3MONSHAPE](#l3monshape)
+	* Developed video clip for Chang Gang's demostration
+	* Continued learning of VTK textbook
+
+* [HEXAGONMI](#hexagonmi)
+	* Prepared FTIUnitTesting framework training
+	
+## 2021-05-05
+
+* Took cov19 vaccine at UTM
+
+* [HEXAGONMI](#hexagonmi)
+	* Reviewed source code from Shaharoz related with project conversion
+	
 
 ## REFERENCES
 
