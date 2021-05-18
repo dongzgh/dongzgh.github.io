@@ -9,14 +9,11 @@ tags: [school]
 
 ### Stories
 
-* Year Long Reading Rooms <i class="far fa-thumbs-up"></i>  
-  * [Growth Mindset](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139955112)
-  * [Mindfulness](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/139955140)
-  * [Class Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140353385)
 * Videos <i class="far fa-thumbs-up"></i>
   * [Peppa Pig](https://www.youtube.com/channel/UCAOtE1V7Ots4DjM8JLlrYgg)
   * [Paw Patrol](https://www.youtube.com/channel/UCvh1WRSaV66pRnkHMf0by_g)
-  * [TVOkids Social Studies](https://www.youtube.com/channel/UCuSxahYIqIXM5M7lQtjwBuA)
+  * [Super Wings TV](https://www.youtube.com/channel/UCLvjR-bH8y_XUqjavoPGgYw)
+  * [TVOkids Social Studies](https://www.youtube.com/channel/UCuSxahYIqIXM5M7lQtjwBuA)  
 * 5-Minute Series
   * Peppa Pig <i class="far fa-thumbs-up"></i>
   * Paw Patrol <i class="far fa-thumbs-up"></i>
@@ -33,6 +30,7 @@ tags: [school]
   * 80天环游地球
   * 神秘岛 <i class="far fa-thumbs-up"></i>
   * 地心游记 <i class="far fa-thumbs-up"></i>
+  * 昆虫记 <i class="far fa-thumbs-up"></i>
 
 ## Mind
 
@@ -42,8 +40,7 @@ tags: [school]
 * Educational Activities <i class="far fa-thumbs-up"></i>
   * [The Alphabet Song](https://youtu.be/lhX064AiyGg) <i class="far fa-thumbs-up"></i>
   * [Alphabet Line Up](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
-  * [Alphabet Rooms](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141630219)
-  * Alphabet match game
+  * Alphabet matching game
   * English Words
     * [Jack Harman Sight Words](https://www.youtube.com/watch?v=gIZjrcG9pW0&list=PLsAsYlJSSx-qcUr6D4i-LPBvkV2Suy0iV)
     * [Sight Words](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141013772)
@@ -55,6 +52,7 @@ tags: [school]
     * Making things
     * Organizing things
 * Worksheets
+  * Ultimate Real Kindergarten Workbook
   * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140413885)
   * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141638910)
   * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142238480)
@@ -74,9 +72,9 @@ tags: [school]
   * [26](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/152350093)
   * [27](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/152655835)
   * [29](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/153018847)
-  * [30](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/154612986)
-  * Ultimate Real Kindergarten Workbook
+  * [30](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/154612986)  
 * Books
+  * First Time Reader series
   * [Pet the Cat Read Aloud](https://video.link/w/XdNFb)
   * [Not A Box](https://youtu.be/PMCKXaFsmCA)
   * [Ocean Poem](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/150887207)
@@ -91,12 +89,9 @@ tags: [school]
     * [Easter Library 2](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/152351246)
     * [Friends are Family](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/154909023)
     * [Snuggle Up and Read](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/152659464)
-    * [Snuggle Up and Read](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/154910641)
-  * First Time Reader series
+    * [Snuggle Up and Read](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/154910641)  
   * [Tumble Books](https://www.tumblebooklibrary.com/Home.aspx?categoryID=77)
   * [Pebble Go](https://site.pebblego.com/modules/5/categories/5010)  
-* Videos
-  * [TVOkids Language](https://www.youtube.com/channel/UCdZLh7XMeNmm7B1unPIv49A)
 
 ### Chinese Literacy 
 
@@ -120,6 +115,7 @@ tags: [school]
   * [Space and Addition Card Game](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144721402)
   * [2D Shapes](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/146650578)
 * Worksheets
+  * Ultimate Real Kindergarten Workbook
   * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140413885)
   * [10](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/141638910)
   * [11](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142238480)
@@ -131,14 +127,12 @@ tags: [school]
   * [17](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145715119)
   * [18](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/146650542)
   * [19](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/148574191)
-  * [20](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/149653921)
-  * Ultimate Real Kindergarten Workbook
-* Videos  
-  * [TVOkids Mathematics](https://www.youtube.com/channel/UCxNAcNMKHCXHY9dwVOElKpQ)
+  * [20](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/149653921)  
 
 ### Science
 
 * Readings
+  * National Geography Kids Series <i class="far fa-thumbs-up"></i>
   * [Solar System](https://site.pebblego.com/modules/2/categories/2992)
   * [Solar System](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/145715217)
   * [Ocean Animal](https://site.pebblego.com/modules/1/categories/4/articles/55)
@@ -167,16 +161,15 @@ tags: [school]
     * [Family](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/152659376)
     * [Earth Day](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/153026101)
     * [Earth Day](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/153026960)
-  * [Pebble Go](https://site.pebblego.com/modules)
-  * National Geography Kids Series <i class="far fa-thumbs-up"></i>
+  * [Pebble Go](https://site.pebblego.com/modules)  
   * [Scholastic Books](https://lplibrary01.scholasticlearningzone.com/#!/student-books)
-* Video
-* [Animals in Winter](https://youtu.be/eLDbjt_FiTM)
-* [Ocean Zones](https://youtu.be/fHVE4B-UjmM)
-* [Ocean Field Trips](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/150509710)
-* [Ocean Animals](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/150887315)
-* [TVOkids Science and Technology](https://www.youtube.com/channel/UCBCuoKUX7SIEIBK6YhUbyiA)
-* [TVOkids Health and Arts](https://www.youtube.com/channel/UCHcFJHZWvX6XtSc9TvVu0mA)
+* Videos
+  * [Animals in Winter](https://youtu.be/eLDbjt_FiTM)
+  * [Ocean Zones](https://youtu.be/fHVE4B-UjmM)
+  * [Ocean Field Trips](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/150509710)
+  * [Ocean Animals](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/150887315)
+  * [TVOkids Science and Technology](https://www.youtube.com/channel/UCBCuoKUX7SIEIBK6YhUbyiA)
+  * [TVOkids Health and Arts](https://www.youtube.com/channel/UCHcFJHZWvX6XtSc9TvVu0mA)
 
 ### Brain Games <span style="color: blue"><i class="fas fa-gamepad"></i></span> <i class="far fa-thumbs-up"></i>
 
@@ -193,6 +186,7 @@ tags: [school]
     * Rush Hour <i class="far fa-thumbs-up"></i>
     * Hoppers Solitaire <i class="far fa-thumbs-up"></i>
     * 15 Puzzle
+    * Wire Puzzle
   * Riddles
 * Puzzles
   * Maze
@@ -256,10 +250,6 @@ tags: [school]
 
 ### Drawing <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span>
 
-* [Pattern Mitten Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144852767)
-* [Dot Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145780825)
-* [Recycle Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/146889049)
-* [Heart Craft](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/148762416)
 * [Easter Drawing/Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/152350581)
 * Color Book
 * Sticker Book <i class="far fa-thumbs-up"></i>
@@ -319,6 +309,10 @@ tags: [school]
 
 ### Crafts <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span> <i class="far fa-thumbs-up"></i>
 
+* [Pattern Mitten Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144852767)
+* [Dot Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145780825)
+* [Recycle Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/146889049)
+* [Heart Craft](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/148762416)
 * [Christmas Garland](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
 * [Decorate Your Snow Person](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/142662162)
 * [Popsicle Stick Christmas Tree](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143063495)
@@ -328,10 +322,6 @@ tags: [school]
 * [Valentine's Craft](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/148574214)
 * [Ocean in a Jar](https://youtu.be/15CL4D41e30)
 * [Make a Cube](https://www.firstpalette.com/pdf/cube.pdf)
-* Arts with Mrs. Kawnik
-  * [Pattern Mitten Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144852767)
-  * [Dot Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145780825)
-  * [Recycle Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/146889049)
 * [123 Easy Paper Crafts 5 minute paper craft](https://www.youtube.com/channel/UCXUH2dmTnXMSxmJfp4-LT8A) <i class="far fa-thumbs-up"></i>
 * [TLT Lab Hacks](https://www.youtube.com/channel/UCF-_3d9a5UDtaMdvpljiw4w) <i class="far fa-thumbs-up"></i>
 * [Origami with Jo Nakashima](https://www.youtube.com/channel/UC3ICcukYYeSn26KlCRnhOhA) <i class="far fa-thumbs-up"></i>

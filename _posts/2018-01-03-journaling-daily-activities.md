@@ -9218,7 +9218,142 @@ tags: [personal]
 
 * [HEXAGONMI](#hexagonmi)
 	* Reviewed source code from Shaharoz related with project conversion
+	* Reviewed PPT from Adrian regarding how to use Visual Studio diagnostic tool for memrory checking
+	* Working on the bug #29916 related with memory leaks after trim line generation failed
+
+## 2021-05-06
+
+* Paied arrer interest for the TAX 2020 return
+* Prepared letter to Ethan
+
+* [HEXAGONMI](#hexagonmi)
+	* Presented UnitTesting training
+	* Investigated the bug #29916 related with boundary edge changed after merging and sent it to Chubarev for further investigation
+
+## 2021-05-07
+
+* [HEXAGONMI](#hexagonmi)
+	* Returned the bug #29854 related with poor die face surface, more explainations are needed
+	* Investigated the bug #29934 related with Mirror DA material assignment (Adrian)
+	* Investigated the bug #29928 related with fixed part moved in Mirror DA (Muhammad)
+	* Investigated the bug #29937 related with thickness direction for solid part in 3AW (Adrian)
+	* Set up a meeting to discuss the bug #29928 related with Rotation behavior
+	* Investigated the bug #29933 related with TWB behavior and sent it back to Jim asking the original data
 	
+## 2021-05-08
+
+* Excersiced roller skating at backyard
+
+## 2021-05-09
+
+* Fixed mice problem in Evelyn Lane
+* Run disputes with tenants in Evelyn Lane
+* Installed new dryer vent cover
+* Replaced hose in the backyard
+* Contacted contractor for repairs in Evelyn Lane
+
+## 2021-05-10
+
+* Searched dishwasher and vertical blinds in Home Depot
+* Searched second hand mechanical lawn mover
+* Contacted ITALKBB regarding package delivery
+* Asked LTB two times regarding opinions for the disputes
+* Called several landloard atterneys about the dispute (JST, Epstein, Global, Yu RongWei, 房东网 etc.)
+
+* [HEXAGONMI](#hexagonmi)
+	* Reviewed source code from Shaharoz related with disabling transform on fixed part
+
+## 2021-05-11
+
+* Replied tenants regarding disputes
+* Called tenants to reply to discuss repair issues
+* Sent message to tenants to discuss repair issues
+
+* [HEXAGONMI](#hexagonmi)
+	* Reviewed source code from Adrian related with bug fix
+	* Reviewed source code from Shaharoz related with bug fix
+	* Investigated the bug #29933 related with TWB material assignment
+	* Reviewed the new design of the Advanced Double Attach dialog box
+	
+## 2021-05-12
+
+* Called LTB regarding non-response tenants issue
+* Call Rental Reenforcement Unit regarding the non-response tenants issue
+
+* [HEXAGONMI](#hexagonmi)
+	* Had sprint grooming and planning meeting
+	* Investigated the bug #29993 related with failed bridging
+	* Investigated the bug #29997 related with failed bridging
+	* Discussed with Shaharoz about design issues for the new Advanced Double Attached
+
+## 2021-05-13
+
+* Ordered the new dishwasher from HomeDepot
+* Ordered instllation and haul away service for the dishwasher
+* Ordered new garden hose for front yard
+* Sent warranty qeury regarding the garden hose
+* Ordered fridge shelf bin holder from PartSelect.ca
+
+* [HEXAGONMI](#hexagonmi)
+	* Stared investigating project template in Visual Studio
+	* Asked Henny about where to place testing parts
+	* Reviewed source code from Adrian related with material assignment
+
+## 2021-05-14
+
+* Completed Census Canada online
+
+* [L3MONSHAPE](#l3monshape)
+	* Reviewed Python3
+	* Continued learning of GIMP Python module
+	
+* [HEXAGONMI](#hexagonmi)
+	* Reviewed source code from Adrian related with material definition bug fixes
+	* Started learning of creating project templates
+	* Investigated the issue of #30043 related with manifold orientation check
+	* Investigated the bug #30035 relate with failed bridge surfaces
+
+## 2021-05-15
+
+* Had handyman Ha inspected the problem in Evelyn Lane
+* Cleaned weed patches at the curb
+* Sent mail to FitLifeLLC for replacement
+
+## 2021-05-16
+
+* Visisted Bay Front park at Hamilton
+* Ordered Constant Home Comfort AC inspection
+* Talked to the tenants about the delay of vertical blinds (wait until lockdown is finished)
+* Installed first gardent netting
+
+## 2021-05-17
+
+* Checked passport renewal required documents
+* Attended Alpha to Omega course online
+* Changed windows password
+
+* [L3MONSHAPE](#l3monshape)
+	* Tried to rum GIMP Python script from Python console
+	* Registered python script to plug-ins
+	* Tried to visualize using ParaView
+
+* [HEXAGONMI](#hexagonmi)
+	* Learned how to create project template from Visual Studio
+	* Created unit test project template
+
+## 2021-05-18
+
+* Paied Cogeco monthly bill
+* Checked Chines Passport renewal requirements
+* Checked Canadian Passport renewal requirements
+* Recheck Ethan's learning resources
+* Recheck Ethan's piano learning
+* Returned telescope and blocks
+* Updated registered purchased items
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #30052 and #30053 related with material regeneration after hole filling (Adrian)
+	* Investigated the bug #30051 related with material smart regeneration (Shaharoz and Alex Chung)
 
 ## REFERENCES
 
