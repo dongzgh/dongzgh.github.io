@@ -20,6 +20,7 @@ tags: [school]
   * Disney Pixar <i class="far fa-thumbs-up"></i>
   * Whitney the Pooh
 * 不一样的卡梅拉 <i class="far fa-thumbs-up"></i>
+* 神奇校车 <i class="far fa-thumbs-up"></i>
 * 米小兔故事云
   * 伊索寓言
   * 安徒生童话
@@ -28,9 +29,11 @@ tags: [school]
 * 喜马拉雅
   * 鲁滨逊漂流记 <i class="far fa-thumbs-up"></i>
   * 80天环游地球
+  * 老人与海
   * 神秘岛 <i class="far fa-thumbs-up"></i>
   * 地心游记 <i class="far fa-thumbs-up"></i>
   * 昆虫记 <i class="far fa-thumbs-up"></i>
+  * 王丹趣味地理课 <i class="far fa-thumbs-up"></i>
 
 ## Mind
 
@@ -93,12 +96,12 @@ tags: [school]
   * [Tumble Books](https://www.tumblebooklibrary.com/Home.aspx?categoryID=77)
   * [Pebble Go](https://site.pebblego.com/modules/5/categories/5010)  
 
-### Chinese Literacy 
+### Chinese Literacy
 
 * Readings
   * 四五快读 <i class="far fa-thumbs-up"></i>
 
-### Mathematics 
+### Mathematics
 
 * Virtual Kindergarten <i class="far fa-thumbs-up"></i>
 * Educational Activities <i class="far fa-thumbs-up"></i>
@@ -306,6 +309,7 @@ tags: [school]
   * Itsy Betsy Spider
   * 送别
   * 爱的代价
+  * 大鱼
 
 ### Crafts <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span> <i class="far fa-thumbs-up"></i>
 
@@ -346,6 +350,7 @@ tags: [school]
   * [AWESMR pop](https://www.youtube.com/channel/UClkUrNgGC4BD6pWURJbM9MQ)
 * Kinetic Sand <i class="far fa-thumbs-up"></i>
   * [Official Channel](https://www.youtube.com/channel/UCCQUyqRJYaiCNba7SJzDGdw)
+* STEM Toys Building Blocks <i class="far fa-thumbs-up"></i>
 
 ## Funs <span style="color: blue"><i class="fas fa-gamepad"></i></span>
 

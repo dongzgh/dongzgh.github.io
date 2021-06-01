@@ -9354,7 +9354,124 @@ tags: [personal]
 * [HEXAGONMI](#hexagonmi)
 	* Investigated the bug #30052 and #30053 related with material regeneration after hole filling (Adrian)
 	* Investigated the bug #30051 related with material smart regeneration (Shaharoz and Alex Chung)
+	* Connected with CABUR-DT-02400 and created folder FTITESTINGDB and shared it with related persons
+	* Copied testing database to the remote destination
+	* Reviewed source code updates from Adrian
 
+## 2021-05-19
+
+* Took Chinese Passport photos
+
+* [L3MONSHAPE](#l3monshape)
+	* Reviewed how to use ParaView
+	* Fixed CallbackTSFTITreeItemMenuNotify issue with context menu updates
+	
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Hagen about pipeline development
+	* Studied how to deploy project template
+
+## 2021-05-20
+
+* [L3MONSHAPE](#l3monshape)
+	* Developed model to be used by cutter
+
+* [HEXAGONMI](#hexagonmi)
+	* Had meeting with Henny discussing unit testing areas in Geometry team
+	* Had meeting with Adrian and Shaharoz about rotation changes
+	* Developed project template VSIX wrapper
+	
+## 2021-05-21
+
+* [L3MONSHAPE](#l3monshape)
+	* Revised edit.py to save different png profile
+	* Continued learning of VTK
+
+* [HEXAGONMI](#hexagonmi)
+	* Tried to install CATIA on my local machine
+	
+## 2021-05-22
+
+* Registered garden hoses (50ft and 75ft)
+* Played with Ethan at Calton's home
+* Bought second hand bike for Ethan
+
+## 2021-05-23
+
+* Visited Pier 4 harbor front park
+* Biked at the Berton Park trail 
+
+## 2021-05-24
+
+* Biked at the Berton Park trail
+* Installed Weep Hole Cover
+
+## 2021-05-25
+
+* [HEXAGONMI](#hexagonmi)
+	* Started to work on material testing
+	* Reviewed material related testing cases and bugs
+	* Created template VSIX installer
+
+## 2021-05-26
+
+* Talked with Fuming's tenant about tomorrow's mail pick up at noon
+
+* [HEXAGONMI](#hexagonmi)
+	* Reviewed source code updates from Adrian related with separation distance updates
+	* Working on unit test for DefineMaterial in AGW
+
+## 2021-05-27
+
+* Checked CRA account balance
+* Got and checked mails for Fuming
+* Paied Union Gas bill
+* Paid estate final taxes for 2021
+* Checked Census Canada
+
+* [L3MONSHAPE](#l3monshape)
+	* Revised the script slice.py to translate models
+	
+* [HEXAGONMI](#hexagonmi)
+	* Fixed a win32 build issue
+	* Talked with Adrian about the separation distance calculation issue related with the bug #30148
+	* Rebuild project and item templates VSIX project with folders
+	
+## 2021-05-28
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #30191 related with Edit box on PositionGeoSets dialog box
+	* Discussed with Adrian about the new design for separation distance
+	* Added more tests for SelectGeoSets
+	* Git initialized remote testing database repository
+
+## 2021-05-29
+
+* Rollerskated and skateboarded at the Centenial Bike Way
+
+## 2021-05-30
+
+* Played with Maxi at Nordon Park and backyard
+* Played with Calton at the school playground
+
+## 2021-05-31
+
+* Investigated the COV19 CCB support payments
+
+* [L3MONSHAPE](#l3monshape)
+	* Reorganized demo cases for volics
+
+## 2021-06-01
+
+* [HEXAGONMI](#hexagonmi)
+	* Introduced unit testing framework and basic material tests to Adrian
+	* Rehearsed unit test meeting materials
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued accumulating demos for transformation
+	* Organized Spring grooming and planning meeting
+	* Set up brainstorming meeting for PP data preparation
+	* 
+	
 ## REFERENCES
 
 ### estates
