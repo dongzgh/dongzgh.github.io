@@ -9455,12 +9455,15 @@ tags: [personal]
 
 ## 2021-05-31
 
+* Bought and sent birthday gift for Luo Luo
 * Investigated the COV19 CCB support payments
 
 * [L3MONSHAPE](#l3monshape)
 	* Reorganized demo cases for volics
 
 ## 2021-06-01
+
+* Called plumber service for Evelyn Lane
 
 * [HEXAGONMI](#hexagonmi)
 	* Introduced unit testing framework and basic material tests to Adrian
@@ -9470,8 +9473,72 @@ tags: [personal]
 	* Continued accumulating demos for transformation
 	* Organized Spring grooming and planning meeting
 	* Set up brainstorming meeting for PP data preparation
-	* 
+	* Reviewed separation distance definition from Muhammad
 	
+## 2021-06-02
+
+* Placed order for Ethan's birthday
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued accumulating demos for transformation
+
+* [HEXAGONMI](#hexagonmi)
+	* Attended Unit Test Integration meeting
+	* Investigated the bug #30235 relate with material smart regeneration
+	
+## 2021-06-03
+
+* [HEXAGONMI](#hexagonmi)
+	* Started learning batch script
+
+## 2021-06-04
+
+* [HEXAGONMI](#hexagonmi)
+	* Continued learning batch script
+	
+## 2021-06-05
+
+* Visited Calton's home for birthday party
+* Registered Ethan's Virtual Kindergarten for 2021-2022
+	
+## 2021-06-06
+
+* Visited Elora Gorge
+
+## 2021-06-07
+
+* [HEXAGONMI](#hexagonmi)
+	* Started learning PowerShell scripts
+	* Reviewed source codes from Shaharoz for new Advanced Double Attach
+	* Completed the task 29634 related with investigating the possibilities to improve trim line generations
+	* Reviewed Adrian's demo regarding separation distance
+	* Discussed with Shaharoz related with the new Advanced Double Attach dialog box status texts
+	
+## 2021-06-08
+
+* Added basic Algolia Search Engine support for research project
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Vladmir about the post-processing logging
+	* Checked in initial test pipeline bat file and triggered pipeline sandbox
+	* Updated testing project settings
+	
+## 2021-06-09
+
+* Redone blood work at Dynacare Plus
+* Received blood work results from Dynacare Plus
+* Sent N12 form to Fuming's tenant
+
+* [HEXAGONMI](#hexagonmi)
+	* Had dicussion with Adrian regarding Edit mode savings
+	* Revised FTIFS.sln for the configuration 2
+
+## 2021-06-10
+
+* [HEXAGONMI](#hexagonmi)
+	* Revised Visual Studio option to generate test results
+	* Revised test preprare script for clearning test results
+
 ## REFERENCES
 
 ### estates

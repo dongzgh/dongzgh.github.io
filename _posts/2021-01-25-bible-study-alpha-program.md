@@ -131,7 +131,9 @@ tags: [Christian]
   * Act of Contrition
   * Absolution
 
-### 17 Mass and Eucharist
+## From Alpha to Omega
+
+### 1 Mass and Eucharist
 
 * Lamb of God, God is revealed himself in lamb (flesh and blood). This is sacrifice.
-* 
+* Who offers himself as sacrifice, is called priest.
