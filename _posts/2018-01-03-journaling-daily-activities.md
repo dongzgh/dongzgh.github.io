@@ -9539,6 +9539,42 @@ tags: [personal]
 	* Revised Visual Studio option to generate test results
 	* Revised test preprare script for clearning test results
 
+## 2021-06-11
+
+* [L3MONSHAPE](#l3monshape)
+	* Started learning of 3DSlicer to generate volume rendering
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #29916 related with memory leak resulted from topology error
+	* Revised test build script to publish xml reports
+	* Fixed registration issue on the test script
+	* Completed and tested unit testing pipeline	
+	
+## 2021-06-12
+
+* Visited Red Hill Recreational Trail
+
+## 2021-06-13
+
+* Invited Calton to play water with Ethan at home
+
+## 2021-06-14
+
+* Sent birthday vacation requests
+* Submitted dental claim for Min for Jun. 3rd fillings
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of 3DSlicer to generate volume rendering
+	
+* [HEXAGONMI](#hexagonmi)
+	* Asked Rob's opinion regarding setting up the test build pipeline
+	* Fixed the bug #29916 by adding protections for missing trim lines
+	* Reviewed source code from Adrian related with Edit Double Attached saving alignment edges
+	* Reviewed with Shaharoz and Adrian related with some changes on the fornt end
+	* Rechecked unit test project templates
+	* Added example test for PDP post processor
+	* Updated unit testing item and project templates
+
 ## REFERENCES
 
 ### estates

@@ -33,7 +33,7 @@ tags: [school]
   * 神秘岛 <i class="far fa-thumbs-up"></i>
   * 地心游记 <i class="far fa-thumbs-up"></i>
   * 昆虫记 <i class="far fa-thumbs-up"></i>
-  * 王丹趣味地理课 <i class="far fa-thumbs-up"></i>
+  * 王丹趣味地理课 <i class="far fa-thumbs-up"></i> 
 
 ## Mind
 
@@ -52,6 +52,8 @@ tags: [school]
     * [3D Shapes](https://hcdsb.elearningontario.ca/content/enforced/17568618-BL_SK_JKSKH-01_846774_2021/3D%20Shapes%20Concentration%20Game%201.pdf)
     * [Days of the Week](https://docs.google.com/document/d/1EktTvz8ypayBdaDLS_NwspERJc-xHo9oxTBc1lJkeXU/copy)
     * [Months of the Year](https://docs.google.com/presentation/d/1oCU4HdM28uN5Yef9ycaMCDlHRvZ6ev7s8Iq-EFk0SnY/edit#slide=id.gc45d792b7d_0_2)
+    * [Farming Vocabulary](https://hcdsb.elearningontario.ca/content/enforced/17568618-BL_SK_JKSKH-01_846774_2021/Farming%201.pdf)
+    * [Fruit or Vegetable](https://hcdsb.elearningontario.ca/content/enforced/17568618-BL_SK_JKSKH-01_846774_2021/LearningFoodsFruitsandVegetablesHomeschoolNutritionStarterColorful-1.pdf)
     * Making things
     * Organizing things
 * Worksheets
@@ -83,6 +85,9 @@ tags: [school]
   * [Ocean Poem](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/150887207)
   * [If Jesus Came to Visit Me](https://video.link/w/fNNXb)
   * [The Way I Feel](https://www.youtube.com/watch?v=MSdSWlfCpJ8)
+  * [Eating the Alphabet](https://video.link/w/vaaxc)
+  * [Five Senses](https://site.pebblego.com/modules/16/categories/10755)
+  * [Seasons](https://site.pebblego.com/modules/2/categories/2994)
   * Virtual Classrooms <i class="far fa-thumbs-up"></i>
     * [Happy New Year](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/143671150)
     * [Valentine's Day Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/148578406)
@@ -93,6 +98,8 @@ tags: [school]
     * [Friends are Family](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/154909023)
     * [Snuggle Up and Read](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/152659464)
     * [Snuggle Up and Read](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/154910641)  
+    * [Beach Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/157189057)
+    * [Sandcast Day](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/157546470)
   * [Tumble Books](https://www.tumblebooklibrary.com/Home.aspx?categoryID=77)
   * [Pebble Go](https://site.pebblego.com/modules/5/categories/5010)  
 
@@ -164,6 +171,10 @@ tags: [school]
     * [Family](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/152659376)
     * [Earth Day](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/153026101)
     * [Earth Day](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/153026960)
+    * [Asian Heritage Month](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/156148674)
+    * [Bee Room](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/156573362)
+    * [Nutrition](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/156860306)
+    * [Gardening Room](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/156860312)
   * [Pebble Go](https://site.pebblego.com/modules)  
   * [Scholastic Books](https://lplibrary01.scholasticlearningzone.com/#!/student-books)
 * Videos
@@ -205,6 +216,8 @@ tags: [school]
   * Hexagon
   * Tetris
   * [Tic Tac Toe](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144191305)
+* Coding
+  * [Frog Game](https://drive.google.com/file/d/165Hk31iaftFiMJelgbit9sQOKy1C2UO6/view)
 
 ## Body <span style="color: blue"><i class="fas fa-running"></i></span>
 
@@ -248,6 +261,8 @@ tags: [school]
     * [In the Middle](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/150887207)
   * Outdoor
     * [Education Games](https://www.youtube.com/channel/UCUI_IoE6IHH6uacv7qPdsIQ/playlists)
+* Dancing
+  * [Zomba Dance Party](https://video.link/w/xAtzc)
 
 ## Arts
 
@@ -368,9 +383,11 @@ tags: [school]
 * Scavenge Hunt <i class="far fa-thumbs-up"></i>
   * [Outdoor Scavenge Hunt 1](https://docs.google.com/presentation/d/1ASm1oa-34MiVHv598jnQeR1DUtHDSGhWN2xDv6a94c8/edit#slide=id.p)
   * [Outdoor Scavenge Hunt 2](https://www.cbc.ca/parents/content/pdf/CBCParents_WinterScavengerHunt.pdf)
+  * [Outdoor Scavenge Hunt 2](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/156573320) 
   * [Scavenge Hunt](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/151895998)
   * [Family Scavenge Hunt](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/152655813)
   * [Bird Bingo](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/155588703)
+  * [Pattern Hunt](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/157546468)
 * Charades
   * [Feeling Charades](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/143669899)
   * [Kids Charades](https://docs.google.com/document/d/1j5V9LM759GZEIPDLOlHp4-g2lBfOieN3x1S-Vb4mYT0/edit)

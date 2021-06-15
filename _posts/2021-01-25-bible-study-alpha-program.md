@@ -137,3 +137,17 @@ tags: [Christian]
 
 * Lamb of God, God is revealed himself in lamb (flesh and blood). This is sacrifice.
 * Who offers himself as sacrifice, is called priest.
+
+### 2 Isaac's Sacrifice by Abraham
+
+* It is probably not true
+* Isaac knows it in advance
+* It did not happen eventually
+
+### 3 Lamb of God
+
+* Unblemished male lamb one year old (goat or sheep)
+* Sacrifice the lamb by the father of the household
+* Spread the blood on the door posts
+* Eat the flesh of the lamb with unleavened bread
+* Keep the Passover as a memorial day forever
