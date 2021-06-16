@@ -9563,9 +9563,6 @@ tags: [personal]
 * Sent birthday vacation requests
 * Submitted dental claim for Min for Jun. 3rd fillings
 
-* [L3MONSHAPE](#l3monshape)
-	* Continued learning of 3DSlicer to generate volume rendering
-	
 * [HEXAGONMI](#hexagonmi)
 	* Asked Rob's opinion regarding setting up the test build pipeline
 	* Fixed the bug #29916 by adding protections for missing trim lines
@@ -9574,6 +9571,16 @@ tags: [personal]
 	* Rechecked unit test project templates
 	* Added example test for PDP post processor
 	* Updated unit testing item and project templates
+
+## 2021-06-15
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of 3DSlicer to generate volume rendering
+
+* [HEXAGONMI](#hexagonmi)
+	* Presented to Vladmir how to unit test PDP post processor
+	* Discussed with Shaharoz and Muhammad about adding symmetry to the bridging dialog box
+	* Discussed with Muhammad about how to showing minimum separation distance
 
 ## REFERENCES
 
