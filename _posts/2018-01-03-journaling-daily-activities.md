@@ -9562,6 +9562,7 @@ tags: [personal]
 
 * Sent birthday vacation requests
 * Submitted dental claim for Min for Jun. 3rd fillings
+* Rescheduled second vaccination date to July 15th.
 
 * [HEXAGONMI](#hexagonmi)
 	* Asked Rob's opinion regarding setting up the test build pipeline
@@ -9574,6 +9575,8 @@ tags: [personal]
 
 ## 2021-06-15
 
+* Reconnected with Mijia at parent's home
+
 * [L3MONSHAPE](#l3monshape)
 	* Continued learning of 3DSlicer to generate volume rendering
 
@@ -9581,6 +9584,53 @@ tags: [personal]
 	* Presented to Vladmir how to unit test PDP post processor
 	* Discussed with Shaharoz and Muhammad about adding symmetry to the bridging dialog box
 	* Discussed with Muhammad about how to showing minimum separation distance
+
+## 2021-06-16
+
+* Ordered lithum battery for the Blink camera
+* Submitted HSA for the rest of Min's dental filling expenses
+* Installed Transock VPN to used Ximalaya
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK
+	
+* [HEXAGONMI](#hexagonmi)
+	* Updated pipeline task names and title
+
+## 2021-06-17
+
+* Played new toys with Ethan at home
+* Visited Ye Meizi's home
+
+## 2021-06-19
+
+* Shopped vertical blinds at Home Depot with Handyman Ha
+* Replaced lawn at the front yard
+* Shipped nutritian foods to China
+* Bought second hand books from Missisauga
+* Shopped at Superstore oakville
+* Tried to schedule date for vertical blinds installation
+
+## 2021-06-20
+
+* Reviewed how to play rubik cubes
+* Visited Dundas Valley Conservation Area Main Loop
+* Bought hamberger King meals from Burger King
+* Bought baby probiotic because of Ethan's diaria
+
+## 2021-06-21
+
+* Prepared documents for Dong's passport renewal
+* Confirmed vertical blinds installation on July 2nd.
+	
+* [HEXAGONMI](#hexagonmi)
+	* Groomed backlog for this Sprint
+	* Updated FS source codes
+	* Restarted testing pipeline
+	* Investigated the bug #30385 related with regeneration failure in Release mode and sent it to Jacob
+	* Investigated the bug #30389 related with symmetry UI change requirements
+	* Investigated the bug #30396 related with rotation clockwise and anticlockwise
+	* Investigated the bug #30398 related with slow performance of checking minimum distance between boundaries
 
 ## REFERENCES
 

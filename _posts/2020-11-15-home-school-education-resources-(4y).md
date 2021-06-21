@@ -22,18 +22,19 @@ tags: [school]
 * 不一样的卡梅拉 <i class="far fa-thumbs-up"></i>
 * 神奇校车 <i class="far fa-thumbs-up"></i>
 * 米小兔故事云
-  * 伊索寓言
+  * 伊索寓言 <i class="far fa-thumbs-up"></i>
   * 安徒生童话
-  * 一千零一夜
+  * 一千零一夜 <i class="far fa-thumbs-up"></i>
   * 西游记 <i class="far fa-thumbs-up"></i>
 * 喜马拉雅
   * 鲁滨逊漂流记 <i class="far fa-thumbs-up"></i>
-  * 80天环游地球
-  * 老人与海
+  * 80天环游地球 <i class="far fa-thumbs-up"></i>
+  * 老人与海 <i class="far fa-thumbs-up"></i>
   * 神秘岛 <i class="far fa-thumbs-up"></i>
   * 地心游记 <i class="far fa-thumbs-up"></i>
   * 昆虫记 <i class="far fa-thumbs-up"></i>
   * 王丹趣味地理课 <i class="far fa-thumbs-up"></i> 
+  * 十万个为什么 <i class="far fa-thumbs-up"></i>
 
 ## Mind
 
@@ -42,7 +43,6 @@ tags: [school]
 * Virtual Kindergarten <i class="far fa-thumbs-up"></i>
 * Educational Activities <i class="far fa-thumbs-up"></i>
   * [The Alphabet Song](https://youtu.be/lhX064AiyGg) <i class="far fa-thumbs-up"></i>
-  * [Alphabet Line Up](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140156657)
   * Alphabet matching game
   * English Words
     * [Jack Harman Sight Words](https://www.youtube.com/watch?v=gIZjrcG9pW0&list=PLsAsYlJSSx-qcUr6D4i-LPBvkV2Suy0iV)
@@ -54,8 +54,6 @@ tags: [school]
     * [Months of the Year](https://docs.google.com/presentation/d/1oCU4HdM28uN5Yef9ycaMCDlHRvZ6ev7s8Iq-EFk0SnY/edit#slide=id.gc45d792b7d_0_2)
     * [Farming Vocabulary](https://hcdsb.elearningontario.ca/content/enforced/17568618-BL_SK_JKSKH-01_846774_2021/Farming%201.pdf)
     * [Fruit or Vegetable](https://hcdsb.elearningontario.ca/content/enforced/17568618-BL_SK_JKSKH-01_846774_2021/LearningFoodsFruitsandVegetablesHomeschoolNutritionStarterColorful-1.pdf)
-    * Making things
-    * Organizing things
 * Worksheets
   * Ultimate Real Kindergarten Workbook
   * [9](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/140413885)
@@ -200,13 +198,13 @@ tags: [school]
     * Rush Hour <i class="far fa-thumbs-up"></i>
     * Hoppers Solitaire <i class="far fa-thumbs-up"></i>
     * 15 Puzzle
-    * Wire Puzzle
+    * Wire Puzzle <i class="far fa-thumbs-up"></i>
   * Riddles
 * Puzzles
   * Maze
     * [Krazydad](https://krazydad.com/mazes/)
-  * Pixidoku
-    * [Krazydad](https://krazydad.com/pixidoku/)
+  * Sokudo
+    * [Krazydad](https://krazydad.com/sudoku/)
   * Numberlink
     * [Brain Games for Clever Kids: Puzzles to Exercise Your Mind](https://www.amazon.ca/gp/product/1780552491/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
     * [Any Puzzle Media](http://www.anypuzzle.com/Numberlink)
@@ -239,11 +237,11 @@ tags: [school]
   * Basketball <i class="far fa-thumbs-up"></i>
   * Volleyball <i class="far fa-thumbs-up"></i>
   * Hockey <i class="far fa-thumbs-up"></i>
-  * Badminton
+  * Badminton <i class="far fa-thumbs-up"></i>
   * Ping Pong
 * Targets
   * Magnetic Dart
-  * Bowling
+  * Bowling <i class="far fa-thumbs-up"></i>
   * Toss Rings
 * Exercise
   * [Boom Chicka Boom](https://youtu.be/9nKq4jm4LD8)
@@ -268,7 +266,6 @@ tags: [school]
 
 ### Drawing <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span>
 
-* [Easter Drawing/Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/152350581)
 * Color Book
 * Sticker Book <i class="far fa-thumbs-up"></i>
 * Painting Courses
@@ -288,8 +285,10 @@ tags: [school]
     * [How to Draw An Ox](https://youtu.be/jNawjZ40pOY)
     * [How to Draw A Shark](https://youtu.be/aGkSeFw8MdQ)
     * [How to Draw People](https://www.youtube.com/playlist?list=PLnoO3k54vcBRRGrCMyKOTDLCw2XmzvRdv)
+    * [How to Draw Telescope](https://youtu.be/H8Udz7D5c1Y)
   * [Crateful Art](https://www.youtube.com/c/Createfulart/featured)
   * [Wow Art](https://www.youtube.com/channel/UCdZutxI1UnH9N3Fh_TeQ4Kw/videosf)
+* [Easter Drawing/Library](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/152350581)
 
 ### Music <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span>
 
@@ -315,19 +314,22 @@ tags: [school]
   * [零起步学钢琴](https://www.bilibili.com/video/BV1R4411j7v5) <i class="far fa-thumbs-up"></i>
   * [Hoffman Academy](https://www.youtube.com/channel/UCiKUKTMbojTIPGWPR_eec9w)
 * Piano Practices
-  * Brother John
-  * Jingle Bell
-  * Marry Had a Little Lamb
-  * Twinkle Twinkle Little Star
   * Hot Cross Bun
+  * Itsy Betsy Spider <i class="far fa-thumbs-up"></i>
+  * Marry Had a Little Lamb <i class="far fa-thumbs-up"></i>
+  * Twinkle Twinkle Little Star <i class="far fa-thumbs-up"></i>
+  * Brother John <i class="far fa-thumbs-up"></i>  
   * Happy Birthday
-  * Itsy Betsy Spider
+  * Jingle Bell  
   * 送别
   * 爱的代价
   * 大鱼
 
 ### Crafts <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span> <i class="far fa-thumbs-up"></i>
 
+* Origami
+  * [Simple Boat](https://youtu.be/dFopAwWZ8ss)
+  * [Simple Crane](https://youtu.be/6VqF8WGuBLA)
 * [Pattern Mitten Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144852767)
 * [Dot Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/145780825)
 * [Recycle Art](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/146889049)
@@ -343,19 +345,13 @@ tags: [school]
 * [Make a Cube](https://www.firstpalette.com/pdf/cube.pdf)
 * [123 Easy Paper Crafts 5 minute paper craft](https://www.youtube.com/channel/UCXUH2dmTnXMSxmJfp4-LT8A) <i class="far fa-thumbs-up"></i>
 * [TLT Lab Hacks](https://www.youtube.com/channel/UCF-_3d9a5UDtaMdvpljiw4w) <i class="far fa-thumbs-up"></i>
-* [Origami with Jo Nakashima](https://www.youtube.com/channel/UC3ICcukYYeSn26KlCRnhOhA) <i class="far fa-thumbs-up"></i>
-  * [Origami Boat (Traditional Model)](https://youtu.be/dFopAwWZ8ss)
 * [纸杯手套怪物](https://www.ixigua.com/6911241193145896207/)
-* Origami
-  * [Simple Boat](https://youtu.be/dFopAwWZ8ss)
-  * [Simple Crane](https://youtu.be/6VqF8WGuBLA)
 
 ### Construction Games <span style="color: blue"><i class="fas fa-gamepad"></i></span>
 
 * LEGO
   * [Lego Challenge](https://docs.google.com/presentation/d/1vUPIlqiRse1FyWxYk2JFtJzbwBvvLB71qGtfp1e1h78/edit#slide=id.p)
-  * Classics <i class="far fa-thumbs-up"></i>
-    * [Official Instructions]((https://play.google.com/store/apps/details?id=com.lego.legobuildinginstructions&hl=en_CA&gl=US))
+  * [Official Instructions]((https://play.google.com/store/apps/details?id=com.lego.legobuildinginstructions&hl=en_CA&gl=US))
   * Gadgets <i class="far fa-thumbs-up"></i>
 * Mega Blocks <i class="far fa-thumbs-up"></i>
   * [Official Ideas](https://www.megabloks.com/en-us/build)
@@ -378,7 +374,7 @@ tags: [school]
     * [Dash to Decorate](https://hcdsb.elearningontario.ca/content/enforced/17568618-BL_SK_JKSKH-01_846774_2021/Dash%20To%20Decorate2.pdf)
     * [Greedy Santa](https://hcdsb.elearningontario.ca/content/enforced/17568618-BL_SK_JKSKH-01_846774_2021/Greedy%20Santa1.pdf)
     * [Number Path](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/150057527)
-* Adventure
+* Roll and Dice
   * Ladder and Chute
 * Scavenge Hunt <i class="far fa-thumbs-up"></i>
   * [Outdoor Scavenge Hunt 1](https://docs.google.com/presentation/d/1ASm1oa-34MiVHv598jnQeR1DUtHDSGhWN2xDv6a94c8/edit#slide=id.p)
