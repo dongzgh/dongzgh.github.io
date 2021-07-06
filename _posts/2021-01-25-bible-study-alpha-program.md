@@ -151,3 +151,10 @@ tags: [Christian]
 * Spread the blood on the door posts
 * Eat the flesh of the lamb with unleavened bread
 * Keep the Passover as a memorial day forever
+
+### 4 Miracles of the Exodus
+
+* Exodus is a person's life in this world
+* Moses not permitted to go into the promised land
+  * He hit the rock instead of speaking to the rock
+* Rock is Christ

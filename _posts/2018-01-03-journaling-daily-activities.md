@@ -9622,6 +9622,7 @@ tags: [personal]
 
 * Prepared documents for Dong's passport renewal
 * Confirmed vertical blinds installation on July 2nd.
+* Reviewed education resources for Ethan
 	
 * [HEXAGONMI](#hexagonmi)
 	* Groomed backlog for this Sprint
@@ -9631,6 +9632,107 @@ tags: [personal]
 	* Investigated the bug #30389 related with symmetry UI change requirements
 	* Investigated the bug #30396 related with rotation clockwise and anticlockwise
 	* Investigated the bug #30398 related with slow performance of checking minimum distance between boundaries
+
+## 2021-06-22
+
+* [HEXAGONMI](#hexagonmi)
+	* Groomed backlog for the current sprint
+	* Updated unit testing project settings
+	* Reviewed source codes from Adrian related with Filp side bug in Da
+	
+## 2021-06-23
+
+* Rescheduled Ethan's pediatric dentistry appointment
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Eric about how to deal with the feature #28315
+	
+## 2021-06-24
+
+* Bought gift card to Guzzo and Palazzolo and sent to them electronically
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK
+
+* [HEXAGONMI](#hexagonmi)
+	* Discussed with Shaharoz about how to destroy window
+	* Revised connection functions for UnfoldFlanges
+	* Investigated the bug #30459 related with bounding box updates with flipping
+	
+## 2021-06-25
+
+* Returned Amazon birthday gifts: Shooting targets and Mouse Mania board game
+* Retook passport photos
+* Sent passport renewal documents to Chinese Consulate General/Wiki
+* Started searching summer camps
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK
+	
+* [HEXAGONMI](#hexagonmi)
+	* Compared trim line estimation and creation in AGW
+	* Tried to making EstimateTrimLine and CreateTrimLine follow similar workflow
+
+## 2021-06-26
+
+*  Got Chinese book
+	
+## 2021-06-27
+
+* Visited Merriam Music Showroom Oakville
+
+## 2021-06-28
+
+* Placed order to replace the nurf targets
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #30466 related with failed die face creation
+	
+## 2021-06-29
+
+* [HEXAGONMI](#hexagonmi)
+	* Duplicated CreateTrimLines and related functions to their new version
+	* Revised progress bar updating strategies
+	
+## 2021-06-30
+
+* [HEXAGONMI](#hexagonmi)
+	* Duplicated CreateTrimLines and related functions to their new version
+	* Revised progress bar updating strategies
+	* Reviewed source codes from Shaharoz and Adrian
+	* Moved new trim lines to pre-trim lines group
+
+## 2021-07-01
+	
+* Played with Calton at the school
+
+## 2021-07-02
+
+* Sent Ethan to Helen's home and attended badminton day campaign
+* Bought bike gears from Decathlon
+* Bought indoor racket shoes for Ethan from Decathlon
+* Shopped at Winners
+
+## 2021-07-03
+
+* Bought books for Ethan from Wenxin
+* Fished at Bronty Creek Provincial Park
+
+## 2021-07-04
+
+* Visited Twin Valley Zoo with Maxi's family
+* Reorganzied front living room for piano
+* Gave some toys for free on the front yard
+
+## 2021-07-05
+
+* [HEXAGONMI](#hexagonmi)
+	* Removed thickness container from unfolding functions
+	* Reviewed source codes from Shaharoz related with minimum distance value
+	* Started learning of OpenMP
 
 ## REFERENCES
 

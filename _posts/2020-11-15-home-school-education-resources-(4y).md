@@ -141,6 +141,7 @@ tags: [school]
 
 * Readings
   * National Geography Kids Series <i class="far fa-thumbs-up"></i>
+  * 人类历史
   * [Solar System](https://site.pebblego.com/modules/2/categories/2992)
   * [Solar System](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/folders/145715217)
   * [Ocean Animal](https://site.pebblego.com/modules/1/categories/4/articles/55)
@@ -318,12 +319,14 @@ tags: [school]
   * Itsy Betsy Spider <i class="far fa-thumbs-up"></i>
   * Marry Had a Little Lamb <i class="far fa-thumbs-up"></i>
   * Twinkle Twinkle Little Star <i class="far fa-thumbs-up"></i>
-  * Brother John <i class="far fa-thumbs-up"></i>  
+  * Brother John <i class="far fa-thumbs-up"></i>
+  * Ode to Joy
   * Happy Birthday
   * Jingle Bell  
   * 送别
   * 爱的代价
   * 大鱼
+  
 
 ### Crafts <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span> <i class="far fa-thumbs-up"></i>
 
