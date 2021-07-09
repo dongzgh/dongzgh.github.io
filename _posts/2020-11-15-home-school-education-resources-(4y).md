@@ -5,7 +5,7 @@ date:   2020-12-02 07:00:00 -0500
 tags: [school]
 ---
 
-## Ethics 
+## Ethics
 
 ### Stories
 
@@ -204,8 +204,9 @@ tags: [school]
 * Puzzles
   * Maze
     * [Krazydad](https://krazydad.com/mazes/)
-  * Sokudo
-    * [Krazydad](https://krazydad.com/sudoku/)
+  * Sudoku
+    * [Krazydad Kidoku](https://krazydad.com/kidoku/)
+    * [Krazydad Sudoku](https://krazydad.com/sudoku/)
   * Numberlink
     * [Brain Games for Clever Kids: Puzzles to Exercise Your Mind](https://www.amazon.ca/gp/product/1780552491/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
     * [Any Puzzle Media](http://www.anypuzzle.com/Numberlink)
@@ -327,7 +328,6 @@ tags: [school]
   * 爱的代价
   * 大鱼
   
-
 ### Crafts <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span> <i class="far fa-thumbs-up"></i>
 
 * Origami

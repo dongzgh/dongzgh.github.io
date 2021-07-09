@@ -9734,6 +9734,42 @@ tags: [personal]
 	* Reviewed source codes from Shaharoz related with minimum distance value
 	* Started learning of OpenMP
 
+## 2021-07-06
+
+* Took second COVID-19 shot at UTM
+
+* [HEXAGONMI](#hexagonmi)
+	* Verified the bug #27249 related with die face creation failure
+	* Removed CreateTrimLine and replaced it with CreateTrimLineNew
+	* Revised EstimateTrimLines to use the new UnfoldFlange function
+	
+## 2021-07-07
+
+* [L3MONSHAPE](#l3monshape)
+	* Continued learning of VTK
+	* Reviewed Scipy Lecture Notes
+	
+* [HEXAGONMI](#hexagonmi)
+	* Groomed sprint backlog for 2021.1.7
+	* Created Task 30577 related with showing part on top of binder
+	
+## 2021-07-08
+
+* [L3MONSHAPE](#l3monshape)
+	* Reviewed Scipy Lecture Notes
+	
+* [HEXAGONMI](#hexagonmi)
+	* Groomed sprint backlog for 2021.1.7
+	* Created Task 30577 related with showing part on top of binder
+	* Continued learning of OpenMP
+	
+## 2021-07-09
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #30607 related with polyline intersection checking
+	* Investigated the bug #30615 related with minimum distance checking between two polylines
+	* Continued learning of OpenMP
+	
 ## REFERENCES
 
 ### estates
