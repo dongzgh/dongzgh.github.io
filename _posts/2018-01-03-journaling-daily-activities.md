@@ -9770,6 +9770,25 @@ tags: [personal]
 	* Investigated the bug #30615 related with minimum distance checking between two polylines
 	* Continued learning of OpenMP
 	
+## 2021-07-10
+
+* Visited Family Mart for Asian groccery shopping
+* Cherry Picking at Sun Valley Farm
+
+## 2021-07-11
+
+* Played at home
+
+## 2021-07-12
+
+* [L3MONSHAPE](#l3monshape)
+	* Started learning Chapter 12 of Scipy Lecture Notes
+	
+* [HEXAGONMI](#hexagonmi)
+	* Gave Shaharoz some upates about the current Sprint plan
+	* Continued learning of OpenMP
+	* Investigated the bug #30624 related with Split Surfaces
+	
 ## REFERENCES
 
 ### estates
