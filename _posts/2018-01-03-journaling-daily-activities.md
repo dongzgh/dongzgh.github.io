@@ -9781,6 +9781,10 @@ tags: [personal]
 
 ## 2021-07-12
 
+* Installed wireless printer
+* Updated assets and registered latest products
+* Submitted Min's dental claim for 3D scanning
+
 * [L3MONSHAPE](#l3monshape)
 	* Started learning Chapter 12 of Scipy Lecture Notes
 	
