@@ -9793,6 +9793,54 @@ tags: [personal]
 	* Continued learning of OpenMP
 	* Investigated the bug #30624 related with Split Surfaces
 	
+## 2021-07-13
+
+* Checked Ethan's dental claim (paid in full)
+* Submitted claim for Min's dental check
+
+* [HEXAGONMI](#hexagonmi)
+	* Continued learning of OpenMP
+	* Started investigating coded ui tests on Windows
+
+## 2021-07-14
+
+* Piano delievered
+
+* [HEXAGONMI](#hexagonmi)
+	* Investigated the bug #30607 related with failed contour intersection checking
+
+## 2021-07-15
+
+* Asked about Min's dental clain to Sun Life
+
+* [L3MONSHAPE](#l3monshape)
+	* Started learning Chapter 17 of Scipy Lecture Notes
+	
+* [HEXAGONMI](#hexagonmi)
+	* Discussed Collision Detection implementation strategy with Eric and Adrian
+	* Submitted project configuration changes for unit testing
+	* Talked with Vladmir about the box example unit test failure
+	* Investigated the bug #30643 related with rotation bahavrion in Da
+	* Investigated the bug #30642 related with select geometry sets combobox text limit
+	* Updated TESTING pipeline and retriggered build
+
+## 2021-07-16
+
+* [HEXAGONMI](#hexagonmi)
+	* Updated Unit Testing team files on Microsoft Team
+	
+## 2021-07-17
+
+* Shopped at Decathlon
+* Played with Stephanie at home
+
+## 2021-07-18
+
+* Had Waterfront Trouley Tour at Peir 7
+* Did yard work at home
+* Reviewed Rubik Cube's algorithm
+* Continued learning of fishing
+
 ## REFERENCES
 
 ### estates
