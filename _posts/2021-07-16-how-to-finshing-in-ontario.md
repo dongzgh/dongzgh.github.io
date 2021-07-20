@@ -24,8 +24,6 @@ tags: [personal]
 
 ### 一般釣魚規則
 
-#### 詞彙表
-
 - 什么是垂钓？
   - {:.answer} 用鱼竿和鱼线钓鱼
 - 鳟鱼和鲑鱼的限额是多少？
@@ -95,4 +93,27 @@ tags: [personal]
   - {:.answer} 在Ontario.ca上搜索Crown Land Use Policy Atla或者Provincial Parks and Conservation Reserves Planning
 - 在政府官地和保育区一年可以最多免费露营多少天？
   - {:.answer} 21天
+  
+### 魚餌、入侵物種，以及病毒性出血性敗血病
+
+- 哪些东西不能做鱼饵？
+  - {:.answer} 蝾螈，水蛭，活鱼（不包括饵鱼）和小龙虾
+- 如何查看入侵物种？
+  - {:.answer} [Invasive species in Ontario](https://www.ontario.ca/page/invasive-species-ontario)
+- 开船捕钓如何防止传播入侵物种？
+  - {:.answer} 及时清理螺旋桨和船身带着的入侵物种
+- 圆虾虎鱼入侵了哪个湖区？
+  - {:.answer} Lake Huron
+- 什么是VHS?
+  - {:.answer} 病毒性出血性败血症
+- 带有VHS的鱼可以吃吗？
+  - {:.answer} 可以，对人类没有危害
+
+### 区域16
+
+- 可以在这个区域持有大口突鳃太阳鱼吗？
+  - {:.answer} 不行，濒危物种
+- 在本区垂钓需要查看哪些规则？
+  - {:.answer} 区域限制
+  - {:.answer} 水域限制
 - 

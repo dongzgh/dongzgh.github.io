@@ -9841,6 +9841,16 @@ tags: [personal]
 * Reviewed Rubik Cube's algorithm
 * Continued learning of fishing
 
+## 2021-07-19
+
+* Reclaimed dental diagnostics for Min to SunLife
+* Continued learning of Fishing Ontario
+
+* [HEXAGONMI](#hexagonmi)
+	* Helped Mario tested the latest Qt updates for 32bit
+	* Discussed with Shaharoz about the Position Binder dialog design updates
+	* Reviewed source codes from Adrian related with rotation behaviour
+
 ## REFERENCES
 
 ### estates
