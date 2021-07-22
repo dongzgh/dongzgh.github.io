@@ -1,7 +1,6 @@
 ---
 title: 深爱着你
 permalink: /shen-ai-zhe-ni
-tags: [music, song, Chinese]
 singer: danny-chan
 ---
 

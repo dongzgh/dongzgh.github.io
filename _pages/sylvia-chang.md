@@ -1,6 +1,8 @@
 ---
 title: 张艾嘉
 permalink: /sylvia-chang
+image: /assets/img/pages/sylvia-chang.jpg
+tags: [music, song]
 ---
 
 <div class='d-flex flex-row flex-wrap'>

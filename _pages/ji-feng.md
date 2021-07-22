@@ -1,7 +1,6 @@
 ---
 title: 疾风
 permalink: /ji-feng
-tags: [music, song, Chinese]
 singer: danny-chan
 ---
 

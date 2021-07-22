@@ -1,7 +1,7 @@
 ---
 title: 思维导图：快速提升写作力
 permalink: /si-wei-dao-tu-kuai-su-xie-zuo
-tags: [reading, Chinese]
+tags: [reading]
 image: /assets/img/pages/si-wei-dao-tu-kuai-su-xie-zuo.jpg
 author: 孙易新等
 spellcheck: off

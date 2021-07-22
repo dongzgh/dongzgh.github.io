@@ -1,7 +1,6 @@
 ---
 title: 等
 permalink: /deng
-tags: [music, song, Chinese]
 singer: danny-chan
 ---
 

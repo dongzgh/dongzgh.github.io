@@ -1,7 +1,6 @@
 ---
 title: 偏偏喜欢你
 permalink: /pian-pian-xi-huan-ni
-tags: [music, song, Chinese]
 singer: danny-chan
 ---
 

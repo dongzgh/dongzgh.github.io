@@ -1,7 +1,6 @@
 ---
 title: 不再问究竟
 permalink: /bu-zai-wen-jiu-jing
-tags: [music, song, Chinese]
 singer: danny-chan
 ---
 

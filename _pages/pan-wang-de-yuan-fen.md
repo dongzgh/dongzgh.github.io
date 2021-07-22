@@ -1,7 +1,6 @@
 ---
 title: 盼望的缘份
 permalink: /pan-wang-de-yuan-fen
-tags: [music, song, Chinese]
 singer: danny-chan
 ---
 

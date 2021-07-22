@@ -1,7 +1,6 @@
 ---
 title: 一生不可自决
 permalink: /yi-sheng-bu-ke-zi-jue
-tags: [music, song, Chinese]
 singer: danny-chan
 ---
 

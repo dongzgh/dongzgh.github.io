@@ -1,7 +1,6 @@
 ---
 title: 而情是近
 permalink: /er-qing-shi-jin
-tags: [music, song, Chinese]
 singer: danny-chan
 ---
 

@@ -1,10 +1,12 @@
 ---
-title: 谭咏麟
-permalink: /alan-tam
+title: 陈百强
+permalink: /danny-chan
+image: /assets/img/pages/danny-chan.jpg
+tags: [music, song]
 ---
 
 <div class='d-flex flex-row flex-wrap'>
-  {% assign pages = site.pages | where: 'singer', 'alan-tam' %}
+  {% assign pages = site.pages | where: 'singer', 'danny-chan' %}
   {% for page in pages %}
   <div class="col-12">
     <a href="{{ page.permalink }}">

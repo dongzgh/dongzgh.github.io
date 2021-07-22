@@ -1,7 +1,6 @@
 ---
 title: 爱的代价
 permalink: /ai-de-dai-jia
-tags: [music, song, Chinese]
 singer: sylvia-chang
 ---
 

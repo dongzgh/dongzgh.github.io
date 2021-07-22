@@ -1,7 +1,7 @@
 ---
 title: 这样读书就够了
 permalink: /zhe-yang-du-shu-jiu-gou-le
-tags: [reading, Chinese]
+tags: [reading]
 image: /assets/img/pages/zhe-yang-du-shu-jiu-gou-le.jpg
 author: 赵周
 spellcheck: off
