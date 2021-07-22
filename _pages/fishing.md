@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  "How to Fishing in Ontario"
-date:   2021-07-16 07:00:00 -0500
-tags: [personal]
+title: Fishing
+permalink: /fishing
+tags: [outdoor, fishing]
+image: /assets/img/pages/fishing.jpg
+spellcheck: off
 ---
 
-## [安省钓鱼手册2021版](https://www.ontario.ca/document/ontario-fishing-regulations-summary-chinese)
+## [安省钓鱼手册 2021 版](https://www.ontario.ca/document/ontario-fishing-regulations-summary-chinese)
 
 ### 休閒釣魚執照資訊
 
@@ -13,7 +14,7 @@ tags: [personal]
   - {:.answer} Outdoor Card (3y)
   - {:.answer} Fishing License (1y)
 - 那些人可以不用钓鱼执照？
-  - {:.answer} 年龄在18岁以下和65岁以上
+  - {:.answer} 年龄在 18 岁以下和 65 岁以上
 - 有哪些免费的钓鱼机会？
   - {:.answer} 家庭日(02/12-02/15)
   - {:.answer} 母亲节(05/08-05/-09)
@@ -27,13 +28,13 @@ tags: [personal]
 - 什么是垂钓？
   - {:.answer} 用鱼竿和鱼线钓鱼
 - 鳟鱼和鲑鱼的限额是多少？
-  - {:.answer} 2条
+  - {:.answer} 2 条
 - 是不是所有地方都可以用鱼饵？
   - {:.answer} 不是
 - 多少种鱼类可以用做鱼饵？
-  - {:.answer} 48种
+  - {:.answer} 48 种
 - 捕钓限额是什么？
-  - {:.answer} 当天可以捕钓和保留的限额，0限额则必须钓后放生
+  - {:.answer} 当天可以捕钓和保留的限额，0 限额则必须钓后放生
 - 什么是拥有限额？
   - {:.answer} 可以保留的限额，通常与捕钓限额一致
 - 钓鱼时需要查看哪些规则？
@@ -43,11 +44,11 @@ tags: [personal]
 - 鱼类禁钓日期包括首日和末日吗？
   - {:.answer} 是的
 - 安省有多少渔业管理区？
-  - {:.answer} 20个
+  - {:.answer} 20 个
 - 垂钓者可以使用几条鱼线？
   - {:.answer} 一般一条
 - 一条鱼线可以最多挂几个鱼钩？
-  - {:.answer} 4个
+  - {:.answer} 4 个
 - 什么地方不能使用铅坠和假饵吊钩？
   - {:.answer} 国家公园和野生动物保护区
 - 活鱼存放箱需要标签吗？
@@ -59,13 +60,13 @@ tags: [personal]
 - 休闲垂钓的鱼可以出售吗？
   - {:.answer} 不能
 - 可以使用矛枪叉鱼吗？
-  - {:.answer} 任何水域岸边30米范围内不可以用类似的叉鱼工具
+  - {:.answer} 任何水域岸边 30 米范围内不可以用类似的叉鱼工具
 - 可以用人工照明吸引鱼吗？
   - {:.answer} 如果他是垂钓鱼线诱饵的一部分
 - 在鱼类养殖笼子附近多少距离不允许钓鱼？
-  - {:.answer} 25米
+  - {:.answer} 25 米
 - 在鱼道入口下游多少范围内不可以钓鱼？
-  - {:.answer} 23米
+  - {:.answer} 23 米
 - 捕鱼数量限额包括哪两类？
   - {:.answer} 区域限额
   - {:.answer} 省立限额
@@ -78,9 +79,9 @@ tags: [personal]
 - 可以钓牛蛙吗？
   - {:.answer} 可以
 - 冰钓可以使用多少条鱼线？
-  - {:.answer} 2条
+  - {:.answer} 2 条
 - 冰钓时候人可以距离鱼竿最多多远？
-  - {:.answer} 60米
+  - {:.answer} 60 米
 - 个人的冰钓屋需要登记吗？
   - {:.answer} 某些区域需要
 - 有哪些非垂钓捕鱼工具？
@@ -90,10 +91,10 @@ tags: [personal]
 - 从外省将鱼带入安省需要遵守安省钓鱼法规吗？
   - {:.answer} 需要
 - 什么是政府官地和保育区？
-  - {:.answer} 在Ontario.ca上搜索Crown Land Use Policy Atla或者Provincial Parks and Conservation Reserves Planning
+  - {:.answer} 在 Ontario.ca 上搜索 Crown Land Use Policy Atla 或者 Provincial Parks and Conservation Reserves Planning
 - 在政府官地和保育区一年可以最多免费露营多少天？
-  - {:.answer} 21天
-  
+  - {:.answer} 21 天
+
 ### 魚餌、入侵物種，以及病毒性出血性敗血病
 
 - 哪些东西不能做鱼饵？
@@ -104,16 +105,15 @@ tags: [personal]
   - {:.answer} 及时清理螺旋桨和船身带着的入侵物种
 - 圆虾虎鱼入侵了哪个湖区？
   - {:.answer} Lake Huron
-- 什么是VHS?
+- 什么是 VHS?
   - {:.answer} 病毒性出血性败血症
-- 带有VHS的鱼可以吃吗？
+- 带有 VHS 的鱼可以吃吗？
   - {:.answer} 可以，对人类没有危害
 
-### 区域16
+### 区域 16
 
 - 可以在这个区域持有大口突鳃太阳鱼吗？
   - {:.answer} 不行，濒危物种
 - 在本区垂钓需要查看哪些规则？
   - {:.answer} 区域限制
   - {:.answer} 水域限制
-- 

@@ -1,7 +1,7 @@
 ---
 title: 恋爱预告
 permalink: /lian-ai-yu-gao
-tags: [music, song, Chinese,]
+tags: [music, song, Chinese]
 singer: danny-chan
 ---
 

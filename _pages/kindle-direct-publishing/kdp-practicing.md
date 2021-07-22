@@ -1,8 +1,6 @@
 ---
-layout: post
-title: "Kindle Direct Publishing - Practicing"
-date: 2021-02-06 07:00:00 -0500
-tags: [money, book]
+title: Kindle Direct Publishing Practicing
+permalink: /kindle-direct-publishing-practicing
 ---
 
 ## Book Preparation

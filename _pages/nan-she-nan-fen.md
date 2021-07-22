@@ -1,7 +1,7 @@
 ---
 title: 难舍难分
 permalink: /nan-she-nan-fen
-tags: [music, song, Chinese,]
+tags: [music, song, Chinese]
 singer: alan-tam
 ---
 

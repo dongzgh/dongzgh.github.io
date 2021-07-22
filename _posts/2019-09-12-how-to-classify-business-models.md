@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "How to Classify Business Models"
-date:   2019-09-12 07:00:00 -0500
+title: "How to Classify Business Models"
+date: 2019-09-12 07:00:00 -0500
 tags: [money]
 ---
 
@@ -11,15 +11,15 @@ Generally, business models can be divided into two categories:
 
 Models in this category are the most conventional approaches to earn money. Each of them can be self-sustained.
 
-* Jobs
+- Jobs
 
   Jobs can vary on sizes. It can be a **micro**, **medium** or **large** job. They can also have different schedule requirements such as **full-time**, **part-time**, **alternative** or **flexible** etc.
 
-* Commerce
+- Commerce
 
   Commerce lays in the core and origin of business. The basic idea is to exchange. With the advancement of internet technology, eCommerce is already a commodity now and the trend for future.
 
-* Investment
+- Investment
 
   Investment is a game by giving and rewarding. Some common investment options are stock market, financial products, real estate and treasures etc. Direct investment including angel, capital or business investment are also very popular now. With the advancement of internet technology, there are also many online platforms developed.
 
@@ -33,5 +33,5 @@ The invention can be a new product or a new service. This is the most versatile 
 
 Some techniques to be considered during business development include:
 
-* Outsourcing
-* Flipping
+- Outsourcing
+- Flipping

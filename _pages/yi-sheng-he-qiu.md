@@ -1,7 +1,7 @@
 ---
 title: 一生何求
 permalink: /yi-sheng-he-qiu
-tags: [music, song, Chinese,]
+tags: [music, song, Chinese]
 singer: danny-chan
 ---
 

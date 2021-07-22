@@ -7,12 +7,7 @@ order: 3
 
 ## Hobbies
 
-* Photo
-* Arts
-* Music
-* Car
-* Reading
-* Swmiming
-* Running
-* Diving
-* Food
+- Music
+- Reading
+- Culinary
+- Outdoor

@@ -1,7 +1,7 @@
 ---
 title: 我爱白云
 permalink: /wo-ai-bai-yun
-tags: [music, song, Chinese,]
+tags: [music, song, Chinese]
 singer: danny-chan
 ---
 

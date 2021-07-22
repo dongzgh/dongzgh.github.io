@@ -1,7 +1,7 @@
 ---
 title: 一生不可自决
 permalink: /yi-sheng-bu-ke-zi-jue
-tags: [music, song, Chinese,]
+tags: [music, song, Chinese]
 singer: danny-chan
 ---
 
@@ -19,7 +19,7 @@ singer: danny-chan
 
 {:.chinese-paragraph}
 谁人又知道我的心灵炽热  
-谁人又知道再说已不必  
+谁人又知道再说已不必
 
 {:.chinese-paragraph}
 仍然愿一生一世的欠缺  

@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Home School - Daily Routines (4y)"
-date:   2020-11-23 07:00:00 -0500
+title: "Home School - Daily Routines (4y)"
+date: 2020-11-23 07:00:00 -0500
 tags: [school]
 ---
 
 ## Template 1-5
 
 | 9:00 - 9:25  | Morning Whole Group   |               |               |
-|--------------|-----------------------|---------------|---------------|
+| ------------ | --------------------- | ------------- | ------------- |
 |              |                       | 9:25 - 10:00  | Learning Time |
 | 10:00 -10:25 | Small Group B         |               |               |
 |              |                       | 10:25 - 11:00 | Snack Time    |
@@ -28,7 +28,7 @@ tags: [school]
 ## Template 6-7
 
 | Time         | Activity      |
-|--------------|---------------|
+| ------------ | ------------- |
 | 9:00 - 11:00 | Gaming Time   |
 | 11:00 - 3:00 | Active Time   |
 | 3:00 - 5:00  | Creative Time |

@@ -2,17 +2,11 @@
 layout: home
 items:
   - music
-  - origami
-  - food
-  - paint
-  - car
-  - diving
-  - fitness  
-  - hiking  
-  - photography
-  - reading
-  - traveling
-  - video
+  - culinary
+  - reading  
+  - outdoor
+  - business
+  - living
 ---
 
 <div class='d-flex flex-row flex-wrap'>

@@ -1,7 +1,7 @@
 ---
 title: 对酒当歌
 permalink: /dui-jiu-dang-ge
-tags: [music, song, Chinese,]
+tags: [music, song, Chinese]
 singer: danny-chan
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 爱的代价
 permalink: /ai-de-dai-jia
-tags: [music, song, Chinese,]
+tags: [music, song, Chinese]
 singer: sylvia-chang
 ---
 
@@ -19,7 +19,7 @@ singer: sylvia-chang
 永在我心中 虽然已没有他
 
 {:.chinese-paragraph}
-走吧  走吧　人总要学着自己长大  
+走吧 走吧　人总要学着自己长大  
 走吧　走吧　人生难免经历苦痛挣扎  
 走吧　走吧　为自己的心找一个家  
 也曾伤心流泪　也曾黯然心碎　这是爱的代价
@@ -32,4 +32,4 @@ singer: sylvia-chang
 只是我心中不再有火花  
 让往事都随风去吧  
 所有真心的　痴心的话  
-仍在我心中  虽然已没有他
+仍在我心中 虽然已没有他

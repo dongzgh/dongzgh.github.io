@@ -1,7 +1,7 @@
 ---
 title: 偏偏喜欢你
 permalink: /pian-pian-xi-huan-ni
-tags: [music, song, Chinese,]
+tags: [music, song, Chinese]
 singer: danny-chan
 ---
 
@@ -24,7 +24,7 @@ singer: danny-chan
 为何我心分秒想着过去  
 为何你一点都不记起  
 情义已失去恩爱都失去  
-我却为何偏偏喜欢你  
+我却为何偏偏喜欢你
 
 {:.chinese-paragraph}
 爱已是负累  

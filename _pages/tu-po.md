@@ -1,7 +1,7 @@
 ---
 title: 突破
 permalink: /tuo-po
-tags: [music, song, Chinese,]
+tags: [music, song, Chinese]
 singer: danny-chan
 ---
 

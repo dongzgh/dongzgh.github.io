@@ -1,8 +1,6 @@
 ---
-layout: post
-title: "Kindle Direct Publishing - Learning"
-date: 2021-01-26 07:00:00 -0500
-tags: [money, book]
+title: Kindle Direct Publishing Learning
+permalink: /kindle-direct-publishing-learning
 ---
 
 ## Mind Map
@@ -41,9 +39,9 @@ tags: [money, book]
     - Types of Paths (e.g., career)
 - People pay to get information organized **[#c2269c]**{:.citation}
 
-### Tools
+### General Tools
 
-- Name some tools used for research?
+- Name some general tools used for research?
   - {:.answer} Google
   - {:.answer} Amazon
   - {:.answer} [AnswerThePublic](https://answerthepublic.com/) **[#90a13c]**{:.citation}
@@ -51,7 +49,7 @@ tags: [money, book]
   - {:.answer} [KeywordTool](https://keywordtool.io/) **[#90a13c]**{:.citation}
   - {:.answer} [GoogleTrends](https://trends.google.com/trends/?geo=US) **[#90a13c]**{:.citation}
 
-### Helium 10
+#### Helium 10
 
 - What's the sequence of using tools? **[#20e23b]**{:.citation}
   - {:.answer} Research
@@ -59,7 +57,7 @@ tags: [money, book]
   - {:.answer} Maintenance
   - {:.answer} Analytics
 - What's the two score evaluation? **[#20e23b]**{:.citation}
-  - {:.answer} Revenue and Review
+- {:.answer} Revenue and Review
 
 ## Writing
 
