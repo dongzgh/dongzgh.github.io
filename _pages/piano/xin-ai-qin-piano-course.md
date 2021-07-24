@@ -1,7 +1,8 @@
 ---
 title: 新爱琴钢琴课
-permalink: /xin-ai-qin-piano-course
+permalink: /piano/xin-ai-qin-piano-course
 image: /assets/img/pages/xin-ai-qin-piano-course.jpg
+parent: piano
 spellcheck: off
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Harmonica
 permalink: /harmonica
-tags: [music, instrument, harmonica]
+tags: [music, instrument]
 image: /assets/img/pages/harmonica.jpg
 spellcheck: off
 ---

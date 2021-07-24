@@ -9998,8 +9998,18 @@ tags: [personal]
 - [L3MONSHAPE](#l3monshape)
   - Continued learning of Chapter 17 of Scipy Lecture Notes
 - [HEXAGONMI](#hexagonmi)
-	- Continued working on integration testing for Split Surfaces
+	- Continued working on integration testing for 125.igs
 
+## 2021-07-23
+
+- Relearned Javascript
+- Learned ABC notations
+- Enabled music note website rendering using abcjs
+- Updated piano class notes
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug #30722 related with hint message in callback is messed up
+	
 ## REFERENCES
 
 ### estates

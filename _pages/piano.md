@@ -1,11 +1,18 @@
 ---
 title: Piano
 permalink: /piano
-tags: [music, instrument, piano]
+tags: [music, instrument]
 image: /assets/img/pages/piano.jpg
 spellcheck: off
 ---
 
-[新爱琴钢琴课]({% link _pages/piano/xin-ai-qin-piano-course.md %})
-
-[John Thompson's Easiest Piano Course 1]({% link _pages/piano/john-thompsons-easiest-piano-course-1.md %})
+<div class='d-flex flex-row flex-wrap'>
+  {% assign pages  = site.pages | where: 'parent', 'piano' %}
+  {% for page in pages %}
+  <div class="col-3">
+    <a href="{{ page.permalink }}">
+      <img class="gallery-item-image" src="{{ page.image }}"/>
+    </a>
+  </div>
+  {% endfor %}
+</div>
