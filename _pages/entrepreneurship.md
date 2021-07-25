@@ -1,7 +1,7 @@
 ---
 title: Entrepreneurship
 permalink: /entrepreneurship
-tags: [business, enterpreneurship]
+tags: [business, entrepreneurship]
 image: /assets/img/pages/entrepreneurship.jpg
 ---
 
