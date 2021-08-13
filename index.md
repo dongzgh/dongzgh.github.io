@@ -5,6 +5,7 @@ items:
   - culinary
   - reading  
   - outdoor
+  - sports
   - business
   - living
 ---

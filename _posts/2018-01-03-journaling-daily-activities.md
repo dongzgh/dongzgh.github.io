@@ -10010,6 +10010,128 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Investigated the bug #30722 related with hint message in callback is messed up
 	
+## 2021-07-24
+
+- Sent Ethan to Multisports Summer Camp
+- Researched badminton play and gear
+
+- [HEXAGONMI](#hexagonmi)
+	- Started to work on integration test examples
+	- Learned Accessibility for Ontarians With Disabilities Act
+	- Tried to help Adrain to solve GUI disposition issues
+
+## 2021-07-25
+
+- Sent Ethan to Multisports Summer Camp
+- Researched badminton play learning resources
+- Started learning of badminton
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug #30733 related with skewed rotation
+	- Investigated the issue #30726 related with GUI item disposition
+	- Groomed backlog system
+	- Continued working on integration test examples
+	- Reviewed source codes updates from Shararoz related with binder new workflow
+	- Completed couse on Cyber Attacks
+	- Completed quiz on Hexagon Core Values
+	- Completed course on Hexagon Innovation Process
+	
+## 2021-07-28
+
+- Booked COV19 test at Joseph Memorial Hospital
+
+- [HEXAGONMI](#hexagonmi)
+	- Discussed with Shaharoz about strategies to fix GUI disposition issue
+	- Continued developing integration test example
+	- Updated solution configuration 2 according to recent changes in configuration 1
+	- Added input data serialization for some functions in FTIAdvancedGeometryControl for testing
+	
+## 2021-07-29
+	
+- [HEXAGONMI](#hexagonmi)
+	- Encapsuled operation steps into subfunctions in workflow
+	- Investigated the bug #30766 related with binder position
+
+## 2021-07-30
+	
+- [HEXAGONMI](#hexagonmi)
+	- Added DefineFeature interface in the integration test example
+
+## 2021-08-06
+
+- Visited Fathom Five Provincial Park
+	
+## 2021-08-08
+
+- Visited Selkirk Provincial Park
+
+## 2021-08-09
+
+- Read technology news from HMI
+- Read technology news from Digital Engineering (July)
+
+- [HEXAGONMI](#hexagonmi)
+	- Disucssed with Adrian and Shaharoz about updates of the sprint
+	- Investigated the bug #30760 related with polygon selection
+	- Added CreateBinder to the integrated workflow test case
+	
+## 2021-08-10
+
+- Read technology news from Hacker News
+- Researched brain games for iPhone
+
+- [L3MONSHAPE](#l3monshape)
+	- Created mind map for the volics project
+	- Researched volume rendering software tools
+	
+- [HEXAGONMI](#hexagonmi)
+	- Helped Adrian to solve RELEASE license problem
+	- Working on adding Position Binder into integrated testing case
+
+## 2021-08-11
+
+- Reorganized bookmarks for Chrome
+- Searched brain training materials online
+
+- [L3MONSHAPE](#l3monshape)
+	- Restarted investigating volume rendering techniques
+
+- [HEXAGONMI](#hexagonmi)
+	- Groomed sprint backlog
+	- Added Unit Testing feature to the backlog
+	- Created a separate feature for adding bridge Preview button to Mirror DA dialog box #30874
+	- Updated solution configuration 2 with latest changes from configuration 1
+	- Investigated the bug #30873 related with error catch in Mirror DA dialog box
+	- Investigated the bug #30872 related with ExtractDomainBoundary function in FTIManifoldEdit
+	
+## 2021-08-12
+
+- Started learning of GMAT basics
+
+- [L3MONSHAPE](#l3monshape)
+	- Continued investigating volume rendering techniques
+	- Updated Anaconda python packages
+	
+- [HEXAGONMI](#hexagonmi)
+	- Added Record.log file to record session steps
+	- Reviewed Adrian's bug fix code to be submitted related with Binder Position
+	- Reviewed Shaharoz's code related with Binder dialog box updates
+
+## 2021-08-13
+
+- Continued learning of GMAT basics
+
+- [L3MONSHAPE](#l3monshape)
+	- Continued investigating volume rendering techniques
+	- Continued learning of Scyipy
+	
+- [HEXAGONMI](#hexagonmi)
+	- Reviewed source codes updates from Adrian related with separation distance updates
+	- Investigated the new trim line generation function from AGW to determine normal attributes and flange id
+	- Set up a task for visualize collision detection and assigned it to Mario from September 1st
+	- Reviewed source code updates from Adrian regarding performance improvement in bridge line extraction
+	- Investigated the bug #30917 related with separation distance in Mirror DA
+
 ## REFERENCES
 
 ### estates

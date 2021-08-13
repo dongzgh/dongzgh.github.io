@@ -218,6 +218,8 @@ tags: [school]
   - [Tic Tac Toe](https://hcdsb.elearningontario.ca/d2l/le/lessons/17568618/lessons/144191305)
 - Coding
   - [Frog Game](https://drive.google.com/file/d/165Hk31iaftFiMJelgbit9sQOKy1C2UO6/view)
+- Table Games
+  - [推荐17款桌游](https://www.mamabuluo.ca/weixin/168727/)
 
 ## Body <span style="color: blue"><i class="fas fa-running"></i></span>
 
