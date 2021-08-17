@@ -10132,6 +10132,19 @@ tags: [personal]
 	- Reviewed source code updates from Adrian regarding performance improvement in bridge line extraction
 	- Investigated the bug #30917 related with separation distance in Mirror DA
 
+## 2021-08-14
+
+- Visited Rock Point Provincial Park
+
+## 2021-08-15
+
+- Shopped King bed frame at Bricks and Leons
+
+## 2021-08-16
+
+- [HEXAGONMI](#hexagonmi)
+	- 
+
 ## REFERENCES
 
 ### estates
