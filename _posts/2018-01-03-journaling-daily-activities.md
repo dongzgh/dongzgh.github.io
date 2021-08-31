@@ -10123,7 +10123,7 @@ tags: [personal]
 
 - [L3MONSHAPE](#l3monshape)
 	- Continued investigating volume rendering techniques
-	- Continued learning of Scyipy
+	- Continued learning of Scyipy C-Wrap
 	
 - [HEXAGONMI](#hexagonmi)
 	- Reviewed source codes updates from Adrian related with separation distance updates
@@ -10142,8 +10142,131 @@ tags: [personal]
 
 ## 2021-08-16
 
+- [L3MONSHAPE](#l3monshape)
+	- Continued learning of Scyipy C-Wrap
+	
 - [HEXAGONMI](#hexagonmi)
-	- 
+	- Groomed backlog and discussed some tasks with Shaharoz
+	- Added workflow recording and playback for integration testing
+	- Investigated the issue with geometry importation
+
+## 2021-08-17
+
+- [HEXAGONMI](#hexagonmi)
+	- Improved ImportGeometry dump to include translator setting
+	- Improved DefineMaterial dump to include thickness and material settings
+	
+## 2021-08-18
+
+- Checked shoes to return
+- Checked toys at Amazon
+- Checked swim ring at Amazon
+
+- [HEXAGONMI](#hexagonmi)
+	- Started to work on PositionBinder recording
+
+## 2021-08-19
+
+- Checked ICBC account balance
+- Payed ChinaUnicom 500 for internet
+- Checked office supplies in JYSK
+- Sold headboard and footboard of the King bed
+
+- [HEXAGONMI](#hexagonmi)
+	- Continue working on PositionBiner recording
+
+## 2021-08-20
+
+- Updated Ethan's passport application and printed to check
+- Checked beach park near us
+- Installed Unity Hub
+- Started to learn Unity
+
+- [HEXAGONMI](#hexagonmi)
+	- Continue working on PositionBiner recording
+
+## 2021-08-21
+
+- Read technology news from Intel
+- Continued learning of Unity
+
+## 2021-08-22
+
+- Shopped at the FamilyJoy and some wechat groups
+- Played at the Burlington Beachway Park
+
+## 2021-08-23
+
+- Searched side table
+- Investigated job market and thought about project strategies
+- Read technology news from Kitware
+- Bought OTC Hydrocortisone Oilmen
+- Returned SportCheck Yeonex shoes
+- Ordered Crocs shoes for Ethan from Amazon
+- Bought grocerry from Walmart
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug #30917 related with separation distance issue
+	- Working on recording MergeGeoSets, SplitGeoSet and MoveGeoSet
+	- Reviewed source codes updates from Shaharoz regarding Preview button on Mirror DA dialog box
+
+## 2021-08-24
+
+- Read technology news from NVIDIA
+
+- [HEXAGONMI](#hexagonmi)
+	- Reviewed source codes updates from Adrian regarding bug #30872
+	- Documenting the unit testing for workflow testing
+	- Put comments on the bug #30917 and sent to Shaharoz to fix it
+	- Gave Shaharoz a little bit orientation regarding test recording and playback
+		
+## 2021-08-25
+
+- Read technology news from NVIDIA
+
+- [HEXAGONMI](#hexagonmi)
+	- Revised data file dumping for testing to include feature inforamtion
+	- Discussed with Shaharoz regarding PositionBinder widget issues
+	
+## 2021-08-26
+
+- [HEXAGONMI](#hexagonmi)
+	- Changed names: DumpData->InspectData, RecordWork->ToggleRecord
+	- Added EnableRecord in FTIManager
+	- Revised GUI support for testing in FTIApp module
+
+## 2021-08-27
+
+- Renewed DynaCare Plus membership
+
+- [HEXAGONMI](#hexagonmi)
+	- Attended Sprint Review meeting
+	- Updated documents for unit testing
+	- Reviewed source codes updates from Shaharoz related with refactory CreateLinesOnSurfaces
+	- Added task for Shaharoz for developing workflow test for CreateLinesOnSurfaces
+	- Developed Training II for unit testing
+	
+## 2021-08-28
+
+- Searched garage odor elimination strategy
+- Searched check board games
+- Fixed Jekyll Agolia indexing issue
+- Sent copied mails to Xiao Fuming
+- Visisted Cantery Waterfall at Dundas Valley
+
+- [L3MONSHAPE](#l3monshape)
+	- Continued learning of VTK
+
+## 2021-08-29
+
+- [L3MONSHAPE](#l3monshape)
+	- Continued learning of VTK
+	
+- [HEXAGONMI](#hexagonmi)
+	- Groomed backlog
+	- Investigated the bug #30795 related with trim line crash
+	- Investigated the bug #30917 related with bridge line proximity check
+	- Reviewed bug fix from Adrian related with polygon selection
 
 ## REFERENCES
 
