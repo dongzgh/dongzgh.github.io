@@ -2840,7 +2840,7 @@ tags: [personal]
 - Submited CIBC TFSA contribution request
 - Updated CRA direct deposit information for Dong and Min
 - Updated Immigration Canada email address
-- Updatd NVDIA email preferences
+- Updatd NVIDIA email preferences
 - Read news from YorkBBS
 - Read news from WeChat channels
 
@@ -8875,7 +8875,7 @@ tags: [personal]
 
 - Paied Burlington Hydro monthly bill
 - Read technology news from Dyndrite
-- Read technology news from NVDIA
+- Read technology news from NVIDIA
 
 - [HEXAGONMI](#hexagonmi)
   - Discussed with Shararoz about dialog mouse movement handler implementation
@@ -10246,7 +10246,7 @@ tags: [personal]
 	- Added task for Shaharoz for developing workflow test for CreateLinesOnSurfaces
 	- Developed Training II for unit testing
 	
-## 2021-08-28
+## 2021-08-29
 
 - Searched garage odor elimination strategy
 - Searched check board games
@@ -10257,7 +10257,7 @@ tags: [personal]
 - [L3MONSHAPE](#l3monshape)
 	- Continued learning of VTK
 
-## 2021-08-29
+## 2021-08-30
 
 - [L3MONSHAPE](#l3monshape)
 	- Continued learning of VTK
@@ -10268,6 +10268,132 @@ tags: [personal]
 	- Investigated the bug #30917 related with bridge line proximity check
 	- Reviewed bug fix from Adrian related with polygon selection
 
+## 2021-08-31
+
+- [L3MONSHAPE](#l3monshape)
+	- Continued learning of VTK
+
+- [HEXAGONMI](#hexagonmi)
+	- Prepared Unit Testing framework training II
+	- Reviewed source codes from Shaharoz regarding PositionBinder origin updates
+	- Reviewed source codes from Adrian regarding SplitSurfaces exception handling
+	- Organized sprint planning meeting
+
+## 2021-09-01
+
+- [L3MONSHAPE](#l3monshape)
+	- Continued learning of VTK
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug #31091 related with split surfaces
+	- Reviewed FTIUnitTesting Framework Training II
+	- Investigated the bug #31084 related with PositionBinder undo bahviour
+
+## 2021-09-02
+
+- Visited Canadian Warplane Heritage Museumm
+
+## 2021-09-03
+
+- Welcomed Charles, Doris and Athur
+
+- [HEXAGONMI](#hexagonmi)
+	- Did FTI Unit Testing framework training II
+	- Sent email to Peter asking for guidance for the next phase development
+
+## 2021-09-05
+
+- Played badminton at the front yard
+- Did yard work including lawn mowing and weed removal
+- Visited Burlington Beachway park
+
+## 2021-09-06
+
+- Visited and played at Calton's home
+
+## 2021-09-07
+
+- Read technology news from NVIDIA
+- Checked Virtual Kindergarten's weekly schedule
+- Estimated how many vacation hours carried over from last year (2.8 weeks)
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the solution configuration 2 compilation issue
+	- Investigated the bug #30917 related with collision detection in MirrorDA
+	- Investigated the feature #31138 related with feature auto merging in LDP/PDP
+	- Investigated the bug #31127 related with symmetry plan updates after rotation
+	
+## 2021-09-08
+
+- Talked with Mr. Goozo an d Mr. Pallazollo about Virtual Kindergarten
+- Bought food for weekend camping
+
+- [HEXAGONMI](#hexagonmi)
+	- Discussed with Peter about how to proceed with workflow testing
+	- Talked with Apana about FTIDllInfo function error during exporting
+	- Checked the bug #30967 related with SplitSurfaces errors
+	- Reviewed source code updates from Adrian related with Undo stack in PositionBinders 
+	- Downloaded source codes from SIMUFACT to investigate Python Scripting documents and sources
+	- Investigated the bug #31159 related with moving/fixed part solid color issue
+	- Managed SSH key to access remote repo from SIMUFACT
+
+## 2021-09-09
+
+- Bought camping gears from Canadian Tire
+- Promised Ethan to have rewards for learning
+- Cut first red flower for Ethan
+- Downloaded AirParrot3 and connected Apple TV for Windows 10 casting
+- First day attended Virtual Kindergarten for 2021-2022
+- Tried camp and gears to see if that works
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug #31170 related with polygon selection in Define/Edit features
+	- Reviewed source codes updates from Adrian related with enabling Collision Detection in MirrorDA
+	- Fixed the bug #31092 related with FTIFSManifold::FindEntityByID in searching for boundary edges
+	- Investigated the bug #31127 related with rotation parts after bridge symmetry is defined, sent to Muhammad to decide
+	- Updated solution configuration 2
+
+## 2021-09-10
+
+- Searched Air Pump and PVC Plier on Amazon
+
+- [HEXAGONMI](#hexagonmi)
+	- Discussed with Henny about the task 30914 related with collision detection visualization
+	- Updated backlog for the 2021.1.12 sprint
+	- Investigated the bug #31195 related with binder position reset
+	- Working on workflow recording for MirrorGeoSet, CreateSymmetry
+
+## 2021-09-11
+
+- Visited and camped Chiefwood Part at Six Nation Territory
+
+## 2021-09-12
+
+- Visited and camped Chiefwood Part at Six Nation Territory
+
+## 2021-09-13
+
+- Learned how to teach kids draw a picture
+- Asked if the Virtual Play sessions are mandatory or not
+
+- [HEXAGONMI](#hexagonmi)
+	- Compiled updated source codes and found issues
+	- Worked with Robert regarding drop box issues
+	- Finanlize CreateSymmetry workflow recording
+	- Reviewed source codes updates from Adrian related origin updates in PositionBinder
+	- Updated system password
+	- Investigated the bug #31205 related with Define/Edit feature
+	- Asked Dana about back to office plan
+
+## 2021-09-14
+
+- Cut 10 red flowers for Ethan to reward his sleeping alone
+- Read technology news from NVIDIA
+
+- [HEXAGONMI](#hexagonmi)
+	- Reviewed function to be recorded for workflow
+	- Revised data path information set and get
+	
 ## REFERENCES
 
 ### estates
