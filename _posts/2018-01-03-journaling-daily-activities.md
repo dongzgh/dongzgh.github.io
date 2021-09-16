@@ -10389,11 +10389,31 @@ tags: [personal]
 
 - Cut 10 red flowers for Ethan to reward his sleeping alone
 - Read technology news from NVIDIA
+- Bought furnitures from JYSK and IKEA
+- Rearranged play room on the first floor
 
 - [HEXAGONMI](#hexagonmi)
-	- Reviewed function to be recorded for workflow
 	- Revised data path information set and get
+	- Investigated the bug #31159 related with Advanced DA display translucency
+	- Investigated the bug #31127 related with symmetry plane removal
 	
+## 2021-09-15
+
+- Read technology news from NVIDIA
+- Read technology news from Product Hunt
+
+- [HEXAGONMI](#hexagonmi)
+	- Fixed a bug reltaed with CopyForm to enforce ID matching
+	- Checked in new get and set record path for testing
+	- Investigated the bug #31247 related with Pilot Hole definition in Process Setup
+	
+## 2021-09-16
+
+- Read technology news from GitHub
+
+- [HEXAGONMI](#hexagonmi)
+	
+
 ## REFERENCES
 
 ### estates
