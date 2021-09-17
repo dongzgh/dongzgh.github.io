@@ -10410,9 +10410,18 @@ tags: [personal]
 ## 2021-09-16
 
 - Read technology news from GitHub
+- Started to learn Scikit-Learn
 
 - [HEXAGONMI](#hexagonmi)
-	
+	- Retested unit test dumping and reading
+	- Reviewed source code updates from Shaharoz related with saving binder origin and matrix
+
+## 2021-09-17
+
+- Developed Python script to organize pictures, videos
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug #31276 related with PositionBinder widget position
 
 ## REFERENCES
 
