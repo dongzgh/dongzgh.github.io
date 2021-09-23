@@ -10418,11 +10418,61 @@ tags: [personal]
 
 ## 2021-09-17
 
-- Developed Python script to organize pictures, videos
+- Developed Python script to reorganize pictures, videos and files
+- Cleaned learning resources for Ethan
+- Logged recent assets transactions
+- Updated reviews on Amazon.ca
 
 - [HEXAGONMI](#hexagonmi)
 	- Investigated the bug #31276 related with PositionBinder widget position
 
+## 2021-09-18
+
+- Played badminton
+- Sent Honeywell garage fan back via UPS
+- Got mails for Fuming from Scote
+- Visited Jinyan's home
+
+## 2021-09-19
+
+- Hiked on Bruce Trail Toronto section at Halton Hills
+
+## 2021-09-20
+
+- [HEXAGONMI](#hexagonmi)
+	- Attended meeting witH Peter about scripting
+	- Revised workflow recording
+	- Reviewed source codes updates from Adrian related with Collision Detection
+	- Investigated the bug #31288 related with flat binder failure
+	- Investigated the bug #31294 related with edit saved positioned binder
+	- Investigated the bug #31292 related with min distance change in Position Binder
+	- Fixed the bug #31288 related with edit binder causing failed regeneration
+	- Reviewed proxy methods for porting c/c++ to python
+	
+## 2021-09-21
+
+- [HEXAGONMI](#hexagonmi)
+	- Updated task and bugs estimation on the backlog system
+	- Investigated the bug #31292 related with binder position limit changes
+	- Talked with Lucas regarding integrating surface merging feature in Geometry workbench
+	- Implemented the task #31302 enabling merging disconnected faces in feature definition
+
+## 2021-09-22
+
+- Submit claims for the rest cost of contact lenses through HSA
+
+- [HEXAGONMI](#hexagonmi)
+	- Fixed the bug #31303 related with undo stack cleen up after reset
+	- Discussed with Shaharoz about the bug #31127 related symmetry updates/removal after repositioning
+	- Updated estimated hours for the bugs
+	- Rechecked the bug #29631 related with trim line generation failures
+
+## 2021-09-23
+
+- Continued learning of scikit-learn
+
+- [HEXAGONMI](#hexagonmi)
+	- 
 ## REFERENCES
 
 ### estates
