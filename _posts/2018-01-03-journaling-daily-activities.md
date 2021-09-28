@@ -10470,9 +10470,38 @@ tags: [personal]
 ## 2021-09-23
 
 - Continued learning of scikit-learn
+- Read technology news from SourceForge
+- Read technology news from nTopology
 
 - [HEXAGONMI](#hexagonmi)
-	- 
+	- Updated workflow testing cases
+	- Updated PositionBinder workflow test
+	- Reviewed source code updates from Shaharoz related with PositionBinder
+	
+## 2021-09-24
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug #31292 related with PositionBinder reset behavior
+
+## 2021-09-25
+
+- Played badminton
+- Played with Nathon at home
+
+## 2021-09-26
+
+- Visited LaSale park with Erin
+- Filled engine oil and windshied washer fluid
+
+## 2021-09-27
+
+- Searched kayak, stand-up paddle board and life jacket 
+- Installed new iPad
+
+- [HEXAGONMI](#hexagonmi)
+	- Fixed the bug #31334 related with STOP pressed during DA
+	- Continued learning of embedding Python in Simufact
+
 ## REFERENCES
 
 ### estates
