@@ -10497,10 +10497,78 @@ tags: [personal]
 
 - Searched kayak, stand-up paddle board and life jacket 
 - Installed new iPad
+- Booked Sports Concept late fall session "Learn to Hockey"
 
 - [HEXAGONMI](#hexagonmi)
 	- Fixed the bug #31334 related with STOP pressed during DA
 	- Continued learning of embedding Python in Simufact
+
+## 2021-09-28
+
+- Searched long sleeve hoodie for me from SportsCheck
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug #31356 related with direction vector using imported line
+	- Organized sprint grooming and planning meeting
+	
+## 2021-09-29
+
+- Updated iPhone configurations
+
+- [HEXAGONMI](#hexagonmi)
+	- Added additional attribute for storing reference edge IDs for pre-trim lines
+	- Continued investigation regarding Python Scripting in Simufact
+	- Reviewed source codes from Adrain related with PositionBinder
+	
+## 2021-09-30
+
+- Checked SunLife term payment
+- Checked Costco return
+
+- [HEXAGONMI](#hexagonmi)
+	- Started learning design patterns involved in Python Scripting
+	- Reviewed source codes updates from Adrian related with Position Binder
+	- Talked with Mario regarding the collision detection performance issue
+
+## 2021-10-01
+
+- Rechecked Ethan's passport application documents
+
+- [HEXAGONMI](#hexagonmi)
+	- Continued learning of design patterns involved in Python Scripting
+	- Investigated the bug #31374 related with material assignment
+	- Added reference ID tracing for trim line exportation for PP
+
+## 2021-10-02
+
+- Played badminton
+- Visited Cao Yi's home
+
+## 2021-10-03
+
+- Invited Erin to play with Ethan at home
+
+## 2021-10-04
+
+- [HEXAGONMI](#hexagonmi)
+	- Discussed with Eric about how to export reference IDs
+	- Gave Adrian a bit instruction about how to use unit testing framework
+	- Investigated the bug #31387 related with GUI update issue on PositionBinder
+	
+## 2021-10-05
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug #31390 related with min distance display in PositionBinder
+	- Fixed the bug #31392 to enable validate on the fly in Define Features
+	- Fixed the bug #31394 enabling shwoing error symmetrically selected faces
+	- Investigated the bug #31393 realted with connectivity checking error message differences in PDP
+
+## 2021-10-06
+
+- Filled physical activity consent form and sent
+
+- [HEXAGONMI](#hexagonmi)
+	- 
 
 ## REFERENCES
 
