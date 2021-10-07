@@ -10560,15 +10560,19 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Investigated the bug #31390 related with min distance display in PositionBinder
 	- Fixed the bug #31392 to enable validate on the fly in Define Features
-	- Fixed the bug #31394 enabling shwoing error symmetrically selected faces
+	- Fixed the bug #31394 enabling showing error symmetrically selected faces
 	- Investigated the bug #31393 realted with connectivity checking error message differences in PDP
 
 ## 2021-10-06
 
 - Filled physical activity consent form and sent
+- Searched water tank speciallist and installed new water tank
+- Let technician inspected the furnace
+- Recorded asset management for water tank updates
 
 - [HEXAGONMI](#hexagonmi)
-	- 
+	- Partially fixed the bug #31398 related with assertion failure in Edit Curve
+	- Reviewed source code updates from Shaharoz related with warning of symmetry lost
 
 ## REFERENCES
 
