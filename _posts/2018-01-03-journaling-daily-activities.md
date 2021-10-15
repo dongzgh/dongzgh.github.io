@@ -10572,7 +10572,69 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
 	- Partially fixed the bug #31398 related with assertion failure in Edit Curve
-	- Reviewed source code updates from Shaharoz related with warning of symmetry lost
+	- Reviewed source code updates from Shaharoz related with warning of symmetry lost	
+
+## 2021-10-07
+
+- [HEXAGONMI](#hexagonmi)
+	- Discussed with Shaharoz some bugs related with Define Feature fornt-ends	
+	- Working on simply interface for trim line generation, so that redundant flanges can be skipped
+	- Had meeting with Jessica, Eric and Dezheng 
+
+## 2021-10-08
+
+- Started to learn OpenCV
+- Installed OpenCV from vcpkg
+
+- [HEXAGONMI](#hexagonmi)
+	- Continued study Python Scripting from Simufact
+	
+## 2021-10-09
+
+- Played badmington at Lions' club
+
+## 2021-10-10
+
+- Campped at Algonquin Rock's Lake Campground
+- Hiked at the Booth's Rock trail
+
+## 2021-10-11
+
+- Visited Lion's Lookout
+
+## 2021-10-12
+
+- [HEXAGONMI](#hexagonmi)
+	- Continued study Python Scripting from Simufact
+	- Investigated the bug #31393 to downgrade our error message to the one in PP
+	- Talked with Mario regarding collision detection libraries
+	- Reviewed source codes from Adrian related with PositionBinder rotation limit check
+	- Had discussion with Shaharoz about how to handle error messages in AGW for feature definition
+
+## 2021-10-13
+
+- Continued learning of OpenCV
+- Investigated ParaView and MeshLab for mesh quality improvements
+- Visited some real estate properties on the market
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the issue in EditCurve about why it's projected onto the addendum
+	- Reviewed source codes updates from Adrain related with ProjectPointOnFace
+	- Had discussion with Ankor and Muhammad related with unifying DefineFeature dialog box
+	
+## 2021-10-14
+
+- Asked FujiRoofing to take a look at the gutter system and repair roof shingles
+
+- [HEXAGONMI](#hexagonmi)
+	- Organized the meeting with Malte for Python Scripting technologies
+	- Discussed with Shaharoz about some issues in the DefineFeature dialog box
+	- Reviewed source codes updates from Shaharoz related with DefineFeatures logic updates
+
+## 2021-10-15
+
+- [HEXAGONMI](#hexagonmi)
+	- Tried to build Simufact source code
 
 ## REFERENCES
 
