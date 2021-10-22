@@ -10625,6 +10625,7 @@ tags: [personal]
 ## 2021-10-14
 
 - Asked FujiRoofing to take a look at the gutter system and repair roof shingles
+- Visited some real estate properties on the market
 
 - [HEXAGONMI](#hexagonmi)
 	- Organized the meeting with Malte for Python Scripting technologies
@@ -10633,8 +10634,62 @@ tags: [personal]
 
 ## 2021-10-15
 
+- Visited some real estate properties on the market
+
 - [HEXAGONMI](#hexagonmi)
 	- Tried to build Simufact source code
+	- Tried to backup testing database
+
+## 2021-10-16
+
+- Shopped groccery at Fordinos
+
+## 2021-10-17
+
+- Asked Erin to come to home to play with Ethan
+
+## 2021-10-18
+
+- Asked FUJI Roofing to take an estimation
+
+- [L3MONSHAPE](#l3monshape)
+	- Started reviewing VTK user's guide
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug #31442 related with material thickness for Generate Features
+	- Tried to build Simufact source codes
+	- Reviewed source code upates from Shaharoz about DefineFeatures dialog box updates
+
+## 2021-10-19
+
+- Booked appointment for family doctor
+
+- [HEXAGONMI](#hexagonmi)
+	- Tried to build Simufact source codes
+	- Updated solution configurition 2
+
+## 2021-10-20
+
+- [HEXAGONMI](#hexagonmi)
+	- Updated backlog system for geometry team
+	- Added FTIScriptingDLL to FormingSuite
+	- Enabled compiling XML schema files
+	- Add python script for processing PyGlueGen outputs
+
+## 2021-10-21
+
+- Revoked Amazon returns
+
+- [HEXAGONMI](#hexagonmi)
+	- Reviewed source code updates from Shaharoz and Adrian related unit testing
+	- Working on ftiproxy xml file compilation
+	
+## 2021-10-22
+
+- Finished reading of VTK User's Guide
+
+- [HEXAGONMI](#hexagonmi)
+	- 
 
 ## REFERENCES
 
