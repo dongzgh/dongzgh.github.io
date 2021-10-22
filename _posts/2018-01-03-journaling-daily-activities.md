@@ -10689,6 +10689,7 @@ tags: [personal]
 - Finished reading of VTK User's Guide
 
 - [HEXAGONMI](#hexagonmi)
+	- Enabled building FTIPythonBindings
 	- 
 
 ## REFERENCES
