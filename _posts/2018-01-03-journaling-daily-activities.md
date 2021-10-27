@@ -10687,11 +10687,38 @@ tags: [personal]
 ## 2021-10-22
 
 - Finished reading of VTK User's Guide
+- Downloaded Vaccination Certificate and saved to iPhone
 
 - [HEXAGONMI](#hexagonmi)
 	- Enabled building FTIPythonBindings
-	- 
 
+## 2021-10-13
+
+- Visited Pumpkin Farm on walker's line
+
+## 2021-10-24
+
+- Visted Helen's new home
+
+## 2021-10-25
+
+- [HEXAGONMI](#hexagonmi)
+	- Reviewed source code upates from Adrian
+	- Added trim line reference IDs to FTI3DAdendum workbench
+
+## 2021-10-26
+
+- Tried to renew plate sticker at Service Ontario for Volvo XC60
+- Asked TD Insurance to update Volvo XC60 VIN
+
+- [HEXAGONMI](#hexagonmi)
+	- Updated backlog system
+
+## 2021-10-27
+
+- [HEXAGONMI](#hexagonmi)
+	- Developed script to remove DebugUnicodeTEST|Win32 settings
+	
 ## REFERENCES
 
 ### estates
