@@ -10719,6 +10719,51 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Developed script to remove DebugUnicodeTEST|Win32 settings
 	
+## 2021-10-28
+
+- Renewed license plate sticker for Volvo XC60
+- Did eye exam again for tireness
+
+- [HEXAGONMI](#hexagonmi)
+	- Tried to fix the bug #28806 related with inner flange pre-trim lines
+	- Reviewed source code updates from Adrian related with 75 angle limit on PositionBinder
+	
+## 2021-10-29
+
+- [HEXAGONMI](#hexagonmi)
+	- Reviewed code updates from Adrian for removing assertions
+	- Working on the bug #28806 related with form topology updates
+	
+## 2021-10-20
+	
+- Visited houses in Mississauga
+- Shopped at B&T Supermarket
+
+## 2021-10-31
+
+- Continued learning of OpenCV
+
+## 2021-11-01
+
+- Searched Dip Station on Amazon.ca
+- Bought the condo townhouse of 895 Mapleview Avenue
+- Submit eye exam claim through RBC account (30)
+- Submit eye exam claim through HSA account (70.2)
+
+- [HEXAGONMI](#hexagonmi)
+	- Fixed the bug #28806 related with form topology connectivity check
+	- Reviewed updates from Shaharoz about Edit Double Attached unit test
+
+## 2021-11-02
+
+- Prepared bank draft and deposit for the condo townhouse
+- Sent real estate lawyer information to Glenn
+
+- [HEXAGONMI](#hexagonmi)
+	- Reviewed source code updates from Adrian related with Unit Testing
+	- Updated Python binding xml and scripts
+	- Added python scriping support classes
+
 ## REFERENCES
 
 ### estates
