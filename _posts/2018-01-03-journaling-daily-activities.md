@@ -10780,6 +10780,11 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
 	- Investigated the bug #31631 related with featured display
+	- Attended Mario's collision detection demostration
+	- Learned Extending Python with C and C++
+	- Learned Defining Python Type
+	- Learned Embedding Python in Application
+	- Learning Building Python Extension
 	
 ## REFERENCES
 
