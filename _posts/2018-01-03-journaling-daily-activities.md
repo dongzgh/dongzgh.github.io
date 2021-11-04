@@ -10758,12 +10758,29 @@ tags: [personal]
 
 - Prepared bank draft and deposit for the condo townhouse
 - Sent real estate lawyer information to Glenn
+- Sent documents to Joanna for mortgage application
 
 - [HEXAGONMI](#hexagonmi)
 	- Reviewed source code updates from Adrian related with Unit Testing
 	- Updated Python binding xml and scripts
 	- Added python scriping support classes
 
+## 2021-11-03
+
+- Bought scooter for myself
+- Contacted Sarah at Eric Zhou's office about legal process for property transfer
+- Filled form requested from Sarah about property information
+- Asked HCDSB about returning to school date
+- Sent lawyer $300 deposit for processing
+
+- [HEXAGONMI](#hexagonmi)
+	- Rechecked the bug #28806 related with 3AW Trim Line Development feature
+
+## 2021-11-04
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug #31631 related with featured display
+	
 ## REFERENCES
 
 ### estates
