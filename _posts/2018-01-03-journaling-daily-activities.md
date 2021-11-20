@@ -10778,6 +10778,8 @@ tags: [personal]
 
 ## 2021-11-04
 
+- Placed game table order through Real Canadian Superstore
+
 - [HEXAGONMI](#hexagonmi)
 	- Investigated the bug #31631 related with featured display
 	- Attended Mario's collision detection demostration
@@ -10786,6 +10788,111 @@ tags: [personal]
 	- Learned Embedding Python in Application
 	- Learning Building Python Extension
 	
+## 2021-11-05
+
+- Updated credit card benefit matrix
+- Hiked at Niagara Whirpool trail
+
+## 2021-11-06
+
+- Played badminton at Lion's club
+- Bought Ethan's hiking shoes at Decalthlon
+
+## 2021-11-07
+
+- Walked at the Hidden Valley Trail
+
+## 2021-11-08
+
+- [HEXAGONMI](#hexagonmi)
+	- Reviewed source code updates from Shaharoz related with Unit Tests
+	- Relocated Python development library
+	- Investigatd the bug #31659 related with symmetrical feature selection
+
+## 2021-11-09
+
+- Had Dr. Kholi checked implantation
+- Sent Ethan's passport application to Ottawa
+
+- [HEXAGONMI](#hexagonmi)
+	- Helped Shararoz figured out some issues with unit testing project settings
+
+## 2021-11-10
+
+- Submit dental claim for Dr. Kholi to RBC and SunLife HSA
+
+- [HEXAGONMI](#hexagonmi)
+	- Continued working on Python interpreter initialization
+	- Reviewed source codes updates from Shararoz related with 3AW unit testing
+	
+## 2021-11-11
+
+- Claimed orthodontics service fee for Min from SunLife HSA
+
+- [HEXAGONMI](#hexagonmi)
+	- Checked in codes for Python interpreter related classes
+	- Fixed FTIFS close memory leak issues
+	- Continued working on Python interpreter initialization
+	- Completed all the meta compliance trainings
+
+## 2021-11-12
+
+- Checked mail for Ethan's passport application
+- Renewed Costco membership
+
+- [HEXAGONMI](#hexagonmi)
+	- Prepared training for Lucas and Ying about unit testing framework
+	- Trained Ying and Lucas about unit testing framework
+	
+## 2021-11-13
+
+- Had Ethan's eyes examined
+- Played badmintion with Ethan
+- Visited Nathon's home with Ethan
+
+## 2021-11-14
+
+- Shopped sktating shoes for Ethan at Canadian Tire
+- Invited Aron to come home to play with Ethan
+
+## 2021-11-15
+
+- [HEXAGONMI](#hexagonmi)
+	- Helped Lucas to sovle debug path issue
+	
+## 2021-11-16
+
+- [HEXAGONMI](#hexagonmi)
+	- Helped Shaharoz to solve local debug symbol loading path issue
+	- Removed __pycache__ folder from server
+	- Helped Lucas to solve DEBUGUNICODETEST configuration inconsistancy issue
+	- Helped Shaharoz and Lucas to solve test discovery path environment issue
+	- Helped Eric to solve a project issue related with trim line generation
+	- Updated testing batch file on AzureDevOps
+
+## 2021-11-17
+
+- Registered Parent/Teacher inverview with Guzzo on Nov. 25th
+
+- [HEXAGONMI](#hexagonmi)
+	- Removed workflow recording and related training materials
+
+## 2021-11-18
+
+- Paied cogeco bill for this month
+
+- [HEXAGONMI](#hexagonmi)
+	- Reviewed source code updates related with missing CreateLinesOnSurface in 3AW
+	- Continued to work on Python interpreter shell integration
+
+## 2021-11-19
+
+- [HEXAGONMI](#hexagonmi)
+	- Tried to rebuild FTIFS_TESTING in diagnostic mode
+	- Fixed one bug related with reference ID copy issue during trim line generation
+	- Reformated toolbox functions
+	- Speed up trim line exportation using shared data
+
 ## REFERENCES
 
 ### estates
