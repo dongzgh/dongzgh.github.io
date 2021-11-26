@@ -10893,6 +10893,50 @@ tags: [personal]
 	- Reformated toolbox functions
 	- Speed up trim line exportation using shared data
 
+## 2021-11-20
+
+- Shopped hockey jersy and socks for Ethan
+
+- [L3MONSHAPE](#l3monshape)
+	- Renamed lab to volics
+	- Explored vtk examples for implicit modeling
+
+## 2021-11-21
+
+- Sent birthday gift to Caroline
+
+## 2021-11-22
+
+- Talked HCDSB and St. Anne about when to switch learning model
+- Confirmed TUMS recall from the recall partner
+- Checked Papiyona order from the seller
+
+- [HEXAGONMI](#hexagonmi)
+	- Talked with team about how to arrange work from office
+	
+## 2021-11-23
+
+- [HEXAGONMI](#hexagonmi)
+	- Working on the bug #28806 related with pre-trim lines for inner flange
+	- Developed initial scripting terminal using CEdit
+	
+## 2021-11-24
+
+- [HEXAGONMI](#hexagonmi)
+	- Discussed with Eric about the RTW plan for the next two months
+	- Developed initial scripting terminal using CRichEditCtrl
+
+## 2021-11-25
+
+- [HEXAGONMI](#hexagonmi)
+	- Decided Dec. RTW plan and reported to Eric
+	- Working on python gluenen codes
+	- Fixing testing pipeline issues
+	- Talked to Jacob regarding the exepection handling issue in the bug #29631
+
+- [L3MONSHAPE](#l3monshape)
+	- Downloaded Gen3D to investigate implicit modeling
+
 ## REFERENCES
 
 ### estates
