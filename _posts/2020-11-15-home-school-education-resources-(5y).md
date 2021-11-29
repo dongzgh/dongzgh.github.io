@@ -37,6 +37,8 @@ tags: [school]
   - 王丹趣味地理课 <i class="far fa-thumbs-up"></i>
   - 十万个为什么 <i class="far fa-thumbs-up"></i>
   - 海底小纵队 <i class="far fa-thumbs-up"></i>
+  - 神奇校车
+  - 屁屁侦探 <i class="far fa-thumbs-up"></i>
 
 ## Mind
 
@@ -95,6 +97,7 @@ tags: [school]
 - Videos
   - [Animals in Winter](https://youtu.be/eLDbjt_FiTM)
   - [Ocean Zones](https://youtu.be/fHVE4B-UjmM)
+  - [Jungle](https://kids.nationalgeographic.com/search?q=jungle&location=srp&type=manual)
   - [TVOkids Science and Technology](https://www.youtube.com/channel/UCBCuoKUX7SIEIBK6YhUbyiA)
   - [TVOkids Health and Arts](https://www.youtube.com/channel/UCHcFJHZWvX6XtSc9TvVu0mA)
 
@@ -202,6 +205,9 @@ tags: [school]
     - [How to Draw Telescope](https://youtu.be/H8Udz7D5c1Y)
   - [Crateful Art](https://www.youtube.com/c/Createfulart/featured)
   - [Wow Art](https://www.youtube.com/channel/UCdZutxI1UnH9N3Fh_TeQ4Kw/videosf)
+- Magics
+  - [Stick Trick](https://youtu.be/a9cUw60qlyE)
+  - [AboutMagic](https://www.youtube.com/channel/UC6VZ8ZcZP3zpF9slp2MoTlQ)
 
 ### Music <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span>
 
@@ -215,14 +221,16 @@ tags: [school]
   - Marry Had a Little Lamb <i class="far fa-thumbs-up"></i>
   - Twinkle Twinkle Little Star <i class="far fa-thumbs-up"></i>
   - Brother John <i class="far fa-thumbs-up"></i>
-  - Ode to Joy
+  - Ode to Joy <i class="far fa-thumbs-up"></i>
+  - 洋娃娃和小熊跳舞
+  - 小小粉刷匠 <i class="far fa-thumbs-up"></i>
   - Happy Birthday
   - Jingle Bell
   - 送别
   - 爱的代价
   - 大鱼
-  - 小汤1，2，3
-  - 儿童钢琴曲1，2
+  - 小汤1，2，3 <i class="far fa-thumbs-up"></i>
+  - 儿童钢琴曲1，2 <i class="far fa-thumbs-up"></i>
 
 ### Crafts <span style="color: blue"><i class="fas fa-hand-sparkles"></i></span> <i class="far fa-thumbs-up"></i>
 

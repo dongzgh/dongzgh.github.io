@@ -10937,6 +10937,17 @@ tags: [personal]
 - [L3MONSHAPE](#l3monshape)
 	- Downloaded Gen3D to investigate implicit modeling
 
+## 2021-11-26
+
+- Sent donation to gofundme.com
+- Booked appointment with physiotherapist
+
+- [HEXAGONMI](#hexagonmi)
+	- Fixed failed testing cases
+	- Helped Shaharoz figuring out linking error in unit testing
+	- Syncronized testing database to Microsoft Teams FTIUnitTesting Database channel
+	- Discussed bug #31797 with Alex Chubarev about filling hole issues
+	
 ## REFERENCES
 
 ### estates
