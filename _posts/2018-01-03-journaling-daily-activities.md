@@ -10948,6 +10948,26 @@ tags: [personal]
 	- Syncronized testing database to Microsoft Teams FTIUnitTesting Database channel
 	- Discussed bug #31797 with Alex Chubarev about filling hole issues
 	
+## 2021-11-27
+
+- Watched Ethan learning badminton playing
+
+## 2021-11-28
+
+- Watched Ethan attending public skating
+
+## 2021-11-29
+
+- [HEXAGONMI](#hexagonmi)
+	- Revised scripting terminal color
+
+## 2021-11-30
+
+- [HEXAGONMI](#hexagonmi)
+	- Revised scripting terminal response texts
+	- Investigated the bug #31806 related with 3D addendum quality
+	- Added valiation for trim line generated from AGW related with the bug #29631
+	
 ## REFERENCES
 
 ### estates
