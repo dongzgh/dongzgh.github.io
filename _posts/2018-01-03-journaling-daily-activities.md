@@ -10968,6 +10968,25 @@ tags: [personal]
 	- Investigated the bug #31806 related with 3D addendum quality
 	- Added valiation for trim line generated from AGW related with the bug #29631
 	
+## 2021-12-01
+
+- Bought cake and dinner for Min's birthday
+
+## 2021-12-02
+
+- [HEXAGONMI](#hexagonmi)
+	- Enabled word wrapping of python responses
+	- Revised scripting terminal colors
+	- Added history for commands
+	- Added home key support
+	- Added python package for fti
+	
+## 2021-12-03
+
+- [HEXAGONMI](#hexagonmi)
+	- Created FTI Python Scripting team
+	- Added Readme.md to the team
+
 ## REFERENCES
 
 ### estates
