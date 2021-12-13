@@ -10985,7 +10985,71 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
 	- Created FTI Python Scripting team
-	- Added Readme.md to the team
+	- Added README.md to the team
+	
+## 2021-12-04
+
+- Booked appointment with Brookstone windows and doors for free quotation
+- Asked FUJI Roofing about gutter replacement
+- Sent Christimas photo for Ethan to Mr. Guzzo
+
+- [L3MONSHAPE](#l3monshape)
+	- Restructured local lab volics folders and files
+	- Fixed visual studio code conda activation issue
+	- Tried to understand image reader deeper
+
+## 2021-12-05
+
+- Asked Aeron to come home to play with Ethan
+
+## 2021-12-06
+
+- Updated system dirvers and supports
+- Placed order for some family games
+
+- [HEXAGONMI](#hexagonmi)
+	- Revised the performance of Python terminal
+	- Discussed with Muhammand about the resolution for the bug #29631
+	- Added 'cls' command to the Python terminal
+	- Added FTIScriptingConsole project to use second approach emulate Python terminal
+
+## 2021-12-07
+
+- [HEXAGONMI](#hexagonmi)
+	- Used Win23 console window to replace terminal dialog box
+	- Solved memory issue with closing console window
+	- Solved memory issue with Python interpreter termination
+	- Revised console window greeting message and colors
+
+## 2021-12-08
+
+- [HEXAGONMI](#hexagonmi)
+	- Revised color theme and format of scripting terminal.
+	- Discussed with Eric about the trim line issues in 3AW
+	- Asked Shaharoz and Lucas to check FTIFS_TESTING.sln
+	- Enabled automatically close scripting terminal on closing application
+	
+## 2021-12-09
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug #31894 related with embossment definition
+	- Investigated the bug #31904 related with hole unfilling (Chubarev)
+	- Investigating the bug #31886 related with pre/post holes on embossment
+	- Fixed the bug #31093 related with hole filling dialog box selection filter reset after CANCEL
+
+## 2021-12-10
+
+- [HEXAGONMI](#hexagonmi)
+	- Fixed the bug #31886 related with FlattenForms
+	- Updated unit tests for featured part generation from AGW
+	- Updated testing database
+
+## 2021-12-11
+
+- Flushed water from front and back yard fausets
+
+- [L3MONSHAPE](#l3monshape)
+	- Revised volics samples scripts for slice and render
 
 ## REFERENCES
 
