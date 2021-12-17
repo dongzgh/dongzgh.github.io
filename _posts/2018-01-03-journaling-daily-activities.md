@@ -11051,6 +11051,47 @@ tags: [personal]
 - [L3MONSHAPE](#l3monshape)
 	- Revised volics samples scripts for slice and render
 
+## 2021-12-12
+
+- Walked at the Feker's Fall Conservation Area
+
+## 2021-12-13
+
+- [HEXAGONMI](#hexagonmi)
+	- Tried to query FTIFSManifold object information
+
+- [L3MONSHAPE](#l3monshape)
+	- Revised volics samples scripts for slice and render
+	
+## 2021-12-14
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug #31929 related with twisted pre-unfolding lines (Eric)
+	- Investigated the bug #31931 related generate features (Eric)
+	- Investigated the bug #31930 related with unfold flanges onto die face (Eric)
+	- Investigated the bug #31939 related with wrong part extension curve creation (Returned)
+	- Investigated the bug #31940 related with faile die face generation (Alex Chubarev)
+	
+## 2021-12-15
+
+- [HEXAGONMI](#hexagonmi)
+	- Fixed the bug #31937 related with flange pre-trim line extraction
+	- Verified usage of the function EvalSquareDistancePoint3DPolyline3D
+	- Investigated the bug #31922 related with tiny boundary segment
+
+## 2021-12-16
+
+- Submitted dental claim for Min's scaling to SunLife
+
+- [HEXAGONMI](#hexagonmi)
+	- Added more common unit testing cases for exporting trim lines from AGW and 3AW
+	- Fixed the bug #31972 related with DeleteOldTrimLines in AGW
+	
+## 2021-12-17
+
+- [L3MONSHAPE](#l3monshape)
+	- Revised volics samples scripts for slice and render
+	
 ## REFERENCES
 
 ### estates
