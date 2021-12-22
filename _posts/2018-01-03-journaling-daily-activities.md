@@ -11092,6 +11092,33 @@ tags: [personal]
 - [L3MONSHAPE](#l3monshape)
 	- Revised volics samples scripts for slice and render
 	
+## 2021-12-18
+
+- Canceled window and door free quotation
+- Attended Ethan's first piano show
+- Bought two humidifier meters for home
+
+## 2021-12-19
+
+- Invited Aeron to play at home with Ethan
+- Bought Ukulele for Ethan
+
+## 2021-12-20
+
+- Submit Min's dental claim for Dec. 15, 2021
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug #31977 related with unfolded curve not on die face
+	- Investigated the bug #31976 related with first form trimming issue
+
+- [L3MONSHAPE](#l3monshape)
+	- Completed script to generate blobs
+
+## 2021-12-21
+
+- [L3MONSHAPE](#l3monshape)
+	- Reviewed numpy and scipy related with image processing
+
 ## REFERENCES
 
 ### estates
