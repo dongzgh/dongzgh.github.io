@@ -11106,6 +11106,7 @@ tags: [personal]
 ## 2021-12-20
 
 - Submit Min's dental claim for Dec. 15, 2021
+- Ethan's winter camp at Lions badminton club
 
 - [HEXAGONMI](#hexagonmi)
 	- Investigated the bug #31977 related with unfolded curve not on die face
@@ -11116,9 +11117,90 @@ tags: [personal]
 
 ## 2021-12-21
 
+- Ethan's winter camp at Lions badminton club
+
 - [L3MONSHAPE](#l3monshape)
 	- Reviewed numpy and scipy related with image processing
 
+## 2021-12-22
+
+- Ethan's winter camp at Lions badminton club
+
+- [L3MONSHAPE](#l3monshape)
+	- Reviewed numpy and scipy related with image processing
+	
+## 2021-12-23
+
+- Ethan's winter camp at Lions badminton club
+
+- [L3MONSHAPE](#l3monshape)
+	- Rewrite blobs script using numpy and scipy
+	
+## 2021-12-24
+
+- Ethan's winter camp at Lions badminton club
+
+- [L3MONSHAPE](#l3monshape)
+	- Updated conda development environment
+	
+## 2021-12-25
+
+- Learned to play ukulele at home
+- Ethan's winter camp at Lions badminton club
+
+## 2021-12-26
+
+- Invited Amy's family to party at home
+
+## 2021-12-27
+
+- Played at Helen's home
+
+## 2021-12-28
+
+- Invited Helen's family to party at home
+- Ethan's winter camp at Lions badminton club
+
+## 2021-12-29
+
+- Ethan's winter camp at Lions badminton club
+- Bought kids face mask for Ethan from Amazon
+
+## 2021-12-30
+
+- Ethan and Min got sick
+
+## 2021-12-31
+
+- Ethan and Min got sick
+
+## 2022-01-01
+
+- Ethan and Min got sick
+
+## 2022-01-02
+
+- Plowed snow and played sleding with Ethan
+- Completed puzzle of dinosaur
+
+## 2022-01-03
+
+- Played puzzle at home with Ethan
+
+## 2022-01-04
+
+- Canceled iTalkBB TV service
+- Played puzzle at home with Ethan
+
+## 2022-01-05
+
+- Bought TD insurance for the new property at Maple Avenue
+- Sent documents to Annie at Eric Zou
+- Paied Cord Blood Bank annual fee
+
+- [HEXAGONMI](#hexagonmi)
+	- Continued working on Python intergration
+	
 ## REFERENCES
 
 ### estates
