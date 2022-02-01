@@ -11197,10 +11197,208 @@ tags: [personal]
 - Bought TD insurance for the new property at Maple Avenue
 - Sent documents to Annie at Eric Zou
 - Paied Cord Blood Bank annual fee
+- Packed iTalkBB TV box
 
 - [HEXAGONMI](#hexagonmi)
 	- Continued working on Python intergration
+	- Scheduled FTI unit testing training for the rest of the team
+	- Updated Python Scripting terminal header
 	
+## 2022-01-06
+
+- [HEXAGONMI](#hexagonmi)
+	- Discussed the bug #31999 with Henny related with Feature Definition normal display
+	
+## 2022-01-07
+
+- [HEXAGONMI](#hexagonmi)
+	- Discussed the bug #31976 with Chubarev related with Lissajour Curve projection issue
+	
+## 2022-01-08
+
+- Had Ethan vaccined at Burlington Peadiatric Clinic
+- Played cards at home
+
+## 2022-01-09
+
+- Played cards at home
+	
+## 2022-01-10
+
+- [HEXAGONMI](#hexagonmi)
+	- Rolledback to have scripting dialog emulator in Forming Suite
+	- Added comments for the bug #31976 related with die face trimming failure
+	- Added more system commands to scripting dialog
+	
+## 2022-01-11
+
+- Created ticket for Bookoutlet.com regarding the damaged book
+
+## 2022-01-12
+
+- Did Volvo S60 maintenance and ordered hup cap
+
+- [HEXAGONMI](#hexagonmi)
+	- Gave FTI Unit Testing Framework training to the rest of the developers
+	- Enabled sending message back to the parent dialog box
+	- Passed FTIDllInfo information to the python interpreter
+	- Implemented importGeometry
+
+## 2022-01-13
+
+- Got 3rd booster vaccination
+- Got money returned from BookOutlet for the damaged bookmarks
+ 
+- [HEXAGONMI](#hexagonmi)
+	- Reorganized schema xml files for python scripting
+	- Added infrastructure module
+	- Helped Alex Chung to initialize some unit testing projects
+
+## 2022-01-14
+
+- [HEXAGONMI](#hexagonmi)
+	- Renamed stdafx.h to StdAfx.had
+	- Developed scenario.py for automation
+	
+## 2022-01-15
+
+- Celebrated birthday with Aaron at their house
+
+## 2022-01-16
+
+- [L3MONSHAPE](#l3monshape)
+	- Revised 3-1-blos python code
+	
+## 2022-01-17
+
+- [HEXAGONMI](#hexagonmi)
+	- Added infrastructure module new_project function
+	- Revised geometry module import_geometry function
+	
+## 2022-01-18
+
+- [HEXAGONMI](#hexagonmi)
+	- Added define_material to the geometry module
+	
+## 2022-01-19
+
+- Had final visit the the Maple Avenue
+- Aksed Annie from Eric Zou about rental
+- Sent Glenn about some question regarding the house usage
+- Checked Ethan's teeth at pediatric dentist
+
+- [HEXAGONMI](#hexagonmi)
+	- Finalized define_material to the geometry module
+	- Removed infrastructure module
+	- Added new_project and save_project to core module
+	- Added define_material and define_skin_location to geometry module
+	- Enabled executing python script
+
+## 2022-01-20
+
+- Got bank draft to pay the lawyer for Maple Avenue
+
+- [HEXAGONMI](#hexagonmi)
+	- Added split_geoset to geometry module
+	- Added merge_geoset to geometry module
+	- Added move_geosets to geometry module
+	- Added copy_geoset to geometry module
+	- Added last_feature_by_tag to core module
+	
+## 2022-01-21
+
+- Signed real estate legal document for Maple Avenue
+- Shopped at Famijoy Supermarket
+
+- [HEXAGONMI](#hexagonmi)
+	- Changed Microsoft Authentication password
+	- Rolled back FortiClient VPN
+	- Added mirror_geoset to geometry module
+	- Added create_symmetry to geometry module
+	- Fixed sys.version query issue
+	
+## 2022-01-22
+
+- Learned how to play Happy Birthday using ukulele
+
+- [HEXAGONMI](#hexagonmi)
+	- Tried to install numpy to a lower version
+
+## 2022-01-23
+
+- Read technology news from Digital Engineering
+- Read technology news from Gen3D
+
+## 2022-01-24
+
+- [HEXAGONMI](#hexagonmi)
+	- Reviewed source code from Shaharoz about unit test
+	- Discussed numpy loading issue with Malte
+
+## 2022-01-25
+
+- Transferred Burlington Hydro and Union Gas accounts for Maple Avenue
+- Contacted Condo Management company for Maple Avenue
+- Submitted HSA claim for Ethan's dental exam on 01/19/2022
+- Submitted HSA claim for Min's orthodontist services on 05/10/2021
+- Sent property management of Maple Avenue information package for setting up account
+- Got Maple Avenue keys and checked property at Maple Avenue
+- Asked Glenn to put rental listing on realtor.ca
+
+- [HEXAGONMI](#hexagonmi)
+	- Tried several ways to build release version of python for FTIScriptingDLL
+	
+## 2022-01-26
+
+- Gave key for Maple Avenue to Karen
+
+- [HEXAGONMI](#hexagonmi)
+	- Revised strategy to execute script file
+	- Revised related project settings to include Qt settings
+	- Added get_geometry_lcs to core module
+	- Added close_project to core module
+	- Revised strategy for getting the context on the goal
+	- Revised box example by adding protections
+
+## 2022-01-27
+
+- [HEXAGONMI](#hexagonmi)
+	- Tried to solve VPN issue with my computer
+	- Added open_project ot the core module
+	- Added fill_holes and unfill_holes to the geometry module
+	- Added select_fature and enable_selection_filter to core module
+	- Added define_part_feature to geometry module
+	- Updated project documents on Microsoft Teams
+	
+## 2022-01-28
+
+- Submited Min's janurary dental claim
+- Discussed with Sunlife about Min's past 1240 HSA claim （alreedy paid twice in 2021 and HSA for 2021 used up)
+- Booked carpet cleaning service tomorrow at 1pm-3pm
+- Sent BMO mortgage application document
+
+- [HEXAGONMI](#hexagonmi)
+	- Enabled free prompting up scripting dialog box
+	- Enabled repositioning scripting dialog box at start
+	- Enabled controlled paste behavior (ctrl + v && right button up) of scripting terminal
+	- Enabled controlled cut behaviour of scripting terminal
+	- Fixed multiline backspace issue
+	- Fixed word wrapping issue in ProcessMessage
+	- Fixed multiline command issue
+	- Revised query_selected for entity list information;
+	- Added create_tipping in geometry module
+	- Updated example scripts
+
+## 2022-01-29
+
+- Had Burlington Carpet Cleaning by J.L cleaned carpet for Maple Avenue
+- Decided lease for Maple Avenue
+
+## 2022-01-30
+
+- Purchased USB-C hub from Amazon
+- Installed shoe shelf in front closet
+
 ## REFERENCES
 
 ### estates
