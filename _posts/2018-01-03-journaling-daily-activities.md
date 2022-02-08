@@ -11399,6 +11399,65 @@ tags: [personal]
 - Purchased USB-C hub from Amazon
 - Installed shoe shelf in front closet
 
+## 2022-02-01
+
+- [HEXAGONMI](#hexagonmi)
+	- Added terminal command reference
+	- Investigated Simufact documentation system
+	- Installed Sphinx python module
+	
+## 2022-02-02
+	
+- [HEXAGONMI](#hexagonmi)
+	- Learning how to use sphinx documentations
+	- Created and compiled python documentation
+
+## 2022-02-03
+
+- Did house inspection with Mr. Tao
+- Prepared Repair and Maintenance list for Mr. Tao for Maple Avenue
+- Shopped at IKEA and Costco
+
+- [HEXAGONMI](#hexagonmi)
+	- Enabled open python documentation
+	- Submitted python documentation
+	- Updated python packages on server
+	- Investigated methods for reorganizing core module methods into groups
+	- Added create_flat_binder to geometry module
+	- Added get_attribute_by_tag to core module
+
+## 2022-02-04
+
+- [HEXAGONMI](#hexagonmi)
+	- Added feature, manifold and attribute classes to core module
+	- Revised python function interfaces to use python objects instead of ids
+	- Revised python example scripts
+	- Enabled retrieval parameters from active dialog box
+	- Enabled creating silhouette binder
+
+## 2022-02-05
+
+- Played with Aaron sleding at the Norton Park
+
+## 2022-02-06
+
+- Played with Maxi at Riverway Park in oakville
+
+## 2022-02-07
+
+- Talked to the library about login issues
+- Returned overdue library books
+
+- [HEXAGONMI](#hexagonmi)
+	- Started preparing materials for the demostration
+	
+## 2022-02-08
+
+- [HEXAGONMI](#hexagonmi)
+	- Set up meeting to report python scripting progress
+	- Continued preparation of materials for the demostration
+	- Learned reStructuredText primer
+	
 ## REFERENCES
 
 ### estates
