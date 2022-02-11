@@ -11455,9 +11455,42 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
 	- Set up meeting to report python scripting progress
-	- Continued preparation of materials for the demostration
+	- Completed preparation of materials for the demostration
 	- Learned reStructuredText primer
+	- Completed USB security training
 	
+## 2022-02-09
+
+- Gave key to Mr. Tao to start fixation for Maple Avenue
+- Tried to charge xc60 battery
+- Paied overdue fee to PC Mastercard
+- Got key returned from Mr. Tao for the maintenance at Maple Avenue
+
+- [HEXAGONMI](#hexagonmi)
+	- Started to work on Fill Notch automation
+	- Talked with Rob about unit testing pipeline failure
+	- Updated testing pipeline bat file
+	- Added boundary to core module
+	- Added polyline to core module
+	- Added get_fill_notch_data to geometry module
+	- Added eval_notch to geometry module
+	- Added save_fill_notch_data to utilities module
+	- Added create_notch to utilities module
+
+## 2022-02-10
+
+- Invited Aaron to come to play with Etha
+
+- [HEXAGONMI](#hexagonmi)
+	- Added get_position_binder to geometry module
+	- Added eval_position_binder to geometry module
+	- Added position_binder and save_position_binder to geometry module
+	- Revised python script example names
+	- Revised some function names in python modules
+	- Talked to Eric about issues during implementing unit tests in TESTING pipeline
+
+## 2022-02-11
+
 ## REFERENCES
 
 ### estates
