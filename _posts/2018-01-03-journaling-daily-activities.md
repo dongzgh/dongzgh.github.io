@@ -11491,6 +11491,19 @@ tags: [personal]
 
 ## 2022-02-11
 
+- Investigated TD Life Insurance
+- Talked with PC Financial about overdue payment
+- Discussed with Glenn about the utility bills
+- Started contacting dealer about sell XC60
+- Checked Maple Avenue fixes
+- Checked filter, smoke detector and key tag online
+
+- [HEXAGONMI](#hexagonmi)
+	- Added attach_geosets to gometry module
+	- Enabled accessing FTIDocument, FTIMainFrame
+	- Added create_workbench to core module
+	- Added 3daddendum module
+
 ## REFERENCES
 
 ### estates
