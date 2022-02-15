@@ -11504,6 +11504,30 @@ tags: [personal]
 	- Added create_workbench to core module
 	- Added 3daddendum module
 
+## 2022-02-12
+
+- Asked Mr. Tao to do some minor fixes for Maple Avenue
+- Shopped at FamiJoy
+
+## 2022-02-13
+
+- Cleaned house for Maple Avenue
+- Installed garage door opener for Maple Avenue
+- Played and had dinner at Aaron's home
+- Sent emails to Glenn asking about utilities and keys for Maple Avenue
+
+## 2022-02-14
+
+- Talked with Glenn and Scott about the utility issues
+- Bought carbo monoxide detectors (3) for Maple Avenue
+- Changed termostate temperature to 16
+- Asked iTalkBB about the fee changes
+
+- [HEXAGONMI](#hexagonmi)
+	- Changed attendum module name to die module
+	- Added select_die_geoset to addendum module
+	- Attended Jira training
+
 ## REFERENCES
 
 ### estates
