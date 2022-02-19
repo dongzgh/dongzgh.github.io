@@ -11522,11 +11522,61 @@ tags: [personal]
 - Bought carbo monoxide detectors (3) for Maple Avenue
 - Changed termostate temperature to 16
 - Asked iTalkBB about the fee changes
+- Started preparing Tax Return for 2021
 
 - [HEXAGONMI](#hexagonmi)
 	- Changed attendum module name to die module
-	- Added select_die_geoset to addendum module
+	- Added select_die_geoset to die module
 	- Attended Jira training
+	- Discussed with Shaharoz and Adrian about mirror plane display issue in LDP
+
+## 2022-02-15
+
+- Researched methods for side hussles
+- Purchased crisper pan for fridge for Maple Avenue
+- Deposited cheque from Glenn for Maple Avenue to bank account
+- Got key from Glenn for Maple Avenue
+
+- [HEXAGONMI](#hexagonmi)
+	- Added create_pec_contour to die module
+	- Tried to use Jira system for Python scripting project
+	- Moved items listed in ISSUES.md to Jira
+	- Moved README.md for Python scripting to Jira
+	- Discussed with Jacob about a new team for Python scripting
+	- Prepared preasentation for Updates II
+	- Updated script examples for presentation
+
+## 2022-02-16
+
+- [HEXAGONMI](#hexagonmi)
+	- Added create_cob_contour to die module
+	- Revised interface definiton for EvalPEC
+	- Prepared presentation for Updates II
+	- Added Development Knowhow for Python Scripting project
+
+## 2022-02-17
+
+- [HEXAGONMI](#hexagonmi)
+	- Presentate Python scripting updates II to the team
+	- Updated Python scripting documentation
+	- Fixed the bug #32273 related with trimline exportation
+	- Added testing cases for the bug #32273
+	- Run all the tests related with FTIResourceUtilityTSFSPExportFeaturedPart3AW
+	- Updated Outlook signatures
+	- Updated solution configuration 2
+	
+## 2022-02-18
+
+- Read conduminium rules and regulations
+- Sent Form 5 and Agreement documents to HCC179
+
+- [HEXAGONMI](#hexagonmi)
+	- Enabled running script file form command line
+
+## 2022-02-19
+
+- Checked BMO documents
+- Updated medical expenses for 2021
 
 ## REFERENCES
 

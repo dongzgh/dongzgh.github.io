@@ -7,68 +7,59 @@ tags: [money]
 
 Popular sources of side hustles are listed as below:
 
-## Earning
+## Jobs
 
-### Jobs
-
-#### Online Workers' Market
+### Job Workers
 
 - Testing
   - **UserTesting**
   - **TryMyUI**
 - Anything
-  - Craigslist/gigs
-  - kijiji/jobs
   - Amazon/Mechanical Turks
 
-#### Online Freelancers's Market
+### Freelancers
 
 - UpWorks
 - Fiverr
 
-#### Online Remote Jobs's Market
+### Remote Jobs
 
 - FlexJobs
 - AngleList
 
-### Commerce
-
-#### Online Commerce Platform
+## Commerce
 
 - Shopify
 - Amazon
 
 ## Entrepreneurship
 
-### Online Makers' Market
-
-#### Designs
+### Designs
 
 - iconfinder
 - 99Designs
 - iStockphotos
 - Shutterstock
 
-#### Crafts
+### Crafts
 
 - Etsy
 - CafePress
 - Foap
 
-### Online Info-products' Market
+### Information
 
 - Udemy
 - Lynda
 - Khan Academy
 - Teachable
 
-### Online Authors' Market
+### Books
 
 - KDP
-- CreateSpace
 - ACX
 
-### Online Apps' Market
+### Apps
 
 - Google Play
 - Apple Store
