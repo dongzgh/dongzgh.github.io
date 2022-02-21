@@ -11578,6 +11578,18 @@ tags: [personal]
 - Checked BMO documents
 - Updated medical expenses for 2021
 
+- [L3MONSHAPE](#l3monshape)
+	- Completed blob 1 case
+
+## 2022-02-20
+
+- Learned how to read treble clef and bass clef notes
+- Played at Amy's house
+
+- [L3MONSHAPE](#l3monshape)
+	- Started to work on core libraries
+	- Fixed matplotlib.pyplot qtagg freezing issue in visual studio code
+
 ## REFERENCES
 
 ### estates
