@@ -11590,6 +11590,151 @@ tags: [personal]
 	- Started to work on core libraries
 	- Fixed matplotlib.pyplot qtagg freezing issue in visual studio code
 
+## 2022-02-21
+
+- Bought Chong Chong Piano 5 year VIP plan ￥198
+- Submitted yoga roller purchase to PSA
+- Submitted USB-C hub purchase to PSA
+- Submitted Philips sonicare for kids purchase to PSA
+- Submitted monopoly game purchase to PSA
+- Submitted jigsaw puzzles purchase to PSA
+- Submitted kids mask purchase to PSA
+- Updated reviews for amazon shopping
+
+## 2022-02-22
+
+- [HEXAGONMI](#hexagonmi)
+	- Changed system password
+	- Investigated the bug #32273 related with LDP Stripnesting and sent to Eric
+	- Reviewed how to create batch file
+	- Updated documentation regarding running script on command line
+	- Found dialog size issue of Edit Curve and discussed it with Henny
+	- Revised interface arguments for CreateTrimLines
+
+- [L3MONSHAPE](#l3monshape)
+	- Added functions to core library
+	- Added tests for each individual function in the core library
+	- Added bunny case v1
+	
+## 2022-02-23
+
+- Downloaded RRSP statements from banks
+- Submitted dental claim for Feb. 15 for Min to SunLife
+- Reviewed documents to sign for BMO
+- Confirmed with Patterned Concrete of May. 16th week re-sealing
+- Signed BMO forms for morgage application confirmation
+
+- [HEXAGONMI](#hexagonmi)
+	- Enabled creating trim lines from scripting terminal
+	- Reviewd code updates from Shaharoz related CreateTrimLines tests
+	- Enabled creating first form from scripting terminal
+	- Enabled creating tooling from scripting terminal
+	- Updated example script
+	- Checked if all the scripts can be run on command line or not
+
+## 2022-02-24
+
+- Discussed with Vladmir about Ukrane situation
+- Called Burlington Property Tax department regarding where to send the tax bills
+- Sent TD Void Cheque to Cynthia
+- Paied Burlington Property Tax for Maple Avenue
+- Working on organizing files
+- Registered all estates to AboutMyProperty
+
+- [HEXAGONMI](#hexagonmi)
+	- Discussed with Mathew about moving documentation online
+	- Asked Adrian to start getting familiar with Python scripting
+	
+## 2022-02-25
+	
+- Paied Capital One statement
+- Checked RRSP and Tax for 2021
+- Purchased benko boxes and labels
+
+## 2022-02-26
+
+- With Ethan attending hocky class
+- Paied SportsConcept Learn to Play Hocky starting from Mar. 31st
+- Renewed BPL books
+- Purchased LEGO parts storage from Amazon
+
+## 2022-02-27
+
+- With Ethan in public skating at Aldershot Arena
+- Backed up iPhone photos and videos
+
+## 2022-02-28
+
+- Gave Min cogeco bill for Feb. 2022
+- Started return the utility storage from IRIS
+- Bought Lego parts storage and lego technic again
+
+- [HEXAGONMI](#hexagonmi)
+	- Tested Jira board and found lots issues
+
+## 2022-03-01
+
+- Reorganized Python research documents
+- Checked mails for the previous owner of Maple Avenue
+- Replaced fridge drawer for Maple Avenue
+- Paied Burlington Hydro for Maple Avenue
+- Filled online survey for school related with culture
+
+- [HEXAGONMI](#hexagonmi)
+	- Restructuring fti python library
+	- Enabled create tipping for process from scripting terminal
+	
+## 2022-03-02
+
+- Registered my Tiger rice cooker online
+- Updated warranty spreadsheet
+- Updated amazon photos back to 2019 beginning
+- Researched stock investment courses
+- Researched video editing software
+- Researched audio editing software
+
+- [HEXAGONMI](#hexagonmi)
+	- Gave Adrian a bit training about how to add function in modules
+	
+## 2022-03-03
+
+- [HEXAGONMI](#hexagonmi)
+	- Rolled back changes made from training for Adrain
+	- Fixed the bug #32498 related with trim line exportation from 3D Addendum workbench
+	
+## 2022-03-04
+
+- Continued learning video editing
+
+- [HEXAGONMI](#hexagonmi)
+	- Discussed the bug #VMC-35712 related with mirrored double attach regeneration with Henny and Adrian
+	- Discussed documentation automation with Mathew
+	- Discussed release build and patch issue with Jacob
+	- Enabled dump manifold from scripting terminal
+	- Enabled dump polyline from scripting terminal
+	- Enabled get selected object from scripting terminal
+	- Enabled cast selected object to FTI object in scripting terminal
+	- Created page for structuring training materials
+
+## 2022-03-05
+
+- Invited Aaron to come to play with Ethan
+
+## 2022-03-06
+
+- Walked in Mill Pond at Milton
+
+## 2022-03-07
+
+- Asked refund from Amazon regarding the print paper order
+- Signed documents at BMO
+
+- [HEXAGONMI](#hexagonmi)
+	- Reviewed source code from Adrian related with Python scripting for creating line on surfaces
+	- Restructured example script file to be based on workbenches
+	- Revised function to execute python script file to recognized system variables
+	- Researched methods to reload python modules
+
 ## REFERENCES
 
 ### estates
