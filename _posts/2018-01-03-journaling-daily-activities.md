@@ -11735,6 +11735,28 @@ tags: [personal]
 	- Revised function to execute python script file to recognized system variables
 	- Researched methods to reload python modules
 
+## 2022-03-08
+
+- Invited Aaron to play with Ethan
+- Visited dental office to clean my teeth
+
+- [HEXAGONMI](#hexagonmi)
+	- Added python blanking module
+	- Revised createLineOnSurfaces in python geometry module
+	- Created video to train Adrain how to test create_line_on_surfaces
+	
+## 2022-03-09
+
+- Gave the keys to Jakub for Maple Avenue
+- Sent message to Jakub about some information
+
+- [HEXAGONMI](#hexagonmi)
+	- Added python nesting module
+	- Added python line die plan module
+	- Enabled define blanking for line die plan from scripting terminal
+	- Enalbed generate part features for line die plan from scripting terminal
+	-
+
 ## REFERENCES
 
 ### estates
