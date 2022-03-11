@@ -11755,7 +11755,19 @@ tags: [personal]
 	- Added python line die plan module
 	- Enabled define blanking for line die plan from scripting terminal
 	- Enalbed generate part features for line die plan from scripting terminal
-	-
+
+## 2022-03-10
+
+- Updated morgegee for Evelyn Lane insurance
+
+- [HEXAGONMI](#hexagonmi)
+	- Prepared PPT for sprint review
+	- Changed python arguments for line die plan blank settings
+	- Changed python arguments for line die plan process settings
+	- Enabled define press coordinate system from scripting terminal
+	- Reivsed Union usage in python glue codes
+	- Enabled generate process for line die plan from scripting terminal
+	- Enabled summary for line die plan from scripting terminal
 
 ## REFERENCES
 
