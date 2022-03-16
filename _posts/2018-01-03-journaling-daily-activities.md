@@ -11759,6 +11759,10 @@ tags: [personal]
 ## 2022-03-10
 
 - Updated morgegee for Evelyn Lane insurance
+- Read technology news from GitHub
+
+- [L3MONSHAPE](l3monshape)
+	- Updated mind map for volics project
 
 - [HEXAGONMI](#hexagonmi)
 	- Prepared PPT for sprint review
@@ -11768,6 +11772,58 @@ tags: [personal]
 	- Reivsed Union usage in python glue codes
 	- Enabled generate process for line die plan from scripting terminal
 	- Enabled summary for line die plan from scripting terminal
+
+## 2022-03-11
+
+- [HEXAGONMI](#hexagonmi)	
+	- Asked Pranav to provide exmaple workflows
+	- Completed workflow for 125 case
+	- Sent message to the team about how to progress
+	- Reviewed updates from Adrian related with creating line on boundary
+
+## 2022-03-12
+
+- Paied new owenr tax bill for Maple Avenue
+
+- [L3MONSHAPE](#l3monshape)
+	- Read paper related with SDF
+
+## 2022-03-13
+
+- Invited Stephanie to come to play with Ethan
+
+## 2022-03-14
+
+- Sent Ethan to participate Spring Badminton Camp
+- Placed order of Fridgaire wahser and dryer set from Costco.ca for Evelyn Lane
+- Asked Jakub about other fixes to confirm the maintenance services required
+
+- [L3MONSHAPE](#l3monshape)
+	- Started to read the book Ray Tracing in One Weekend
+
+- [HEXAGONMI](#hexagonmi)	
+	- Discussed with Malte about some issues for Python scripting
+	- Talked with Sri about the incremental workbench set up issue
+	
+## 2022-03-15
+
+- Sent Ethan to participate Spring Badminton Camp
+
+- [L3MONSHAPE](#l3monshape)
+	- Continued reading of the book Ray Tracing in One Weekend
+
+- [HEXAGONMI](#hexagonmi)	
+	- Added detailed workflow for the story VMC-35960
+	- Working on data type inspection for python gluenen definitions
+
+## 2022-03-16
+
+- Talked with cogeco to reset the bill and upgrade the modem
+- Rechecked wifi coverage at home
+- Configured DONG-STATION on Ubuntu
+
+- [HEXAGONMI](#hexagonmi)	
+	- 
 
 ## REFERENCES
 
