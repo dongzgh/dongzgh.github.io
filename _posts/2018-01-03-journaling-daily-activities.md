@@ -11821,9 +11821,9 @@ tags: [personal]
 - Talked with cogeco to reset the bill and upgrade the modem
 - Rechecked wifi coverage at home
 - Configured DONG-STATION on Ubuntu
-
-- [HEXAGONMI](#hexagonmi)	
-	- 
+- Continued reading Linux and Git commands
+- Bought backup battery for DONG-STATION
+- Added Cogeco Ontario 50 to BMO payee
 
 ## REFERENCES
 
