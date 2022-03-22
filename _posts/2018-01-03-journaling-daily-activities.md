@@ -40,7 +40,7 @@ tags: [personal]
 
 - Off work for half day for home works
 - Bought D-Link DHP-W611AV PowerLine AV2 1000 Wireless AC1200 Starter Kit from BestBuy
-- Reconfigured home network and WiFi hotspot locations
+- Reconfigured home network and WIFI hotspot locations
 - MAYA Ethernet phone is connected
 
 - [HEXAGONMI](#hexagonmi)
@@ -6112,7 +6112,7 @@ tags: [personal]
 - Talked with Glenn about his opinion regarding rental
 - Developed plan to evaluate current financial status
 - Developed plan to evaluate current rental plan
-- Purchased 5G Wifi adapter
+- Purchased 5G WIFI adapter
 
 - [HEXAGONMI](#hexagonmi)
   - Attended Forming Suite status review meeting
@@ -6130,7 +6130,7 @@ tags: [personal]
   - Did code review for Adrian regarding Operation on Lines
   - Bug #24949: Created new icon for First Form
   - Bug #23946: Removed hidden property check on geometry display
-  - Bug #24485: Changed menu name name from Features to Part Features
+  - Bug #24485: Changed menu name from Features to Part Features
   - Bug #24488: Change dialog title from Define Features to Define/Edit Features
   - Fixed a bug relate with FTIFSManifoldUtiltiy::GetGroupeEntities
   - Tried Alpha installer in Admin account
@@ -10009,7 +10009,7 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
 	- Investigated the bug #30722 related with hint message in callback is messed up
-	
+
 ## 2021-07-24
 
 - Sent Ethan to Multisports Summer Camp
@@ -10035,7 +10035,7 @@ tags: [personal]
 	- Completed couse on Cyber Attacks
 	- Completed quiz on Hexagon Core Values
 	- Completed course on Hexagon Innovation Process
-	
+
 ## 2021-07-28
 
 - Booked COV19 test at Joseph Memorial Hospital
@@ -10045,22 +10045,22 @@ tags: [personal]
 	- Continued developing integration test example
 	- Updated solution configuration 2 according to recent changes in configuration 1
 	- Added input data serialization for some functions in FTIAdvancedGeometryControl for testing
-	
+
 ## 2021-07-29
-	
+
 - [HEXAGONMI](#hexagonmi)
 	- Encapsuled operation steps into subfunctions in workflow
 	- Investigated the bug #30766 related with binder position
 
 ## 2021-07-30
-	
+
 - [HEXAGONMI](#hexagonmi)
 	- Added DefineFeature interface in the integration test example
 
 ## 2021-08-06
 
 - Visited Fathom Five Provincial Park
-	
+
 ## 2021-08-08
 
 - Visited Selkirk Provincial Park
@@ -10074,7 +10074,7 @@ tags: [personal]
 	- Disucssed with Adrian and Shaharoz about updates of the sprint
 	- Investigated the bug #30760 related with polygon selection
 	- Added CreateBinder to the integrated workflow test case
-	
+
 ## 2021-08-10
 
 - Read technology news from Hacker News
@@ -10083,7 +10083,7 @@ tags: [personal]
 - [L3MONSHAPE](#l3monshape)
 	- Created mind map for the volics project
 	- Researched volume rendering software tools
-	
+
 - [HEXAGONMI](#hexagonmi)
 	- Helped Adrian to solve RELEASE license problem
 	- Working on adding Position Binder into integrated testing case
@@ -10103,7 +10103,7 @@ tags: [personal]
 	- Updated solution configuration 2 with latest changes from configuration 1
 	- Investigated the bug #30873 related with error catch in Mirror DA dialog box
 	- Investigated the bug #30872 related with ExtractDomainBoundary function in FTIManifoldEdit
-	
+
 ## 2021-08-12
 
 - Started learning of GMAT basics
@@ -10111,7 +10111,7 @@ tags: [personal]
 - [L3MONSHAPE](#l3monshape)
 	- Continued investigating volume rendering techniques
 	- Updated Anaconda python packages
-	
+
 - [HEXAGONMI](#hexagonmi)
 	- Added Record.log file to record session steps
 	- Reviewed Adrian's bug fix code to be submitted related with Binder Position
@@ -10124,7 +10124,7 @@ tags: [personal]
 - [L3MONSHAPE](#l3monshape)
 	- Continued investigating volume rendering techniques
 	- Continued learning of Scyipy C-Wrap
-	
+
 - [HEXAGONMI](#hexagonmi)
 	- Reviewed source codes updates from Adrian related with separation distance updates
 	- Investigated the new trim line generation function from AGW to determine normal attributes and flange id
@@ -10144,7 +10144,7 @@ tags: [personal]
 
 - [L3MONSHAPE](#l3monshape)
 	- Continued learning of Scyipy C-Wrap
-	
+
 - [HEXAGONMI](#hexagonmi)
 	- Groomed backlog and discussed some tasks with Shaharoz
 	- Added workflow recording and playback for integration testing
@@ -10155,7 +10155,7 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Improved ImportGeometry dump to include translator setting
 	- Improved DefineMaterial dump to include thickness and material settings
-	
+
 ## 2021-08-18
 
 - Checked shoes to return
@@ -10219,7 +10219,7 @@ tags: [personal]
 	- Documenting the unit testing for workflow testing
 	- Put comments on the bug #30917 and sent to Shaharoz to fix it
 	- Gave Shaharoz a little bit orientation regarding test recording and playback
-		
+
 ## 2021-08-25
 
 - Read technology news from NVIDIA
@@ -10227,7 +10227,7 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Revised data file dumping for testing to include feature inforamtion
 	- Discussed with Shaharoz regarding PositionBinder widget issues
-	
+
 ## 2021-08-26
 
 - [HEXAGONMI](#hexagonmi)
@@ -10245,7 +10245,7 @@ tags: [personal]
 	- Reviewed source codes updates from Shaharoz related with refactory CreateLinesOnSurfaces
 	- Added task for Shaharoz for developing workflow test for CreateLinesOnSurfaces
 	- Developed Training II for unit testing
-	
+
 ## 2021-08-29
 
 - Searched garage odor elimination strategy
@@ -10261,7 +10261,7 @@ tags: [personal]
 
 - [L3MONSHAPE](#l3monshape)
 	- Continued learning of VTK
-	
+
 - [HEXAGONMI](#hexagonmi)
 	- Groomed backlog
 	- Investigated the bug #30795 related with trim line crash
@@ -10322,7 +10322,7 @@ tags: [personal]
 	- Investigated the bug #30917 related with collision detection in MirrorDA
 	- Investigated the feature #31138 related with feature auto merging in LDP/PDP
 	- Investigated the bug #31127 related with symmetry plan updates after rotation
-	
+
 ## 2021-09-08
 
 - Talked with Mr. Goozo an d Mr. Pallazollo about Virtual Kindergarten
@@ -10332,7 +10332,7 @@ tags: [personal]
 	- Discussed with Peter about how to proceed with workflow testing
 	- Talked with Apana about FTIDllInfo function error during exporting
 	- Checked the bug #30967 related with SplitSurfaces errors
-	- Reviewed source code updates from Adrian related with Undo stack in PositionBinders 
+	- Reviewed source code updates from Adrian related with Undo stack in PositionBinders
 	- Downloaded source codes from SIMUFACT to investigate Python Scripting documents and sources
 	- Investigated the bug #31159 related with moving/fixed part solid color issue
 	- Managed SSH key to access remote repo from SIMUFACT
@@ -10396,7 +10396,7 @@ tags: [personal]
 	- Revised data path information set and get
 	- Investigated the bug #31159 related with Advanced DA display translucency
 	- Investigated the bug #31127 related with symmetry plane removal
-	
+
 ## 2021-09-15
 
 - Read technology news from NVIDIA
@@ -10406,7 +10406,7 @@ tags: [personal]
 	- Fixed a bug reltaed with CopyForm to enforce ID matching
 	- Checked in new get and set record path for testing
 	- Investigated the bug #31247 related with Pilot Hole definition in Process Setup
-	
+
 ## 2021-09-16
 
 - Read technology news from GitHub
@@ -10448,7 +10448,7 @@ tags: [personal]
 	- Investigated the bug #31292 related with min distance change in Position Binder
 	- Fixed the bug #31288 related with edit binder causing failed regeneration
 	- Reviewed proxy methods for porting c/c++ to python
-	
+
 ## 2021-09-21
 
 - [HEXAGONMI](#hexagonmi)
@@ -10477,7 +10477,7 @@ tags: [personal]
 	- Updated workflow testing cases
 	- Updated PositionBinder workflow test
 	- Reviewed source code updates from Shaharoz related with PositionBinder
-	
+
 ## 2021-09-24
 
 - [HEXAGONMI](#hexagonmi)
@@ -10495,7 +10495,7 @@ tags: [personal]
 
 ## 2021-09-27
 
-- Searched kayak, stand-up paddle board and life jacket 
+- Searched kayak, stand-up paddle board and life jacket
 - Installed new iPad
 - Booked Sports Concept late fall session "Learn to Hockey"
 
@@ -10510,7 +10510,7 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Investigated the bug #31356 related with direction vector using imported line
 	- Organized sprint grooming and planning meeting
-	
+
 ## 2021-09-29
 
 - Updated iPhone configurations
@@ -10519,7 +10519,7 @@ tags: [personal]
 	- Added additional attribute for storing reference edge IDs for pre-trim lines
 	- Continued investigation regarding Python Scripting in Simufact
 	- Reviewed source codes from Adrain related with PositionBinder
-	
+
 ## 2021-09-30
 
 - Checked SunLife term payment
@@ -10554,7 +10554,7 @@ tags: [personal]
 	- Discussed with Eric about how to export reference IDs
 	- Gave Adrian a bit instruction about how to use unit testing framework
 	- Investigated the bug #31387 related with GUI update issue on PositionBinder
-	
+
 ## 2021-10-05
 
 - [HEXAGONMI](#hexagonmi)
@@ -10572,14 +10572,14 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
 	- Partially fixed the bug #31398 related with assertion failure in Edit Curve
-	- Reviewed source code updates from Shaharoz related with warning of symmetry lost	
+	- Reviewed source code updates from Shaharoz related with warning of symmetry lost
 
 ## 2021-10-07
 
 - [HEXAGONMI](#hexagonmi)
-	- Discussed with Shaharoz some bugs related with Define Feature fornt-ends	
+	- Discussed with Shaharoz some bugs related with Define Feature fornt-ends
 	- Working on simply interface for trim line generation, so that redundant flanges can be skipped
-	- Had meeting with Jessica, Eric and Dezheng 
+	- Had meeting with Jessica, Eric and Dezheng
 
 ## 2021-10-08
 
@@ -10588,7 +10588,7 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
 	- Continued study Python Scripting from Simufact
-	
+
 ## 2021-10-09
 
 - Played badmington at Lions' club
@@ -10621,7 +10621,7 @@ tags: [personal]
 	- Investigated the issue in EditCurve about why it's projected onto the addendum
 	- Reviewed source codes updates from Adrain related with ProjectPointOnFace
 	- Had discussion with Ankor and Muhammad related with unifying DefineFeature dialog box
-	
+
 ## 2021-10-14
 
 - Asked FujiRoofing to take a look at the gutter system and repair roof shingles
@@ -10683,7 +10683,7 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Reviewed source code updates from Shaharoz and Adrian related unit testing
 	- Working on ftiproxy xml file compilation
-	
+
 ## 2021-10-22
 
 - Finished reading of VTK User's Guide
@@ -10718,7 +10718,7 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
 	- Developed script to remove DebugUnicodeTEST|Win32 settings
-	
+
 ## 2021-10-28
 
 - Renewed license plate sticker for Volvo XC60
@@ -10727,15 +10727,15 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Tried to fix the bug #28806 related with inner flange pre-trim lines
 	- Reviewed source code updates from Adrian related with 75 angle limit on PositionBinder
-	
+
 ## 2021-10-29
 
 - [HEXAGONMI](#hexagonmi)
 	- Reviewed code updates from Adrian for removing assertions
 	- Working on the bug #28806 related with form topology updates
-	
+
 ## 2021-10-20
-	
+
 - Visited houses in Mississauga
 - Shopped at B&T Supermarket
 
@@ -10787,7 +10787,7 @@ tags: [personal]
 	- Learned Defining Python Type
 	- Learned Embedding Python in Application
 	- Learning Building Python Extension
-	
+
 ## 2021-11-05
 
 - Updated credit card benefit matrix
@@ -10824,7 +10824,7 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Continued working on Python interpreter initialization
 	- Reviewed source codes updates from Shararoz related with 3AW unit testing
-	
+
 ## 2021-11-11
 
 - Claimed orthodontics service fee for Min from SunLife HSA
@@ -10843,7 +10843,7 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Prepared training for Lucas and Ying about unit testing framework
 	- Trained Ying and Lucas about unit testing framework
-	
+
 ## 2021-11-13
 
 - Had Ethan's eyes examined
@@ -10859,7 +10859,7 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
 	- Helped Lucas to sovle debug path issue
-	
+
 ## 2021-11-16
 
 - [HEXAGONMI](#hexagonmi)
@@ -10913,13 +10913,13 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
 	- Talked with team about how to arrange work from office
-	
+
 ## 2021-11-23
 
 - [HEXAGONMI](#hexagonmi)
 	- Working on the bug #28806 related with pre-trim lines for inner flange
 	- Developed initial scripting terminal using CEdit
-	
+
 ## 2021-11-24
 
 - [HEXAGONMI](#hexagonmi)
@@ -10947,7 +10947,7 @@ tags: [personal]
 	- Helped Shaharoz figuring out linking error in unit testing
 	- Syncronized testing database to Microsoft Teams FTIUnitTesting Database channel
 	- Discussed bug #31797 with Alex Chubarev about filling hole issues
-	
+
 ## 2021-11-27
 
 - Watched Ethan learning badminton playing
@@ -10967,7 +10967,7 @@ tags: [personal]
 	- Revised scripting terminal response texts
 	- Investigated the bug #31806 related with 3D addendum quality
 	- Added valiation for trim line generated from AGW related with the bug #29631
-	
+
 ## 2021-12-01
 
 - Bought cake and dinner for Min's birthday
@@ -10980,13 +10980,13 @@ tags: [personal]
 	- Added history for commands
 	- Added home key support
 	- Added python package for fti
-	
+
 ## 2021-12-03
 
 - [HEXAGONMI](#hexagonmi)
 	- Created FTI Python Scripting team
 	- Added README.md to the team
-	
+
 ## 2021-12-04
 
 - Booked appointment with Brookstone windows and doors for free quotation
@@ -11028,7 +11028,7 @@ tags: [personal]
 	- Discussed with Eric about the trim line issues in 3AW
 	- Asked Shaharoz and Lucas to check FTIFS_TESTING.sln
 	- Enabled automatically close scripting terminal on closing application
-	
+
 ## 2021-12-09
 
 - [HEXAGONMI](#hexagonmi)
@@ -11062,7 +11062,7 @@ tags: [personal]
 
 - [L3MONSHAPE](#l3monshape)
 	- Revised volics samples scripts for slice and render
-	
+
 ## 2021-12-14
 
 - [HEXAGONMI](#hexagonmi)
@@ -11071,7 +11071,7 @@ tags: [personal]
 	- Investigated the bug #31930 related with unfold flanges onto die face (Eric)
 	- Investigated the bug #31939 related with wrong part extension curve creation (Returned)
 	- Investigated the bug #31940 related with faile die face generation (Alex Chubarev)
-	
+
 ## 2021-12-15
 
 - [HEXAGONMI](#hexagonmi)
@@ -11086,12 +11086,12 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Added more common unit testing cases for exporting trim lines from AGW and 3AW
 	- Fixed the bug #31972 related with DeleteOldTrimLines in AGW
-	
+
 ## 2021-12-17
 
 - [L3MONSHAPE](#l3monshape)
 	- Revised volics samples scripts for slice and render
-	
+
 ## 2021-12-18
 
 - Canceled window and door free quotation
@@ -11128,21 +11128,21 @@ tags: [personal]
 
 - [L3MONSHAPE](#l3monshape)
 	- Reviewed numpy and scipy related with image processing
-	
+
 ## 2021-12-23
 
 - Ethan's winter camp at Lions badminton club
 
 - [L3MONSHAPE](#l3monshape)
 	- Rewrite blobs script using numpy and scipy
-	
+
 ## 2021-12-24
 
 - Ethan's winter camp at Lions badminton club
 
 - [L3MONSHAPE](#l3monshape)
 	- Updated conda development environment
-	
+
 ## 2021-12-25
 
 - Learned to play ukulele at home
@@ -11203,17 +11203,17 @@ tags: [personal]
 	- Continued working on Python intergration
 	- Scheduled FTI unit testing training for the rest of the team
 	- Updated Python Scripting terminal header
-	
+
 ## 2022-01-06
 
 - [HEXAGONMI](#hexagonmi)
 	- Discussed the bug #31999 with Henny related with Feature Definition normal display
-	
+
 ## 2022-01-07
 
 - [HEXAGONMI](#hexagonmi)
 	- Discussed the bug #31976 with Chubarev related with Lissajour Curve projection issue
-	
+
 ## 2022-01-08
 
 - Had Ethan vaccined at Burlington Peadiatric Clinic
@@ -11222,14 +11222,14 @@ tags: [personal]
 ## 2022-01-09
 
 - Played cards at home
-	
+
 ## 2022-01-10
 
 - [HEXAGONMI](#hexagonmi)
 	- Rolledback to have scripting dialog emulator in Forming Suite
 	- Added comments for the bug #31976 related with die face trimming failure
 	- Added more system commands to scripting dialog
-	
+
 ## 2022-01-11
 
 - Created ticket for Bookoutlet.com regarding the damaged book
@@ -11248,7 +11248,7 @@ tags: [personal]
 
 - Got 3rd booster vaccination
 - Got money returned from BookOutlet for the damaged bookmarks
- 
+
 - [HEXAGONMI](#hexagonmi)
 	- Reorganized schema xml files for python scripting
 	- Added infrastructure module
@@ -11259,7 +11259,7 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Renamed stdafx.h to StdAfx.had
 	- Developed scenario.py for automation
-	
+
 ## 2022-01-15
 
 - Celebrated birthday with Aaron at their house
@@ -11268,18 +11268,18 @@ tags: [personal]
 
 - [L3MONSHAPE](#l3monshape)
 	- Revised 3-1-blos python code
-	
+
 ## 2022-01-17
 
 - [HEXAGONMI](#hexagonmi)
 	- Added infrastructure module new_project function
 	- Revised geometry module import_geometry function
-	
+
 ## 2022-01-18
 
 - [HEXAGONMI](#hexagonmi)
 	- Added define_material to the geometry module
-	
+
 ## 2022-01-19
 
 - Had final visit the the Maple Avenue
@@ -11304,7 +11304,7 @@ tags: [personal]
 	- Added move_geosets to geometry module
 	- Added copy_geoset to geometry module
 	- Added last_feature_by_tag to core module
-	
+
 ## 2022-01-21
 
 - Signed real estate legal document for Maple Avenue
@@ -11316,7 +11316,7 @@ tags: [personal]
 	- Added mirror_geoset to geometry module
 	- Added create_symmetry to geometry module
 	- Fixed sys.version query issue
-	
+
 ## 2022-01-22
 
 - Learned how to play Happy Birthday using ukulele
@@ -11347,7 +11347,7 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
 	- Tried several ways to build release version of python for FTIScriptingDLL
-	
+
 ## 2022-01-26
 
 - Gave key for Maple Avenue to Karen
@@ -11369,7 +11369,7 @@ tags: [personal]
 	- Added select_fature and enable_selection_filter to core module
 	- Added define_part_feature to geometry module
 	- Updated project documents on Microsoft Teams
-	
+
 ## 2022-01-28
 
 - Submited Min's janurary dental claim
@@ -11405,9 +11405,9 @@ tags: [personal]
 	- Added terminal command reference
 	- Investigated Simufact documentation system
 	- Installed Sphinx python module
-	
+
 ## 2022-02-02
-	
+
 - [HEXAGONMI](#hexagonmi)
 	- Learning how to use sphinx documentations
 	- Created and compiled python documentation
@@ -11450,7 +11450,7 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
 	- Started preparing materials for the demostration
-	
+
 ## 2022-02-08
 
 - [HEXAGONMI](#hexagonmi)
@@ -11458,7 +11458,7 @@ tags: [personal]
 	- Completed preparation of materials for the demostration
 	- Learned reStructuredText primer
 	- Completed USB security training
-	
+
 ## 2022-02-09
 
 - Gave key to Mr. Tao to start fixation for Maple Avenue
@@ -11564,7 +11564,7 @@ tags: [personal]
 	- Run all the tests related with FTIResourceUtilityTSFSPExportFeaturedPart3AW
 	- Updated Outlook signatures
 	- Updated solution configuration 2
-	
+
 ## 2022-02-18
 
 - Read conduminium rules and regulations
@@ -11615,7 +11615,7 @@ tags: [personal]
 	- Added functions to core library
 	- Added tests for each individual function in the core library
 	- Added bunny case v1
-	
+
 ## 2022-02-23
 
 - Downloaded RRSP statements from banks
@@ -11644,9 +11644,9 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Discussed with Mathew about moving documentation online
 	- Asked Adrian to start getting familiar with Python scripting
-	
+
 ## 2022-02-25
-	
+
 - Paied Capital One statement
 - Checked RRSP and Tax for 2021
 - Purchased benko boxes and labels
@@ -11683,7 +11683,7 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Restructuring fti python library
 	- Enabled create tipping for process from scripting terminal
-	
+
 ## 2022-03-02
 
 - Registered my Tiger rice cooker online
@@ -11695,13 +11695,13 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
 	- Gave Adrian a bit training about how to add function in modules
-	
+
 ## 2022-03-03
 
 - [HEXAGONMI](#hexagonmi)
 	- Rolled back changes made from training for Adrain
 	- Fixed the bug #32498 related with trim line exportation from 3D Addendum workbench
-	
+
 ## 2022-03-04
 
 - Continued learning video editing
@@ -11744,7 +11744,7 @@ tags: [personal]
 	- Added python blanking module
 	- Revised createLineOnSurfaces in python geometry module
 	- Created video to train Adrain how to test create_line_on_surfaces
-	
+
 ## 2022-03-09
 
 - Gave the keys to Jakub for Maple Avenue
@@ -11775,7 +11775,7 @@ tags: [personal]
 
 ## 2022-03-11
 
-- [HEXAGONMI](#hexagonmi)	
+- [HEXAGONMI](#hexagonmi)
 	- Asked Pranav to provide exmaple workflows
 	- Completed workflow for 125 case
 	- Sent message to the team about how to progress
@@ -11801,29 +11801,75 @@ tags: [personal]
 - [L3MONSHAPE](#l3monshape)
 	- Started to read the book Ray Tracing in One Weekend
 
-- [HEXAGONMI](#hexagonmi)	
+- [HEXAGONMI](#hexagonmi)
 	- Discussed with Malte about some issues for Python scripting
 	- Talked with Sri about the incremental workbench set up issue
-	
+
 ## 2022-03-15
 
-- Sent Ethan to participate Spring Badminton Camp
+- Sent Ethan to attend Spring Badminton Camp
 
 - [L3MONSHAPE](#l3monshape)
 	- Continued reading of the book Ray Tracing in One Weekend
 
-- [HEXAGONMI](#hexagonmi)	
+- [HEXAGONMI](#hexagonmi)
 	- Added detailed workflow for the story VMC-35960
 	- Working on data type inspection for python gluenen definitions
 
 ## 2022-03-16
 
 - Talked with cogeco to reset the bill and upgrade the modem
-- Rechecked wifi coverage at home
+- Rechecked WIFI coverage at home
 - Configured DONG-STATION on Ubuntu
 - Continued reading Linux and Git commands
 - Bought backup battery for DONG-STATION
 - Added Cogeco Ontario 50 to BMO payee
+
+## 2022-03-17
+
+- Ride bike with Ethan on trail to Guelph Line
+- Checked kids bike tire replacement
+
+- [HEXAGONMI](#hexagonmi)
+  - Talked with Henny and other scrum masters about JIRA workflow
+  - Reviewed all the gluenen xml definition
+  - Reviewed source code updates from Shaharoz related with VMC-35960
+
+## 2022-03-18
+
+- Scheduled appointment for tire exchange with Costco on Mar. 30th at noon
+- Sent Ethan to attend Spring Badminton Camp
+- Invited Aeron to play with Ethan at the South Shell Park
+
+## 2022-03-19
+
+- Installed new Cogeco modem
+- Updated WIFI network for all devices involved
+- Shopped at ToyRUs with Ethan
+- Shopped at Walmart for Bell's tire replacements
+- Shopped at Lowes
+- Bought WIFI mesh from Amazon
+- Checked personal spending account balance
+
+## 2022-03-20
+
+- Hiked at Bruce Trail Iroqus section
+
+- [L3MONSHAPE](#l3monshape)
+	- Continued reading of the book Real Time rendering
+
+## 2022-03-21
+
+- Searched for WIFI router box and cabinet
+
+- [HEXAGONMI](#hexagonmi)
+  - Discussed VMC-35960 related with double attached workflow improvement
+  - Updated sub-tasks related with VMC-35960
+
+## 2022-03-22
+
+- [HEXAGONMI](#hexagonmi)
+  - Create python classes for incremental setup
 
 ## REFERENCES
 
