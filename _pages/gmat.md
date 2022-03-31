@@ -5,17 +5,14 @@ tags: [reading, gmat]
 image: /assets/img/pages/gmat.jpg
 ---
 
-## [GMAT Exam Structure](https://www.mba.com/exams/gmat/about-the-gmat-exam/gmat-exam-structure)
+## [GMAT™ Official Starter Kit + Practice Exams 1 and 2](https://gmatofficialpractice.mba.com/app/gmat-official-starter-kit-practice-exams-1-2-free)
 
-- What are the four sections of GMAT exam?
-  - {:.answer} Analytical Writing
-  - {:.answer} Integrated Reasoning
-  - {:.answer} Quantitative Reasoning
-  - {:.answer} Verbal Reasoning
-- What are the four types of Integrated Reasoning?
-  - {:.answer} Multiple-Sources Reasoning
-  - {:.answer} Table Analysis
-- What to be tested in Verbal Reasoning?
-  - {:.answer} Reading Comprehension
-  - {:.answer} Critical Reasoning
-  - {:.answer} Sentence Correction
+### About the GMAT Exam
+
+- How GMAT test is structured?
+  - {:.answer} Analytical writing, 0-6, 0.5 increment
+  - {:.answer} Integrated reasoning, 1-8, 1 increment
+  - {:.answer} Quantitative and verbal, 6-51, 1 increment
+- Who manages GMAT exams?
+  - {:.answer} GMAC (Graduate Management Association Council)
+

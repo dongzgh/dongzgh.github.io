@@ -3680,7 +3680,7 @@ tags: [personal]
 - Added a post about how to choose a learning source
 - Updated local jekyll packages
 - Searched deck box for garbages
-- Sent cogeco bills to Min
+- Sent Cogeco bills to Min
 
 - [L3MONSHAPE](#l3monshape)
   - Subscribed enterpreneurship course "Entrepreneurship: How To Start A Business From Business Idea" from udemy
@@ -10879,7 +10879,7 @@ tags: [personal]
 
 ## 2021-11-18
 
-- Paied cogeco bill for this month
+- Paied Cogeco bill for this month
 
 - [HEXAGONMI](#hexagonmi)
 	- Reviewed source code updates related with missing CreateLinesOnSurface in 3AW
@@ -11665,7 +11665,7 @@ tags: [personal]
 
 ## 2022-02-28
 
-- Gave Min cogeco bill for Feb. 2022
+- Gave Min Cogeco bill for Feb. 2022
 - Started return the utility storage from IRIS
 - Bought Lego parts storage and lego technic again
 
@@ -11818,7 +11818,7 @@ tags: [personal]
 
 ## 2022-03-16
 
-- Talked with cogeco to reset the bill and upgrade the modem
+- Talked with Cogeco to reset the bill and upgrade the modem
 - Rechecked WIFI coverage at home
 - Configured DONG-STATION on Ubuntu
 - Continued reading Linux and Git commands
@@ -11853,7 +11853,7 @@ tags: [personal]
 
 ## 2022-03-20
 
-- Hiked at Bruce Trail Iroqus section
+- Hiked at Bruce Trail Iroquois section
 
 - [L3MONSHAPE](#l3monshape)
 	- Continued reading of the book Real Time rendering
@@ -11868,8 +11868,79 @@ tags: [personal]
 
 ## 2022-03-22
 
+- Replaced bike tires for Ethan
+- Coordinated for the service for the new wash machine for Evelyn Lane
+
 - [HEXAGONMI](#hexagonmi)
   - Create python classes for incremental setup
+  - Reviewed source code updates from Shaharoz related with showing pre-unfold lines
+
+## 2022-03-23
+
+- [HEXAGONMI](#hexagonmi)
+  - Created python data types for use in incremental workbench
+  - Added setup_process for incremental workbench
+  - Updated python documentation
+
+## 2022-03-24
+
+- [HEXAGONMI](#hexagonmi)
+  - Enabled setup incremental process from scripting terminal
+  - Reviewed read-only properties and parameters used in python scripting
+  - Enabled setup incremental process from scripting terminal
+  - Enabled change tipping parameter for incremental from scripting terminal  
+
+## 2022-03-25
+
+- Asked Costco to replace the washer with a new one
+- Watched Ethan learning to play badmington
+
+- [HEXAGONMI](#hexagonmi)
+  - Investigating the bug #32600 related with bridging
+  - Reviewed source codes from Adrian related with unfold flange onto bridge area
+  - Updated python example files
+  - Enabled define settings for increment from scripting terminal
+  - Enabled solve increment from scripting terminal
+  - Updated python documentation
+
+## 2022-03-26
+
+- Checked Ehtan's eye sightness
+- Invited Calton to play with Ethan at home
+
+- [L3MONSHAPE](#l3monshape)
+	- Continued reading of the book Real Time rendering
+
+## 2022-03-27
+
+- Ride on Go Train to Oshawa and back
+
+## 2022-03-28
+
+- Started learning GMAT exam
+- Booked appointment with Dr. Mattew for chiropractic treatment
+
+- [HEXAGONMI](#hexagonmi)
+  - Investigated the bug #32600 related with ill shaped bridge surface
+
+## 2022-03-29
+
+- Talked with Ray about China career opportunities
+
+- [HEXAGONMI](#hexagonmi)
+  - Enabled define uniform addendum for blanking from scripting terminal;
+  - Enabled define die plane for prog-nesting from scripting terminal;
+  - Added python library for prog-nesting;
+  - Added python example for prog-nesting;
+
+## 2022-03-30
+
+- Changed seasonal tire for Volvo S60
+
+- [HEXAGONMI](#hexagonmi)
+  - Enabled create solid web for strechweb from scripting terminal
+  - Revised layout type definition for nesting and pronesting
+  - Enabled define rotation center for progdieprocess from scripting terminal
 
 ## REFERENCES
 
