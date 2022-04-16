@@ -12065,9 +12065,22 @@ tags: [personal]
 
 ## 2022-04-14
 
-- [HEXAGONMI](#hexagonmi)
-  - 
+- Submitted Amazon purchases till Mar. 19th. to PSA
+- Booked appointment with Dr. Cui for skin issue and tetanus shot
 
+- [HEXAGONMI](#hexagonmi)
+  - Investigated the bug #32660 related with bridging failure (Chubarev)
+  - Continued research of Python interpreter replacement
+
+## 2022-04-15
+
+- With Ethan inline skating at Berton Park
+- Shopped at Famijoy
+- Installed and tested Instapot Vortex Air Fryer
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading of the book Real Time rendering
+  
 ## REFERENCES
 
 ### estates
