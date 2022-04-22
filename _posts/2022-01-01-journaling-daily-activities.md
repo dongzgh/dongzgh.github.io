@@ -928,12 +928,53 @@ tags: [personal]
 ## 2022-04-18
 
 - Hiked at Rockcliffe Park
-- Shopped at Mastermind Toystore and Costco
+- Shopped at Mastermind Toys and Costco
 - Updated credit card information
 - Submitted NETFILE to CRA
-- Paied owning balance to CRA for Dong
+- Payed owning balance to CRA for Dong
 
 ## 2022-04-19
+
+- Sent Ethan to school for the first day
+- Payed owning balance to CRA for mind
+- Updated Mastermind Toys profile
+- Submitted Sun Life requested receipt for Dynacare Plus subscription`
+
+- [HEXAGONMI](#hexagonmi)
+  - Investigated possible ways to change python front end
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading of the book Real Time rendering
+
+## 2022-04-20
+
+- Asked MBNA to waive payment overdue charge
+- Submitted dental claim for Min for April
+
+- [HEXAGONMI](#hexagonmi)
+  - Groomed backlog for Geometry scrum Teams
+  - Investigated the bug #38296 related with unfold trim line interference warning not shown up
+  - Investigated the bug #38110 related with protection for cases without flanges defined
+  - Investigated the bug #38107 duplicating #38110
+  - Investigated the bug #38425 duplicating #38296
+  - Reviewed source code updates from Shaharoz related with pre-trims warning
+  - Reviewed source code updates from Adrian related with protection against part without flanges
+  - Discussed with Henny about possibilities to scale testing automation
+  - Approved invalid for the bug #38425 and #38296 for partial flanges
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading of the book Real Time rendering
+
+## 2022-04-21
+
+- Argued with Sun Life about Dynacare Plus subscription charge reimbursement
+
+- [HEXAGONMI](#hexagonmi)
+  - Reviewed source code updates from Adrian related with memory leak issue in unfold
+  - Reviewed source code updates from Shaharoz related with remove part features
+  - Updated Spring Review for geometry team
+  - Added ReleaseUnicodeTEST settings for each project
+  - Added ReleaseUnicodeTEST solution configuration
 
 ## REFERENCES
 
@@ -945,14 +986,6 @@ tags: [personal]
 
 - L3monShape related projects
 
-### visbuyer
-
-- Buyer agents related projects
-
 ### hexagonmi
 
 - Hexagon MI related projects
-
-### formingti
-
-- Forming TI related projects
