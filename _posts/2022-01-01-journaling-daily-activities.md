@@ -976,6 +976,34 @@ tags: [personal]
   - Added ReleaseUnicodeTEST settings for each project
   - Added ReleaseUnicodeTEST solution configuration
 
+## 2022-04-22
+
+- Asked CIBC how to transfer RRSP from other banks
+
+- [HEXAGONMI](#hexagonmi)
+  - Fixed build issues with ReleaseUnicodeTEST for solution configuration 2
+  - Investigated the bug #59213 related with mirror double attach crash
+
+## 2022-04-23
+
+- Played with Ethan at Lion's badminton Club
+- Shopped at Superstore
+
+## 2022-04-24
+
+- Hiked at Niagara Whirlpool Loop from Niagara Glen trail
+
+## 2022-04-25
+
+- Payed for Ethan to attend Aqua-Tot swimming school starting on May. 11 till Jun. 8th
+- Searched summer camp programs for Ethan
+
+- [HEXAGONMI](#hexagonmi)
+  - Talked with Pranav and Adrian about the bug #57492 related with pre-unfolded trim line loops
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading of the book Real Time rendering
+
 ## REFERENCES
 
 ### estates
