@@ -1004,6 +1004,44 @@ tags: [personal]
 - [L3MONSHAPE](#l3monshape)
   - Continued reading of the book Real Time rendering
 
+## 2022-04-26
+
+- Ethan's sick and stayed at home
+
+- [HEXAGONMI](#hexagonmi)
+  - Continued investigation of improving CLI for python
+  - Set up meeting to talk with Rob about the FORMINGSUITE TESTING pipeline issue
+  - Investigated the bug #59303 related with failed double attach
+  - Reviewed source code updates from Adrian related with unit testing for overlap checking
+  - Reviewed source code updates from Shaharoz related with DA preview warning message #38425
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading of the book Real Time rendering
+  - Started reading the book OpenGL Superbible
+
+## 2022-04-27
+
+- [HEXAGONMI](#hexagonmi)
+  - Investigated the bug #57492 related with unfolded trim line outside of bridging area not detected
+  - Investigated the bug #59318 and #59315 related with bpillar mirror dobule attach
+  - Created the bug #59342 related with feature tag assertion failure
+  - Created the bug #59345 related with visible Trim Lines group on feature tree
+  - Investigated the bug #59318 related with FS crash when unfolding flanges on bridge
+  - Investigated the bug #59315 related with no warning message for trim line overlapping on bridge
+
+- [L3MONSHAPE](#l3monshape)
+  - Started reading the book OpenGL Superbible
+
+## 2022-04-28
+
+- [HEXAGONMI](#hexagonmi)
+  - Reviewed source code updates from Adrian related with bug #59318 for bpillar
+  - Investigated the bug #59371 related with failed die face creation for degenerative cases
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading the book OpenGL Superbible
+  - Tried to create a buildable example from the book
+
 ## REFERENCES
 
 ### estates
