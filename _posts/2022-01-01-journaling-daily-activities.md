@@ -1042,6 +1042,52 @@ tags: [personal]
   - Continued reading the book OpenGL Superbible
   - Tried to create a buildable example from the book
 
+## 2022-04-29
+
+- Asked possibility to book appointment with family doctor on the same day
+- Rechecked all the medicine and drugs at home if that is expired
+
+- [HEXAGONMI](#hexagonmi)
+  - Reviewed source codes updates from Adrian related with the bugs #59318 and #59315
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading the book OpenGL Superbible
+  - Built a testing project to test example codes from the book
+
+## 2022-04-30
+
+- Visited tulip farm
+- Shopped at FamiJoy
+
+## 2022-05-01
+
+- Played cards at home with Ethan
+
+## 2022-05-02
+
+- Visited family doctor for prescription against gout
+
+## 2022-05-03
+
+- Searched Decathlon for sunglasses for Ethan
+
+- [HEXAGONMI](#hexagonmi)
+  - Reviewed source code updates from Adrian related with unit tests against the bug #59318
+  - Groomed backlog on Jira
+  - Added VC run time libraries for testing executables
+
+## 2022-05-04
+
+- Bought kids mask for Ethan
+- Bought 3d puzzle toy for Ethan
+
+- [HEXAGONMI](#hexagonmi)
+  - Investigated the bug #57311 related with new geometry translator
+  - Updated Generate Debug Information for DebugUnicode64TEST and ReleaseUnicode64TEST
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading the book OpenGL Superbible
+
 ## REFERENCES
 
 ### estates
