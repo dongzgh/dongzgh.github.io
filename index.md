@@ -8,6 +8,7 @@ items:
   - sports
   - business
   - living
+  - gaming
 ---
 
 <div class='d-flex flex-row flex-wrap'>

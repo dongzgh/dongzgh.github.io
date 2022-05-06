@@ -1088,6 +1088,24 @@ tags: [personal]
 - [L3MONSHAPE](#l3monshape)
   - Continued reading the book OpenGL Superbible
 
+## 2022-05-05
+
+- Watched Ethan playing hockey
+
+- [HEXAGONMI](#hexagonmi)
+  - Reviewed source code updates from Adrian related unit test against MirrorGeoSet
+  - Completed FormingSuite TESTING Pipeline run and published results
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading the book OpenGL Superbible
+
+## 2022-05-06
+
+- [HEXAGONMI](#hexagonmi)
+  - Reviewed source code updates from Adrian related unit test failures
+  - Reviewed source code updates from Shaharoz related bug #59599
+  - Updated testing pipeline script
+
 ## REFERENCES
 
 ### estates
