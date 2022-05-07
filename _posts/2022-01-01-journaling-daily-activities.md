@@ -1101,6 +1101,8 @@ tags: [personal]
 
 ## 2022-05-06
 
+- Started learning of renju
+
 - [HEXAGONMI](#hexagonmi)
   - Reviewed source code updates from Adrian related unit test failures
   - Reviewed source code updates from Shaharoz related bug #59599
@@ -1111,6 +1113,13 @@ tags: [personal]
   - Investigated the bug #59628 related with failed supporting surface
   - Investigated the bug #59629 related with failed die face
   - Investigated the bug #59630 related with binder position limits
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading the book OpenGL Superbible
+
+## 2022-05-07
+
+- Completed 3d puzzle fir airship
 
 - [L3MONSHAPE](#l3monshape)
   - Continued reading the book OpenGL Superbible
