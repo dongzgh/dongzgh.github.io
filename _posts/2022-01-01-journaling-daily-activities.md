@@ -1120,6 +1120,7 @@ tags: [personal]
 ## 2022-05-07
 
 - Completed 3d puzzle fir airship
+- Continued reading renju
 
 - [L3MONSHAPE](#l3monshape)
   - Continued reading the book OpenGL Superbible
