@@ -24,7 +24,7 @@ spellcheck: off
   - {:.answer} 白子没有禁手
   - {:.answer} 白子长连算胜
   - {:.answer} 棋子放在交叉点上
-- 总共可有多少黑子和白子？ 
+- 总共可有多少黑子和白子？
   - {:.answer} 黑：113
   - {:.answer} 白：112
 - 什么是活三（四）和跳活三（四）？
@@ -41,3 +41,9 @@ spellcheck: off
 - 黑子如何连续冲四?
 
   ![3.2.1](/assets/img/pages/renju/3.2.1.jpg)
+  ![3.2.2](/assets/img/pages/renju/3.2.2.jpg)
+  ![3.2.3](/assets/img/pages/renju/3.2.3.jpg)
+
+- 黑子如何冲四活三?
+
+  ![3.3.1](/assets/img/pages/renju/3.3.1.jpg)

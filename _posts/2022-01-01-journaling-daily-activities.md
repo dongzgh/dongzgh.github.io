@@ -1125,6 +1125,29 @@ tags: [personal]
 - [L3MONSHAPE](#l3monshape)
   - Continued reading the book OpenGL Superbible
 
+## 2022-05-08
+
+- Visited Spencer Smith Park for sakura trees
+- Shopped at Winners
+
+## 2022-05-09
+
+- Placed order for Meccanno STEM toy
+
+- [HEXAGONMI](#hexagonmi)
+  - Groomed backlog for geometry team
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading the book OpenGL Superbible
+
+## 2022-05-10
+
+- [HEXAGONMI](#hexagonmi)
+  - Discussed with other team members about how to configure testing machine
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading the book OpenGL Superbible
+
 ## REFERENCES
 
 ### estates
