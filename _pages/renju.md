@@ -37,13 +37,12 @@ spellcheck: off
   ![3.1.1](/assets/img/pages/renju/3.1.1.jpg)
   ![3.1.2](/assets/img/pages/renju/3.1.2.jpg)
   ![3.1.3](/assets/img/pages/renju/3.1.3.jpg)
+  ![3.3.1](/assets/img/pages/renju/3.3.1.jpg)
+  ![3.5.1](/assets/img/pages/renju/3.5.1.jpg)
+  ![3.5.2](/assets/img/pages/renju/3.5.2.jpg)
 
 - 黑子如何连续冲四?
 
   ![3.2.1](/assets/img/pages/renju/3.2.1.jpg)
   ![3.2.2](/assets/img/pages/renju/3.2.2.jpg)
   ![3.2.3](/assets/img/pages/renju/3.2.3.jpg)
-
-- 黑子如何冲四活三?
-
-  ![3.3.1](/assets/img/pages/renju/3.3.1.jpg)

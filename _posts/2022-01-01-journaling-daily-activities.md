@@ -1144,6 +1144,7 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
   - Discussed with other team members about how to configure testing machine
+  - Reviewed source code updates from Adrian related with binder position issue
 
 - [L3MONSHAPE](#l3monshape)
   - Continued reading the book OpenGL Superbible
