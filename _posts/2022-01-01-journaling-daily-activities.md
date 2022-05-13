@@ -1133,6 +1133,7 @@ tags: [personal]
 ## 2022-05-09
 
 - Placed order for Meccanno STEM toy
+- Continued reading renju
 
 - [HEXAGONMI](#hexagonmi)
   - Groomed backlog for geometry team
@@ -1142,13 +1143,55 @@ tags: [personal]
 
 ## 2022-05-10
 
+- Continued reading renju
+
 - [HEXAGONMI](#hexagonmi)
   - Discussed with other team members about how to configure testing machine
   - Reviewed source code updates from Adrian related with binder position issue
+  - Verified CRichEditCtrl windows text ending format (\r\n) strategy
 
 - [L3MONSHAPE](#l3monshape)
   - Continued reading the book OpenGL Superbible
 
+## 2022-05-11
+
+- [HEXAGONMI](#hexagonmi)
+  - Groomed backlog for geometry team
+  - Investigated the bug #59713 related with failed meshing on flange 1
+  - Investigated the bug #59675 related with system frozen during formability study  
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading the book OpenGL Superbible
+
+## 2022-05-12
+
+- Researched Sun Life Health Issuance benefits
+- Talked with Crystal about critical illness insurance
+
+- [HEXAGONMI](#hexagonmi)  
+  - Investigated the bug #59675 related with system freeze when clicking Forming
+  - Investigated the bug #59719 related with thickness validation during DA
+  - Investigated the bug #59720 related with thickness validation during DA
+  - Reviewed source code from Adrian related with the bug #59720
+  - Finished installation for unit test build on testing server
+  - Updated python documentation
+  - Completed revision of scripting terminal syntax color and formats
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading the book OpenGL Superbible
+
+## 2022-05-13
+
+- Discussed further with SunLife about CI enrollment
+
+- [HEXAGONMI](#hexagonmi)
+  - Groomed backlog for Geometry Team
+  - Fixing scripting error for LDP case
+  - Fixing unit testing error on remote machine
+  - Added how to initialize testing environment section in Development Knowhow
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading the book OpenGL Superbible
 ## REFERENCES
 
 ### estates
