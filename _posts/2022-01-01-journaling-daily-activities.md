@@ -1192,6 +1192,34 @@ tags: [personal]
 
 - [L3MONSHAPE](#l3monshape)
   - Continued reading the book OpenGL Superbible
+
+## 2022-05-14
+
+- Cleaned house floor
+- Replaced front door handle
+- Cleaned kitchen window blind
+- Ethan inline skated with Aeron
+- Confirmed Wednesday power wash and Thursday sealing with Patterned Concrete
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading the book OpenGL Superbible
+
+## 2022-05-15
+
+- Worked in the front and back yard
+- Visited indoor playgrounds
+
+## 2022-05-16
+
+- [HEXAGONMI](#hexagonmi)
+  - Updated timesheets on Jira
+  - Working on skipped unit tests on testing server
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading the book OpenGL Superbible
+  - Reviewed the Book of Shaders
+  - Started review the book Graphics Shaders - Theory and Practices
+
 ## REFERENCES
 
 ### estates
