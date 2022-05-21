@@ -1220,6 +1220,56 @@ tags: [personal]
   - Reviewed the Book of Shaders
   - Started review the book Graphics Shaders - Theory and Practices
 
+## 2022-05-17
+
+- Searched for summer camp for Ethan
+- Payed PC Mastercard balance
+
+- [HEXAGONMI](#hexagonmi)
+  - Groomed backlog and renamed scripting epic to automation epic
+  - Sent request to Rob to install Azure DevOps agent on testing server
+  - Completed meta compliance training of Social Engineering
+
+- [L3MONSHAPE](#l3monshape)
+  - Reviewed the book Graphics Shaders - Theory and Practices
+  - Started review of the book OpenGL Shading Language 3rd Ed.
+
+## 2022-05-18
+
+- Ethan was sick and stayed at home
+- Changed Aqua Tot swimming school schedule for June to Sunday 9:10 am - 9:40 am
+
+- [HEXAGONMI](#hexagonmi)
+  - Installed Azure DevOps agent for testing automation
+  - Investigated the bug #48070 related with failed bridging  
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued review of the book OpenGL Shading Language 3rd Ed.
+
+## 2022-05-19
+
+- Preparing booking event for Ethan's 6 year birthday
+
+- [HEXAGONMI](#hexagonmi)
+  - Installed Azure DevOps agent for testing automation
+  - Reconfigured visual studio extensions
+  - Reviewed source code updates from Adrian related with unit tests against Position Binder
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued review of the book OpenGL Shading Language 3rd Ed.
+
+## 2022-05-20
+
+- Paid final TAX for Evelyn Lane
+- Paid final TAX for Upper Middle
+- Booked makeup lesson for Ethan at Aqua-Tot
+
+- [HEXAGONMI](#hexagonmi)
+  - Updated testing pipeline script to run unit tests
+
+- [L3MONSHAPE](#l3monshape)
+  - Started reading of OpenGL 4.0 Shading Language Cookbook
+
 ## REFERENCES
 
 ### estates
