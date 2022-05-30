@@ -5,6 +5,8 @@ date: 2020-12-02 07:00:00 -0500
 tags: [school]
 ---
 
+<!-- markdownlint-disable MD033 -->
+
 ## Ethics
 
 ### Stories
@@ -145,6 +147,9 @@ tags: [school]
     - [Hexagon MI Working at Home Workouts](/assets/doc/Hexagon%20MI%20Working%20at%20Home%20Workouts.pdf)
   - Speedy Rope
   - Pogo Sticks <i class="far fa-thumbs-up"></i>
+  - Skating <i class="far fa-thumbs-up"></i>
+  - Skiing
+  - Swimming
 - Riding
   - Hiking <i class="far fa-thumbs-up"></i>
   - Roller Skating <i class="far fa-thumbs-up"></i>
@@ -158,7 +163,7 @@ tags: [school]
   - Hockey <i class="far fa-thumbs-up"></i>
   - Badminton <i class="far fa-thumbs-up"></i>
   - Tennis
-  - Ping Pong  
+  - Ping Pong
 - Targets
   - Magnetic Dart
   - Bowling <i class="far fa-thumbs-up"></i>

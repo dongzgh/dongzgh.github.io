@@ -94,7 +94,7 @@ tags: [personal]
 
 ## 2021-01-14
 
-- Downloaded SourceTree and Github Desktop for complicated git management
+- Downloaded SourceTree and GitHub Desktop for complicated git management
 - Created remote repository for Local
 - Read digests from ProductHunt
 - Updated education resources
@@ -137,7 +137,7 @@ tags: [personal]
 - Checked documents needed for Ethan's Passport Application
 - Reorganized projects on BitBucket including personal files
 - Created project for hexforming on visualstudio.com
-- Creatd KDP account for writing
+- Created KDP account for writing
 - Ordered bank draft from TD Canada Trust
 - Bought Canada Post Xpresspost
 - Ordered car plat shields
@@ -339,7 +339,7 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
   - Continued investigation of Control submodule
-  - Checked active items on AzereDevOps and initialized talk about the planning
+  - Checked active items on AzureDevOps and initialized talk about the planning
 
 ## 2021-02-09
 
@@ -421,8 +421,8 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
   - Discussed with Shaharoz about MFC embedded dialog issues
-  - Discussed with Adrian about refator DefineMaterial function
-  - Refactoried some functions in DLL Utility sub-module
+  - Discussed with Adrian about refactor DefineMaterial function
+  - Refactorized some functions in DLL Utility sub-module
 
 ## 2021-02-23
 
@@ -530,7 +530,7 @@ tags: [personal]
 
 ## 2021-03-09
 
-- Purchased furnitures from IKEA
+- Purchased furniture from IKEA
 - Checked how to repair internal HDD
 
 - [HEXAGONMI](#hexagonmi)
@@ -541,10 +541,10 @@ tags: [personal]
 - Searched office desk chair
 
 - [HEXAGONMI](#hexagonmi)
-  - Fixed FTIFS_TLB_32 solution issuess
+  - Fixed FTIFS_TLB_32 solution issues
   - Completed GDPR training
   - Discussed with Adrian about the bug #27518 related with solid model checker
-  - Reviewed source codes from Adrian related with FindEnttitiesByReferences
+  - Reviewed source codes from Adrian related with FindEntitiesByReferences
   - Continued learning of Visual Studio extension development
 
 ## 2021-03-11
@@ -568,13 +568,13 @@ tags: [personal]
   - Discussed with Shararoz about dialog mouse movement handler implementation
   - Continued development of Visual Studio plug-in for Unit Test boilerplate
   - Created query for bugs in Geometry team
-  - Investigating bugs that deserve writting unit tests
-  - Removed some redundunt functions in Control submodule
+  - Investigating bugs that deserve writing unit tests
+  - Removed some redundant functions in Control submodule
   - Groomed Sprint backlog
 
 ## 2021-03-13
 
-- Visted Forks of the Credit Provincial Park
+- Visited Forks of the Credit Provincial Park
 - Washed ice gripper and skateboard
 
 ## 2021-03-14
@@ -583,7 +583,7 @@ tags: [personal]
 
 ## 2021-03-15
 
-- Assmebled dresser and cube
+- Assembled dresser and cube
 
 - [HEXAGONMI](#hexagonmi)
   - Discussed and reviewed with Adrian about tipping vector extraction code refactoring
@@ -617,11 +617,11 @@ tags: [personal]
 - [L3MONSHAPE](#l3monshape)
   - Continued learning of VTK textbook
 - [HEXAGONMI](#hexagonmi)
-  - Disscussed with Shaharoz about some dialog repositioning issue
+  - Discussed with Shaharoz about some dialog repositioning issue
 
 ## 2021-03-19
 
-- Started reviewing Sponsord ads certification training
+- Started reviewing Sponsored ads certification training
 
 - [L3MONSHAPE](#l3monshape)
   - Continued learning of VTK textbook
@@ -632,15 +632,15 @@ tags: [personal]
 ## 2021-03-20
 
 - Visited Eye Dr. Ryan at Burlington Eyecare with Ethan
-- With Ethan practiced rollerskating at Centenial Bike Way
-- Teached Ethan to play with airplane shooter
-- Let Ethan tried new rollerskates from K2
+- With Ethan practiced roller-skating at Centennial Bike Way
+- Taught Ethan to play with airplane shooter
+- Let Ethan tried new roller-skates from K2
 
 ## 2021-03-21
 
-- Continued Sponsord ads certification training
-- With Ethan practiced roller skates in Centenial Bike Way
-- With Ethan practiced football at Centenial Bike Way
+- Continued Sponsored ads certification training
+- With Ethan practiced roller skates in Centennial Bike Way
+- With Ethan practiced football at Centennial Bike Way
 
 - [HEXAGONMI](#hexagonmi)
   - Revised scripts for generating cases for data driven tests
@@ -698,7 +698,7 @@ tags: [personal]
 ## 2021-03-28
 
 - [HEXAGONMI](#hexagonmi)
-  - Researched methods for call unmanaged C++ codes fro C#
+  - Researched methods for call unmanaged C++ codes from C#
   - Fixed the bug #29283 related with opening the testing toolbar
   - Reviewed source code from Shararoz related with Mirror Double Attached front-end
   - Continued working on PInvoke from VSSDK
@@ -708,7 +708,7 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Discussed with Shaharoz and Adrian about Feature Tree handling of MDA
   - Groomed backlog system and scheduled scrum planning
-  - Reviewed source code changes from Adrian realted with MDA backend
+  - Reviewed source code changes from Adrian related with MDA backend
 
 ## 2021-03-30
 
@@ -726,7 +726,7 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
   - Continued working on PInvoke from VSSDK
-  - Discussded with Shararoz and Mahammad about the hidden Skin feature registration
+  - Discussed with Shararoz and Mahammad about the hidden Skin feature registration
   - Reviewed source codes from Shaharoz and Adrian
   - Investigated the bug #29354 which is not related with Geometry workbench
 
@@ -820,13 +820,13 @@ tags: [personal]
 
 - Rechecked piano lessons for Ethan
 - Confirmed dental appointment for filling
-- Learnd GTC NVIDIA demo sessions
+- Learned GTC NVIDIA demo sessions
 
 - [L3MONSHAPE](#l3monshape)
   - Continued learning of VTK textbook
 - [HEXAGONMI](#hexagonmi)
   - Investigated the bug #29646 related with trim line generation
-  - Confirmed with Adiran and Shaharoz about the progress of Mirror Double Attached
+  - Confirmed with Adrian and Shaharoz about the progress of Mirror Double Attached
   - Investigated the bug #29628 related with filling holes
   - Investigated the bug #29646 related with newly merged geometry set has been shifted
 
@@ -894,10 +894,10 @@ tags: [personal]
 - Checked passport renewal form
 - Updated TAX Return for 2020
 - [L3MONSHAPE](#l3monshape)
-  - Developed video clip for Chang Gang's demostration
+  - Developed video clip for Chang Gang's demonstration
   - Continued learning of VTK textbook
 - [HEXAGONMI](#hexagonmi)
-  - Developed video clip for Chang Gang for the demostration
+  - Developed video clip for Chang Gang for the demonstration
   - Continued learning of VTK textbook
   - Investigated the bug #29758 with Shararoz related with Dumb flag not set properly
   - Investigated the bug #29759 related with back-end failure in Mirror DblAttached
@@ -915,7 +915,7 @@ tags: [personal]
 
 ## 2021-04-24
 
-- Visited RBG Aboretum see cherry blossom
+- Visited RBG Arboretum see cherry blossom
 - Learned about Dad's health condition
 
 ## 2021-04-25
@@ -924,15 +924,15 @@ tags: [personal]
 - Discussed with Aunt about Dad's health condition
 - Research how to get back to China
 - Research how to install home security system
-- Contact Community Center about nursary arrangements
+- Contact Community Center about nursery arrangements
 
 ## 2021-04-26
 
 - Researched assets inheritance related topics
 
 - [HEXAGONMI](#hexagonmi)
-  - Reviewed source cocdes from Shararoz related with Edit Position Geometry Sets
-  - Attendeed meeting with Shaharoz and Muhammad related with Edit Position Geometry Sets
+  - Reviewed source codes from Shararoz related with Edit Position Geometry Sets
+  - Attended meeting with Shaharoz and Muhammad related with Edit Position Geometry Sets
   - Prepared training material for FTIUnitTesting
 
 ## 2021-04-27
@@ -954,7 +954,7 @@ tags: [personal]
 
 - [L3MONSHAPE](#l3monshape)
 
-  - Developed video clip for Chang Gang's demostration
+  - Developed video clip for Chang Gang's demonstration
   - Continued learning of VTK textbook
 
 - [HEXAGONMI](#hexagonmi)
@@ -965,7 +965,7 @@ tags: [personal]
 
 - [L3MONSHAPE](#l3monshape)
 
-  - Developed video clip for Chang Gang's demostration
+  - Developed video clip for Chang Gang's demonstration
   - Continued learning of VTK textbook
 
 - [HEXAGONMI](#hexagonmi)
@@ -981,7 +981,7 @@ tags: [personal]
 
 - [L3MONSHAPE](#l3monshape)
 
-  - Developed video clip for Chang Gang's demostration
+  - Developed video clip for Chang Gang's demonstration
   - Continued learning of VTK textbook
 
 - [HEXAGONMI](#hexagonmi)
@@ -998,21 +998,21 @@ tags: [personal]
 
 ## 2021-05-03
 
-- Brought Ethan to Pediatic Urgent Care for tick bite treatment
+- Brought Ethan to Pediatric Urgent Care for tick bite treatment
 
 - [L3MONSHAPE](#l3monshape)
 
-  - Developed video clip for Chang Gang's demostration
+  - Developed video clip for Chang Gang's demonstration
   - Continued learning of VTK textbook
 
 - [HEXAGONMI](#hexagonmi)
-  - Reviewed source code refactory from Shaharoz
+  - Reviewed source code refactor from Shaharoz
 
 ## 2021-05-04
 
 - [L3MONSHAPE](#l3monshape)
 
-  - Developed video clip for Chang Gang's demostration
+  - Developed video clip for Chang Gang's demonstration
   - Continued learning of VTK textbook
 
 - [HEXAGONMI](#hexagonmi)
@@ -1024,12 +1024,12 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
   - Reviewed source code from Shaharoz related with project conversion
-  - Reviewed PPT from Adrian regarding how to use Visual Studio diagnostic tool for memrory checking
+  - Reviewed PPT from Adrian regarding how to use Visual Studio diagnostic tool for memory checking
   - Working on the bug #29916 related with memory leaks after trim line generation failed
 
 ## 2021-05-06
 
-- Payed arrer interest for the TAX 2020 return
+- Payed interest for the TAX 2020 return
 - Prepared letter to Ethan
 
 - [HEXAGONMI](#hexagonmi)
@@ -1039,7 +1039,7 @@ tags: [personal]
 ## 2021-05-07
 
 - [HEXAGONMI](#hexagonmi)
-  - Returned the bug #29854 related with poor die face surface, more explainations are needed
+  - Returned the bug #29854 related with poor die face surface, more explanations are needed
   - Investigated the bug #29934 related with Mirror DA material assignment (Adrian)
   - Investigated the bug #29928 related with fixed part moved in Mirror DA (Muhammad)
   - Investigated the bug #29937 related with thickness direction for solid part in 3AW (Adrian)
@@ -1048,7 +1048,7 @@ tags: [personal]
 
 ## 2021-05-08
 
-- Excersiced roller skating at backyard
+- Exercised roller skating at backyard
 
 ## 2021-05-09
 
@@ -1064,7 +1064,7 @@ tags: [personal]
 - Searched second hand mechanical lawn mover
 - Contacted ITALKBB regarding package delivery
 - Asked LTB two times regarding opinions for the disputes
-- Called several landloard atterneys about the dispute (JST, Epstein, Global, Yu RongWei, 房东网 etc.)
+- Called several landlord attorneys about the dispute (JST, Epstein, Global, Yu RongWei, 房东网 etc.)
 
 - [HEXAGONMI](#hexagonmi)
   - Reviewed source code from Shaharoz related with disabling transform on fixed part
@@ -1084,7 +1084,7 @@ tags: [personal]
 ## 2021-05-12
 
 - Called LTB regarding non-response tenants issue
-- Call Rental Reenforcement Unit regarding the non-response tenants issue
+- Call Rental Reinforcement Unit regarding the non-response tenants issue
 
 - [HEXAGONMI](#hexagonmi)
   - Had sprint grooming and planning meeting
@@ -1095,9 +1095,9 @@ tags: [personal]
 ## 2021-05-13
 
 - Ordered the new dishwasher from HomeDepot
-- Ordered instllation and haul away service for the dishwasher
+- Ordered installation and haul away service for the dishwasher
 - Ordered new garden hose for front yard
-- Sent warranty qeury regarding the garden hose
+- Sent warranty query regarding the garden hose
 - Ordered fridge shelf bin holder from PartSelect.ca
 
 - [HEXAGONMI](#hexagonmi)
@@ -1126,10 +1126,10 @@ tags: [personal]
 
 ## 2021-05-16
 
-- Visisted Bay Front park at Hamilton
+- Visited Bay Front park at Hamilton
 - Ordered Constant Home Comfort AC inspection
 - Talked to the tenants about the delay of vertical blinds (wait until lockdown is finished)
-- Installed first gardent netting
+- Installed first garden netting
 
 ## 2021-05-17
 
@@ -1199,7 +1199,7 @@ tags: [personal]
 ## 2021-05-22
 
 - Registered garden hoses (50ft and 75ft)
-- Played with Ethan at Calton's home
+- Played with Ethan at Colton's home
 - Bought second hand bike for Ethan
 
 ## 2021-05-23
@@ -1252,12 +1252,12 @@ tags: [personal]
 
 ## 2021-05-29
 
-- Rollerskated and skateboarded at the Centenial Bike Way
+- Roller-skated and skateboarded at the Centennial Bike Way
 
 ## 2021-05-30
 
 - Played with Maxi at Nordon Park and backyard
-- Played with Calton at the school playground
+- Played with Colton at the school playground
 
 ## 2021-05-31
 
@@ -1306,7 +1306,7 @@ tags: [personal]
 
 ## 2021-06-05
 
-- Visited Calton's home for birthday party
+- Visited Colton's home for birthday party
 - Registered Ethan's Virtual Kindergarten for 2021-2022
 
 ## 2021-06-06
@@ -1327,7 +1327,7 @@ tags: [personal]
 - Added basic Algolia Search Engine support for research project
 
 - [HEXAGONMI](#hexagonmi)
-  - Discussed with Vladmir about the post-processing logging
+  - Discussed with Vladimir about the post-processing logging
   - Checked in initial test pipeline bat file and triggered pipeline sandbox
   - Updated testing project settings
 
@@ -1338,14 +1338,14 @@ tags: [personal]
 - Sent N12 form to Fuming's tenant
 
 - [HEXAGONMI](#hexagonmi)
-  - Had dicussion with Adrian regarding Edit mode savings
+  - Had discussion with Adrian regarding Edit mode savings
   - Revised FTIFS.sln for the configuration 2
 
 ## 2021-06-10
 
 - [HEXAGONMI](#hexagonmi)
   - Revised Visual Studio option to generate test results
-  - Revised test preprare script for clearning test results
+  - Revised test prepare script for clearing test results
 
 ## 2021-06-11
 
@@ -1365,7 +1365,7 @@ tags: [personal]
 
 ## 2021-06-13
 
-- Invited Calton to play water with Ethan at home
+- Invited Colton to play water with Ethan at home
 
 ## 2021-06-14
 
@@ -1391,13 +1391,13 @@ tags: [personal]
   - Continued learning of 3DSlicer to generate volume rendering
 
 - [HEXAGONMI](#hexagonmi)
-  - Presented to Vladmir how to unit test PDP post processor
+  - Presented to Vladimir how to unit test PDP post processor
   - Discussed with Shaharoz and Muhammad about adding symmetry to the bridging dialog box
   - Discussed with Muhammad about how to showing minimum separation distance
 
 ## 2021-06-16
 
-- Ordered lithum battery for the Blink camera
+- Ordered lithium battery for the Blink camera
 - Submitted HSA for the rest of Min's dental filling expenses
 - Installed Transock VPN to used Ximalaya
 
@@ -1415,17 +1415,17 @@ tags: [personal]
 
 - Shopped vertical blinds at Home Depot with Handyman Ha
 - Replaced lawn at the front yard
-- Shipped nutritian foods to China
-- Bought second hand books from Missisauga
-- Shopped at Superstore oakville
+- Shipped nutrition foods to China
+- Bought second hand books from Mississauga
+- Shopped at Superstore Oakville
 - Tried to schedule date for vertical blinds installation
 
 ## 2021-06-20
 
-- Reviewed how to play rubik cubes
+- Reviewed how to play Rubik cubes
 - Visited Dundas Valley Conservation Area Main Loop
-- Bought hamberger King meals from Burger King
-- Bought baby probiotic because of Ethan's diaria
+- Bought hamburger King meals from Burger King
+- Bought baby probiotic because of Ethan's diarrhea
 
 ## 2021-06-21
 
@@ -1446,7 +1446,7 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Groomed backlog for the current sprint
   - Updated unit testing project settings
-  - Reviewed source codes from Adrian related with Filp side bug in Da
+  - Reviewed source codes from Adrian related with flipping side bug in DA
 
 ## 2021-06-23
 
@@ -1516,7 +1516,7 @@ tags: [personal]
 
 ## 2021-07-01
 
-- Played with Calton at the school
+- Played with Colton at the school
 
 ## 2021-07-02
 
@@ -1528,12 +1528,12 @@ tags: [personal]
 ## 2021-07-03
 
 - Bought books for Ethan from Wenxin
-- Fished at Bronty Creek Provincial Park
+- Fished at Bronte Creek Provincial Park
 
 ## 2021-07-04
 
 - Visited Twin Valley Zoo with Maxi's family
-- Reorganzied front living room for piano
+- Reorganized front living room for piano
 - Gave some toys for free on the front yard
 
 ## 2021-07-05
@@ -1579,7 +1579,7 @@ tags: [personal]
 
 ## 2021-07-10
 
-- Visited Family Mart for Asian groccery shopping
+- Visited Family Mart for Asian grocery shopping
 - Cherry Picking at Sun Valley Farm
 
 ## 2021-07-11
@@ -1595,7 +1595,7 @@ tags: [personal]
 - [L3MONSHAPE](#l3monshape)
   - Started learning Chapter 12 of SciPy Lecture Notes
 - [HEXAGONMI](#hexagonmi)
-  - Gave Shaharoz some upates about the current Sprint plan
+  - Gave Shaharoz some updates about the current Sprint plan
   - Continued learning of OpenMP
   - Investigated the bug #30624 related with Split Surfaces
 
@@ -1610,22 +1610,22 @@ tags: [personal]
 
 ## 2021-07-14
 
-- Piano delievered
+- Piano delivered
 
 - [HEXAGONMI](#hexagonmi)
   - Investigated the bug #30607 related with failed contour intersection checking
 
 ## 2021-07-15
 
-- Asked about Min's dental clain to Sun Life
+- Asked about Min's dental claim to Sun Life
 
 - [L3MONSHAPE](#l3monshape)
   - Started learning Chapter 17 of SciPy Lecture Notes
 - [HEXAGONMI](#hexagonmi)
   - Discussed Collision Detection implementation strategy with Eric and Adrian
   - Submitted project configuration changes for unit testing
-  - Talked with Vladmir about the box example unit test failure
-  - Investigated the bug #30643 related with rotation bahavrion in Da
+  - Talked with Vladimir about the box example unit test failure
+  - Investigated the bug #30643 related with rotation behavior in DA
   - Investigated the bug #30642 related with select geometry sets combobox text limit
   - Updated TESTING pipeline and retriggered build
 
@@ -1641,7 +1641,7 @@ tags: [personal]
 
 ## 2021-07-18
 
-- Had Waterfront Trouley Tour at Peir 7
+- Had Waterfront Trolley Tour at Pier 7
 - Did yard work at home
 - Reviewed Rubik Cube's algorithm
 - Continued learning of fishing
@@ -1664,14 +1664,14 @@ tags: [personal]
 - [L3MONSHAPE](#l3monshape)
   - Continued learning of Chapter 17 of SciPy Lecture Notes
 - [HEXAGONMI](#hexagonmi)
-  - Updated solution cofiguration 2 for QTMFCCompact project
+  - Updated solution configuration 2 for QTMFCCompact project
   - Fixed one issue with duplicating material thickness attribute on trim line exported
   - Investigated attribute assignment on the generated trim lines
   - Continued learning of OpenMP
 
 ## 2021-07-21
 
-- Checked summer camp deductable on 2021 Tax Return
+- Checked summer camp deductible on 2021 Tax Return
 - Shoot passport photo with Ethan
 - Picked up purchased stuff from Decathlon
 - Picked up new Dong's new Chinese passport
@@ -1689,7 +1689,7 @@ tags: [personal]
 
 ## 2021-07-23
 
-- Relearned Javascript
+- Relearned JavaScript
 - Learned ABC notations
 - Enabled music note website rendering using abcjs
 - Updated piano class notes
@@ -1699,7 +1699,7 @@ tags: [personal]
 
 ## 2021-07-24
 
-- Sent Ethan to Multisports Summer Camp
+- Sent Ethan to Multisport Summer Camp
 - Researched badminton play and gear
 
 - [HEXAGONMI](#hexagonmi)
@@ -1709,7 +1709,7 @@ tags: [personal]
 
 ## 2021-07-25
 
-- Sent Ethan to Multisports Summer Camp
+- Sent Ethan to Multisport Summer Camp
 - Researched badminton play learning resources
 - Started learning of badminton
 
@@ -1719,7 +1719,7 @@ tags: [personal]
   - Groomed backlog system
   - Continued working on integration test examples
   - Reviewed source codes updates from Shararoz related with binder new workflow
-  - Completed couse on Cyber Attacks
+  - Completed course on Cyber Attacks
   - Completed quiz on Hexagon Core Values
   - Completed course on Hexagon Innovation Process
 
@@ -1736,7 +1736,7 @@ tags: [personal]
 ## 2021-07-29
 
 - [HEXAGONMI](#hexagonmi)
-  - Encapsuled operation steps into subfunctions in workflow
+  - Encapsulate operation steps into subfunctions in workflow
   - Investigated the bug #30766 related with binder position
 
 ## 2021-07-30
@@ -1758,7 +1758,7 @@ tags: [personal]
 - Read technology news from Digital Engineering (July)
 
 - [HEXAGONMI](#hexagonmi)
-  - Disucssed with Adrian and Shaharoz about updates of the sprint
+  - Discussed with Adrian and Shaharoz about updates of the sprint
   - Investigated the bug #30760 related with polygon selection
   - Added CreateBinder to the integrated workflow test case
 
@@ -1810,7 +1810,7 @@ tags: [personal]
 
 - [L3MONSHAPE](#l3monshape)
   - Continued investigating volume rendering techniques
-  - Continued learning of Scyipy C-Wrap
+  - Continued learning of SciPy C-Wrap
 
 - [HEXAGONMI](#hexagonmi)
   - Reviewed source codes updates from Adrian related with separation distance updates
@@ -1825,12 +1825,12 @@ tags: [personal]
 
 ## 2021-08-15
 
-- Shopped King bed frame at Bricks and Leons
+- Shopped King bed frame at Bricks and Leon's
 
 ## 2021-08-16
 
 - [L3MONSHAPE](#l3monshape)
-  - Continued learning of Scyipy C-Wrap
+  - Continued learning of SciPy C-Wrap
 
 - [HEXAGONMI](#hexagonmi)
   - Groomed backlog and discussed some tasks with Shaharoz
@@ -1860,7 +1860,7 @@ tags: [personal]
 - Sold headboard and footboard of the King bed
 
 - [HEXAGONMI](#hexagonmi)
-  - Continue working on PositionBiner recording
+  - Continue working on PositionBinder recording
 
 ## 2021-08-20
 
@@ -1870,7 +1870,7 @@ tags: [personal]
 - Started to learn Unity
 
 - [HEXAGONMI](#hexagonmi)
-  - Continue working on PositionBiner recording
+  - Continue working on PositionBinder recording
 
 ## 2021-08-21
 
@@ -1879,8 +1879,8 @@ tags: [personal]
 
 ## 2021-08-22
 
-- Shopped at the FamilyJoy and some wechat groups
-- Played at the Burlington Beachway Park
+- Shopped at the FamilyJoy and some WeChat groups
+- Played at the Burlington Beach way Park
 
 ## 2021-08-23
 
@@ -1890,7 +1890,7 @@ tags: [personal]
 - Bought OTC Hydrocortisone Oilmen
 - Returned SportCheck Yeonex shoes
 - Ordered Crocs shoes for Ethan from Amazon
-- Bought grocerry from Walmart
+- Bought grocery from Walmart
 
 - [HEXAGONMI](#hexagonmi)
   - Investigated the bug #30917 related with separation distance issue
@@ -1912,7 +1912,7 @@ tags: [personal]
 - Read technology news from NVIDIA
 
 - [HEXAGONMI](#hexagonmi)
-  - Revised data file dumping for testing to include feature inforamtion
+  - Revised data file dumping for testing to include feature information
   - Discussed with Shaharoz regarding PositionBinder widget issues
 
 ## 2021-08-26
@@ -1929,7 +1929,7 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Attended Sprint Review meeting
   - Updated documents for unit testing
-  - Reviewed source codes updates from Shaharoz related with refactory CreateLinesOnSurfaces
+  - Reviewed source codes updates from Shaharoz related with refactor CreateLinesOnSurfaces
   - Added task for Shaharoz for developing workflow test for CreateLinesOnSurfaces
   - Developed Training II for unit testing
 
@@ -1939,7 +1939,7 @@ tags: [personal]
 - Searched check board games
 - Fixed Jekyll Agolia indexing issue
 - Sent copied mails to Xiao Fuming
-- Visisted Cantery Waterfall at Dundas Valley
+- Visited Cantery Waterfall at Dundas Valley
 
 - [L3MONSHAPE](#l3monshape)
   - Continued learning of VTK
@@ -1974,15 +1974,15 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Investigated the bug #31091 related with split surfaces
   - Reviewed FTIUnitTesting Framework Training II
-  - Investigated the bug #31084 related with PositionBinder undo bahviour
+  - Investigated the bug #31084 related with PositionBinder undo behaviour
 
 ## 2021-09-02
 
-- Visited Canadian Warplane Heritage Museumm
+- Visited Canadian Warplane Heritage Museum
 
 ## 2021-09-03
 
-- Welcomed Charles, Doris and Athur
+- Welcomed Charles, Doris and Arthur
 
 - [HEXAGONMI](#hexagonmi)
   - Did FTI Unit Testing framework training II
@@ -1992,11 +1992,11 @@ tags: [personal]
 
 - Played badminton at the front yard
 - Did yard work including lawn mowing and weed removal
-- Visited Burlington Beachway park
+- Visited Burlington Beach way park
 
 ## 2021-09-06
 
-- Visited and played at Calton's home
+- Visited and played at Colton's home
 
 ## 2021-09-07
 
@@ -2066,7 +2066,7 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Compiled updated source codes and found issues
   - Worked with Robert regarding drop box issues
-  - Finanlize CreateSymmetry workflow recording
+  - Finalize CreateSymmetry workflow recording
   - Reviewed source codes updates from Adrian related origin updates in PositionBinder
   - Updated system password
   - Investigated the bug #31205 related with Define/Edit feature
@@ -2076,7 +2076,7 @@ tags: [personal]
 
 - Cut 10 red flowers for Ethan to reward his sleeping alone
 - Read technology news from NVIDIA
-- Bought furnitures from JYSK and IKEA
+- Bought furniture from JYSK and IKEA
 - Rearranged play room on the first floor
 
 - [HEXAGONMI](#hexagonmi)
@@ -2090,7 +2090,7 @@ tags: [personal]
 - Read technology news from Product Hunt
 
 - [HEXAGONMI](#hexagonmi)
-  - Fixed a bug reltaed with CopyForm to enforce ID matching
+  - Fixed a bug related with CopyForm to enforce ID matching
   - Checked in new get and set record path for testing
   - Investigated the bug #31247 related with Pilot Hole definition in Process Setup
 
@@ -2117,7 +2117,7 @@ tags: [personal]
 
 - Played badminton
 - Sent Honeywell garage fan back via UPS
-- Got mails for Fuming from Scote
+- Got mails for Fuming from Scott
 - Visited Jinyan's home
 
 ## 2021-09-19
@@ -2149,7 +2149,7 @@ tags: [personal]
 - Submit claims for the rest cost of contact lenses through HSA
 
 - [HEXAGONMI](#hexagonmi)
-  - Fixed the bug #31303 related with undo stack cleen up after reset
+  - Fixed the bug #31303 related with undo stack clean up after reset
   - Discussed with Shaharoz about the bug #31127 related symmetry updates/removal after repositioning
   - Updated estimated hours for the bugs
   - Rechecked the bug #29631 related with trim line generation failures
@@ -2173,12 +2173,12 @@ tags: [personal]
 ## 2021-09-25
 
 - Played badminton
-- Played with Nathon at home
+- Played with Nathan at home
 
 ## 2021-09-26
 
 - Visited LaSale park with Erin
-- Filled engine oil and windshied washer fluid
+- Filled engine oil and windshield washer fluid
 
 ## 2021-09-27
 
@@ -2248,12 +2248,12 @@ tags: [personal]
   - Investigated the bug #31390 related with min distance display in PositionBinder
   - Fixed the bug #31392 to enable validate on the fly in Define Features
   - Fixed the bug #31394 enabling showing error symmetrically selected faces
-  - Investigated the bug #31393 realted with connectivity checking error message differences in PDP
+  - Investigated the bug #31393 related with connectivity checking error message differences in PDP
 
 ## 2021-10-06
 
 - Filled physical activity consent form and sent
-- Searched water tank speciallist and installed new water tank
+- Searched water tank specialist and installed new water tank
 - Let technician inspected the furnace
 - Recorded asset management for water tank updates
 
@@ -2264,7 +2264,7 @@ tags: [personal]
 ## 2021-10-07
 
 - [HEXAGONMI](#hexagonmi)
-  - Discussed with Shaharoz some bugs related with Define Feature fornt-ends
+  - Discussed with Shaharoz some bugs related with Define Feature front-ends
   - Working on simply interface for trim line generation, so that redundant flanges can be skipped
   - Had meeting with Jessica, Eric and Dezheng
 
@@ -2278,11 +2278,11 @@ tags: [personal]
 
 ## 2021-10-09
 
-- Played badmington at Lions' club
+- Played badminton at Lions' club
 
 ## 2021-10-10
 
-- Campped at Algonquin Rock's Lake Campground
+- Camped at Algonquin Rock's Lake Campground
 - Hiked at the Booth's Rock trail
 
 ## 2021-10-11
@@ -2329,7 +2329,7 @@ tags: [personal]
 
 ## 2021-10-16
 
-- Shopped groccery at Fordinos
+- Shopped grocery at Fordinos
 
 ## 2021-10-17
 
@@ -2345,7 +2345,7 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Investigated the bug #31442 related with material thickness for Generate Features
   - Tried to build Simufact source codes
-  - Reviewed source code upates from Shaharoz about DefineFeatures dialog box updates
+  - Reviewed source code updates from Shaharoz about DefineFeatures dialog box updates
 
 ## 2021-10-19
 
@@ -2353,7 +2353,7 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
   - Tried to build Simufact source codes
-  - Updated solution configurition 2
+  - Updated solution configuration 2
 
 ## 2021-10-20
 
@@ -2379,19 +2379,19 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Enabled building FTIPythonBindings
 
-## 2021-10-13
+## 2021-10-23
 
 - Visited Pumpkin Farm on walker's line
 
 ## 2021-10-24
 
-- Visted Helen's new home
+- Visited Helen's new home
 
 ## 2021-10-25
 
 - [HEXAGONMI](#hexagonmi)
-  - Reviewed source code upates from Adrian
-  - Added trim line reference IDs to FTI3DAdendum workbench
+  - Reviewed source code updates from Adrian
+  - Added trim line reference IDs to FTI3DAddendum workbench
 
 ## 2021-10-26
 
@@ -2409,7 +2409,7 @@ tags: [personal]
 ## 2021-10-28
 
 - Renewed license plate sticker for Volvo XC60
-- Did eye exam again for tireness
+- Did eye exam again for tiredness
 
 - [HEXAGONMI](#hexagonmi)
   - Tried to fix the bug #28806 related with inner flange pre-trim lines
@@ -2421,7 +2421,7 @@ tags: [personal]
   - Reviewed code updates from Adrian for removing assertions
   - Working on the bug #28806 related with form topology updates
 
-## 2021-10-20
+## 2021-10-30
 
 - Visited houses in Mississauga
 - Shopped at B&T Supermarket
@@ -2450,7 +2450,7 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Reviewed source code updates from Adrian related with Unit Testing
   - Updated Python binding xml and scripts
-  - Added python scriping support classes
+  - Added python scripting support classes
 
 ## 2021-11-03
 
@@ -2469,7 +2469,7 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
   - Investigated the bug #31631 related with featured display
-  - Attended Mario's collision detection demostration
+  - Attended Mario's collision detection demonstration
   - Learned Extending Python with C and C++
   - Learned Defining Python Type
   - Learned Embedding Python in Application
@@ -2478,12 +2478,12 @@ tags: [personal]
 ## 2021-11-05
 
 - Updated credit card benefit matrix
-- Hiked at Niagara Whirpool trail
+- Hiked at Niagara Whirlpool trail
 
 ## 2021-11-06
 
 - Played badminton at Lion's club
-- Bought Ethan's hiking shoes at Decalthlon
+- Bought Ethan's hiking shoes at Decathlon
 
 ## 2021-11-07
 
@@ -2494,11 +2494,11 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Reviewed source code updates from Shaharoz related with Unit Tests
   - Relocated Python development library
-  - Investigatd the bug #31659 related with symmetrical feature selection
+  - Investigated the bug #31659 related with symmetrical feature selection
 
 ## 2021-11-09
 
-- Had Dr. Kholi checked implantation
+- Had Dr. Kohli checked implantation
 - Sent Ethan's passport application to Ottawa
 
 - [HEXAGONMI](#hexagonmi)
@@ -2506,7 +2506,7 @@ tags: [personal]
 
 ## 2021-11-10
 
-- Submit dental claim for Dr. Kholi to RBC and SunLife HSA
+- Submit dental claim for Dr. Kohli to RBC and SunLife HSA
 
 - [HEXAGONMI](#hexagonmi)
   - Continued working on Python interpreter initialization
@@ -2534,32 +2534,32 @@ tags: [personal]
 ## 2021-11-13
 
 - Had Ethan's eyes examined
-- Played badmintion with Ethan
-- Visited Nathon's home with Ethan
+- Played badminton with Ethan
+- Visited Nathan's home with Ethan
 
 ## 2021-11-14
 
-- Shopped sktating shoes for Ethan at Canadian Tire
+- Shopped skating shoes for Ethan at Canadian Tire
 - Invited Aron to come home to play with Ethan
 
 ## 2021-11-15
 
 - [HEXAGONMI](#hexagonmi)
-  - Helped Lucas to sovle debug path issue
+  - Helped Lucas to solve debug path issue
 
 ## 2021-11-16
 
 - [HEXAGONMI](#hexagonmi)
   - Helped Shaharoz to solve local debug symbol loading path issue
   - Removed __pycache__ folder from server
-  - Helped Lucas to solve DEBUGUNICODETEST configuration inconsistancy issue
+  - Helped Lucas to solve DEBUGUNICODETEST configuration inconsistency issue
   - Helped Shaharoz and Lucas to solve test discovery path environment issue
   - Helped Eric to solve a project issue related with trim line generation
   - Updated testing batch file on AzureDevOps
 
 ## 2021-11-17
 
-- Registered Parent/Teacher inverview with Guzzo on Nov. 25th
+- Registered Parent/Teacher interview with Guzzo on Nov. 25th
 
 - [HEXAGONMI](#hexagonmi)
   - Removed workflow recording and related training materials
@@ -2577,12 +2577,12 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Tried to rebuild FTIFS_TESTING in diagnostic mode
   - Fixed one bug related with reference ID copy issue during trim line generation
-  - Reformated toolbox functions
+  - Reformatted toolbox functions
   - Speed up trim line exportation using shared data
 
 ## 2021-11-20
 
-- Shopped hockey jersy and socks for Ethan
+- Shopped hockey jersey and socks for Ethan
 
 - [L3MONSHAPE](#l3monshape)
   - Renamed lab to volics
@@ -2619,7 +2619,7 @@ tags: [personal]
   - Decided Dec. RTW plan and reported to Eric
   - Working on python gluenen codes
   - Fixing testing pipeline issues
-  - Talked to Jacob regarding the exepection handling issue in the bug #29631
+  - Talked to Jacob regarding the exception handling issue in the bug #29631
 
 - [L3MONSHAPE](#l3monshape)
   - Downloaded Gen3D to investigate implicit modeling
@@ -2632,7 +2632,7 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Fixed failed testing cases
   - Helped Shaharoz figuring out linking error in unit testing
-  - Syncronized testing database to Microsoft Teams FTIUnitTesting Database channel
+  - Synchronized testing database to Microsoft Teams FTIUnitTesting Database channel
   - Discussed bug #31797 with Alex Chubarev about filling hole issues
 
 ## 2021-11-27
@@ -2653,7 +2653,7 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Revised scripting terminal response texts
   - Investigated the bug #31806 related with 3D addendum quality
-  - Added valiation for trim line generated from AGW related with the bug #29631
+  - Added validation for trim line generated from AGW related with the bug #29631
 
 ## 2021-12-01
 
@@ -2678,7 +2678,7 @@ tags: [personal]
 
 - Booked appointment with Brookstone windows and doors for free quotation
 - Asked FUJI Roofing about gutter replacement
-- Sent Christimas photo for Ethan to Mr. Guzzo
+- Sent Christmas photo for Ethan to Mr. Guzzo
 
 - [L3MONSHAPE](#l3monshape)
   - Restructured local lab volics folders and files
@@ -2691,12 +2691,12 @@ tags: [personal]
 
 ## 2021-12-06
 
-- Updated system dirvers and supports
+- Updated system drivers and supports
 - Placed order for some family games
 
 - [HEXAGONMI](#hexagonmi)
   - Revised the performance of Python terminal
-  - Discussed with Muhammand about the resolution for the bug #29631
+  - Discussed with Muhammad about the resolution for the bug #29631
   - Added 'cls' command to the Python terminal
   - Added FTIScriptingConsole project to use second approach emulate Python terminal
 
@@ -2733,7 +2733,7 @@ tags: [personal]
 
 ## 2021-12-11
 
-- Flushed water from front and back yard fausets
+- Flushed water from front and back yard faucets
 
 - [L3MONSHAPE](#l3monshape)
   - Revised volics samples scripts for slice and render
@@ -2757,7 +2757,7 @@ tags: [personal]
   - Investigated the bug #31931 related generate features (Eric)
   - Investigated the bug #31930 related with unfold flanges onto die face (Eric)
   - Investigated the bug #31939 related with wrong part extension curve creation (Returned)
-  - Investigated the bug #31940 related with faile die face generation (Alex Chubarev)
+  - Investigated the bug #31940 related with failed die face generation (Alex Chubarev)
 
 ## 2021-12-15
 

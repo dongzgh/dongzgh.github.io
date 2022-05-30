@@ -47,7 +47,7 @@ tags: [personal]
 
 ## 2022-01-08
 
-- Had Ethan vaccined at Burlington Pediatric Clinic
+- Had Ethan vaccinated at Burlington Pediatric Clinic
 - Played cards at home
 
 ## 2022-01-09
@@ -57,7 +57,7 @@ tags: [personal]
 ## 2022-01-10
 
 - [HEXAGONMI](#hexagonmi)
-  - Rolledback to have scripting dialog emulator in Forming Suite
+  - Rolled back to have scripting dialog emulator in Forming Suite
   - Added comments for the bug #31976 related with die face trimming failure
   - Added more system commands to scripting dialog
 
@@ -67,7 +67,7 @@ tags: [personal]
 
 ## 2022-01-12
 
-- Did Volvo S60 maintenance and ordered hup cap
+- Did Volvo S60 maintenance and ordered hub cap
 
 - [HEXAGONMI](#hexagonmi)
   - Gave FTI Unit Testing Framework training to the rest of the developers
@@ -114,7 +114,7 @@ tags: [personal]
 ## 2022-01-19
 
 - Had final visit the the Maple Avenue
-- Aksed Annie from Eric Zou about rental
+- Asked Annie from Eric Zou about rental
 - Sent Glenn about some question regarding the house usage
 - Checked Ethan's teeth at pediatric dentist
 
@@ -195,16 +195,16 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
   - Tried to solve VPN issue with my computer
-  - Added open_project ot the core module
+  - Added open_project to the core module
   - Added fill_holes and unfill_holes to the geometry module
-  - Added select_fature and enable_selection_filter to core module
+  - Added select_feature and enable_selection_filter to core module
   - Added define_part_feature to geometry module
   - Updated project documents on Microsoft Teams
 
 ## 2022-01-28
 
-- Submited Min's janurary dental claim
-- Discussed with Sunlife about Min's past 1240 HSA claim （alreedy paid twice in 2021 and HSA for 2021 used up)
+- Submitted Min's January dental claim
+- Discussed with Sun life about Min's past 1240 HSA claim （already paid twice in 2021 and HSA for 2021 used up)
 - Booked carpet cleaning service tomorrow at 1pm-3pm
 - Sent BMO mortgage application document
 
@@ -272,7 +272,7 @@ tags: [personal]
 
 ## 2022-02-06
 
-- Played with Maxi at Riverway Park in oakville
+- Played with Maxi at Riverway Park in Oakville
 
 ## 2022-02-07
 
@@ -280,13 +280,13 @@ tags: [personal]
 - Returned overdue library books
 
 - [HEXAGONMI](#hexagonmi)
-  - Started preparing materials for the demostration
+  - Started preparing materials for the demonstration
 
 ## 2022-02-08
 
 - [HEXAGONMI](#hexagonmi)
   - Set up meeting to report python scripting progress
-  - Completed preparation of materials for the demostration
+  - Completed preparation of materials for the demonstration
   - Learned reStructuredText primer
   - Completed USB security training
 
@@ -310,7 +310,7 @@ tags: [personal]
 
 ## 2022-02-10
 
-- Invited Aaron to come to play with Etha
+- Invited Aaron to come to play with Ethan
 
 - [HEXAGONMI](#hexagonmi)
   - Added get_position_binder to geometry module
@@ -330,7 +330,7 @@ tags: [personal]
 - Checked filter, smoke detector and key tag online
 
 - [HEXAGONMI](#hexagonmi)
-  - Added attach_geosets to gometry module
+  - Added attach_geosets to geometry module
   - Enabled accessing FTIDocument, FTIMainFrame
   - Added create_workbench to core module
   - Added 3daddendum module
@@ -351,19 +351,19 @@ tags: [personal]
 
 - Talked with Glenn and Scott about the utility issues
 - Bought carbo monoxide detectors (3) for Maple Avenue
-- Changed termostate temperature to 16
+- Changed thermostat temperature to 16
 - Asked iTalkBB about the fee changes
 - Started preparing Tax Return for 2021
 
 - [HEXAGONMI](#hexagonmi)
-  - Changed attendum module name to die module
+  - Changed addendum module name to die module
   - Added select_die_geoset to die module
   - Attended Jira training
   - Discussed with Shaharoz and Adrian about mirror plane display issue in LDP
 
 ## 2022-02-15
 
-- Researched methods for side hussles
+- Researched methods for side hustles
 - Purchased crisper pan for fridge for Maple Avenue
 - Deposited cheque from Glenn for Maple Avenue to bank account
 - Got key from Glenn for Maple Avenue
@@ -374,14 +374,14 @@ tags: [personal]
   - Moved items listed in ISSUES.md to Jira
   - Moved README.md for Python scripting to Jira
   - Discussed with Jacob about a new team for Python scripting
-  - Prepared preasentation for Updates II
+  - Prepared presentation for Updates II
   - Updated script examples for presentation
 
 ## 2022-02-16
 
 - [HEXAGONMI](#hexagonmi)
   - Added create_cob_contour to die module
-  - Revised interface definiton for EvalPEC
+  - Revised interface definition for EvalPEC
   - Prepared presentation for Updates II
   - Added Development Knowhow for Python Scripting project
 
@@ -398,7 +398,7 @@ tags: [personal]
 
 ## 2022-02-18
 
-- Read conduminium rules and regulations
+- Read condominium rules and regulations
 - Sent Form 5 and Agreement documents to HCC179
 
 - [HEXAGONMI](#hexagonmi)
@@ -453,7 +453,7 @@ tags: [personal]
 - Submitted dental claim for Feb. 15 for Min to SunLife
 - Reviewed documents to sign for BMO
 - Confirmed with Patterned Concrete of May. 16th week re-sealing
-- Signed BMO forms for morgage application confirmation
+- Signed BMO forms for mortgage application confirmation
 
 - [HEXAGONMI](#hexagonmi)
   - Enabled creating trim lines from scripting terminal
@@ -465,7 +465,7 @@ tags: [personal]
 
 ## 2022-02-24
 
-- Discussed with Vladmir about Ukraine situation
+- Discussed with Vladimir about Ukraine situation
 - Called Burlington Property Tax department regarding where to send the tax bills
 - Sent TD Void Cheque to Cynthia
 - Payed Burlington Property Tax for Maple Avenue
@@ -626,7 +626,7 @@ tags: [personal]
 ## 2022-03-14
 
 - Sent Ethan to participate Spring Badminton Camp
-- Placed order of Fridgaire washer and dryer set from Costco.ca for Evelyn Lane
+- Placed order of Frigidaire washer and dryer set from Costco.ca for Evelyn Lane
 - Asked Jakub about other fixes to confirm the maintenance services required
 
 - [L3MONSHAPE](#l3monshape)
@@ -781,7 +781,7 @@ tags: [personal]
 
 ## 2022-04-01
 
-- Visited Chiropratic service at Aligned Chiropractic
+- Visited Chiropractic service at Aligned Chiropractic
 
 - [HEXAGONMI](#hexagonmi)
   - Added LDPBlankingSettings python class
@@ -826,14 +826,14 @@ tags: [personal]
 - Placed order for Ethan's chair, toys and books
 
 - [HEXAGONMI](#hexagonmi)
-  - Added springback moudle to FormignSuite python
+  - Added springback module to FormingSuite python
   - Updated python module libraries
   - Updated python documentation
   - Updated python example scripts
 
 ## 2022-04-07
 
-- With Ethan at Mountain Side Area attending hocky training
+- With Ethan at Mountain Side Area attending hockey training
 
 - [HEXAGONMI](#hexagonmi)
   - Revised python class initializations
@@ -843,9 +843,9 @@ tags: [personal]
 ## 2022-04-08
 
 - Discussed with Lions Badminton club about Ethan's training plane
-- Asked Alqua Tot swim school programs
+- Asked Aqua Tot swim school programs
 - Asked Goldfish swim school programs
-- Asked Fedility user ID and account information
+- Asked Fidelity user ID and account information
 
 - [HEXAGONMI](#hexagonmi)
   - Sent progress updates for Python Scripting
@@ -1023,7 +1023,7 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
   - Investigated the bug #57492 related with unfolded trim line outside of bridging area not detected
-  - Investigated the bug #59318 and #59315 related with bpillar mirror dobule attach
+  - Investigated the bug #59318 and #59315 related with bpillar mirror double attach
   - Created the bug #59342 related with feature tag assertion failure
   - Created the bug #59345 related with visible Trim Lines group on feature tree
   - Investigated the bug #59318 related with FS crash when unfolding flanges on bridge
@@ -1269,6 +1269,87 @@ tags: [personal]
 
 - [L3MONSHAPE](#l3monshape)
   - Started reading of OpenGL 4.0 Shading Language Cookbook
+
+## 2022-05-21
+
+- Attended make-up swim lesson with Ethan
+- Shopped at Costco
+
+## 2022-05-22
+
+- Bought black earth, mulches for back yard garden
+- Overseeded front yard lawn with seeds, lawn soil and fertilizers
+- Was in Manman's home for party
+
+## 2022-05-23
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading of OpenGL 4.0 Shading Language Cookbook
+
+## 2022-05-24
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading of OpenGL 4.0 Shading Language Cookbook
+
+## 2022-05-25
+
+- Started preparing camping related material
+
+- [HEXAGONMI](#hexagonmi)
+  - Prepared training material for Python scripting
+  - Downloaded and installed MSC Apex and Apex Generative Design
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading of OpenGL 4.0 Shading Language Cookbook
+
+## 2022-05-26
+
+- Continued preparing camping related material
+- With Ethan played at the Doug Wright Park
+- Ordered car roof crossbar for S60 from Volvo Oakville
+- Ordered car roof basket from Canadian Tire
+- Started trip planning for Bruce Peninsula National Park 2 nights camping
+
+- [HEXAGONMI](#hexagonmi)
+  - Discussed with Chubarev about the bug #48070 related with failed bridging
+  - Found build issue with solution configuration 1 related with FTISimufactDLL dependency
+  - Investigated the bug #59903 related with wrong error message in DA
+  - Reviewed source code updates from Shaharoz related with unit testing
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading of OpenGL 4.0 Shading Language Cookbook
+
+## 2022-05-27
+
+- Continued trip planning for Bruce Peninsula National Park 2 nights camping
+- Prepared camping list
+- Installed S60 roof crossbar
+- Picked car roof basket for S60
+- Got root cargo net delivered
+
+## 2022-05-28
+
+- Visited chiropractic service
+- Sent camping checklist for review
+- Worked on the front yard lawn
+- Cleaned house floor
+- Bought Pongo Stick for Ethan
+- Bought flowers from Longos
+- Cooked BBQ and hamburger at home
+- Planted flowers at front yard
+
+## 2022-05-29
+
+- Cut hair for Ethan
+- Hiked at Limehouse Conservation Area
+
+## 2022-05-30
+
+- [HEXAGONMI](#hexagonmi)
+  - Prepare training material for Forming Suite scripting
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading of OpenGL 4.0 Shading Language Cookbook
 
 ## REFERENCES
 

@@ -6,7 +6,7 @@ image: /assets/img/pages/renju.jpg
 spellcheck: off
 ---
 
-## [图解五子棋入门] (https://book.douban.com/subject/1088545/)
+## [图解五子棋入门] (<https://book.douban.com/subject/1088545/>)
 
 ### 第一章： 五子棋概说
 
