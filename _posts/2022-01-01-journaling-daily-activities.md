@@ -1345,8 +1345,23 @@ tags: [personal]
 
 ## 2022-05-30
 
+- Prepared invitation letters for Ethan's birthday party
+- Asked City of Burlington about transactions for Maple Avenue
+
 - [HEXAGONMI](#hexagonmi)
   - Prepare training material for Forming Suite scripting
+  - Investigated the bug #59933 related with merging TLD with COB
+  - Researched Python debugger usage
+  - Developed training material for scripting terminal
+
+## 2022-05-31
+
+- [HEXAGONMI](#hexagonmi)
+  - Continued developing training material for scripting terminal
+  - Fixed some bugs of scripting terminal
+  - Updated python documentation
+  - Reviewed source code updates from Adrian related with the bug #59933
+  - Enabled dump the current session to session.dat
 
 - [L3MONSHAPE](#l3monshape)
   - Continued reading of OpenGL 4.0 Shading Language Cookbook
