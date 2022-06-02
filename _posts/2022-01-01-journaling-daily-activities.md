@@ -1363,6 +1363,21 @@ tags: [personal]
   - Reviewed source code updates from Adrian related with the bug #59933
   - Enabled dump the current session to session.dat
 
+## 2022-06-01
+
+- Reviewed Sun Life Critical Illness plan
+
+- [HEXAGONMI](#hexagonmi)
+  - Continued developing training material for scripting terminal
+
+## 2022-06-02
+
+- [HEXAGONMI](#hexagonmi)
+  - Continued developing training material for scripting terminal
+  - Reviewed VMC-39739 story about custom process slot definition
+  - Reviewed VMC-59912 story about die face hole filling behavior change
+  - Revised DOC directory for FTIScripting
+
 - [L3MONSHAPE](#l3monshape)
   - Continued reading of OpenGL 4.0 Shading Language Cookbook
 
