@@ -18,7 +18,7 @@ spellcheck: off
 - What means `C:`?
   - {:.answer} Composer, e.g., `C: Christopher A.`
 - What means `M:`?
-  - {:.answer} Meter, e.g., `M:C`
+  - {:.answer} Meter, e.g., `M:6/8`, `M:C` means common time
 - What means `K:`?
   - {:.answer} Key, e.g., `K:D`
 - What`s the sequence of header?
@@ -44,19 +44,11 @@ spellcheck: off
   - {:.answer} Put the notes together, e.g., `abbc`
 - Try to understand the following codes?
 
-<div id="paper">
-X:1
-T:Notes
-M:C
-L:1/4
-K:C
-C, D, E, F,|G, A, B, C|D E F G|A B c d|e f g a|b c' d' e'|f' g' a' b'|]
-</div>
-
-<div>
-X:1
-T:Chords
-M:2/4
-K:C
-[CEGc] [C2G2] [CE][DF]|[D2F2][EG][FA] [A4d4]|]
-</div>
+  ```python
+  X:1
+  T:Notes
+  M:C
+  L:1/4
+  K:C
+  C, D, E, F,|G, A, B, C|D E F G|A B c d|e f g a|b c' d' e'|f' g' a' b'|]
+  ```

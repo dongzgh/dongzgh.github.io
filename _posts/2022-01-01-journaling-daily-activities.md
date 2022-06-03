@@ -1376,12 +1376,17 @@ tags: [personal]
   - Continued developing training material for scripting terminal
   - Reviewed VMC-39739 story about custom process slot definition
   - Reviewed VMC-59912 story about die face hole filling behavior change
-  - Investigated the bug #60027 related with failed pre-unfolding
+  - Investigated the bug #60027 related with failed pre-unfolding (not duplicatable)
   - Revised DOC directory for FTIScripting
   - Revised DOC training tutorials structure and submitted to Azure DevOps
 
 - [L3MONSHAPE](#l3monshape)
   - Continued reading of OpenGL 4.0 Shading Language Cookbook
+
+## 2022-06-03
+
+- [HEXAGONMI](#hexagonmi)
+  - Completed training material for scripting terminal
 
 ## REFERENCES
 

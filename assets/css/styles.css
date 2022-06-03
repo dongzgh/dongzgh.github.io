@@ -195,3 +195,7 @@ blockquote {
 .abctext {
   display: none;
 }
+
+code {
+  font-size: 12px !important;
+}
