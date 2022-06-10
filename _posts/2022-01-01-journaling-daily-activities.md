@@ -1388,6 +1388,58 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Completed training material for scripting terminal
 
+## 2022-06-04
+
+- Attended Shirley's birthday party
+
+## 2022-06-05
+
+- Attended Max's birthday party
+
+## 2022-06-06
+
+- [HEXAGONMI](#hexagonmi)
+  - Canceled Forming Suite testing pipeline to investigate
+  - Prepared Forming Suite Python Scripting - An Introduction.ppt
+  - Investigated the bug #60070 related with failed bridging
+
+## 2022-06-07
+
+- Bought Amazon basics roof cargo bag
+
+- [HEXAGONMI](#hexagonmi)
+  - Send message to Aparna to start work on the feature of VMC-39739
+  - Created subtasks related with feature VMC-39739: Create pilot hole
+  - Updated attendees for the scrum meeting to include Aparna
+  - Talked with Muhammad to change the Create Hole to Create Addendum Hole
+  - Created empty page for geometry scrum retrospective
+  - Discussed with managers about the future of Python scripting
+
+## 2022-06-08
+
+- [HEXAGONMI](#hexagonmi)
+  - Groomed backlog for geometry team
+  - Started investigating including Python debugger for scripting terminal
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading of OpenGL 4.0 Shading Language Cookbook
+
+## 2022-06-09
+
+- [HEXAGONMI](#hexagonmi)
+  - Updated unit testing pipeline YAML script
+  - Investigated way to retain a pipeline run
+  - Removed local testing database folder from synching
+  - Enabled executing multiline command on scripting terminal
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading of OpenGL 4.0 Shading Language Cookbook
+
+## 2022-06-10
+
+- [HEXAGONMI](#hexagonmi)
+  - Had conversation with Bruce about Python scripting
+  
 ## REFERENCES
 
 ### estates

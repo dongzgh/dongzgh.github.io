@@ -1,8 +1,8 @@
 ---
-title: Music Notations
-permalink: /music-notations
+title: Music Notes
+permalink: /music-notes
 tags: [music, theory]
-image: /assets/img/pages/music-notations.jpg
+image: /assets/img/pages/music-notes.jpg
 spellcheck: off
 ---
 
