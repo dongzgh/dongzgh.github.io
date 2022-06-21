@@ -1439,7 +1439,93 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
   - Had conversation with Bruce about Python scripting
-  
+
+## 2022-06-11
+
+- Installed car roof rack and nets
+- Shopped and prepared stuff for camping
+
+## 2022-06-12
+
+- Checked in at the Cyprus Lake Campground
+- Camped at the Cyprus Lake Campground
+- Visited Grotto
+- Had dinner of hot pot at the campground
+
+## 2022-06-13
+
+- Visited Singing Sand (too windy)
+- Visited Big Tub
+- Had lunch at the Las Cholas
+- Visited Half Way Log Dump
+- Camped at the Cyprus Lake Campground
+- Had dinner of BBQ at the campground
+
+## 2022-06-14
+
+- Checked out from Cyprus Lake Campground
+- Visited Little Cove and hiked on Bruce Trail
+
+## 2022-06-15
+
+- Discussed about birthday party preparation
+- Reviewed Amazon purchased items
+- Sent seller message to exchange some hooks for the net
+- Confirmed booking and arrangements for the birthday party at the Aladdin's Adventure indoor playground
+
+- [HEXAGONMI](#hexagonmi)
+  - Discussed with Adrian about the bug #60168 related with BTL/COB merging
+  - Discussed with Muhammad about the data changes for Create Addendum Hole
+  - Investigated the bug #57492 related with unfolded flange outside of supported surfaces area
+  - Talked with Kiran about the bugs left on the backlog under Testing
+  - Reviewed source code updates from Adrian related with BTL and COB merging
+  - Sent Stefan and Derek the PPT regarding Python Scripting technology introduction
+  - Returned bug #59903 related with wrong flange definition and failed mirror double attach
+
+## 2022-06-16
+
+- Uninstalled sport rack on car roof
+- Bought party trays and plastic picnic eating utensils
+- Updated assets management document
+- Registered products bought
+- Updated birthday party plan
+
+- [HEXAGONMI](#hexagonmi)
+  - Reviewed source code updates from Adrian related with BTL unit testing
+
+## 2022-06-17
+
+- Prepared party foods
+- Delivered inflated balloon and cake
+- Had birthday party for Ethan at Aladdin's Adventure Burlington
+
+## 2022-06-18
+
+- Shopped at the Famijoy
+
+## 2022-06-19
+
+- Visited Lions' Park and Sixteen Miles Trail
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading of OpenGL 4.0 Shading Language Cookbook
+
+## 2022-06-20
+
+- Searched Ontario Parks
+- Learned piano with Ethan
+
+- [HEXAGONMI](#hexagonmi)
+  - Started to work on vmc-60387 for adding Fill Holes options for Create Die Face
+
+## 2022-06-21
+
+- [HEXAGONMI](#hexagonmi)
+  - Working on vmc-60387 for adding Fill Holes options for Create Die Face
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading of OpenGL 4.0 Shading Language Cookbook
+
 ## REFERENCES
 
 ### estates
