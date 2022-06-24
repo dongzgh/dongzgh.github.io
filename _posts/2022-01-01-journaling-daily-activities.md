@@ -1523,6 +1523,33 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Working on vmc-60387 for adding Fill Holes options for Create Die Face
 
+## 2022-06-22
+
+- Checked Booking.com for Princes Edward Country trip hotels
+- Checked availability for Aqua-Tot make-up classes for Ethan
+- Booked Chiropractic services
+
+- [HEXAGONMI](#hexagonmi)
+  - Completed some meta courses online
+  - Working on vmc-60387: added first form dialog box
+  - Working on vmc-60387: enabled regeneration of first form
+
+## 2022-06-23
+
+- [HEXAGONMI](#hexagonmi)
+  - Working on vmc-60387: enabled regeneration of first form
+
+## 2022-06-24
+
+- Shopped around at Amazon for inflatable standup board
+- Shopped around at Amazon for rechargeable air pump
+- Searched online certification programs
+
+- [HEXAGONMI](#hexagonmi)
+  - Completed on vmc-60387: enabled regeneration of first form
+  - Started learning AWS solution architect plan
+  - Created vmc-60451 for LDP to use updated hole definitions
+
 - [L3MONSHAPE](#l3monshape)
   - Continued reading of OpenGL 4.0 Shading Language Cookbook
 
