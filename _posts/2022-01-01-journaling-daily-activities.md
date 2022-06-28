@@ -1553,6 +1553,28 @@ tags: [personal]
 - [L3MONSHAPE](#l3monshape)
   - Continued reading of OpenGL 4.0 Shading Language Cookbook
 
+## 2022-06-25
+
+- Attended Milton Multicultural Festival
+
+## 2022-06-26
+
+- With Ethan attended Aqua-Tot swimming lesson
+- Visited Mastermind Toys for Ethan's free birthday gift
+- Shopped at Costco
+
+## 2022-06-27
+
+- [HEXAGONMI](#hexagonmi)
+  - Investigated the bug #60410 related with Position Binder behavior
+  - Started to work on story #60085 for creating holes on addendum
+  - Continued learning AWS solution architect plan
+
+## 2022-06-28
+
+- [HEXAGONMI](#hexagonmi)
+  - Talked with Shaharoz about hole filling options for creating first form
+
 ## REFERENCES
 
 ### estates
