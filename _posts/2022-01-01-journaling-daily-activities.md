@@ -1575,6 +1575,21 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Talked with Shaharoz about hole filling options for creating first form
 
+## 2022-06-29
+
+- Booked physiotherapy for shoulder and upper arm problem
+
+- [HEXAGONMI](#hexagonmi)
+  - Investigated the bug #60345 related with BTL merging with TLD
+  - Helped Malte to search for RV rental
+
+## 2022-06-30
+
+- Read latest technology news from DE
+
+- [L3MONSHAPE](#l3monshape)
+  - Continued reading of OpenGL 4.0 Shading Language Cookbook
+
 ## REFERENCES
 
 ### estates
