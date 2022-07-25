@@ -1586,9 +1586,196 @@ tags: [personal]
 ## 2022-06-30
 
 - Read latest technology news from DE
+- Visited Beachway Park
 
 - [L3MONSHAPE](#l3monshape)
   - Continued reading of OpenGL 4.0 Shading Language Cookbook
+
+## 2022-07-01
+
+- Played Lego at home
+- Watched fireworks at the Spencer Smith Park
+
+## 2022-07-02
+
+- Attended Mountain Side Rib Fest at CR Lime Ridge Shopping Center
+
+## 2022-07-03
+
+- Visited Lowville Park
+- Invited Colton to home to play
+
+## 2022-07-04
+
+- [HEXAGONMI](#hexagonmi)
+  - Continued working on the story vmc-39739 creating holes on addendum
+
+## 2022-07-05
+
+- Booked appointment for Ethan to check teeth
+- Tried to return the call to Aqua-tot at 5142462255
+
+- [HEXAGONMI](#hexagonmi)
+  - Continued working on the story vmc-39739 creating holes on addendum
+  - Created issue vmc-60631 for a core function to create hole on geometry based on projection
+
+## 2022-07-06
+
+- Returned Aqua-Tot customer service call
+- Booked Best Western Hotel for Princes Edward County trip
+- Canceled appointment with Burlington Pediatric Dentistry
+
+- [HEXAGONMI](#hexagonmi)
+  - Developed validation function for hole on addendum
+
+## 2022-07-07
+
+- [HEXAGONMI](#hexagonmi)
+  - Developed validation function for hole on addendum
+  - Updated Jira Tempo application for time sheet
+
+## 2022-07-08
+
+- Bought table bug deterrent fan from Home Depot Canada
+- Sent some requests for selling Volvo XC60
+
+- [HEXAGONMI](#hexagonmi)
+  - Developed validation function for hole on addendum
+  - Developed function to create pre-defined slot geometry
+
+## 2022-07-09
+
+- Fished at Lowville park
+- Played at South Shell Beach Park
+- Eat hamburger with Amy's family
+
+## 2022-07-10
+
+- Learned to fish at Earl Rowe Provincial Park
+- Played inflatable boat at the East Beach in Earl Rowe Provincial Park
+
+## 2022-07-11
+
+- Installed new patio door handle
+
+- [HEXAGONMI](#hexagonmi)
+  - Verified pre-defined slot behavior with Aparna
+  - Discussed with Arian about the bug vmc-60345
+
+## 2022-07-12
+
+- [HEXAGONMI](#hexagonmi)
+  - Started to develop function to evaluate slot geometry for CreateHole
+  - Developed function to use core CreateHole in AGW
+
+## 2022-07-13
+
+- Shopped fishing gears
+- Shopped selfie and TV gears
+
+- [HEXAGONMI](#hexagonmi)
+  - Continued developing function to evaluate slot geometry for CreateHole
+  - Reviewed GUI design for Manual Transform Geometry
+
+## 2022-07-14
+
+- Replaced broken garden hoses in the back yard
+- Installed Fire TV stick
+- Tried to boost Volvo XC60
+
+- [HEXAGONMI](#hexagonmi)
+  - Developed function to evaluate slot geometry for CreateHole
+  - Reviewed GUI design for Manual Transform Geometry
+  - Prepared Sprint Review presentation for Geometry Scrum Team
+  - Discussed with Chubarev about the issue with CreateHole
+
+## 2022-07-15
+
+- Asked handyman to arrange for fixing for Evelyn Lane
+- Bought Halton Conversation Area annual ticket
+
+- [HEXAGONMI](#hexagonmi)
+  - Discussed with Chubarev about the issue with CreateHole
+  - Discussed with Adrian about the Create Line on Boundary in 3DA #60629
+  - Reviewed bug #60964 related with filled hole not updated
+  - Reviewed source code updates from Adrian for #60629
+
+## 2022-07-16
+
+- Updated L3monShape expensed to include Primary Domain Renew
+
+## 2022-07-17
+
+- Shopped at Costco
+- Attended swim lesson at Aqua-tot
+
+## 2022-07-18
+
+- Read technology news from Digital Engineering
+
+- [HEXAGONMI](#hexagonmi)
+  - Revised fsCreateHole dialog box operations on OK and Cancel
+  - Discussed with Alex Chubarev about the boundary ID issue
+
+## 2022-07-19
+
+- Read technology news from DE
+- Submitted Optical Disc Drives Price claim
+- Swam with Ethan at Tansley Wood Community Center
+
+- [HEXAGONMI](#hexagonmi)
+  - Added codes to retain dialog position and save it for later use
+  - Reviewed source code updates from Shaharoz about the manual geometry movement
+
+## 2022-07-20
+
+- Read technology news from D3D
+
+- [HEXAGONMI](#hexagonmi)
+  - Added RemoveHole for creating hole on addendum
+
+## 2022-07-21
+
+- Submitted Min's dental claim for July
+- Talked to Handyman Ha to decide to work on Evelyn Lane next Thursday 10:00 am
+- Asked Good Cars only to fix my Volvo XC60
+
+- [HEXAGONMI](#hexagonmi)
+  - Started learning Mastering Machine Learning on AWS
+  - Added progress indicator for CreateHole and SplitSurfaces in AGW
+
+## 2022-07-22
+
+- With Ethan attended Fun Swim at Tansley Wood
+- Bought Ontario Fishing license
+
+- [HEXAGONMI](#hexagonmi)
+  - Discussed with Adrian about how to fix flange extension issue
+  - Revised strategy to check hole on addendum: no cross notch and bridge at the same time
+  - Discussed with Shaharoz about the list box memory leak issue
+  - Reviewed source code updates from Shaharoz related with MoveGeometry
+  - Continued learning Mastering Machine Learning on AWS
+
+## 2022-07-23
+
+- Shopped at FamiJoy
+- Shopped at PetSmart
+
+## 2022-07-24
+
+- With Ethan attended the swim lesson
+- Shopped at Winners
+- Saved outdoor card and fishing card to stocard
+
+## 2022-07-25
+
+- Sent Ethan to Badminton Summer Camp
+- Towed XC60 to Good Cars Only for service
+- Started preparing trip plan for Pinery Provincial Park camping
+
+- [HEXAGONMI](#hexagonmi)
+  - Reviewed source code updates from Shaharoz related with MoveGeometry
+  - Continued learning Mastering Machine Learning on AWS
 
 ## REFERENCES
 
