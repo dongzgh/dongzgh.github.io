@@ -1777,6 +1777,93 @@ tags: [personal]
   - Reviewed source code updates from Shaharoz related with MoveGeometry
   - Continued learning Mastering Machine Learning on AWS
 
+## 2022-07-26
+
+- Discussed with Amy about the trip to Pinery Provincial Park
+- Revised Jekyll page formatting
+- With Ethan attended Fun Swim
+
+- [HEXAGONMI](#hexagonmi)
+  - Finished Meta-Compliance course related with Faked LinkedIn Account
+  - Fixed the bug #61031 related with keeping user created polyline in First Form
+  - Talked to Adrian to pass the story for implementing local supporting surface to me
+
+## 2022-07-27
+
+- Prepared trip plan for Pinery Provincial Park
+- Discussed with Amazon about return of fishing gears
+- Installed roof rack and crossbar on Volvo S60
+- Checked engine oil level of Volvo S60
+- Prepared lock for Evelyn Lane
+
+- [HEXAGONMI](#hexagonmi)
+  - Merged source code from Adrian related with local supporting surface
+  - Started to work on local supporting surface generation
+
+## 2022-07-28
+
+- Asked Handyman to fix toilet leakage and door locks
+- Contacted Reliance Home Comfort to fix furnace leakage problem
+- Contacted Constant Home Comfort to fix furnace leakage problem
+- Asked Handyman to come again next morning to fix toilet leakage issue
+- Payed gas bill for Huffman
+- Bought Voxal Voice Changer from NCH Software Inc.
+- Updated documents for fixes for Evelyn Lane
+
+- [HEXAGONMI](#hexagonmi)
+  - Working on creating local supporting surface for unfold flanges
+  - Initial checked in pre-unfold flanges using local supporting surface
+
+## 2022-07-29
+
+- Visited Pinery Provincial Park at the Day Use Area 9
+- Camp checked in at the Riverside Camping Site of Pinery Provincial Park
+
+## 2022-07-30
+
+- Visited Pinery Provincial Park at the Day Use Area 9
+- Played paddle board at the Old Ausable Channel of Pinery Provincial Park
+
+## 2022-07-31
+
+- Tried to fishing at the Pinery Provincial Park
+- Camp checked out at the Riverside Camping Site of Pinery Provincial Park
+- Visited Storybook Gardens at the London ON
+
+## 2022-08-01
+
+- Cleaned camping stuffs
+- Vacuumed and washed Volvo S60
+- Tried to fix wash machine issue
+
+## 2022-08-02
+
+- Sent Ethan to Fuxiao Chinese Camp
+
+- [HEXAGONMI](#hexagonmi)
+  - Reviewed source code updates from Adrian related with MoveGometry
+  - Tested create local supporting surfaces
+
+## 2022-08-03
+
+- Started learning screen recording software
+
+- [HEXAGONMI](#hexagonmi)
+  - Reviewed source code updates from Adrian related with display mask changes
+  - Prepared images for Alex Bauer for release documentation
+  - Tested create hole on addendum
+
+## 2022-08-04
+
+- Bought face masks for Ethan
+- Bought mini bento box for Ethan
+- Searched booster seat for Ethan
+- Asked Good Cars Only for the repair of Volvo XC60
+
+- [HEXAGONMI](#hexagonmi)
+  - Discussed with Alex Chubarev about the boundary ID issue with FillHoles vmc-61347
+  - Reviewed source code updates from Shaharoz related with reset display
+
 ## REFERENCES
 
 ### estates
