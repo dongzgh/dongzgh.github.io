@@ -1859,10 +1859,19 @@ tags: [personal]
 - Bought mini bento box for Ethan
 - Searched booster seat for Ethan
 - Asked Good Cars Only for the repair of Volvo XC60
+- Tried to install WineHQ on Linux
 
 - [HEXAGONMI](#hexagonmi)
   - Discussed with Alex Chubarev about the boundary ID issue with FillHoles vmc-61347
   - Reviewed source code updates from Shaharoz related with reset display
+
+## 2022-08-05
+
+- Tried to install virtual machines on Linux
+- Moved masapp from github to bitbucket
+
+- [HEXAGONMI](#hexagonmi)
+  - Updated Visual Studio 2019 to new Windows SDK
 
 ## REFERENCES
 
