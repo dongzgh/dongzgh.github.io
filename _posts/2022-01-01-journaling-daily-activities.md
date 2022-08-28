@@ -113,7 +113,7 @@ tags: [personal]
 
 ## 2022-01-19
 
-- Had final visit the the Maple Avenue
+- Had final visit the Maple Avenue
 - Asked Annie from Eric Zou about rental
 - Sent Glenn about some question regarding the house usage
 - Checked Ethan's teeth at pediatric dentist
@@ -1872,6 +1872,189 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
   - Updated Visual Studio 2019 to new Windows SDK
+
+## 2022-08-06
+
+- Shopped at Decathlon
+
+## 2022-08-07
+
+- Visited Old Fort Erie to watch 1812 war show
+- Visited Crystal Beach ON
+- Bought Amazon 100GB annual storage plan
+- Tried to fix Huawei cell phone problem
+- Transferred Zotero files to Linux machine
+
+## 2022-08-08
+
+- Bought iPhone 11 from Apple store online
+- Working on Amazon Drive file backups for personal files (e.g., video, WeChat etc.)
+- With Ethan played Fun Swim at Tansley Wood Community Center
+
+- [HEXAGONMI](#hexagonmi)
+  - Adjusted time tempo
+  - Mailed to Stefan regarding scripting for incremental
+  - Working on developing script recording for Forming Suite
+
+## 2022-08-09
+
+- Rethought about Amazon Drive vs. Amazon Photos
+- Uploaded videos to Amazon Photo
+- Called Decathlon about the missing transaction receipt
+- Called Good Cars only asking Volvo XC60's warranty certification
+- Gave Good Cars the warranty information from Lubrico
+
+- [HEXAGONMI](#hexagonmi)
+  - Fixed ID not found issue in yesterday's check-in
+  - Reviewed source code updates from Adrian related with Rest in MoveGeoSet
+  - Talked with Alex about the workflow automation for incremental
+
+## 2022-08-10
+
+- Bought Yearly Recreational Swim pass for Ethan
+- Talked with TD Insurance to provide the insurance suspension information
+- Sent email to Lubrico claims and Good Cars Only to show transcript with TD Insurance
+- Scheduled iPhone X battery service
+
+- [HEXAGONMI](#hexagonmi)
+  - Continued working on script recording
+  - Discussed with Alex Bauer about the incremental analysis workflow for 2 OPs
+  - Reviewed source code updates from Shaharoz about the GUI updates for MoveGeoSet
+  - Prepared geometry scrum sprint report and video
+
+## 2022-08-11
+
+- Reorganized desktop computers and screens
+- Bought iPhone X case
+- Bought wireless keyboard
+- Searched for Battery waste depot
+- Tried to fix iPhone battery, needs backup
+- Dropped old Dong's Station's battery at Tansley Wood Community Center
+
+- [HEXAGONMI](#hexagonmi)
+  - Working on script recording
+  - Fixed the bug #61446 related with Qt dialog not released after Create Hole on Addendum
+  - Updated geometry scrum team sprint review report
+
+## 2022-08-12
+
+- Fixed fishing rod and line, placed items in tackle box
+
+- [HEXAGONMI](#hexagonmi)
+  - Had discussion with Peter and Eric regarding Python automation
+  - Downloaded Simufact code and run bat file
+  - Developed enhancement #61477 for boundary mapping on DA for holes on addendum
+  - Developed enhancement #61478 for geometry display for DA for holes on addendum
+  - Fixed the bug #61487 related with trim line can't be created for no flange cases in 3DA
+  - Fixed the bug #61468 related with Pin button icon change in create hole on addendum dialog box
+  - Fixed the bug #61489 related with hole creation mode remembrance after Pin is on
+  - Fixed the bug #61488 related with all holes in First Form generated trim lines are filled
+
+## 2022-08-13
+
+- Prepared for the Princes Edward County trip
+
+## 2022-08-14
+
+- Visited Sandbank Provincial Park outlet beach
+- Checked in at the Best Western Belleville
+
+## 2022-08-15
+
+- Visited Lake on Mountain Provincial Park
+- Used Glenora Ferry
+- Had lunch at The Miller House Cafe & Brasserie
+- Visited Sandbank Provincial Park outlet beach
+- Slept at the Best Western Belleville
+
+## 2022-08-16
+
+- Checked out from the Best Western Belleville
+- Visited the Presqu'ile Provincial Park (mashwalk and beach 2)
+
+## 2022-08-17
+
+- Visited Killman Zoo
+
+## 2022-08-18
+
+- Bought CNE early bird pass
+- Downloaded CNE Kids Free pass
+- Played at the Aladdin's Adventure indoor playground
+
+## 2022-08-19
+
+- Visited Niagara Fall's Clifton Hills
+
+## 2022-08-20
+
+- Shopped at Costco
+- Helped Jin Yan to clean the backyard
+
+## 2022-08-21
+
+- With Ethan to attend the swimming school and asked for evaluation
+- Checked bank and credit card accounts
+- Bought snorkel set for Ethan from Amazon
+
+## 2022-08-22
+
+- Sent Ethan to Arts and Discovery camp at Appleby College
+- Fixed Blink connection errors
+- Tried to by Tylenol for kids but not successful
+
+- [HEXAGONMI](#hexagonmi)
+  - Fixed the bug #61528 related with display issue after Create Hole on Addendum
+  - Fixed the bug #61530 related with display issue after Create Hole on Addendum
+  - Checked the bug #61542 related with OK button always active after predefined hole's been created
+  - Rolled back display for Holes on Addendum by not using color mapping
+
+## 2022-08-23
+
+- [HEXAGONMI](#hexagonmi)
+  - Reviewed source code updates from Adrian related with Undo stack
+  - Creating parts for testing trim lines to accommodate holes on addendum
+
+## 2022-08-24
+
+- Min sent email to Appleby telling the unpleasant experiences in the camp
+
+- [HEXAGONMI](#hexagonmi)
+  - Revised algorithms for generating trim lines considering holes on addendum
+
+## 2022-08-25
+
+- [HEXAGONMI](#hexagonmi)
+  - Checked the bug #61564 related with hole on addendum not shown in 3AW
+  - Investigated the bug #61571 related with failed unfilled holes
+  - Investigated the bug #61549 related with first form option dialog box not opening
+  - Investigated the bug #61515 related with crash in Mirror Double Attach
+  - Investigated the bug #60425 related with filled hole not merged into surrounding surfaces
+  - Crated the bug #61742 related with failed hole unfilling during First Form generation
+
+## 2022-08-26
+
+- Started Family Vault of Amazon Photo
+- Claimed eye exam expense (2022-08-20) for Min to SunLife
+
+- [HEXAGONMI](#hexagonmi)
+  - Started learning Simufact Forming
+  - Reorganized installation folders for HMI products
+  - Closed the bug #37937 related with symmetry by faces selected as default for DA case
+  - Closed the bug #37819 related with adding unit to morph binder widget
+
+## 2022-08-27
+
+- Reinstated the Volvo XC60 insurance and swapped primary drivers ($3141 to $2767)
+- Submitted vision exam expense for Min
+- Submitted dental claims for Min's orthodontics services
+- Bought car seat booster for Ethan and registered it in evenflo.com
+- Started backup iPhone on iTune
+- Renewed Dynacare Plus membership for Dong
+
+## 2022-08-28
+
+- Had Ethan's swimming lesson progress assessed
 
 ## REFERENCES
 
