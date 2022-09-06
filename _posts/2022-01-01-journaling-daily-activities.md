@@ -2126,8 +2126,11 @@ tags: [personal]
 
 - Attended Burlington Rib Festival
 - [L3MONSHAPE](#l3monshape)
-  - Installed wine on DONG-Station
-  
+  - Installed wine on DONG-STATION
+  - Installed playonlinux on DONG-STATION
+  - Tried to install Acrobat Rader on DONG-STATION
+  - Updated gnome software on DONG-STATION
+
 ## REFERENCES
 
 ### estates
