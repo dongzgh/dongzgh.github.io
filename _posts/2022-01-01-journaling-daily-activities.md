@@ -2056,6 +2056,76 @@ tags: [personal]
 
 - Had Ethan's swimming lesson progress assessed
 
+## 2022-08-29
+
+- Payed Create Blood Cord for 2022
+- Sent registration form to Oakville Speed Skating Club
+- Registered Ethan for Oakville Speed Skating Club 2022-2023
+
+- [HEXAGONMI](#hexagonmi)
+  - Continued study of Simufact Forming
+  - Reviewed source code updates from Adrian related with minimum distance evaluation
+  - Discussed with Alex Chubarev about the Unfill hole issues on addendum surfaces
+  - Working on solution configuration II not compiling issues
+  - Fixed the bug #61801 related with hole filling in 3AW double click to edit
+
+## 2022-08-30
+
+- Registered Ethan on IceReg for Speeed Skating
+
+- [HEXAGONMI](#hexagonmi)
+  - Reviewed source codes from Shaharoz related with MoveGeoSet dialog box updates
+  - Fixed display issue in 3AW when holes are created on bridge area
+  - Fixed firs form unfilling issue in 3AW to filter outer boundaries
+  - Fixed the bug #61803 related with unfill hole who has addendum hole on it
+  - Fixed the bug #61804 related with regeneration filed in Trimline Development
+
+## 2022-08-31
+
+- Tried to pick up Volvo XC60 and found alarm problem
+
+- [HEXAGONMI](#hexagonmi)
+  - Reviewed source code updates from Shaharoz related with symmetry dialog box update
+  - Talked with Reza related with the issue of unfolding
+  - Checked solution configuration II to see the build and testing results
+  - Discussed with team about hole on addendum issues
+  - Started TESTING pipeline to run unit tests
+
+## 2022-09-01
+
+- Deposited rent for Maple Avenue
+
+- [HEXAGONMI](#hexagonmi)
+  - Started learning Simufact Additive
+  - Checked TESTING pipeline on remote machine
+  - Had discussion with Eric and Shaharoz about the hole on addendum for LDP/PDP
+
+## 2022-09-02
+
+- Deleted AWS EC2, S3 and Sagemaker instances
+- Checked Ethan's class placement
+
+- [HEXAGONMI](#hexagonmi)
+  - Reviewed source code updates from Shaharoz related with User All option
+  - Added snippets to Visual Studio
+  - Tested AGW Create Hole function
+  - Revised UnfillFirstForm to avoid using outer boundaries
+
+## 2022-09-03
+
+- Went to CNE
+
+## 2022-09-04
+
+- Replaced iPhone battery at Mapleview
+
+- [L3MONSHAPE](#l3monshape)
+  - Ajusted the jekyll system on linux and windows
+
+## 2022-09-05
+
+- Attended Burlington Rib Festival
+
 ## REFERENCES
 
 ### estates
