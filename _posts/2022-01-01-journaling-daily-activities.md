@@ -2125,10 +2125,13 @@ tags: [personal]
 ## 2022-09-05
 
 - Attended Burlington Rib Festival
+- Added engine oil to Volvo S60
+- Prepared Ethan's first school day
+
 - [L3MONSHAPE](#l3monshape)
   - Installed wine on DONG-STATION
   - Installed playonlinux on DONG-STATION
-  - Tried to install Acrobat Rader on DONG-STATION
+  - Tried to install Acrobat Reader on DONG-STATION
   - Updated gnome software on DONG-STATION
 
 ## REFERENCES
