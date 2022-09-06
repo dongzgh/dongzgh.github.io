@@ -2125,7 +2125,9 @@ tags: [personal]
 ## 2022-09-05
 
 - Attended Burlington Rib Festival
-
+- [L3MONSHAPE](#l3monshape)
+  - Installed wine on DONG-Station
+  
 ## REFERENCES
 
 ### estates
