@@ -2220,11 +2220,22 @@ tags: [personal]
 ## 2022-09-15
 
 - Applied Triangle World Elite Mastercard
+- Updated Jekyll page link strategy
 
 - [HEXAGONMI](#hexagonmi)
   - Reviewed source code updates from Adrain related with unit test for pre-unfold
   - Discussed an enhancement to the MoveGeoSet dialog box by showing rotation center and vector
+  - Continued learning modern C++ 17 features
 
+## 2022-09-16
+
+- Restored Triangle Reward online account
+
+- [HEXAGONMI](#hexagonmi)
+  - Completed learning modern C++ 17 features
+  - Started learning of Python Cookbook
+  - Started learning of Qt
+  
 ## REFERENCES
 
 ### estates
