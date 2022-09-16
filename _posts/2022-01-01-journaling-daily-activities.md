@@ -2134,6 +2134,97 @@ tags: [personal]
   - Tried to install Acrobat Reader on DONG-STATION
   - Updated gnome software on DONG-STATION
 
+## 2022-09-06
+
+- Bought student accidental insurance from MSH International
+- Picked up new iPhone X from Mapleview Shopping Center
+- Picked up Volvo XC60 from Good Cars Only
+- Written "Get to Know Your Child" to answer Mrs. Brooke Zutt's questions
+- Restored iPhone X
+
+- [HEXAGONMI](#hexagonmi)
+  - Welcomed Hagen and Malte
+  - Started to learn the Simufact Forming applications
+  - Fixed the bug #61943 related with hole unfilling is not enabled
+
+## 2022-09-07
+
+- Sent request to NationalCars for selling XC60
+- Sent request to OntarioChrysler for selling XC60
+
+- [HEXAGONMI](#hexagonmi)
+  - Tested unit tests for AGW and 3AW
+  - Started to work on VMC Python integration plan
+
+## 2022-09-08
+
+- Learned how to use GitHub
+
+- [HEXAGONMI](#hexagonmi)
+  - Tracked current geometry team scrum progress
+  - Discussed with Peter, Hagen and Malte regarding the Python scripting scope
+  - Created bug vmc-61981 related with failed unit tests of Incremental Setup
+  - Tested fix for the bug vmc-61981
+
+## 2022-09-09
+
+- [HEXAGONMI](#hexagonmi)
+  - Investigated the bug #62000 related with failed pre-unfolding
+  - Investigated the bug #62008 related with unfolding
+  - Tried to run unit tests on testing machine
+  - Installed ActiveState CLI
+  - Installed ActiveState packages configured for FTI
+  - Stared development of common Python foundation for VMC
+
+## 2022-09-10
+
+- Played badminton at Lion's Club
+- Walked in Crawford Lake Conservation Area and played geocaching
+
+## 2022-09-11
+
+- Attended swim lesson with Ethan at Aqua-Tot swim school
+- Shopped at Long-McQueen musical instrument store
+- Payed Ethan's pizza day for school online
+
+## 2022-09-12
+
+- Update MyTDAdvantage to use the new iPhone
+- Asked Lubrico to update the documents
+
+- [HEXAGONMI](#hexagonmi)
+  - Groomed geometry scrum team board
+  - Working on the bug #vmc-62017 related with create hole on bridge
+  - Sent LOG report of the bug #vmc-62017 to Chubarev
+  - Modified Pygluegen to make compilation succeed
+  - Initialized vmcScripting project settings
+
+## 2022-09-13
+
+- Payed PocketHealth for have imaging reports
+- Payed Washer/Dryer/Dishwasher purchases from Lowe's for Upper Middle Road
+- Attended Oakville Speed Skating Club fitting session
+
+- [HEXAGONMI](#hexagonmi)
+  - Investigated the bug #vmc-62053 related with failed stp importation
+  - Organized sprint grooming and planning meeting for geometry team
+  - Started learning modern C++ 17 features
+
+## 2022-09-14
+
+- [HEXAGONMI](#hexagonmi)
+  - Continued learning modern C++ 17 features
+  - Fixed the bug vmc-62009 related with notch surfaces not found in create hole
+  - Fixed the bug vmc-62100 related with FirstForm unfilling failed
+
+## 2022-09-15
+
+- Applied Triangle World Elite Mastercard
+
+- [HEXAGONMI](#hexagonmi)
+  - Reviewed source code updates from Adrain related with unit test for pre-unfold
+  - Discussed an enhancement to the MoveGeoSet dialog box by showing rotation center and vector
+
 ## REFERENCES
 
 ### estates
