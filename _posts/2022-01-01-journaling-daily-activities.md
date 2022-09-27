@@ -2235,7 +2235,96 @@ tags: [personal]
   - Completed learning modern C++ 17 features
   - Started learning of Python Cookbook
   - Started learning of Qt
-  
+
+## 2022-09-17
+
+- Attended Aqua-Tot MFL session for Ethan
+
+- [HEXAGONMI](#hexagonmi)
+  - Continued learning of Python Cookbook
+
+## 2022-09-18
+
+- Ethan completed Aqua-Tot level 3 program
+- Visited Pier 4 park at Hamilton
+
+- [HEXAGONMI](#hexagonmi)
+  - Continued learning of Python Cookbook
+
+## 2022-09-19
+
+- [HEXAGONMI](#hexagonmi)
+  - Continued learning of Python Cookbook
+  - Investigated the bug #vmc-62178 related with surface removable flag update issue
+  - Started learning C++ Standard Libraries
+  - Started working on vmcScripting
+
+## 2022-09-20
+
+- [HEXAGONMI](#hexagonmi)
+  - Continued working on vmcScripting
+  - Asked Adrian to help investigate the bug vmc-62127
+  - Investigated the bug vmc-61537 related with flange partially unfolded onto bridge
+
+## 2022-09-21
+
+- Submitted Student Verification Form 2022-2023 (Ethan) to HCDSB
+- Called Volvo Oakville to fix Volvo S60 turbo issue
+
+- [HEXAGONMI](#hexagonmi)
+  - Continued working on vmcScripting
+  - Reviewed Adrian's code related with outer boundary check
+  - Fixed one tiny issue with SaveFeatures default value
+  - Found one issue with boundary rebuilding and asked Adrian to investigate and fix it
+
+## 2022-09-22
+
+- [HEXAGONMI](#hexagonmi)
+  - Continued working on vmcScripting
+  - Integrated new CreateHoles function from kernel and tested it using #vmc-62127
+  - Checked unit testing results on testing server
+  - Create unit test bug for Lucas related with PDP box example
+
+## 2022-09-23
+
+- Booked full eye exam appointment for me
+- Started search fur Christmas vacation
+
+- [HEXAGONMI](#hexagonmi)
+  - Sent Forming Suite Python tutorial documents to TSET
+  - Tested Alex Chubarev's new function to create hole
+  - Wrapped up the vmcScripting common core
+  - Updated Simufact source code to create branch for vmc-62189
+
+## 2022-09-24
+
+- Played badminton at Lions' badminton club
+- Hiked and geocached at Mont Nemo
+
+## 2022-09-25
+
+- Shopped at Winners
+- Shopped at Costco
+- Sent gifts for Helen's daughter
+
+## 2022-09-26
+
+- [HEXAGONMI](#hexagonmi)
+  - Updated dev and usr documents for FTIScripting
+  - Checked FTIScripting examples
+  - Created script to deploy FormingSuite scripting binaries
+  - Investigated the bug #vmc-62255 related with hole cutting on double attached
+
+## 2022-09-27
+
+- [HEXAGONMI](#hexagonmi)
+  - Discussed with Derek about how to proceed with TSET build
+  - Sent TSET the FormingSuite BETA build and alpha binaries with scripting capabilities
+  - Asked Muhammad about the bug vmc-62255
+  - Branched SIMUFACT source code to work on python consolidation
+  - Reviewed source code updates from Adrian related with MoveGeoSet unit tests
+  - Started TESTING pipeline again
+
 ## REFERENCES
 
 ### estates
