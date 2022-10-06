@@ -538,7 +538,7 @@ tags: [personal]
 - Continued learning video editing
 
 - [HEXAGONMI](#hexagonmi)
-  - Discussed the bug #VMC-35712 related with mirrored double attach regeneration with Henny and Adrian
+  - Discussed the bug vmc-35712 related with mirrored double attach regeneration with Henny and Adrian
   - Discussed documentation automation with Mathew
   - Discussed release build and patch issue with Jacob
   - Enabled dump manifold from scripting terminal
@@ -2194,8 +2194,8 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
   - Groomed geometry scrum team board
-  - Working on the bug #vmc-62017 related with create hole on bridge
-  - Sent LOG report of the bug #vmc-62017 to Chubarev
+  - Working on the bug vmc-62017 related with create hole on bridge
+  - Sent LOG report of the bug vmc-62017 to Chubarev
   - Modified Pygluegen to make compilation succeed
   - Initialized vmcScripting project settings
 
@@ -2206,7 +2206,7 @@ tags: [personal]
 - Attended Oakville Speed Skating Club fitting session
 
 - [HEXAGONMI](#hexagonmi)
-  - Investigated the bug #vmc-62053 related with failed stp importation
+  - Investigated the bug vmc-62053 related with failed stp importation
   - Organized sprint grooming and planning meeting for geometry team
   - Started learning modern C++ 17 features
 
@@ -2255,7 +2255,7 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
   - Continued learning of Python Cookbook
-  - Investigated the bug #vmc-62178 related with surface removable flag update issue
+  - Investigated the bug vmc-62178 related with surface removable flag update issue
   - Started learning C++ Standard Libraries
   - Started working on vmcScripting
 
@@ -2281,7 +2281,7 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
   - Continued working on vmcScripting
-  - Integrated new CreateHoles function from kernel and tested it using #vmc-62127
+  - Integrated new CreateHoles function from kernel and tested it using vmc-62127
   - Checked unit testing results on testing server
   - Create unit test bug for Lucas related with PDP box example
 
@@ -2313,7 +2313,7 @@ tags: [personal]
   - Updated dev and usr documents for FTIScripting
   - Checked FTIScripting examples
   - Created script to deploy FormingSuite scripting binaries
-  - Investigated the bug #vmc-62255 related with hole cutting on double attached
+  - Investigated the bug vmc-62255 related with hole cutting on double attached
 
 ## 2022-09-27
 
@@ -2325,6 +2325,73 @@ tags: [personal]
   - Reviewed source code updates from Adrian related with MoveGeoSet unit tests
   - Started TESTING pipeline again
 
+## 2022-09-28
+
+- Replaced tail stop lamp bulb for Volvo XC60
+- Attended Aqua-Tot swim lesson for level 4 but filter was broken and made a make up lesson
+- Attended private badminton training for Ethan
+
+- [HEXAGONMI](#hexagonmi)
+  - Fixed the bug vmc-62255 related with create holes on DA
+  - Tested the bug vmc-61571 related with unfill first form
+  - Tested the bug vmc-61742 related with unfill first form
+
+## 2022-09-29
+
+- [HEXAGONMI](#hexagonmi)
+  - Rolled back Chubarev's change set 34302 because of some topology issues on result
+  - Updated to Derek and Stefan regarding TSET project status
+  - Working on extending pygluegen to include environment variables
+  - Tested the bug vmc-59935 and closed it
+
+## 2022-09-30
+
+- [HEXAGONMI](#hexagonmi)
+  - Checked unit test runs and all passed
+  
+## 2022-10-01
+
+- Did Eye Exam for Ethan at Burlington Eye Care
+- Played with Ethan at Lion's Badminton Club
+- Attended Chinese Art Show at Vaungh
+
+## 2022-10-02
+
+- Biked with Ethan in community park
+- First time attended Oakville Speed Skating Club lesson
+
+## 2022-10-03
+
+- Submitted Min's dental claim for Oct.
+- Bought exhauset hood cover replacements
+
+- [HEXAGONMI](#hexagonmi)
+  - Continued working on python scripting consolidation
+  - Investigated the bug vmc-62368 related with fill holes in DA
+  - Investigated the bug vmc-62371 related with boundary edge selection issue
+	- Investigated the bug vmc-62359 related with embossment pass in for pre-unfolding
+
+## 2022-10-04
+
+- Sent Warranty Renewal request to Lubrico
+- Contacted relatives in Beijing
+
+- [HEXAGONMI](#hexagonmi)
+	- Reviewed source code updates from Adrain related with the bug vmc-62359
+	
+## 2022-10-05
+
+- Got call from Volvo to tow the car
+- Called Embridge Gas to check gas leakage for Evelyn Lane
+- Called plumber for Evelyn Lane for furnace drainage
+- Called Constant Home Comfort for Evalyn Lane for furnace leakage
+- Bought two heaters for Evelyn Lane
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug vmc-62393 and vmc-62394 related with failed pre-unfold
+	- Investigated the bug vmc-62393 and vmc-62100 related with hole on addendum not shown if 3AW
+	- Investigated the bug vmc-61671 related with hole on addendum not shown if 3AW
+	
 ## REFERENCES
 
 ### estates
