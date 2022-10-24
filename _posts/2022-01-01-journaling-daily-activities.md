@@ -2389,8 +2389,137 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
 	- Investigated the bug vmc-62393 and vmc-62394 related with failed pre-unfold
-	- Investigated the bug vmc-62393 and vmc-62100 related with hole on addendum not shown if 3AW
-	- Investigated the bug vmc-61671 related with hole on addendum not shown if 3AW
+	- Investigated the bug vmc-61671 and vmc-62100 related with hole on addendum not shown if 3AW
+	
+## 2022-10-06
+
+- Sent two heater to Evelyn Lane
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug vmc-62408 related with create holes by contour
+	- Continue working on consolidating Python scripting
+	
+## 2022-10-07
+
+- [HEXAGONMI](#hexagonmi)
+	- Continue working on consolidating Python scripting
+	
+## 2022-10-08
+
+- Attended badmintion training with Ethan
+- Visited Rattlesnake Point Conservation Area
+
+## 2022-10-09
+
+- Shopped at Costco
+- Attended speedskating training with Ethan
+
+## 2022-10-10
+
+- Had conversation with Chang Gang's family
+- Asked condominium management team about the chimey cleaning for Maple Avenue
+- Called constant home comfort to check message received
+- Called Super Saving Home Services to book replacement of furnace for Evelyn Lane
+
+- [HEXAGONMI](#hexagonmi)
+	- Created the bug vmc-62531 related with failed BTL
+	- Investigated the bug vmc-62255 related with create hole on DA
+	- Investigated the bug vmc-62480 related with assertion failure in mapping
+
+## 2022-10-11
+
+- Sent service fee to Constant Home Comfort
+- Gave Super Saving Home Services the Embridge Gas Inspection Report
+
+- [HEXAGONMI](#hexagonmi)
+	- Revised strategy for vmcScripting packaging and deployment
+	
+## 2022-10-12
+
+- [HEXAGONMI](#hexagonmi)
+	- Continue revise vmcScripting common core
+	
+## 2022-10-13
+
+- [HEXAGONMI](#hexagonmi)
+	- Continue revise vmcScripting common core
+	
+## 2022-10-14
+
+- Ordered Chimney service from Chimney Sweeper Burlington
+- Checked CIBC credit card trasactions
+- Sent money to Super Saving Home Services for furnace replacement and attic insulation
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug vmc-62099 related with CreateHole button disabled, closed it
+	- Continue revise vmcScripting common core
+	- Reviewed source code updates from Adrain related with BTL wrong merging
+	- Investigated the bug vmc-62100 related with unfill holes on First Form
+	
+## 2022-10-15
+
+- Sent the rest balance to Super Saving Home Services
+
+- [HEXAGONMI](#hexagonmi)
+	- Closed the bug vmc-62531 related with failed BTL creation
+	- Verified the bug vmc-61571 related with unfill first form in 3AW
+	- Verified the bug vmc-62404 related with failed regeneration after filling holes
+	- Verified the bug vmc-62428 related with creating holes on attendum causes multiple holes
+	
+## 2022-10-16
+
+- Visited Queen Elizabeth Park Community Center for Chinese music festival
+- Updated iTalkBB credit card information
+
+## 2022-10-17
+
+- [HEXAGONMI](#hexagonmi)
+	- Continue revise vmcScripting common core
+	
+## 2022-10-18
+
+- Did full eye exam at Burlington Eyecare
+- Sent money to Enchanted Chimney Sweeps for cleaning service
+- Argued with Enchanted Chimney Cleaning service to pay only the bulk service price
+- Drove Volvo S60 back home
+- Read technology news from SourceForge
+
+- [HEXAGONMI](#hexagonmi)
+	- Had discussion about NuGet packaging for Python scripting common layer
+	- Tried to use Python release version instead of debug version
+	
+## 2022-10-19
+
+- Asked condo management for Maple Avenue regarding payment for Chimney Cleaning
+- Read technology news from Product Hunt and HackerNews
+- Transferred from TD to CIBC credit card $4000
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug vmc-62647 related with creating holes on addendum
+	- Investigated the bug vmc-62648 related with creating holes on addendum
+	- Sent pull request to Malte for Simufact side verification
+	
+## 2022-10-20
+
+- Applied CatchUp from [ontario.ca](https://info.51.ca/articles/1153425)
+
+- [HEXAGONMI](#hexagonmi)
+	- Fixed the bug vmc-62589 related with filling hole type change not triggering regeneration
+	- Investigated the bug vmc-62587 related with failed bridging
+
+## 2022-10-21
+
+- Payed Halloween Dance a Thon through School CashOnline
+
+- [HEXAGONMI](#hexagonmi)
+	- Working on gui integration for FormingSuite
+	- Investigated the bug vmc-62697 related with unfill-fill holes
+
+## 2022-10-22
+
+- [HEXAGONMI](#hexagonmi)
+	- Tried to download FTISource git
+	- Developed Python API function to export blank geometry for TSET
 	
 ## REFERENCES
 
