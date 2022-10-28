@@ -2517,9 +2517,45 @@ tags: [personal]
 
 ## 2022-10-22
 
+- Visited Dundas Valley Conservation Area
+
+## 2022-10-23
+
+- Shopped gifts for German collegues
+
+## 2022-10-24
+
 - [HEXAGONMI](#hexagonmi)
 	- Tried to download FTISource git
 	- Developed Python API function to export blank geometry for TSET
+	- Fixed Forming Suite solution configuration II issues with Qt versioning
+
+## 2022-10-25
+
+- [HEXAGONMI](#hexagonmi)
+	- Delivered alpha-deploy-(blanking-export-file) package to TSET
+	
+## 2022-10-26
+
+- Paied balance for Sunwing trip to Cancun
+
+- [HEXAGONMI](#hexagonmi)
+	- Continued development of FormingSuite GUI integration of vmcScripting
+
+## 2022-10-27
+
+- Had eye exam at Burlington Eyecare Center
+
+- [HEXAGONMI](#hexagonmi)
+	- Started learning of CMake
+	
+## 2022-10-28
+
+- [HEXAGONMI](#hexagonmi)
+	- Continued learning of CMake
+	- Investigated the bug vmc-62827 related with failed unfold data preparation
+	- Investigated the bug vmc-62826 related with failed create hole
+	- Created bug vmc-62828 related with geometry importation
 	
 ## REFERENCES
 
