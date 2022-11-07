@@ -2556,7 +2556,87 @@ tags: [personal]
 	- Investigated the bug vmc-62827 related with failed unfold data preparation
 	- Investigated the bug vmc-62826 related with failed create hole
 	- Created bug vmc-62828 related with geometry importation
+	- Fixed the bug vmc-62824 related with CreateHole OK/Cancel locking
+	- Verified VMCAutomation project structure and corrected some typo issues
+	- Verified SimufactSource project references and revised project settings and python documentation generation script
 	
+## 2022-10-29
+
+- Played badminton with Ethan at Lion's Badminton Club
+- Visited Milton Trunk and Treat event
+- Walked in Mill Pond
+
+## 2022-10-30
+
+- Shopped at Costco
+- Saw provincial badminton tournament
+
+## 2022-10-31
+
+- Visited community for Holloween
+
+- [HEXAGONMI](#hexagonmi)
+	- Confirmed bug fix vmc-62828 related with geometry importation
+	- Revised vmcAutomation cmakelist files with folders and variables
+	- Added default documents folder structure for vmcScripting for testing makedoc tools
+	- Removed vscode configuation files
+	
+## 2022-11-01
+
+- Submitted subscription sunglass expenses to SunLife
+
+- [HEXAGONMI](#hexagonmi)
+	- Added debug version for executeFile() to use Python release libraries
+	- Reformatted source code of vmcScripting
+	- Create a new pull-request for vmcAutomation
+	- Fixed string type conversion issue with pythonHome on linux
+	
+## 2022-11-02
+
+- Had chropractic service at Aligned Chiropractic
+
+- [HEXAGONMI](#hexagonmi)
+	- Pruned remote origin repos for VMC.Automation
+	- Created new branch for revising pipeline and nuget issues
+	- Configured git default diff and merge tools
+	- Updated VMC.Automation package for Simufact source codes
+	- Commit initial code for integrating GUI from vmcScripting to FormingSuite
+	- Added support for saving parent information for holes on addendum #vmc-62932
+	
+## 2022-11-03
+
+- Submitted dental claim left over for Min to SunLife
+
+- [HEXAGONMI](#hexagonmi)
+	- Discussed with Malte about the NuGet content issues
+	- Investigated the bug vmc-62923 related with create holes by contours failures
+	- Helped Hagen investigating network speed in Oakville office
+	- Updated NuGet package for FormingSuite
+	- Updated VMC.Automation imports package for Simufact source codes
+	- Continue to work on QToolBar in FormingSuite
+
+## 2022-11-04
+
+- Had brunch at Cora
+- Geocached at Robert Edmonson Conservation Area
+- Had dinner at Golden Square Center
+
+## 2022-11-05
+
+- Attended Mekala's birthday party at Aladdin's Adventure
+- Played with Ethan at Norten Park
+
+## 2022-11-06
+
+- Attended Speed Skating session with Ethan
+
+## 2022-11-07
+
+- [HEXAGONMI](#hexagonmi)
+	- Discussed with Alex and fixed project dependency issue
+	- Seperate main and vmcscripting-integration branches to two folders
+	- Investigated the bug vmc-62984 related with hole filling
+
 ## REFERENCES
 
 ### estates
