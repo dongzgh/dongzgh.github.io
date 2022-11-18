@@ -139,7 +139,7 @@ tags: [personal]
 ## 2022-01-21
 
 - Signed real estate legal document for Maple Avenue
-- Shopped at Famijoy Supermarket
+- Shopped at FamiJoy Supermarket
 
 - [HEXAGONMI](#hexagonmi)
   - Changed Microsoft Authentication password
@@ -906,7 +906,7 @@ tags: [personal]
 ## 2022-04-15
 
 - With Ethan inline skating at Berton Park
-- Shopped at Famijoy
+- Shopped at FamiJoy
 - Installed and tested Instapot Vortex Air Fryer
 
 - [L3MONSHAPE](#l3monshape)
@@ -1501,7 +1501,7 @@ tags: [personal]
 
 ## 2022-06-18
 
-- Shopped at the Famijoy
+- Shopped at the FamiJoy
 
 ## 2022-06-19
 
@@ -2636,7 +2636,90 @@ tags: [personal]
 	- Discussed with Alex and fixed project dependency issue
 	- Seperate main and vmcscripting-integration branches to two folders
 	- Investigated the bug vmc-62984 related with hole filling
+	- Continued development of MFC wrapper of QtToolBar
 
+## 2022-11-08
+
+- [HEXAGONMI](#hexagonmi)
+	- Tried to solve TSET Qt plugins not found issue
+	- Continued development of MFC wrapper of QtToolBar
+	
+## 2022-11-09
+
+- Booked appointment with Volvo Oakville for gas smell issues
+- Bought iTalkBB 2 year contract starting next Feb.14
+- Requested LifeWorks wallet withdraw investigation
+
+- [HEXAGONMI](#hexagonmi)
+	- Discussed with Hagen and Gabriel about Python package management
+	- Reviewed source code changes by Adrain related with flange pre-unfolding
+	- Updated VMC.Automation project resource compilation
+
+## 2022-11-10
+
+- LifeWorks Canada depostied wallet withdraw to my PayPal account
+- Payed CIBC credit card balance
+- Sent Volvo S60 to Volvo Oakville to fix gas smell issue
+
+- [HEXAGONMI](#hexagonmi)
+	- Develop themed icon for vmcTermianl
+	- Investigated the bug vmc-63076 related with double attach wrong warning
+	- Investigated the bug vmc-63086 related with failed double attach
+	- Revised strategy to deal with themed icons in vmcAutomation
+
+## 2022-11-11
+
+- [HEXAGONMI](#hexagonmi)
+	- Moved scripting GUI to FTIScriptingDLL module
+	- Revised FTIPythonInterpreter to manage print messages and set document paths
+	- Revised FTIScriptingController to pass on DLLInfo pointer
+	- Discussed with Alex Chubarev and Muhammad regarding vmc-63086 related with bridging distance limitation
+	
+## 2022-11-12
+
+- Rest at home
+- Shopped at FamiJoy
+
+## 2022-11-13
+
+- Rest at home
+
+## 2022-11-14
+
+- [HEXAGONMI](#hexagonmi)
+	- Discussed with Berhard from TSET about the 2023 license issue
+	- Updated VMC.Automation NuGet package from 11 to 12
+	- Completed PRIDE review for myself
+	- Reviewed source code updates from Adrain related with failed unfolding error message
+	- Reviewed Python documentation from Simufact regarding 3rd party package installation
+
+## 2022-11-15
+
+- [HEXAGONMI](#hexagonmi)
+	- Fixed issue with saving recent scripting files in FormingSuite
+	- Enabled releasing qt dock widget after mainframe is closed
+	- Revised method to run script from command line
+	- Revised method to set terminal for interpreter
+
+## 2022-11-16
+
+- Rest at home
+
+- [HEXAGONMI](#hexagonmi)
+	- Tried to merge source codes from trunk to scripting branch for simufact
+
+## 2022-11-17
+
+- [HEXAGONMI](#hexagonmi)
+	- Rollback manual merged simufact source codes from trunk to scripting branch
+	- Corrected simufact scripting branch errors
+	- Updated confluence documents regarding Python scripting consolidation
+
+## 2022-11-18
+
+- [HEXAGONMI](#hexagonmi)
+	- Discussed with Malte and Hagen about the pipeline build errors
+	
 ## REFERENCES
 
 ### estates
