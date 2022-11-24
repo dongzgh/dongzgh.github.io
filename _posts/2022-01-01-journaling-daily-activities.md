@@ -2720,6 +2720,41 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Discussed with Malte and Hagen about the pipeline build errors
 	
+## 2022-11-19
+
+- Shopped grocery at Fortinos
+
+## 2022-11-20
+
+- Played cards at homme
+
+## 2022-11-21
+
+- [HEXAGONMI](#hexagonmi)
+	- Reported current progress of Python scripting consolidation to Peter
+	- Started to work on scripting logging
+	
+## 2022-11-22
+
+- Attended Viktor Aleson's badminton show at Pan Am Center
+
+- [HEXAGONMI](#hexagonmi)
+	- Continued to work on scripting logging
+
+## 2022-11-23
+
+- Booked flu shot for Ethan
+- Payed Lubrico warranty renew at 170381
+- Payed seat selection for SunWing vacation to Cancun
+- Called Cogeco to apply Black Friday loyalty promotion at -20
+- Booked winter tire exchange with Costco
+
+- [HEXAGONMI](#hexagonmi)
+	- Continued to work on scripting logging
+	- Gave Muhammad introduction about Python scriting in Forming Suite
+	- Replyed Bernhard questions regarding Python scripting in Forming Suite
+	- 
+
 ## REFERENCES
 
 ### estates
