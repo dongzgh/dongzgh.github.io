@@ -2753,8 +2753,15 @@ tags: [personal]
 	- Continued to work on scripting logging
 	- Gave Muhammad introduction about Python scriting in Forming Suite
 	- Replyed Bernhard questions regarding Python scripting in Forming Suite
-	- 
+	
+## 2022-11-24
 
+- Sent email to GlenEden to ask for what gears should buy for snow school
+- Submit dental claim for Min to SunLife
+
+- [HEXAGONMI](#hexagonmi)
+	- Continued learning STL
+	
 ## REFERENCES
 
 ### estates
