@@ -2767,6 +2767,25 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Fixed the bug vmc-63436 related with status bar text in Position Binder
 	- Renamed remote branch to VMC-62315_vmcAutomation_Consolidation
+	- Continued learning STL
+
+## 2022-11-26
+
+- [HEXAGONMI](#hexagonmi)
+	- Continued learning STL
+
+## 2022-11-27
+
+- Played card at home
+- With Ethan attended speed skating lesson
+
+## 2022-11-28
+
+- Booked ParkNFly for cancun travel
+
+- [HEXAGONMI](#hexagonmi)
+	- Continued learning STL
+	- Declined meeting request from TSET
 
 ## REFERENCES
 
