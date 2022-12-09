@@ -72,7 +72,7 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Gave FTI Unit Testing Framework training to the rest of the developers
   - Enabled sending message back to the parent dialog box
-  - Passed FTIDllInfo information to the python interpreter
+  - Passed FTIDllInfo information to the Python interpreter
   - Implemented importGeometry
 
 ## 2022-01-13
@@ -81,7 +81,7 @@ tags: [personal]
 - Got money returned from BookOutlet for the damaged bookmarks
 
 - [HEXAGONMI](#hexagonmi)
-  - Reorganized schema xml files for python scripting
+  - Reorganized schema xml files for Python scripting
   - Added infrastructure module
   - Helped Alex Chung to initialize some unit testing projects
 
@@ -98,7 +98,7 @@ tags: [personal]
 ## 2022-01-16
 
 - [L3MONSHAPE](#l3monshape)
-  - Revised 3-1-blos python code
+  - Revised 3-1-blos Python code
 
 ## 2022-01-17
 
@@ -123,7 +123,7 @@ tags: [personal]
   - Removed infrastructure module
   - Added new_project and save_project to core module
   - Added define_material and define_skin_location to geometry module
-  - Enabled executing python script
+  - Enabled executing Python script
 
 ## 2022-01-20
 
@@ -177,7 +177,7 @@ tags: [personal]
 - Asked Glenn to put rental listing on realtor.ca
 
 - [HEXAGONMI](#hexagonmi)
-  - Tried several ways to build release version of python for FTIScriptingDLL
+  - Tried several ways to build release version of Python for FTIScriptingDLL
 
 ## 2022-01-26
 
@@ -235,13 +235,13 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Added terminal command reference
   - Investigated Simufact documentation system
-  - Installed Sphinx python module
+  - Installed Sphinx Python module
 
 ## 2022-02-02
 
 - [HEXAGONMI](#hexagonmi)
   - Learning how to use sphinx documentations
-  - Created and compiled python documentation
+  - Created and compiled Python documentation
 
 ## 2022-02-03
 
@@ -250,9 +250,9 @@ tags: [personal]
 - Shopped at IKEA and Costco
 
 - [HEXAGONMI](#hexagonmi)
-  - Enabled open python documentation
-  - Submitted python documentation
-  - Updated python packages on server
+  - Enabled open Python documentation
+  - Submitted Python documentation
+  - Updated Python packages on server
   - Investigated methods for reorganizing core module methods into groups
   - Added create_flat_binder to geometry module
   - Added get_attribute_by_tag to core module
@@ -261,8 +261,8 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
   - Added feature, manifold and attribute classes to core module
-  - Revised python function interfaces to use python objects instead of ids
-  - Revised python example scripts
+  - Revised Python function interfaces to use Python objects instead of ids
+  - Revised Python example scripts
   - Enabled retrieval parameters from active dialog box
   - Enabled creating silhouette binder
 
@@ -285,7 +285,7 @@ tags: [personal]
 ## 2022-02-08
 
 - [HEXAGONMI](#hexagonmi)
-  - Set up meeting to report python scripting progress
+  - Set up meeting to report Python scripting progress
   - Completed preparation of materials for the demonstration
   - Learned reStructuredText primer
   - Completed USB security training
@@ -316,8 +316,8 @@ tags: [personal]
   - Added get_position_binder to geometry module
   - Added eval_position_binder to geometry module
   - Added position_binder and save_position_binder to geometry module
-  - Revised python script example names
-  - Revised some function names in python modules
+  - Revised Python script example names
+  - Revised some function names in Python modules
   - Talked to Eric about issues during implementing unit tests in TESTING pipeline
 
 ## 2022-02-11
@@ -512,7 +512,7 @@ tags: [personal]
 - Filled online survey for school related with culture
 
 - [HEXAGONMI](#hexagonmi)
-  - Restructuring FTI python library
+  - Restructuring FTI Python library
   - Enabled create tipping for process from scripting terminal
 
 ## 2022-03-02
@@ -563,8 +563,8 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Reviewed source code from Adrian related with Python scripting for creating line on surfaces
   - Restructured example script file to be based on workbenches
-  - Revised function to execute python script file to recognized system variables
-  - Researched methods to reload python modules
+  - Revised function to execute Python script file to recognized system variables
+  - Researched methods to reload Python modules
 
 ## 2022-03-08
 
@@ -572,8 +572,8 @@ tags: [personal]
 - Visited dental office to clean my teeth
 
 - [HEXAGONMI](#hexagonmi)
-  - Added python blanking module
-  - Revised createLineOnSurfaces in python geometry module
+  - Added Python blanking module
+  - Revised createLineOnSurfaces in Python geometry module
   - Created video to train Adrian how to test create_line_on_surfaces
 
 ## 2022-03-09
@@ -582,8 +582,8 @@ tags: [personal]
 - Sent message to Jakub about some information
 
 - [HEXAGONMI](#hexagonmi)
-  - Added python nesting module
-  - Added python line die plan module
+  - Added Python nesting module
+  - Added Python line die plan module
   - Enabled define blanking for line die plan from scripting terminal
   - Enabled generate part features for line die plan from scripting terminal
 
@@ -597,10 +597,10 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
   - Prepared PPT for sprint review
-  - Changed python arguments for line die plan blank settings
-  - Changed python arguments for line die plan process settings
+  - Changed Python arguments for line die plan blank settings
+  - Changed Python arguments for line die plan process settings
   - Enabled define press coordinate system from scripting terminal
-  - Revised Union usage in python glue codes
+  - Revised Union usage in Python glue codes
   - Enabled generate process for line die plan from scripting terminal
   - Enabled summary for line die plan from scripting terminal
 
@@ -645,7 +645,7 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
   - Added detailed workflow for the story VMC-35960
-  - Working on data type inspection for python gluenen definitions
+  - Working on data type inspection for Python gluenen definitions
 
 ## 2022-03-16
 
@@ -703,21 +703,21 @@ tags: [personal]
 - Coordinated for the service for the new wash machine for Evelyn Lane
 
 - [HEXAGONMI](#hexagonmi)
-  - Create python classes for incremental setup
+  - Create Python classes for incremental setup
   - Reviewed source code updates from Shaharoz related with showing pre-unfold lines
 
 ## 2022-03-23
 
 - [HEXAGONMI](#hexagonmi)
-  - Created python data types for use in incremental workbench
+  - Created Python data types for use in incremental workbench
   - Added setup_process for incremental workbench
-  - Updated python documentation
+  - Updated Python documentation
 
 ## 2022-03-24
 
 - [HEXAGONMI](#hexagonmi)
   - Enabled setup incremental process from scripting terminal
-  - Reviewed read-only properties and parameters used in python scripting
+  - Reviewed read-only properties and parameters used in Python scripting
   - Enabled setup incremental process from scripting terminal
   - Enabled change tipping parameter for incremental from scripting terminal  
 
@@ -729,10 +729,10 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Investigating the bug #32600 related with bridging
   - Reviewed source codes from Adrian related with unfold flange onto bridge area
-  - Updated python example files
+  - Updated Python example files
   - Enabled define settings for increment from scripting terminal
   - Enabled solve increment from scripting terminal
-  - Updated python documentation
+  - Updated Python documentation
 
 ## 2022-03-26
 
@@ -761,8 +761,8 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Enabled define uniform addendum for blanking from scripting terminal;
   - Enabled define die plane for prog-nesting from scripting terminal;
-  - Added python library for prog-nesting;
-  - Added python example for prog-nesting;
+  - Added Python library for prog-nesting;
+  - Added Python example for prog-nesting;
 
 ## 2022-03-30
 
@@ -784,13 +784,13 @@ tags: [personal]
 - Visited Chiropractic service at Aligned Chiropractic
 
 - [HEXAGONMI](#hexagonmi)
-  - Added LDPBlankingSettings python class
-  - Added LDPProcessSettings python class
-  - Added LDPPressPartPositioning python class
-  - Revised python class definition
-  - Updated python example scripts
-  - Updated python documentation
-  - Revised liedieplan to use python classes
+  - Added LDPBlankingSettings Python class
+  - Added LDPProcessSettings Python class
+  - Added LDPPressPartPositioning Python class
+  - Revised Python class definition
+  - Updated Python example scripts
+  - Updated Python documentation
+  - Revised liedieplan to use Python classes
   - Developed scripts for batch processing source codes  
 
 ## 2022-04-02
@@ -809,7 +809,7 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Reviewed source code updates from Shaharoz related with front-end for unfolding flanges onto bridge
   - Attended the scrum meeting about capacity pie charts
-  - Added PDProProcessSettings class to python scripting
+  - Added PDProProcessSettings class to Python scripting
   - Enabled define process settings for progdieprocess from scripting terminal
   - Enabled generating 2d and 3d processes for progdieprocess from scripting terminal
   - Enabled generating summary for progdieprocess from scripting terminal
@@ -826,19 +826,19 @@ tags: [personal]
 - Placed order for Ethan's chair, toys and books
 
 - [HEXAGONMI](#hexagonmi)
-  - Added springback module to FormingSuite python
-  - Updated python module libraries
-  - Updated python documentation
-  - Updated python example scripts
+  - Added springback module to FormingSuite Python
+  - Updated Python module libraries
+  - Updated Python documentation
+  - Updated Python example scripts
 
 ## 2022-04-07
 
 - With Ethan at Mountain Side Area attending hockey training
 
 - [HEXAGONMI](#hexagonmi)
-  - Revised python class initializations
-  - Updated python script examples
-  - Updated python documentation
+  - Revised Python class initializations
+  - Updated Python script examples
+  - Updated Python documentation
 
 ## 2022-04-08
 
@@ -849,9 +849,9 @@ tags: [personal]
 
 - [HEXAGONMI](#hexagonmi)
   - Sent progress updates for Python Scripting
-  - Research possibility to use integrate python interpreter to Jupyter Notebook
-  - Revised incremental python module setting savings
-  - Added incremental python example
+  - Research possibility to use integrate Python interpreter to Jupyter Notebook
+  - Revised incremental Python module setting savings
+  - Added incremental Python example
   - Reviewed source code updates from Shaharoz related with front-end changes
   - Reviewed source code updates from Adrian related with trim line classification
 
@@ -941,7 +941,7 @@ tags: [personal]
 - Submitted Sun Life requested receipt for Dynacare Plus subscription`
 
 - [HEXAGONMI](#hexagonmi)
-  - Investigated possible ways to change python front end
+  - Investigated possible ways to change Python front end
 
 - [L3MONSHAPE](#l3monshape)
   - Continued reading of the book Real Time rendering
@@ -1009,7 +1009,7 @@ tags: [personal]
 - Ethan's sick and stayed at home
 
 - [HEXAGONMI](#hexagonmi)
-  - Continued investigation of improving CLI for python
+  - Continued investigation of improving CLI for Python
   - Set up meeting to talk with Rob about the FORMINGSUITE TESTING pipeline issue
   - Investigated the bug #59303 related with failed double attach
   - Reviewed source code updates from Adrian related with unit testing for overlap checking
@@ -1174,7 +1174,7 @@ tags: [personal]
   - Investigated the bug #59720 related with thickness validation during DA
   - Reviewed source code from Adrian related with the bug #59720
   - Finished installation for unit test build on testing server
-  - Updated python documentation
+  - Updated Python documentation
   - Completed revision of scripting terminal syntax color and formats
 
 - [L3MONSHAPE](#l3monshape)
@@ -1359,7 +1359,7 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Continued developing training material for scripting terminal
   - Fixed some bugs of scripting terminal
-  - Updated python documentation
+  - Updated Python documentation
   - Reviewed source code updates from Adrian related with the bug #59933
   - Enabled dump the current session to session.dat
 
@@ -2321,7 +2321,7 @@ tags: [personal]
   - Discussed with Derek about how to proceed with TSET build
   - Sent TSET the FormingSuite BETA build and alpha binaries with scripting capabilities
   - Asked Muhammad about the bug vmc-62255
-  - Branched SIMUFACT source code to work on python consolidation
+  - Branched SIMUFACT source code to work on Python consolidation
   - Reviewed source code updates from Adrian related with MoveGeoSet unit tests
   - Started TESTING pipeline again
 
@@ -2366,7 +2366,7 @@ tags: [personal]
 - Bought exhauset hood cover replacements
 
 - [HEXAGONMI](#hexagonmi)
-  - Continued working on python scripting consolidation
+  - Continued working on Python scripting consolidation
   - Investigated the bug vmc-62368 related with fill holes in DA
   - Investigated the bug vmc-62371 related with boundary edge selection issue
 	- Investigated the bug vmc-62359 related with embossment pass in for pre-unfolding
@@ -2558,7 +2558,7 @@ tags: [personal]
 	- Created bug vmc-62828 related with geometry importation
 	- Fixed the bug vmc-62824 related with CreateHole OK/Cancel locking
 	- Verified VMCAutomation project structure and corrected some typo issues
-	- Verified SimufactSource project references and revised project settings and python documentation generation script
+	- Verified SimufactSource project references and revised project settings and Python documentation generation script
 	
 ## 2022-10-29
 
@@ -2589,7 +2589,7 @@ tags: [personal]
 	- Added debug version for executeFile() to use Python release libraries
 	- Reformatted source code of vmcScripting
 	- Create a new pull-request for vmcAutomation
-	- Fixed string type conversion issue with pythonHome on linux
+	- Fixed string type conversion issue with PythonHome on linux
 	
 ## 2022-11-02
 
@@ -2769,23 +2769,104 @@ tags: [personal]
 	- Renamed remote branch to VMC-62315_vmcAutomation_Consolidation
 	- Continued learning STL
 
-## 2022-11-26
+## 2022-11-27
 
 - [HEXAGONMI](#hexagonmi)
 	- Continued learning STL
 
-## 2022-11-27
+## 2022-11-28
 
 - Played card at home
 - With Ethan attended speed skating lesson
 
-## 2022-11-28
+## 2022-11-29
 
 - Booked ParkNFly for cancun travel
 
 - [HEXAGONMI](#hexagonmi)
 	- Continued learning STL
 	- Declined meeting request from TSET
+
+## 2022-11-30
+
+- Started to write vacation trip planning
+
+- [HEXAGONMI](#hexagonmi)
+	- Continued learning STL
+	- Working on the recovering holes on addendum in First Form in 3AW using new kernel
+	- Returned the bug vmc-63086 related with failed bridge
+	- Fixed carry holes on addendum information to 3AW
+	- Created the bug vmc-63515 and vmc-63516 related with failed hole creation on addendum
+	- Created the bug vmc-63518 for tracking updates to carry addendum hole information
+	- Merged VMC-62315 to main branch
+	- Updated FTISource pipeline to restore NuGet packages
+
+## 2022-12-01
+
+- [HEXAGONMI](#hexagonmi)
+	- Fixing pipeline issues with FTISource and FTISource (Nightly)
+	- Updated VMC.Automation by fixing msbuild target naming conflict
+	- Fixed issuew with vmc-63515 related with strict rule checking in IsBoundaryInManifold
+	- Resent vmc-63516 back to Alex Chubarev for checking CreateHoles on addendum
+	- Investigated the bug vmc-63538 related with trim manifold
+	
+## 2022-12-02
+	
+- [HEXAGONMI](#hexagonmi)
+	- Tested create addendum hole and first form as geometry related bugs
+	- Returned the bug vmc-63327 related with failed bridging
+	- Closed the bug vmc-63516 realted with cut holes on first form
+
+## 2022-12-03
+
+- [HEXAGONMI](#hexagonmi)
+	- Enabled logging throug vmcDebugLogDevice
+	
+## 2022-12-04
+
+- Visited Burlington Shopping Mall
+
+## 2022-12-05
+
+- Checked Virgin Mobile $50 bill credit progress (need to wait 30 days to check the bill)
+- Attended piano lesson with Ethan
+
+- [HEXAGONMI](#hexagonmi)
+	- Enabled logging terminal commands and outputs from Python interpreter
+	
+## 2022-12-06
+
+- [HEXAGONMI](#hexagonmi)
+	- Had meeting with Bernhard and Manuel for TSET support
+	- Created Microsoft Team for FTI-TSET development
+	- Created Microsoft Team group chat for FTI-TSET development
+	- Reviewed source code updates from Adrian related with unfill first form unit tests
+	- Fixed the bug created by Shaharoz related with creating holes on notch
+	- Migrating azure-pipeline-testing to DE-VirtualManufacturing
+
+## 2022-12-07
+
+- Exchanged $150 USD bill in $1 USD bills
+
+- [HEXAGONMI](#hexagonmi)
+	- Working on testing pipeline moving to DE-VirtualManufacturing
+	- Investigated the bug vmc-63772 related with failed die face
+	- Revised agent for testing pipeline and sucessfully run the pipeline
+	
+## 2022-12-08
+
+- [HEXAGONMI](#hexagonmi)
+	- Created bug vmc-63796 related with failed unit test on BoxExample of PDProProcessSettings
+	- Completed task vmc-63800 related migrating azure-pipeline-testing.yml
+	- Investigated the bug vmc-62589 related with failed cutting holes during First Form regeneration
+	- Completed FormingSuite Alpha TSET pipeline
+	- Triggered FTISource pipeline
+	
+## 2022-12-09
+
+- [HEXAGONMI](#hexagonmi)
+	- Asked Adrian to follow up on the bug vmc-62589 related with failed cutting holes
+	- Revised Alpha TSET pipeline script to copy Python site-packages libraries
 
 ## REFERENCES
 
