@@ -2864,9 +2864,83 @@ tags: [personal]
 	
 ## 2022-12-09
 
+- Organized travel baggages and personal items
+- Sent rest dental claim to RBC
+
 - [HEXAGONMI](#hexagonmi)
 	- Asked Adrian to follow up on the bug vmc-62589 related with failed cutting holes
 	- Revised Alpha TSET pipeline script to copy Python site-packages libraries
+
+## 2022-12-10-2022-12-17
+
+- Vacation at Cancun Mexico
+
+## 2022-12-18
+
+- Got back from airport
+- Attended Lion's Badminton club Christmas Party
+
+## 2022-12-19
+
+- Registered Dell laptop at Dell.com
+- Initiated the process to claim the lost Sunglasses to CIBC Costco mastercard: 000-01-681923
+- Sent email ot Pegasus School Images asking the picture delievery
+- Registered InkBlotTherapy for mental health conseling service (offered by HMI)
+
+- [HEXAGONMI](#hexagonmi)
+	- Completed the training on Code Compliance
+	- Helped Lucas investigating BoxExample unit test failure
+	- Added functions to generate part features in geometry module vmc-63911
+	- Updated alpha and unit test pipeline yaml files vmc-63913
+	
+## 2022-12-20
+
+- Bought grocerries for Dad
+- Bought medicines for Dad
+
+- [HEXAGONMI](#hexagonmi)
+	- Had meeting with Bernhard regarding FormingSuite scripting issues
+	- Updated Python documentation
+	- Set up meeting to discuss Hole Filling for Extrusion
+
+## 2022-12-21
+
+- Sent documents requested by RSA insurance for sunglasses claim
+- Discussed possible schedule to fix plumbing issue with Evelyn Lane kitchen sink
+
+- [HEXAGONMI](#hexagonmi)
+	- Created bug vmc-63533 for failed generate part features
+	- Enabled exporting Nesting layout and offal using script vmc-63929
+	- Enabled setting defaults for Nesting workbench using script vmc-63936
+	
+## 2022-12-22
+
+- Failed to exchange winter tires for Volvo S60
+
+- [HEXAGONMI](#hexagonmi)
+	- Had meeting with TSET about latest updates
+	- Sent latest build of alpha for TSET to TSET
+	- Answered questions realted with LOG file generation and created task for LOG Python API request
+	- Enabled capture screen view using script vmc-63943
+	- Rerun the testing pipeline and succeed
+
+## 2022-12-23
+
+- [HEXAGONMI](#hexagonmi)
+	- Answered Bernhard questions regarding how to use Forming Suite scripts
+	
+## 2022-12-24
+
+- Stay at home
+
+## 2022-12-25
+
+- Was invited to Vivian's home for party
+
+## 2022-12-26
+
+- Winter camp for Ethan
+- Was invited to Amy's home for party
 
 ## REFERENCES
 
