@@ -2926,6 +2926,8 @@ tags: [personal]
 
 ## 2022-12-23
 
+- Send email to Mapleview Condo management asking siding replacement
+
 - [HEXAGONMI](#hexagonmi)
 	- Answered Bernhard questions regarding how to use Forming Suite scripts
 	
