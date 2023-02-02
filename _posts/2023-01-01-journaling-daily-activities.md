@@ -113,6 +113,98 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Added funcitons to export all layout information for nesting and prognesting (vmc-64196)
 	- Fixed terminal HTML output issue and enabled http link in regex (vmc-64195)
+	- Developed powershell script for NuGet pacakge updates (vmc-64221)
+	
+## 2023-01-17
+
+- [HEXAGONMI](#hexagonmi)
+	- Added protection for info retrieval in nesting and prognesting
+	- Investigated the bug vmc-62444 related with failed fill holes during die face creation
+
+## 2023-01-18
+
+- [HEXAGONMI](#hexagonmi)
+	- Working on the memory leak issue in scripting terminal (vmc-64367)
+	- Discussed with Alex Chubarev about the bug vmc-64224 related with filling all holes
+	
+## 2023-01-19
+
+- [HEXAGONMI](#hexagonmi)
+	- Fixed the memory leak issue in scripting terminal (vmc-64367)	
+	
+## 2023-01-20
+
+- [HEXAGONMI](#hexagonmi)
+	- Tried to recheck FTI_TESTING_ENABLED preprocessors usage in source codes
+
+## 2023-01-21
+
+- Invited Cao Yi and Dong Xinhua's family for Spring Festival party at home
+
+## 2023-01-22
+
+- Watched Kung Fu Panda 3 at home
+
+## 2023-01-24
+
+- [HEXAGONMI](#hexagonmi)
+	- Fixed running issue with Karima and Bernhard for FormingSuit in docker containers
+	
+## 2023-01-25
+	
+- [HEXAGONMI](#hexagonmi)
+	- Working on migrating solution configuration 2 to 1
+	
+## 2023-01-26
+	
+- [HEXAGONMI](#hexagonmi)
+	- Working on migrating solution configuration 2 to 1
+	
+## 2023-01-27
+	
+- [HEXAGONMI](#hexagonmi)
+	- Migrated solution configuration 2 to 1
+	- Tested both solutions in FTISource_TESTING directory
+	- Tested new solution python scripting capabilities
+	- Consolidated fti Python example scripts
+	- Testing new FS.exe to run script from command line
+	- Checked all unit test discoveries in new solution
+	
+## 2023-01-28
+
+- Badmintion playing with Ethan
+- Swimmed with Ethan
+
+## 2023-01-29
+
+- Played at home
+- Ethan speedskating
+
+## 2023-01-30
+
+- [HEXAGONMI](#hexagonmi)
+	- Completed first round merging with solution config 1 (vmc-64541)
+	- Discussed with Adrian and Shaharoz about front-end development for extrusion holes filling (vmc-59911)
+	
+## 2023-01-31
+
+- [HEXAGONMI](#hexagonmi)
+	- Working on merging solution configuration 2 into solution configuration 1
+	
+## 2023-02-01
+
+- Renewed license plate for Volvo XC60 till end of 2024
+
+- [HEXAGONMI](#hexagonmi)
+	- Commit changes for merging solution configuration 2 into solution configuration 1
+	
+## 2023-02-02
+
+- Checked SunLife investment updates
+
+- [HEXAGONMI](#hexagonmi)
+	- Commit changes to Python documentation path and pipeline settings
+	- Learned how to use docker container
 
 ## REFERENCES
 
