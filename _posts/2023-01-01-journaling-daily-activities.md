@@ -205,6 +205,21 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Commit changes to Python documentation path and pipeline settings
 	- Learned how to use docker container
+	
+## 2023-02-03
+
+- Replyed Sunwing Case Support team's reply to my post-travel complaints
+- Tried to sumit Min's January dental claim to SunLife
+
+- [HEXAGONMI](#hexagonmi)
+	- Finished Unit Testing pipeline testing
+	- Created bug for failed unit test of box example (vmc-64628)
+	- Discussed with Malte about the Python distribution target file updates
+	- Fixed CABUR testing pipeline machine offline issue
+	- Discussed with Hagen and Alex about setting a new super user for CABUR build machines
+	- Updated VMCAutomation build targets
+	- Sent request to Hagen and Malte to update Active State Python distribution to 3.10.X
+	- Bulk moved all Python scripting tasks to Infrastructure team
 
 ## REFERENCES
 
