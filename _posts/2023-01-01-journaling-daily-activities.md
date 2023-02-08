@@ -221,6 +221,23 @@ tags: [personal]
 	- Sent request to Hagen and Malte to update Active State Python distribution to 3.10.X
 	- Bulk moved all Python scripting tasks to Infrastructure team
 
+## 2023-02-04
+
+- Payed Speed Skating Club Competition at Toronto on Feb. 19 to OSSC
+
+## 2023-02-05
+
+- [HEXAGONMI](#hexagonmi)
+	- Finished initial version for gui based press CS definition (vmc-64688)
+
+## 2023-02-06
+
+- [HEXAGONMI](#hexagonmi)
+	- Completed initial version for gui based press CS definition (vmc-64688)
+	- Fixed the bug from TSET related with line die plan
+	- Investigated some bugs left from the past two weeks from TSET
+	- Asked IT about windows server possibilities
+	
 ## REFERENCES
 
 ### estates
