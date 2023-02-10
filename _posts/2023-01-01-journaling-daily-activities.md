@@ -253,6 +253,13 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Tried to export summary table from Python scripting
 
+## 2023-02-10
+
+- Updated Ubuntu system for working
+
+- [HEXAGONMI](#hexagonmi)
+  - Developed summary table exportation
+
 ## REFERENCES
 
 ### estates
