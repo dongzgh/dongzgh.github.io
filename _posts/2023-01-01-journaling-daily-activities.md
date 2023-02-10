@@ -238,6 +238,19 @@ tags: [personal]
 	- Investigated some bugs left from the past two weeks from TSET
 	- Asked IT about windows server possibilities
 	
+## 2023-02-08
+
+- Applyed speed skating for 2023-2024 term as group 1
+- Learned basics for Ethan's China visa application
+
+- [HEXAGONMI](#hexagonmi)
+	-  Finished revision of morph binder, split surfaces, create line on boundary, create line on surfaces wrapping
+
+## 2023-02-09
+
+- [HEXAGONMI](#hexagonmi)
+	- Tried to export summary table from Python scripting
+
 ## REFERENCES
 
 ### estates
