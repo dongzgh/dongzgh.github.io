@@ -258,7 +258,8 @@ tags: [personal]
 - Updated Ubuntu system for working
 
 - [HEXAGONMI](#hexagonmi)
-  - Developed summary table exportation
+  - Developed summary table exportation for LDP and PDP (vmc-64789)
+	- Added function to get web default parameters
 
 ## REFERENCES
 
