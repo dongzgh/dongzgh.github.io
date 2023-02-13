@@ -261,6 +261,21 @@ tags: [personal]
   - Developed summary table exportation for LDP and PDP (vmc-64789)
 	- Added function to get web default parameters
 
+## 2023-02-11
+
+- Swimmed with Ethan at Angela Coughlan Pool
+
+## 2023-02-12
+
+- Asked about Toronto meeting requirments for Speed Skating Competition
+- Joined parent group for Speed Skating
+
+## 2023-02-13
+
+- [HEXAGONMI](#hexagonmi)
+  - Confirmed with Malte about what dlls are to be removed from Python NuGet package
+	- Created bug to investigate the process stall issue for Generate Part Features (vmc-64798)
+
 ## REFERENCES
 
 ### estates
