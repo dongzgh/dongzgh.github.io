@@ -275,7 +275,22 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
   - Confirmed with Malte about what dlls are to be removed from Python NuGet package
 	- Created bug to investigate the process stall issue for Generate Part Features (vmc-64798)
+	- Removed confirmation flag from pdpro process settings (vmc-64874)
+	- Triggered another alpha build for TSET
 
+## 2023-02-14
+
+- [HEXAGONMI](#hexagonmi)
+	- Tested stretch web locations updates from Eric
+	- Created task vmc-64879 to track down Python distribution updates
+	
+## 2023-02-15
+
+- [HEXAGONMI](#hexagonmi)
+	- Working on transfer message box message to interpreter vmc-64880
+	- Created bug for failed summary table generation in LDP vmc-64935
+	
+	
 ## REFERENCES
 
 ### estates
