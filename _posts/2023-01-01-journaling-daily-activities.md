@@ -289,7 +289,12 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Working on transfer message box message to interpreter vmc-64880
 	- Created bug for failed summary table generation in LDP vmc-64935
-	
+
+## 2023-02-16
+
+- [HEXAGONMI](#hexagonmi)
+	- Exported 2D processs and 3D process table information from PDP vmc-64956
+	- Exported LDP die lineup table information from PDP vmc-64960
 	
 ## REFERENCES
 
