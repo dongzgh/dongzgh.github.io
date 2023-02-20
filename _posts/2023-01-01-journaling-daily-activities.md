@@ -296,6 +296,23 @@ tags: [personal]
 	- Exported 2D processs and 3D process table information from PDP vmc-64956
 	- Exported LDP die lineup table information from PDP vmc-64960
 	
+## 2023-02-17
+
+- With Ethan at public skating in Appleby Ice Center
+- With Ethan played badminton at Lion's Badminton Club
+
+## 2023-02-18
+
+- With Ethan at Angela Coughlan leasure pool
+
+## 2023-02-19
+
+- With Ethan attended the Ontario East Speed Skating Racing
+
+## 2023-02-20
+
+- With Ethan attended Family Day Free Speed Skating Training
+
 ## REFERENCES
 
 ### estates
