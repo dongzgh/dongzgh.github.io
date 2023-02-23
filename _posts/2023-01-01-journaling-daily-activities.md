@@ -305,6 +305,9 @@ tags: [personal]
 
 - With Ethan at Angela Coughlan leasure pool
 
+- [L3MONSHAPE](#l3monshape)
+	- Continued learning of Realtime Rendering
+
 ## 2023-02-19
 
 - With Ethan attended the Ontario East Speed Skating Racing
@@ -312,7 +315,27 @@ tags: [personal]
 ## 2023-02-20
 
 - With Ethan attended Family Day Free Speed Skating Training
+- Booked RBG March break camp on Thursday and Friday for Ethan
 
+## 2023-02-21
+
+- [HEXAGONMI](#hexagonmi)
+	- Discussed with Peter and Hagen about windows server and license issue resolutions (vmc-65060)
+	- Investigated the active state Python package sizing issue for NuGet wrapping (vmc-64879)
+
+## 2023-02-22
+
+- [HEXAGONMI](#hexagonmi)
+ - Worked on Hexagon MI license server with Peter
+ - Developed function to export failed fill holes IDs to QA vmc-65125
+ 
+## 2023-02-23
+
+- [HEXAGONMI](#hexagonmi)
+	- Working on ActiveState Python distributino with Malte
+	- Configured Hexagon MI license server to work with FormingSuite
+	- Updated Python example scripts
+	
 ## REFERENCES
 
 ### estates
