@@ -331,10 +331,16 @@ tags: [personal]
  
 ## 2023-02-23
 
+- Checked out Speed Skating Helmet for Ethan on XACT Skate Shop
+
 - [HEXAGONMI](#hexagonmi)
 	- Working on ActiveState Python distributino with Malte
 	- Configured Hexagon MI license server to work with FormingSuite
 	- Updated Python example scripts
+	- Learned WSL on windows
+	- Installed activestate Python packages on WSL
+	- Migrated FormingSuite to VS2022
+	- Installed additional extensions to VS2022
 	
 ## REFERENCES
 
