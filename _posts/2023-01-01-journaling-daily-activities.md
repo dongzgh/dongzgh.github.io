@@ -350,8 +350,30 @@ tags: [personal]
 	- Discussed with Malte about uploading nuget package
 	- Learned NuGet packaging
 	- Tried to push VMC.Python to Azure.Artifacts
-	- Tried to work on container issue on AWS VM
+	- Tried to work on container issue on AWS VM (vmc-65060)
 	
+## 2023-02-25
+
+- Attended the Canadian Auto Show at MCC in Toronto
+- Eat lunch at Japanese BBQ Restaurant
+
+## 2023-02-26
+
+- Shopped at Costco
+- With Ethan in speed skating training
+
+## 2023-02-27
+
+- [HEXAGONMI](#hexagonmi)
+  - Tried to work on container issue on AWS VM (vmc-65060)
+
+## 2023-02-28
+
+- [HEXAGONMI](#hexagonmi)
+  - Solved container issue on AWS VM (vmc-65060)
+	- Updating FormingSuite source codes and VMC source codes to latest NuGet packages
+	- Scan system for personal items
+
 ## REFERENCES
 
 ### estates
