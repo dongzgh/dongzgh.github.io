@@ -342,6 +342,16 @@ tags: [personal]
 	- Migrated FormingSuite to VS2022
 	- Installed additional extensions to VS2022
 	
+## 2023-02-24
+
+- [HEXAGONMI](#hexagonmi)
+	- Asked Karim to give me the access to the AWS VM
+	- Asked Peter to give me the MSC license file to try on VM
+	- Discussed with Malte about uploading nuget package
+	- Learned NuGet packaging
+	- Tried to push VMC.Python to Azure.Artifacts
+	- Tried to work on container issue on AWS VM
+	
 ## REFERENCES
 
 ### estates
