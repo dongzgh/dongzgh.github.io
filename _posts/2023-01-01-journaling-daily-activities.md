@@ -369,11 +369,22 @@ tags: [personal]
 
 ## 2023-02-28
 
+- Copied over all personal items to WORKSTATION
+- Copied TODO list from zhaodgg to dongzms
+
 - [HEXAGONMI](#hexagonmi)
   - Solved container issue on AWS VM (vmc-65060)
 	- Updating FormingSuite source codes and VMC source codes to latest NuGet packages
 	- Scan system for personal items
 
+## 2023-03-01
+
+- [HEXAGONMI](#hexagonmi)
+	- Built Simufact VMC-Consolidation branch with the latest updates
+	- Added settings module to Python scripting for reading default values
+	- Renamed and reconfigured Active State python repos for VMC
+	- Upgraded site-packages for FormingSuite and VMC
+	
 ## REFERENCES
 
 ### estates
