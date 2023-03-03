@@ -379,11 +379,29 @@ tags: [personal]
 
 ## 2023-03-01
 
+- Sent payment to iloveskating for the purchase of helmet
+
 - [HEXAGONMI](#hexagonmi)
 	- Built Simufact VMC-Consolidation branch with the latest updates
 	- Added settings module to Python scripting for reading default values
 	- Renamed and reconfigured Active State python repos for VMC
 	- Upgraded site-packages for FormingSuite and VMC
+	
+## 2023-03-02
+
+- Sent email to Burlington Soccer Club asking pending payment issue
+
+- [HEXAGONMI](#hexagonmi)
+	- Added utility module and function to evaluate auto tipping for geometry (vmc-65265)
+	- Investigated ways to generate project dependency graph from Visual Studio
+	- Changed runtest pipeline to use powerscript (vmc-65267)
+	
+## 2023-03-03
+
+- [HEXAGONMI](#hexagonmi)
+	- Developed script for investigate project dependency
+	- Added FTI_QA_GUARD and FTI_QA_IGNORE for controlling winapp behaviour
+	- Restarted testing pipeline
 	
 ## REFERENCES
 
