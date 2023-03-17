@@ -403,6 +403,85 @@ tags: [personal]
 	- Added FTI_QA_GUARD and FTI_QA_IGNORE for controlling winapp behaviour
 	- Restarted testing pipeline
 	
+## 2023-03-04
+
+- Started China visa application process for Ethan
+
+## 2023-03-05
+
+- Watched Harry Porter with Ethan at home
+
+## 2023-03-06
+
+- Reviewed C++ new features
+	
+- [HEXAGONMI](#hexagonmi)
+	- Added function to evalute nesting default parameters (vmc-65301)
+
+## 2023-03-07
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated memory leaking issues related with FTI Python classes (vmc-65341)
+	
+## 2023-03-08
+
+- [HEXAGONMI](#hexagonmi)
+	- Enable getting default parameters for prognesting layout and location (vmc-65359)
+	- Enable getting default parameters for stretchweb (vmc-65361)
+	- Created bug vmc-65367 for PDP workbench memory leak issue
+	- Created bug vmc-65366 for LDP generate die lineup process memory leak issue
+	
+## 2023-03-09
+
+- Bought ticket for Royal Canadian Circus Show at Aug. 26 Sat. in Burlington
+
+- [HEXAGONMI](#hexagonmi)
+	- Created bug vmc-65374 addressing the LDP summary table crash issue
+	- Resolved pandoc issues associated with Python tutorials generation (vmc-65376)
+	- Discussed with Muhammad about the release management of the story vmc-63274
+	- Wrapped AfxMessageBox for use in testing execuatbles (vmc65380)
+	- Enabled exporting forming results to file (vmc-63509)
+	
+## 2023-03-10
+
+- Read through KW Championship documents
+
+- [HEXAGONMI](#hexagonmi)
+	- Continued reviewing c++ standard template library book
+	- Fixed unit testing pipeline issue related with datakit debug flag
+	- Transferred FS nighly build installer to TSET
+
+## 2023-03-11
+
+- With Ethan attending KW Ontario Speed Skating Championship
+
+## 2023-03-12
+
+- With Ethan attending KW Ontario Speed Skating Championship
+
+## 2023-03-13
+
+- With Ethan and Aeron played in Aladdin's Indoor Playground
+
+## 2023-03-14
+
+- [HEXAGONMI](#hexagonmi)
+  - Tested and closed the bug vmc-65366 related with memory leak in LDP
+	- Attended townhall meeting at office
+	- Reassigned the bug vmc-65441 to Ying related with stretch web symmetry settings
+	
+## 2023-03-15
+
+- With Ethan at Ontario Science Center
+
+## 2023-03-16
+
+- Sent Ethan to RBG Day Camp
+
+- [HEXAGONMI](#hexagonmi)
+	- Tried to fix testing pipeline publishing issue
+	- Fixed the bug HEX-19 (vmc-64224) related with filling holes stops when one hole can't be filled
+	
 ## REFERENCES
 
 ### estates
