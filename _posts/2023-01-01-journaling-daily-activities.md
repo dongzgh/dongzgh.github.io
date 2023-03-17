@@ -481,6 +481,8 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Tried to fix testing pipeline publishing issue
 	- Fixed the bug HEX-19 (vmc-64224) related with filling holes stops when one hole can't be filled
+	- Continued reviewed C++ new features
+	- Continued learned powershell scripting language
 	
 ## REFERENCES
 
