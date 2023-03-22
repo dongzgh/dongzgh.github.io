@@ -484,6 +484,52 @@ tags: [personal]
 	- Continued reviewed C++ new features
 	- Continued learned powershell scripting language
 	
+## 2023-03-17
+
+- Sent Ethan to Aboretum Day Camp
+- Asked Dana about the internship and full stack developer opportunities
+
+- [HEXAGONMI](#hexagonmi)
+	- Had PRIDE review meeting with Eric
+	- Added log message function to FTI Python core module
+	- Investigatd the difference between alpha build and nightly build and revised build scripts (vmc-65516)
+	- Completed the task vmc-65397 related with unit testing pipeline
+	
+## 2023-03-18
+
+- With Ethan visited Ontario Science Center
+
+## 2023-03-19
+
+- Shopped at Costco Burlington
+- With Ethan attended speed skating traning
+
+## 2023-03-20
+
+- Submitted the rest dental expenses for Min on Mar. 8th to SunLife
+- Submitted the rest pediatric dental expenses for Ethan on Mar. 14th to SunLife
+- Checked Burlington Soccer Club's summer camp schedule
+
+- [HEXAGONMI](#hexagonmi)
+	- Groomed backlog system
+	- Added ROF for scripting to enhance debug capabilities
+	- Returned the bug vmc-65414 back to Muhammad because the overlapped unfold lines seem correct
+	
+## 2023-03-21
+
+- Submitted receipt from Costco to P&G offer website
+- Negotiated with Costco P&G offer to get the correct expense
+- Booked camping site at Cypress Lake in Bruce Penisula National Park
+- Booked Burlington Soccer Club summer camp for Ethan
+- Booked Halton Conservation summer camp for Ethan
+- With Ethan at the swimmer 3 lesson
+
+- [HEXAGONMI](#hexagonmi)
+	- Had meeting with Karim and Bernhard to discuss HEX-86
+	- Managed Microsoft Teams members and group chat members
+	- Developed script to collect enumerations from header files
+	- Writing script the analyze testing pipeline results
+	
 ## REFERENCES
 
 ### estates
