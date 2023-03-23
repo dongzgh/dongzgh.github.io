@@ -530,6 +530,29 @@ tags: [personal]
 	- Developed script to collect enumerations from header files
 	- Writing script the analyze testing pipeline results
 	
+## 2023-03-22
+
+- Checked Ethan's dental estimation
+- Checked banking accounts
+- Paied PC Mastercard balance
+
+- [HEXAGONMI](#hexagonmi)
+	- Developed script to analyze azure testing pipeline log
+	- Updated confluence page regarding how to upgrade Active State Python packages
+	- Continued learning C++
+	- Created QA task vmc-65582 to Xiaoli Li to test Python scripting terminal
+	- Working on vmc-65387 investigating wrong trim line information
+	
+## 2023-03-23
+
+- Started filling TAX for 2022
+
+- [HEXAGONMI](#hexagonmi)
+	- Had scrum meeting with TSET
+	- Working on investigating vmc-65387
+	- Installed docker engine on windows machine
+	- Get self familiar with SharePoint sites
+	
 ## REFERENCES
 
 ### estates
