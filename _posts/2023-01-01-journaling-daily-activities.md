@@ -592,8 +592,9 @@ tags: [personal]
 
 - Broke Volvo XC60 right turn singnal lens
 - Bought replacement part for Volvo XC60 from eBay
-- Continued working on Rental Worksheet for 2022 TAX
-- Worked on Min's T4 and RL-1 for 2022 TAX
+- Completed Rental Worksheet for 2022 TAX
+- Completed Min's T4 and RL-1 for 2022 TAX
+- Completed Child Care Expenses for 2022 TAX
 
 - [HEXAGONMI](#hexagonmi)
 	- Fixed wording issues in Python documentation (vmc-65687)
