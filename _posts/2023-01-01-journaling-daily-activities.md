@@ -546,12 +546,59 @@ tags: [personal]
 ## 2023-03-23
 
 - Started filling TAX for 2022
+- Helped Oakville Speed Skating club to move the mattreses
 
 - [HEXAGONMI](#hexagonmi)
 	- Had scrum meeting with TSET
 	- Working on investigating vmc-65387
 	- Installed docker engine on windows machine
 	- Get self familiar with SharePoint sites
+	
+## 2023-03-24
+
+- [HEXAGONMI](#hexagonmi)
+	- Reorganize Jira boards and issues related with Python scripting
+	- Reorganize Python confluence pages
+	
+## 2023-03-25
+
+- With Ethan to watch speed skating games at 16 miles creek sports complex
+
+## 2023-03-26
+
+- Helped with moving mats at 16 miles creek sports complex
+
+## 2023-03-27
+
+- [HEXAGONMI](#hexagonmi)
+	- Checked the bug vmc-65663 related with intermediate geometry deletion
+	- Checked the bug vmc-65665 related with mirroring intermediate geometry
+	- Checked the bug vmc-65681 and vmc-65682 related with trim line shown on intermediate geometry
+	- Working on adding string inputs for types in Python scripting (vmc-65621)
+	
+## 2023-03-28
+
+- Initiated return process for Bentgo box
+- Bought a new bentgo box for Ethan
+- Worked on Rental Worksheet for 2022 TAX
+
+- [HEXAGONMI](#hexagonmi)
+	- Created subtask vmc-65712 to upgrade NuGet package to the latest version
+	- Working on creating Python examples gallery site for FormingSuite
+	- Created issues vmc-65718...vmc-65726 realted with failed unit tests to Shaharoz
+	- Tried docker on local machine
+	
+## 2023-03-29
+
+- Broke Volvo XC60 right turn singnal lens
+- Bought replacement part for Volvo XC60 from eBay
+- Continued working on Rental Worksheet for 2022 TAX
+- Worked on Min's T4 and RL-1 for 2022 TAX
+
+- [HEXAGONMI](#hexagonmi)
+	- Fixed wording issues in Python documentation (vmc-65687)
+	- Tried to develop powerpoint with narrations
+	- Checked the bug vmc-65746 related with mirror intermediate geometry
 	
 ## REFERENCES
 
