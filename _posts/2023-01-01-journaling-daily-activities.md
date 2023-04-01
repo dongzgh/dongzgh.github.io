@@ -601,6 +601,27 @@ tags: [personal]
 	- Tried to develop powerpoint with narrations
 	- Checked the bug vmc-65746 related with mirror intermediate geometry
 	
+## 2023-03-30
+
+- [HEXAGONMI](#hexagonmi)
+	- Closed FTIAdvancedGeometryTEST failed unit test bugs (vmc-65718...vmc-65722)
+	- Closed the branding and logo changes for simufact (vmc-65740)
+	- Working on VMC.Automation Python package updates (vmc-65761)
+	- Investigated the bug vmc-65762 for geometry importation issue
+	- Investigated the bug vmc-65768 for geometry importation issue
+	- Investigated the bug vmc-65770 for geometry importation issue
+	- Investigated the bug vmc-65771 for geometry importation issue
+	- Investigated the bug vmc-65716 for holes on embossment	
+	
+## 2023-03-31
+
+- Completed first round TAX evaluation for Dong and Min
+- Prepared medical estimation for 2022 and 2023
+
+- [HEXAGONMI](#hexagonmi)
+	- Fixed the bug vmc-65794 related with notch removal
+	- Developed script to update NuGet packages
+	
 ## REFERENCES
 
 ### estates
