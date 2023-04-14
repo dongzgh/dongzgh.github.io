@@ -622,6 +622,93 @@ tags: [personal]
 	- Fixed the bug vmc-65794 related with notch removal
 	- Developed script to update NuGet packages
 	
+## 2023-04-01
+
+- Swimmed with Ethan at Angla Coughlan community pool
+
+## 2023-04-02
+
+- Shopped at Mapleview shopping center
+
+## 2023-04-03
+
+- Posted Ad for Clek Foonf convertible car seat
+
+- [HEXAGONMI](#hexagonmi)
+	- Started preparing Python scriping presentation (vmc-65657)
+	- Fixed the bug vmc-65844 related with duplicated attributes for holes on addendum
+	- Fixed the bug vmc-65795 related with checking holes on addendum for notch removal
+	- Checked the issue HEX-86 related with define_uniform_addendum in blanking module
+
+## 2023-04-04
+
+- [HEXAGONMI](#hexagonmi)
+	- Continued working on preparing Python scriping presentation (vmc-65657)
+	- Investigated the bug vmc-65775 related with filling holes
+
+## 2023-04-05
+
+- Sold Clek Foonf car seat
+- Booked appointment with Merriam Music for piano service
+
+- [HEXAGONMI](#hexagonmi)
+	- Fixed the bug HEX-88 related with wrong forming workbench type (vmc-65904)
+	- Fixed the bug HEX-22 related with log message in headless mode (vmc-65916)
+	- Added reinforced license check for Python module functions (vmc-65911)
+	
+## 2023-04-06
+
+- [HEXAGONMI](#hexagonmi)
+	- Check the bug vmc-65914 related with create holes on addendum not on first forming
+	- Check the bug vmc-65925 related with symmetry not available for creating hole on addendum
+	
+## 2023-04-07
+
+- With Anny and Tao participated easter egg hunting in Waterdown
+- Visited RBG with Ethan
+- Walked in Crawford Lake Conservation Area
+
+## 2023-04-08
+
+- Fixed Ethan's bed
+- Netfiled Tax Return for 2022
+- Paied CRA owning amount
+- Started application for US Visa
+
+## 2023-04-09
+
+- Played at Norton Park inline skating and soccering
+
+## 2023-04-10
+
+- Visited Crawford Lake playing geocaching
+
+## 2023-04-11
+
+- [HEXAGONMI](#hexagonmi)
+	- Fixed the bug vmc-65961 related with QA toolbar exposed
+	- Fixed the bug vmc-65925 related with hidding enforce symmetry in create holes dialog box
+	- Discussed with Alex and Kiran about the bug vmc-65937 related with cutting through
+	- Fixed the bug vmc-65928 related with filling holes
+	- Investigated the bug vmc-65927 related with vmc-65928
+	- Investigated the bug vmc-65842 related with hole on addedum tagging
+	
+## 2023-04-12
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug vmc-66007 related with filling holes behaviour not consistent
+
+## 2023-04-13
+
+- Called Burlington Soccer Club with Samantha and discussed the program about Bayhawk Explorer
+
+- [HEXAGONMI](#hexagonmi)
+	- Updated site-packages of Python from Active State website
+	- Investigated the bug vmc-65927 related with importation errors
+	- Investigated the bug vmc-66071 realted with exposing license checker in each DLL
+	- Added more functions in Python for debugging purpose
+	- Run Alpha pipeline to create a new build for TSET
+	
 ## REFERENCES
 
 ### estates
