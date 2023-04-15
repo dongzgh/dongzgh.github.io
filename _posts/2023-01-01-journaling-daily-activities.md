@@ -709,6 +709,15 @@ tags: [personal]
 	- Added more functions in Python for debugging purpose
 	- Run Alpha pipeline to create a new build for TSET
 	
+## 2023-04-14
+
+- Installed side turn signal lens for Volvo XC60
+- Registerd for Ethan to attend Force Academy soccer class tryout
+
+- [HEXAGONMI](#hexagonmi)
+	- Working on vmc-65931 related with tagging hole in hole for double attached
+	- Investigated the bug vmc-65931, vmc-65940, vmc-65842 and vmc-66008 related with hole on hole tagging
+
 ## REFERENCES
 
 ### estates
