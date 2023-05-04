@@ -848,6 +848,17 @@ tags: [personal]
 	- Working on VMC.Automation pipeline issuw with Hagen
 	- Fixed the bug vmc-66396 related with hole on addendum conversion
 
+## 2023-05-03
+
+- Submitted oil change for Volvo XC60
+- Submitted claim for Ethan's probiotic medication to SunLife
+
+- [L3MONSHAPE](#l3monshape)
+	- Started researching Stable Diffusion
+
+- [HEXAGONMI](#hexagonmi)
+	- Updated VMC.Automaiton languages and corresponding NuGet package
+
 ## REFERENCES
 
 ### estates
