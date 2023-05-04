@@ -718,6 +718,136 @@ tags: [personal]
 	- Working on vmc-65931 related with tagging hole in hole for double attached
 	- Investigated the bug vmc-65931, vmc-65940, vmc-65842 and vmc-66008 related with hole on hole tagging
 
+## 2023-04-15
+
+- Cut the hairs
+- Reset codes for garage doors
+- Submitted shopping cost from Health Planet to PSA
+
+## 2023-04-16
+
+- Watched Super Mario movie at Oakville Cinemaplex
+
+## 2023-04-17
+
+- [HEXAGONMI](#hexagonmi)
+	- Fixed numpy issue with FormingSuite main and release branch
+	- Asked Hagen to update the SimufactSource/import/python-site from aspython
+	- Told Hagen that the numpy package has to be uninstall and reinstalled in SimufactSource
+	- Removed old numpy and related packges from PyPackages/site-packages
+	- Fixed the bug vmc-66008 related with importing holes on addedum in PDP
+	- Included Muhammad into TSET metting loop
+	
+## 2023-04-18
+
+- [HEXAGONMI](#hexagonmi)
+	- Introduced PO to TSET-FTI collaboration project
+	- Discussed with Jacob and Muhammad about release related issues for Python scripting
+	- Rebuild part for vmc-65931, vmc-65891 and vmc-65940 related with hole on hole tagging and sent to LDP
+	- Rebuild part for vmc-65842 related with hole on hole tagging and sent to PDP
+	- Compared Alpha build and installer for alpha pipeline retirement verification
+	- Sent Alex Chung vmc-66130 to integrate RunScript.bat into the installer
+	- Closed the vmc-66068 related with updating site-packages for FormingSuite
+	- Investigated the bug vmc-66137 related with fill hole line not generated
+	- Removed alpha build and related scripts from main repo vmc-66130
+	
+## 2023-04-19
+
+- [HEXAGONMI](#hexagonmi)
+	- Added data recovery for hole on addenum (vmc-66170)
+	- Investigated the bug vmc-66172 related with the number of normals over the the number of polyline points
+	- Revised Python tutorial 3 vmc-65657
+	
+## 2023-04-20
+
+- [HEXAGONMI](#hexagonmi)
+	- Fixed the bug vmc-66194 related with lost face in DA in release build
+	- Investigated the bug vmc-66208 related with create hole failed during DA creation
+	
+## 2023-04-21
+
+- [HEXAGONMI](#hexagonmi)
+	- Tested in the bug vmc-66212 related with failed intermediat geometry
+	- Working on translating Python scripting terminal to multiple languages (vmc-66210)
+
+## 2023-04-22
+
+- Played badminton at Lion's Badminton club
+- Attended Colton's birthday party
+- Shoppped grocery at Golden Plaza
+
+## 2023-04-23
+
+- Walked in Mont Nemo and did geocaching
+- Visited Spencer Smith park
+- Visited Decathlon
+
+## 2023-04-24
+
+- Booked skating at Appleby Ice center
+- Exchanged skates from Decathlon
+- With Ethan visisted dentist
+
+## 2023-04-25
+
+- [HEXAGONMI](#hexagonmi)
+	- Revised translation target saving strategy (vmc-66210)
+	- Sent translation files to Aparna to translate
+	- Returned the bug vmc-66212 related with missing surfaces back
+	- Investigated the bug vmc-66234 related with material assignment
+	- Returned the bug vmc-66280 realted with hole removal
+	
+## 2023-04-26
+
+- [HEXAGONMI](#hexagonmi)
+	- Sent the bug vmc-66299 related with failed bridge line retrieval in LDP/PDP
+	- Checking simufact python packages and update numpy
+	
+## 2023-04-27
+
+- Ready to buy Ethan's new bike
+
+- [HEXAGONMI](#hexagonmi)
+	- Discussed with Adrain about the bug vmc-66319 related with copy form for projected holes
+	- Revised Python scripting tutorials vmc-65657
+	
+## 2023-04-28
+
+- Returned Temu some orders deposited as Temu credits
+
+- [HEXAGONMI](#hexagonmi)
+	- Closed the bug vmc-65767 related with memory leak detected when moving Qt dialog box
+	- Completed Python tutorial documentaion vmc-65657
+	- Drafted Python end user training presentation vmc-65657
+
+## 2023-04-29
+
+- Cleaned rooms
+- Shopped grocery at Walmart
+
+## 2023-04-30
+
+- Shopped lawn care products at Canadian Tire
+
+## 2023-05-01
+
+- Sent Volvo XC60 for oil changes
+- Bought RBG Summer Camp at Aug. 21-25 for Ethan
+
+- [HEXAGONMI](#hexagonmi)
+	- Tested the bug vmc-66280 related with removing holes on addendum
+	- Working on Python scripting presentation for developers (vmc-65658)
+	- Added license checker for Python script module (vmc-66390)
+
+## 2023-05-02
+
+- [HEXAGONMI](#hexagonmi)
+	- Working with Eric to fix attribute issue on hole on addendum (vmc-66008)
+	- Working on the bug vmc-66396 related with hole on addendum conversion
+	- Added enhancement to license checker for Python script module(vmc-66390)
+	- Working on VMC.Automation pipeline issuw with Hagen
+	- Fixed the bug vmc-66396 related with hole on addendum conversion
+
 ## REFERENCES
 
 ### estates
