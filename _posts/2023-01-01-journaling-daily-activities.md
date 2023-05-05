@@ -859,6 +859,13 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Updated VMC.Automaiton languages and corresponding NuGet package
 
+## 2023-05-04
+
+- [HEXAGONMI](#hexagonmi)
+	- Discussed with geometry team about the intermediate geometry issues
+	- Created bug vmc-66522 related with failed part feature generation in LDP
+	- Created sphinx project for Python book preparation
+
 ## REFERENCES
 
 ### estates
