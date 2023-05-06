@@ -866,6 +866,11 @@ tags: [personal]
 	- Created bug vmc-66522 related with failed part feature generation in LDP
 	- Created sphinx project for Python book preparation
 
+## 2023-05-05
+
+- [HEXAGONMI](#hexagonmi)
+	- Worked on training material for Python scripting for end user
+
 ## REFERENCES
 
 ### estates
