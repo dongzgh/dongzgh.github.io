@@ -871,6 +871,23 @@ tags: [personal]
 - [HEXAGONMI](#hexagonmi)
 	- Worked on training material for Python scripting for end user
 
+## 2023-05-06
+
+- Visited Art Gallery of Ontario in Toronto
+
+## 2023-05-07
+
+- Shopped in Terra
+- Visited Freeton's Antique Mall
+
+## 2023-05-08
+
+- [HEXAGONMI](#hexagonmi)
+	- Investigated the bug vmc-66555 related with degenerated hole selected
+	- Investigated the bug vmc-66551 related with creating hole on addendum
+	- Created and fixed the bug vmc-66556 related with define_press_cs_gui1/2 can't save rotation method
+	- Investigated the license issue with Python scriping vmc-66392
+	
 ## REFERENCES
 
 ### estates
