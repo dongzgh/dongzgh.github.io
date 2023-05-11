@@ -888,6 +888,25 @@ tags: [personal]
 	- Created and fixed the bug vmc-66556 related with define_press_cs_gui1/2 can't save rotation method
 	- Investigated the license issue with Python scriping vmc-66392
 	
+## 2023-05-09
+
+- [HEXAGONMI](#hexagonmi)
+	- Reset the permission for TSET to access installer diretory on SharePoint server
+	- Fixed license issue with Python scripting for MS (vmc-66392)
+
+## 2023-05-10
+
+- [HEXAGONMI](#hexagonmi)
+	- Did presentation about Python scripting to end users in Developer Guild meeting
+	- Updated VMC.Automation package to include Turkish translation file
+	- Update VMC.Python.ActiveState package
+	- Investigated the bug vmc-66571 related with polyline does not drawn with only one point
+
+## 2023-05-11
+
+- [HEXAGONMI](#hexagonmi)
+	- Fixed the language file generation issue with VMC.Automation
+	
 ## REFERENCES
 
 ### estates
