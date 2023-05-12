@@ -199,3 +199,33 @@ blockquote {
 code {
   font-size: 12px !important;
 }
+
+.site-footer {
+  background-color: black;
+  padding: 5px 0px;
+}
+
+.copyright {
+  float: left;
+  padding-top: 15px;
+  font-size: 12px;
+}
+
+.social {
+  float: right;
+  font-size: 30px;
+}
+
+.ai, 
+.fab {
+  color: white
+}
+
+.ai:hover,
+.fab:hover {
+  color:  #00c4ff
+}
+
+a:hover {
+  text-decoration: none;
+}

@@ -1,10 +1,10 @@
 ---
-title: Outdoor
-permalink: /views/outdoor
+title: Books
+permalink: /views/books
 ---
 
 <div class='d-flex flex-row flex-wrap'>
-  {% assign pages = site.pages | where: 'tags', 'outdoor' %}
+  {% assign pages = site.pages | where: 'tags', 'reading' %}
   {% for page in pages %}
   <div class="col-3">
     <a href="{{ page.permalink }}">

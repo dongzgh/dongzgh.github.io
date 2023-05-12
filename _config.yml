@@ -13,15 +13,22 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: VISLIFESTYLE
+title: DONG ZHAO
 description: >- # this means to ignore newlines until "baseurl:"
-  Life is a journey of exploration, enjoy!
+  Brain works, shared with you!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-port: 1999
+port: 999
 encoding: UTF-8
 
-# Build settings
+# Social integration.
+linkedin_id: dongzl
+github_id: dongzgh
+researchgate_id: Dong-Zhao-17
+googlescholar_id: yrvWobEAAAAJ
+facebook_id: dongzhao
+
+# Build settings.
 markdown: kramdown
 theme: minima
 plugins:
