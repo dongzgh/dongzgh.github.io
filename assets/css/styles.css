@@ -201,7 +201,6 @@ code {
 }
 
 .site-footer {
-  background-color: black;
   padding: 5px 0px;
 }
 
@@ -218,7 +217,7 @@ code {
 
 .ai, 
 .fab {
-  color: white
+  color: black
 }
 
 .ai:hover,
