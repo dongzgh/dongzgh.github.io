@@ -904,8 +904,17 @@ tags: [personal]
 
 ## 2023-05-11
 
+- Booked two days trip to Ottawa for Tulip Festival
+
 - [HEXAGONMI](#hexagonmi)
 	- Fixed the language file generation issue with VMC.Automation
+
+## 2023-05-12
+
+- Reorganized Jekyll personal pages
+
+- [HEXAGONMI](#hexagonmi)
+	- Updated NuGet package and Python packages for FormingSuite
 	
 ## REFERENCES
 
