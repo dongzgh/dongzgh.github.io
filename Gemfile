@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Fundamental gem packages.
-gem "jekyll", "~> 3.8.6"
+gem "jekyll", "~> 3.9"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
@@ -28,3 +28,4 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 # Additional gems needed.
 gem "rexml", "~>3.2.0"
 gem "webrick", "~>1.8.0"
+gem "kramdown-parser-gfm", "~>1.1.0"
