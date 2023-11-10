@@ -8,7 +8,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Brain works, shared with you!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-port: 999
+port: 1100
 encoding: UTF-8
 
 # Social integration.

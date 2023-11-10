@@ -1,7 +1,7 @@
 ---
 layout: home
 items:
-  - books  
+  - books 
 ---
 
 <div class='d-flex flex-row flex-wrap'>
