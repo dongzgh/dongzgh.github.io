@@ -10,3 +10,5 @@ medium: book
 [Chapter 2. Getting Started with CMake]({% link _pages/books/cmake-by-examples/chapter-2.md %})
 
 [Chapter 3: CMake Language]({% link _pages/books/cmake-by-examples/chapter-3.md %})
+
+[Chapter 4: Managing Dependencies]({% link _pages/books/cmake-by-examples/chapter-4.md %})
