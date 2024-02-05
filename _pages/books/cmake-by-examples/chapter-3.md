@@ -590,3 +590,60 @@ CMake doesn't have a direct while statement like some other programming language
       math(EXPR value "${value} * 2")
   endwhile()
   ```
+
+## 3.5 Properties
+
+In CMake, properties are a way to attach extra information to targets, source files, or directories. Here are some examples of how to set and get CMake properties:
+
+- Example 1: Setting and Getting Target Properties
+
+  ```cmake
+  # Setting properties for a target
+  add_executable(MyExecutable main.cpp)
+  set_target_properties(MyExecutable PROPERTIES
+      CXX_STANDARD 11
+      CXX_STANDARD_REQUIRED ON
+      OUTPUT_NAME "MyApp"
+  )
+
+  # Getting properties of a target
+  get_target_property(output_name MyExecutable OUTPUT_NAME)
+  message(STATUS "Output Name of MyExecutable: ${output_name}")
+  ```
+
+In this example, we set properties for the target `MyExecutable` using `set_target_properties`. We set the C++ standard to 11, require it, and specify the output name. We then use `get_target_property` to retrieve and print the output name.
+
+- Example 2: Setting and Getting Source File Properties
+
+  ```cmake
+  # Setting properties for a source file
+  set_source_files_properties(main.cpp PROPERTIES
+      COMPILE_DEFINITIONS "ENABLE_FEATURE_X"
+  )
+
+  # Getting properties of a source file
+  get_source_file_property(definitions main.cpp COMPILE_DEFINITIONS)
+  message(STATUS "Compile Definitions for main.cpp: ${definitions}")
+  ```
+
+In this example, we set properties for the source file `main.cpp` using `set_source_files_properties`. We define a compile definition, and then use `get_source_file_property` to retrieve and print the compile definitions.
+
+- Example 3: Setting and Getting Directory Properties
+
+  ```cmake
+  # Setting properties for a directory
+  set_directory_properties(PROPERTIES
+      VERSION 1.2.3
+      DOCUMENTATION "Path to documentation"
+  )
+
+  # Getting properties of a directory
+  get_directory_property(version_value DIRECTORY PROPERTY VERSION)
+  get_directory_property(documentation_path DIRECTORY PROPERTY DOCUMENTATION)
+  message(STATUS "Version: ${version_value}")
+  message(STATUS "Documentation Path: ${documentation_path}")
+  ```
+
+In this example, we set properties for the current directory using `set_directory_properties`. We set a version number and documentation path. We then use `get_directory_property` to retrieve and print these properties.
+
+These examples demonstrate how to set and get properties for targets, source files, and directories in CMake. Properties provide a flexible way to configure various aspects of your CMake project.
