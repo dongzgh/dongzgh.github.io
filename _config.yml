@@ -27,7 +27,6 @@ plugins:
 # List header pages.
 header_pages:
   - about.md
-  - posts.md
 
 # Include in processing.
 include: ['_pages', '_views']
