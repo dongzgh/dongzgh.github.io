@@ -74,7 +74,7 @@ This is a very basic example, but it demonstrates the essential steps for creati
 
 Below is an example of how CMake project files can be organized for a simple C++ project. This structure includes separate directories for source code, headers, external libraries, build artifacts, and CMake-related files:
 
-```plaintext
+```text
 ├── bin
 ├── CMakeLists.txt
 ├── external
