@@ -24,3 +24,5 @@ medium: book
 [Chapter 9: Modules]({% link _pages/books/cmake-by-examples/chapter-9.md %})
 
 [Chapter 10: Subdirectories]({% link _pages/books/cmake-by-examples/chapter-10.md %})
+
+[Chapter 11: Debugging and Profiling]({% link _pages/books/cmake-by-examples/chapter-11.md %})
