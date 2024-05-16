@@ -41,5 +41,5 @@ gem "kramdown-parser-gfm", "~>1.1.0"
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Additional gems needed.
-gem "rexml", "~>3.2.0"
+gem "rexml", "~>3.2.7"
 gem "webrick", "~>1.8.0"
