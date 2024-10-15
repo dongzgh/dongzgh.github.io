@@ -5,6 +5,8 @@ image: /assets/img/pages/books/cmake-by-examples.png
 medium: book
 ---
 
+## Table of Contents
+
 [Chapter 1. Introduction to CMake]({% link _pages/books/cmake-by-examples/chapter-1.md %})
 
 [Chapter 2. Getting Started with CMake]({% link _pages/books/cmake-by-examples/chapter-2.md %})
@@ -34,3 +36,11 @@ medium: book
 [Chapter 14: Custom Commands]({% link _pages/books/cmake-by-examples/chapter-14.md %})
 
 [Chapter 15: Install]({% link _pages/books/cmake-by-examples/chapter-15.md %})
+
+## Appendices
+
+[A: Qt Projects]({% link _pages/books/cmake-by-examples/chapter-16.md %})
+
+[B: VS/VSCode Projects]({% link _pages/books/cmake-by-examples/chapter-17.md %})
+
+[C: Project Templates]({% link _pages/books/cmake-by-examples/chapter-18.md %})
