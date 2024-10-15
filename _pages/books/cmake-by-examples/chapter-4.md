@@ -1,252 +1,120 @@
 ---
-title: Chapter 4. Buit-in Functions
+title: Chapter 4. Configurations
 permalink: /books/cmake-by-examples/chapter-4
 ---
 
-### String Functions
+In CMake, you can configure header files by using the `configure_file` function. This function allows you to replace variables in a template header file during the CMake configuration step. This is useful when you want to embed version numbers, compilation options, or other information into your code at build time.
+
+- **Example 1: Simple Version Information in Header**
+
+   ```c
+   // config.h.in
+   #define PROJECT_VERSION_MAJOR @PROJECT_VERSION_MAJOR@
+   #define PROJECT_VERSION_MINOR @PROJECT_VERSION_MINOR@
+   ```
+
+   ```cmake
+   # CMakeLists.txt
+   cmake_minimum_required(VERSION 3.10)
+   project(MyProject VERSION 1.0)
+
+   # Configure a header file to pass the version number
+   configure_file(
+      "${PROJECT_SOURCE_DIR}/config.h.in"
+      "${PROJECT_BINARY_DIR}/config.h"
+   )
+
+   # Include the binary directory so the configured header is found
+   include_directories("${PROJECT_BINARY_DIR}")
+
+   add_executable(MyApp main.cpp)
+   ```
+
+   ```c
+   // config.h
+   #define PROJECT_VERSION_MAJOR 1
+   #define PROJECT_VERSION_MINOR 0
+   ```
+
+- **Example 2: Configuring a Feature Flag**
+
+   ```c
+   // config.h.in
+   #define ENABLE_FEATURE @ENABLE_FEATURE@
+   ```
+
+   ```cmake
+   # CMakeLists.txt
+   cmake_minimum_required(VERSION 3.10)
+   project(MyProject)
+
+   # Option to enable or disable a feature
+   option(ENABLE_FEATURE "Enable a special feature" ON)
+
+   # Configure the header file
+   configure_file(
+      "${PROJECT_SOURCE_DIR}/config.h.in"
+      "${PROJECT_BINARY_DIR}/config.h"
+   )
+
+   # Pass a value to the template based on the option
+   if(ENABLE_FEATURE)
+      set(ENABLE_FEATURE_VALUE 1)
+   else()
+      set(ENABLE_FEATURE_VALUE 0)
+   endif()
+
+   # Configure a header file
+   configure_file(
+      "${PROJECT_SOURCE_DIR}/config.h.in"
+      "${PROJECT_BINARY_DIR}/config.h"
+      @ONLY
+   )
+
+   # Include the binary directory so the configured header is found
+   include_directories("${PROJECT_BINARY_DIR}")
+
+   add_executable(MyApp main.cpp)
+   ```
+
+   ```c
+   // config.h
+   #define ENABLE_FEATURE 1
+   // If you disable the feature (`-DENABLE_FEATURE=OFF`), then
+   // #define ENABLE_FEATURE 0
+
+   ```
+
+- **Example 3: Including Build Timestamp in Header**
+
+   ```c
+   // config.h.in
+   #define BUILD_TIMESTAMP "@BUILD_TIMESTAMP@"
+   ```
+
+   ```cmake
+   # CMakeLists.txt
+   cmake_minimum_required(VERSION 3.10)
+   project(MyProject)
+
+   # Get the current timestamp
+   string(TIMESTAMP BUILD_TIMESTAMP "%Y-%m-%d %H:%M:%S")
+
+   # Configure a header file with the build timestamp
+   configure_file(
+   "${PROJECT_SOURCE_DIR}/config.h.in"
+   "${PROJECT_BINARY_DIR}/config.h"
+   )
 
-CMake provides a set of string manipulation commands and functions that allow you to perform various Functions on strings. Here are some examples of string manipulation in CMake:
+   # Include the binary directory so the configured header is found
+   include_directories("${PROJECT_BINARY_DIR}")
 
-- Example 1: Concatenating Strings
+   add_executable(MyApp main.cpp)
+   ```
 
-  ```cmake
-  set(STRING1 "Hello")
-  set(STRING2 "CMake!")
+   ```c
+   // config.h
+   #define BUILD_TIMESTAMP "2024-10-11 12:34:56"
+   ```
 
-  # Concatenate two strings
-  set(CONCATENATED_STRING "${STRING1} ${STRING2}")
-
-  message(STATUS "Concatenated String: ${CONCATENATED_STRING}")
-  ```
-
-- Example 2: Getting Substrings
-
-  ```cmake
-  set(FULL_STRING "ThisIsAString")
-
-  # Get a substring starting from index 4
-  string(SUBSTRING ${FULL_STRING} 4 -1 SUBSTRING_RESULT)
-
-  message(STATUS "Substring Result: ${SUBSTRING_RESULT}")
-  ```
-
-- Example 3: Finding and Replacing Substrings
-
-  ```cmake
-  set(INPUT_STRING "ReplaceThisText")
-
-  # Find and replace a substring
-  string(REPLACE "ReplaceThis" "WithThat" OUTPUT_STRING ${INPUT_STRING})
-
-  message(STATUS "Output String: ${OUTPUT_STRING}")
-  ```
-
-- Example 4: Converting to Uppercase or Lowercase
-
-  ```cmake
-  set(LOWERCASE_STRING "lowercase")
-  set(UPPERCASE_STRING "UPPERCASE")
-
-  # Convert to uppercase
-  string(TOUPPER ${LOWERCASE_STRING} UPPERCASE_RESULT)
-
-  # Convert to lowercase
-  string(TOLOWER ${UPPERCASE_STRING} LOWERCASE_RESULT)
-
-  message(STATUS "Uppercase Result: ${UPPERCASE_RESULT}")
-  message(STATUS "Lowercase Result: ${LOWERCASE_RESULT}")
-  ```
-
-- Example 5: Getting the Length of a String
-
-  ```cmake
-  set(STRING_TO_MEASURE "MeasureMe")
-
-  # Get the length of a string
-  string(LENGTH ${STRING_TO_MEASURE} STRING_LENGTH)
-
-  message(STATUS "String Length: ${STRING_LENGTH}")
-  ```
-
-- Example 6: Trimming Whitespace
-
-  ```cmake
-  set(STRING_WITH_WHITESPACE "   Trim Me   ")
-
-  # Remove leading and trailing whitespace
-  string(STRIP ${STRING_WITH_WHITESPACE} TRIMMED_STRING)
-
-  message(STATUS "Trimmed String: ${TRIMMED_STRING}")
-  ```
-
-### List Functions
-
-CMake provides several commands and functions for manipulating lists. Here are some examples of list Functions in CMake:
-
-- Example 1: Creating a List
-
-  ```cmake
-  # Creating a list
-  set(MY_LIST item1 item2 item3)
-
-  message(STATUS "My List: ${MY_LIST}")
-  ```
-
-- Example 2: Appending to a List
-
-  ```cmake
-  # Appending to a list
-  set(MY_LIST item1)
-  list(APPEND MY_LIST item2 item3)
-
-  message(STATUS "My List: ${MY_LIST}")
-  ```
-
-- Example 3: Getting the Length of a List
-
-  ```cmake
-  # Getting the length of a list
-  list(LENGTH MY_LIST LIST_LENGTH)
-
-  message(STATUS "List Length: ${LIST_LENGTH}")
-  ```
-
-- Example 4: Accessing Elements in a List
-
-  ```cmake
-  # Accessing elements in a list
-  list(GET MY_LIST 0 FIRST_ITEM)
-  list(GET MY_LIST 1 SECOND_ITEM)
-
-  message(STATUS "First Item: ${FIRST_ITEM}")
-  message(STATUS "Second Item: ${SECOND_ITEM}")
-  ```
-
-- Example 5: Iterating Over a List
-
-  ```cmake
-  # Iterating over a list
-  foreach(item IN LISTS MY_LIST)
-      message(STATUS "List Item: ${item}")
-  endforeach()
-  ```
-
-- Example 6: Concatenating Lists
-
-  ```cmake
-  # Concatenating lists
-  set(LIST1 item1 item2)
-  set(LIST2 item3 item4)
-
-  list(APPEND CONCATENATED_LIST ${LIST1} ${LIST2})
-
-  message(STATUS "Concatenated List: ${CONCATENATED_LIST}")
-  ```
-
-- Example 7: Removing Duplicates from a List
-
-  ```cmake
-  # Removing duplicates from a list
-  set(DUPLICATES_LIST item1 item2 item1 item3)
-
-  list(REMOVE_DUPLICATES DUPLICATES_LIST)
-
-  message(STATUS "List with Duplicates: ${DUPLICATES_LIST}")
-  ```
-
-- Example 8: Removing Elements from a List
-
-  ```cmake
-  # Removing elements from a list
-  list(REMOVE_ITEM MY_LIST item2)
-
-  message(STATUS "My List after removing item2: ${MY_LIST}")
-  ```
-
-### Math Functions
-
-CMake provides built-in math functions that you can use in your CMake scripts. Here are some examples of using CMake's math functions:
-
-- Example 1: Basic Arithmetic Functions
-
-  ```cmake
-  # Addition
-  math(EXPR RESULT_ADD "3 + 5")
-  message(STATUS "Addition Result: ${RESULT_ADD}")
-
-  # Subtraction
-  math(EXPR RESULT_SUB "10 - 4")
-  message(STATUS "Subtraction Result: ${RESULT_SUB}")
-
-  # Multiplication
-  math(EXPR RESULT_MUL "6 * 7")
-  message(STATUS "Multiplication Result: ${RESULT_MUL}")
-
-  # Division
-  math(EXPR RESULT_DIV "100 / 4")
-  message(STATUS "Division Result: ${RESULT_DIV}")
-  ```
-
-- Example 2: Exponentiation
-
-  ```cmake
-  # Exponentiation
-  math(EXPR RESULT_POW "2**4")
-  message(STATUS "Exponentiation Result: ${RESULT_POW}")
-  ```
-
-  - Example 3: Modulo
-
-  ```cmake
-  # Modulo
-  math(EXPR RESULT_MOD "15 % 7")
-  message(STATUS "Modulo Result: ${RESULT_MOD}")
-  ```
-
-- Example 4: Absolute Value
-
-  ```cmake
-  # Absolute Value
-  math(EXPR RESULT_ABS "-42")
-  message(STATUS "Absolute Value Result: ${RESULT_ABS}")
-  ```
-
-- Example 5: Square Root
-
-  ```cmake
-  # Square Root
-  math(EXPR RESULT_SQRT "sqrt(25)")
-  message(STATUS "Square Root Result: ${RESULT_SQRT}")
-  ```
-
-- Example 6: Trigonometric Functions
-
-  ```cmake
-  # Sine
-  math(EXPR RESULT_SIN "sin(30)")
-  message(STATUS "Sine Result: ${RESULT_SIN}")
-
-  # Cosine
-  math(EXPR RESULT_COS "cos(60)")
-  message(STATUS "Cosine Result: ${RESULT_COS}")
-  ```
-
-- Example 7: Random Number
-
-  ```cmake
-  # Random Number
-  math(RANDOM RAND_RESULT)
-  message(STATUS "Random Number: ${RAND_RESULT}")
-  ```
-
-- Example 8: Floor and Ceiling
-
-  ```cmake
-  # Floor
-  math(EXPR RESULT_FLOOR "floor(7.8)")
-  message(STATUS "Floor Result: ${RESULT_FLOOR}")
-
-  # Ceiling
-  math(EXPR RESULT_CEIL "ceil(3.2)")
-  message(STATUS "Ceiling Result: ${RESULT_CEIL}")
-  ```
+In all of these examples, the `configure_file` function is key to replacing placeholders in a header template with actual values during the CMake configuration process. You can configure version numbers, feature flags, build timestamps, and other useful information this way. Just ensure that you include the generated header file directory in your include paths using `include_directories("${PROJECT_BINARY_DIR}")`.

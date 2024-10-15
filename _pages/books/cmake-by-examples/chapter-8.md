@@ -1,57 +1,51 @@
 ---
-title: Chapter 8. Generator Expressions
+title: Chapter 8. Properties
 permalink: /books/cmake-by-examples/chapter-8
 ---
 
-Generator expressions in CMake provide a way to customize build configurations and settings based on the build system generator. They are used within CMake commands and properties to conditionally specify values based on the generator in use. Here are some examples of how to use generator expressions:
+In CMake, properties are a way to attach extra information to targets, source files, or directories. Here are some examples of how to set and get CMake properties:
 
-- Example 1: Setting Compiler Flags Conditionally
-
-  ```cmake
-  # Set different compiler flags based on the generator
-  target_compile_options(MyTarget PRIVATE
-      $<$<CXX_COMPILER_ID:MSVC>:/W4>
-      $<$<CXX_COMPILER_ID:GNU>:-Wall>
-      $<$<CXX_COMPILER_ID:Clang>:-Wall>
-  )
-  ```
-
-In this example, the `target_compile_options` command sets different compiler warning flags based on the compiler in use. For MSVC, it sets `/W4`; for GCC and Clang, it sets `-Wall`.
-
-- Example 2: Conditionally Linking Libraries
+- **Example 1: Setting and Getting Target Properties**
 
   ```cmake
-  # Link different libraries based on the generator
-  target_link_libraries(MyTarget PRIVATE
-      $<$<CONFIG:Debug>:debug_library>
-      $<$<CONFIG:Release>:optimized release_library>
+  # Setting properties for a target
+  add_executable(MyExecutable main.cpp)
+  set_target_properties(MyExecutable PROPERTIES
+    CXX_STANDARD 11
+    CXX_STANDARD_REQUIRED ON
+    OUTPUT_NAME "MyApp"
   )
+
+  # Getting properties of a target
+  get_target_property(output_name MyExecutable OUTPUT_NAME)
+  message(STATUS "Output Name of MyExecutable: ${output_name}")
   ```
 
-Here, the `target_link_libraries` command conditionally links different libraries based on the build configuration. For the Debug configuration, it links `debug_library`; for the Release configuration, it links the optimized version of `release_library`.
-
-- Example 3: Adding Compile Definitions Conditionally
+- **Example 2: Setting and Getting Source File Properties**
 
   ```cmake
-  # Add compile definitions based on the generator
-  target_compile_definitions(MyTarget PRIVATE
-      $<$<CONFIG:Debug>:DEBUG_MODE>
-      $<$<CONFIG:Release>:RELEASE_MODE>
+  # Setting properties for a source file
+  set_source_files_properties(main.cpp PROPERTIES
+    COMPILE_DEFINITIONS "ENABLE_FEATURE_X"
   )
+
+  # Getting properties of a source file
+  get_source_file_property(definitions main.cpp COMPILE_DEFINITIONS)
+  message(STATUS "Compile Definitions for main.cpp: ${definitions}")
   ```
 
-In this example, the `target_compile_definitions` command adds compile definitions based on the build configuration. For the Debug configuration, it adds `DEBUG_MODE`; for the Release configuration, it adds `RELEASE_MODE`.
-
-- Example 4: Configuring Output Paths Conditionally
+- **Example 3: Setting and Getting Directory Properties**
 
   ```cmake
-  # Configure output paths based on the generator
-  set_target_properties(MyTarget PROPERTIES
-      RUNTIME_OUTPUT_DIRECTORY $<$<CONFIG:Debug>:${CMAKE_BINARY_DIR}/bin/debug>
-      RUNTIME_OUTPUT_DIRECTORY $<$<CONFIG:Release>:${CMAKE_BINARY_DIR}/bin/release>
+  # Setting properties for a directory
+  set_directory_properties(PROPERTIES
+    VERSION 1.2.3
+    DOCUMENTATION "Path to documentation"
   )
+
+  # Getting properties of a directory
+  get_directory_property(version_value DIRECTORY PROPERTY VERSION)
+  get_directory_property(documentation_path DIRECTORY PROPERTY DOCUMENTATION)
+  message(STATUS "Version: ${version_value}")
+  message(STATUS "Documentation Path: ${documentation_path}")
   ```
-
-Here, the `set_target_properties` command configures different output paths based on the build configuration. For the Debug configuration, it sets the output directory to `${CMAKE_BINARY_DIR}/bin/debug`; for the Release configuration, it sets it to `${CMAKE_BINARY_DIR}/bin/release`.
-
-These examples demonstrate how generator expressions can be used to conditionally set values based on the build system generator or build configuration in CMake. They provide flexibility in configuring different aspects of the build depending on the context.

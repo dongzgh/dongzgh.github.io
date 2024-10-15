@@ -7,7 +7,7 @@ permalink: /books/cmake-by-examples/chapter-2
 
 Creating a basic CMake project involves creating a project directory, adding source code files, and creating a `CMakeLists.txt` file to describe how the project should be built. Here's a simple example of a CMake project for a C++ program:
 
-### Step 1: Project Directory Structure
+### 2.1.1. **Project Directory Structure**
 
 Create a project directory and navigate to it:
 
@@ -16,7 +16,7 @@ mkdir MyProject
 cd MyProject
 ```
 
-### Step 2: Source Code
+### 2.1.2. **Source Code**
 
 Create a C++ source code file, for example, `main.cpp`:
 
@@ -30,7 +30,7 @@ int main() {
 }
 ```
 
-### Step 3: CMakeLists.txt
+### 2.1.3. **CMakeLists.txt**
 
 Create a `CMakeLists.txt` file in the project directory:
 
@@ -45,7 +45,7 @@ project(MyProject)
 add_executable(MyExecutable main.cpp)
 ```
 
-### Step 4: Build the Project
+### 2.1.4. **Build the Project**
 
 Open a terminal in the project directory and run the following commands:
 
@@ -58,7 +58,7 @@ make # or use `cmake --build .`
 
 These commands create a `build` directory, generate the build files using CMake, and then build the executable using the generated build files.
 
-### Step 5: Run the Executable
+### 2.1.5. **Run the Executable**
 
 After building the project, you can run the executable:
 
@@ -92,8 +92,6 @@ Below is an example of how CMake project files can be organized for a simple C++
     └── my_class.cpp
 ```
 
-### `CMakeLists.txt`
-
 ```cmake
 # MyProject/CMakeLists.txt
 cmake_minimum_required(VERSION 3.10)
@@ -115,8 +113,6 @@ add_executable(MyExecutable ${SOURCES})
 target_link_libraries(MyExecutable PRIVATE MyLibrary)
 ```
 
-### `src/main.cpp`
-
 ```cpp
 //src/main.cpp
 #include <iostream>
@@ -124,17 +120,15 @@ target_link_libraries(MyExecutable PRIVATE MyLibrary)
 #include "my_library.h"
 
 int main() {
-    MyClass myObject;
-    myObject.printMessage();
+  MyClass myObject;
+  myObject.printMessage();
 
-    // Using MyLibrary function
-    myLibraryFunction();
+  // Using MyLibrary function
+  myLibraryFunction();
 
-    return 0;
+  return 0;
 }
 ```
-
-### `src/my_class.cpp`
 
 ```cpp
 //my_class.cpp
@@ -148,8 +142,6 @@ void MyClass::printMessage()
 }
 ```
 
-### `include/my_class.h`
-
 ```cpp
 //include/MyLibrary/my_class.h
 #pragma once
@@ -162,21 +154,17 @@ public:
 };
 ```
 
-### `external/MyLibrary/CMakeLists.txt`
-
 ```cmake
 # //external/MyLibrary/CMakeLists.txt
 # MyLibrary target
 add_library(MyLibrary
-    include/my_library.h
-    src/my_library.cpp
+  include/my_library.h
+  src/my_library.cpp
 )
 
 # Include directories for MyLibrary
 target_include_directories(MyLibrary PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
 ```
-
-### `external/MyLibrary/include/my_library.h`
 
 ```cpp
 //external/MyLibrary/include/my_library.h
@@ -185,15 +173,13 @@ target_include_directories(MyLibrary PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
 void myLibraryFunction();
 ```
 
-### `external/MyLibrary/src/my_library.cpp`
-
 ```cpp
 //external/MyLibrary/src/my_library.cpp
 #include <iostream>
 #include "my_library.h"
 
 void myLibraryFunction() {
-    std::cout << "Call myLibraryFunction!\n";
+  std::cout << "Call myLibraryFunction!\n";
 }
 
 ```

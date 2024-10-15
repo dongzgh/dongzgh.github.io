@@ -1,42 +1,47 @@
 ---
-title: Chapter 9. Modules
+title: Chapter 9. Generator Expressions
 permalink: /books/cmake-by-examples/chapter-9
 ---
 
-CMake modules are script files containing reusable functionality that can be included in CMake projects using the `include` command. Modules help organize and encapsulate commonly used code. Here are examples of writing and using CMake modules:
+Generator expressions in CMake provide a way to customize build configurations and settings based on the build system generator. They are used within CMake commands and properties to conditionally specify values based on the generator in use. Here are some examples of how to use generator expressions:
 
-In this example, we call the `print_greeting` function from the `MyUtilities.cmake` module with a parameter.
-
-- Example 1: Writing a CMake Module with Return Value
+- **Example 1: Setting Compiler Flags Conditionally**
 
   ```cmake
-  # MyMathFunctions.cmake
-
-  function(square_number number)
-      math(EXPR result "${number} * ${number}")
-      set(${ARGV1} ${result} PARENT_SCOPE)
-  endfunction()
+  # Set different compiler flags based on the generator
+  target_compile_options(MyTarget PRIVATE
+    $<$<CXX_COMPILER_ID:MSVC>:/W4>
+    $<$<CXX_COMPILER_ID:GNU>:-Wall>
+    $<$<CXX_COMPILER_ID:Clang>:-Wall>
+  )
   ```
 
-- Example 2: Using the CMake Module with Return Value
+- **Example 2: Conditionally Linking Libraries**
 
   ```cmake
-  # CMakeLists.txt
-
-  cmake_minimum_required(VERSION 3.10)
-  project(MyProject)
-
-  # Include the MyMathFunctions module
-  include(MyMathFunctions)
-
-  # Call the function and retrieve the result
-  set(input_number 5)
-  square_number(${input_number} squared_result)
-  message(STATUS "Square of ${input_number}: ${squared_result}")
-
-  # Your project configurations go here...
+  # Link different libraries based on the generator
+  target_link_libraries(MyTarget PRIVATE
+    $<$<CONFIG:Debug>:debug_library>
+    $<$<CONFIG:Release>:optimized release_library>
+  )
   ```
 
-In this example, we include the `MyMathFunctions.cmake` module, call the `square_number` function, and retrieve and print the result.
+- **Example 3: Adding Compile Definitions Conditionally**
 
-These examples demonstrate how to write CMake modules to encapsulate and reuse functionality in different projects. Modules help keep your CMake code modular and maintainable.
+  ```cmake
+  # Add compile definitions based on the generator
+  target_compile_definitions(MyTarget PRIVATE
+    $<$<CONFIG:Debug>:DEBUG_MODE>
+    $<$<CONFIG:Release>:RELEASE_MODE>
+  )
+  ```
+
+- **Example 4: Configuring Output Paths Conditionally**
+
+  ```cmake
+  # Configure output paths based on the generator
+  set_target_properties(MyTarget PROPERTIES
+    RUNTIME_OUTPUT_DIRECTORY $<$<CONFIG:Debug>:${CMAKE_BINARY_DIR}/bin/debug>
+    RUNTIME_OUTPUT_DIRECTORY $<$<CONFIG:Release>:${CMAKE_BINARY_DIR}/bin/release>
+  )
+  ```
