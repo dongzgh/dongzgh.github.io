@@ -25,22 +25,24 @@ medium: book
 
 [Chapter 9: Generator Expressions]({% link _pages/books/cmake-by-examples/chapter-9.md %})
 
-[Chapter 10: Modules]({% link _pages/books/cmake-by-examples/chapter-10.md %})
+[Chapter 10: Visibility]({% link _pages/books/cmake-by-examples/chapter-10.md %})
 
-[Chapter 11: Subdirectories]({% link _pages/books/cmake-by-examples/chapter-11.md %})
+[Chapter 11: Modules]({% link _pages/books/cmake-by-examples/chapter-11.md %})
 
-[Chapter 12: Debugging and Profiling]({% link _pages/books/cmake-by-examples/chapter-12.md %})
+[Chapter 12: Subdirectories]({% link _pages/books/cmake-by-examples/chapter-12.md %})
 
-[Chapter 13: Testing]({% link _pages/books/cmake-by-examples/chapter-13.md %})
+[Chapter 13: Debugging and Profiling]({% link _pages/books/cmake-by-examples/chapter-13.md %})
 
-[Chapter 14: Custom Commands]({% link _pages/books/cmake-by-examples/chapter-14.md %})
+[Chapter 14: Testing]({% link _pages/books/cmake-by-examples/chapter-14.md %})
 
-[Chapter 15: Install]({% link _pages/books/cmake-by-examples/chapter-15.md %})
+[Chapter 15: Custom Commands]({% link _pages/books/cmake-by-examples/chapter-15.md %})
+
+[Chapter 16: Install]({% link _pages/books/cmake-by-examples/chapter-16.md %})
 
 ## Appendices
 
-[A: Qt Projects]({% link _pages/books/cmake-by-examples/chapter-16.md %})
+[A: Qt Projects]({% link _pages/books/cmake-by-examples/chapter-17.md %})
 
-[B: VS/VSCode Projects]({% link _pages/books/cmake-by-examples/chapter-17.md %})
+[B: VS/VSCode Projects]({% link _pages/books/cmake-by-examples/chapter-18.md %})
 
-[C: Project Templates]({% link _pages/books/cmake-by-examples/chapter-18.md %})
+[C: Project Templates]({% link _pages/books/cmake-by-examples/chapter-19.md %})

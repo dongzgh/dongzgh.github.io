@@ -1,123 +1,131 @@
 ---
-title: C. Project Templates
+title: B. VS/VSCode Projects
 permalink: /books/cmake-by-examples/chapter-18
 ---
 
-## Project Template with Library and Scripts
+## B.1 Visual Studio Project
 
-### Directory Structure
+To create CMake projects in Visual Studio, follow these steps:
 
-```text
-project_root/
-├── CMakeLists.txt
-├── src/
-│   └── main.cpp
-├── libs/
-│   └── core/
-│       ├── CMakeLists.txt
-│       ├── core.h
-│       └── core.cpp
-└── scripts/
-    └── example_script.sh
-```
+1. **Open Visual Studio**:
+   - Launch Visual Studio.
 
-### Root `CMakeLists.txt`
+2. **Create a New Project**:
+   - Go to `File` > `New` > `Project...`.
 
-```cmake
-cmake_minimum_required(VERSION 3.14)
+3. **Select CMake Project**:
+   - In the "Create a new project" dialog, search for "CMake".
+   - Select "CMake Project" from the list.
+   - Click `Next`.
 
-project(MyQtProject)
+4. **Configure Project Details**:
+   - Enter the project name and location.
+   - Click `Create`.
 
-set(CMAKE_CXX_STANDARD 17)
+5. **Edit CMakeLists.txt**:
+   - Visual Studio will generate a basic `CMakeLists.txt` file.
+   - You can edit this file to add your project configuration.
 
-# Find Qt libraries
-find_package(Qt5 COMPONENTS Core LinguistTools REQUIRED)
+6. **Add Source Files**:
+   - Add your source files (e.g., `.cpp`, `.h`) to the project directory.
+   - Update `CMakeLists.txt` to include these files.
 
-# Add subdirectories
-add_subdirectory(libs/core)
-add_subdirectory(src)
+7. **Build and Run**:
+   - Use the `Build` menu to build your project.
+   - Use the `Debug` menu to run your project.
 
-# Translation support
-file(GLOB TS_FILES "translations/*.ts")
-qt5_create_translation(QM_FILES ${CMAKE_SOURCE_DIR} ${TS_FILES})
-```
+8. **Example project**
 
-### `libs/core/CMakeLists.txt`
+    ```cmake
+    # CMakeLists.txt
+    cmake_minimum_required(VERSION 3.5)
 
-```cmake
-add_library(core STATIC core.cpp core.h)
+    project(QtBasicApp)
 
-target_link_libraries(core Qt5::Core)
-```
+    set(CMAKE_CXX_STANDARD 11)
 
-### `src/CMakeLists.txt`
+    find_package(Qt5 COMPONENTS Widgets REQUIRED)
 
-```cmake
-add_executable(main main.cpp)
+    add_executable(QtBasicApp main.cpp)
 
-target_link_libraries(main core Qt5::Core)
-```
+    target_link_libraries(QtBasicApp Qt5::Widgets)
+    ```
 
-### `src/main.cpp`
+    ```cpp
+    // main.cpp
+    #include <QApplication>
+    #include <QPushButton>
 
-```cpp
-#include <QCoreApplication>
-#include "core.h"
+    int main(int argc, char *argv[]) {
+        QApplication app(argc, argv);
 
-int main(int argc, char *argv[]) {
-    QCoreApplication app(argc, argv);
+        QPushButton button("Hello, Qt!");
+        button.show();
 
-    Core core;
-    core.sayHello();
+        return app.exec();
+    }
+    ```
 
-    return app.exec();
-}
-```
+## B.2 Visual Studio Code Project
 
-### `libs/core/core.h`
+To create a CMake project in Visual Studio Code, follow these steps:
 
-```cpp
-#ifndef CORE_H
-#define CORE_H
+1. **Install Necessary Extensions**:
+   - Open Visual Studio Code.
+   - Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window or by pressing `Ctrl+Shift+X`.
+   - Install the following extensions:
+     - CMake Tools
+     - C/C++ (by Microsoft)
 
-#include <QObject>
+2. **Create a New Project Directory**:
+   - Create a new directory for your project.
+   - Open this directory in Visual Studio Code (`File` > `Open Folder...`).
 
-class Core : public QObject {
-    Q_OBJECT
+3. **Create CMakeLists.txt**:
+   - In the root of your project directory, create a file named `CMakeLists.txt`.
+   - Add the following content to `CMakeLists.txt` for a basic Qt application:
 
-public:
-    Core();
-    void sayHello();
-};
+     ```cmake
+     cmake_minimum_required(VERSION 3.5)
 
-#endif // CORE_H
-```
+     project(QtBasicApp)
 
-### `libs/core/core.cpp`
-```cpp
-#include "core.h"
-#include <QDebug>
+     set(CMAKE_CXX_STANDARD 11)
 
-Core::Core() {}
+     find_package(Qt5 COMPONENTS Widgets REQUIRED)
 
-void Core::sayHello() {
-    qDebug() << "Hello from Core!";
-}
-```
+     add_executable(QtBasicApp main.cpp)
 
-### `scripts/example_script.sh`
+     target_link_libraries(QtBasicApp Qt5::Widgets)
+     ```
 
-```sh
-#!/bin/bash
-echo "This is an example script."
-```
+4. **Add Source Files**:
+   - Create a file named `main.cpp` in the same directory.
+   - Add the following content to `main.cpp`:
 
-### Commands to Build and Run
+     ```cpp
+     #include <QApplication>
+     #include <QPushButton>
 
-```sh
-mkdir build
-cd build
-cmake ..
-make
-./src/main
-```
+     int main(int argc, char *argv[]) {
+         QApplication app(argc, argv);
+
+         QPushButton button("Hello, Qt!");
+         button.show();
+
+         return app.exec();
+     }
+     ```
+
+5. **Configure CMake Tools**:
+   - Open the Command Palette (`Ctrl+Shift+P`).
+   - Type `CMake: Configure` and select it.
+   - Follow the prompts to configure your project. You may need to specify the path to your CMake executable and the generator (e.g., Ninja or Unix Makefiles).
+
+6. **Build the Project**:
+   - Open the Command Palette (`Ctrl+Shift+P`).
+   - Type `CMake: Build` and select it.
+
+7. **Run the Project**:
+   - Open the Command Palette (`Ctrl+Shift+P`).
+   - Type `CMake: Run Without Debugging` or `CMake: Debug` to run your project.

@@ -1,254 +1,108 @@
 ---
-title: Chapter 13. Testing
+title: Chapter 13. Debugging and Profiling
 permalink: /books/cmake-by-examples/chapter-13
 ---
 
-## 13.1 Add Google Tests
+## 12.1 Log Messages
 
-To use Google Test in CMake, you need to follow these steps:
+The `message` command in CMake is a useful tool for debugging and providing information during the configuration process. It can be used to print messages to the console at various verbosity levels. Here are some examples of using `message` for debugging in CMake:
 
-1. **Install Google Test**: Use CMake's [`FetchContent`](command:_github.copilot.openSymbolFromReferences?%5B%22%22%2C%5B%7B%22uri%22%3A%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FUsers%2Fdong%2FDocuments%2Fgithub%2Fresearch%2F_pages%2Fbooks%2Fcmake-by-examples%2Fchapter-13.md%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%2C%22pos%22%3A%7B%22line%22%3A21%2C%22character%22%3A10%7D%7D%5D%2C%2229d4e446-6ee3-4d9e-a8e9-b213322f293c%22%5D "Go to definition") module to download and install Google Test.
-2. **Enable Testing**: Enable testing in your CMake project.
-3. **Add Test Executable**: Create a test executable.
-4. **Link Google Test**: Link the test executable with Google Test.
-5. **Add Tests**: Register the tests with CTest.
+- **Example 1: Basic Message**
 
-- **Example of using Google Test**
+  ```cmake
+  # Basic message
+  message("This is a basic message.")
+  ```
+
+- **Example 2: Verbose Messages**
+
+  ```cmake
+  # Verbose messages
+  message(STATUS "This is a status message.")
+  message(WARNING "This is a warning message.")
+  message(SEND_ERROR "This is an error message.")
+  message(FATAL_ERROR "This is a fatal error message.")
+  ```
+
+- **Example 3: Printing Variable Values**
+
+  ```cmake
+  # Printing variable values
+  set(my_variable "Hello, CMake!")
+  message(STATUS "The value of my_variable is: ${my_variable}")
+  ```
+
+- **Example 4: Message with Generator Expressions**
+
+  ```cmake
+  # Message with generator expression
+  message(STATUS "Build type is $<CONFIG>")
+  ```
+
+- **Example 5: Printing System Information**
+
+  ```cmake
+  # Printing system information
+  message(STATUS "CMake version: ${CMAKE_VERSION}")
+  message(STATUS "System: ${CMAKE_SYSTEM_NAME}")
+  message(STATUS "Processor: ${CMAKE_SYSTEM_PROCESSOR}")
+  ```
+
+## 12.2 Profiling
+
+Profiling CMake calls can be helpful for understanding the performance characteristics of your CMake configuration process. While CMake itself doesn't have built-in profiling tools, you can use external tools to analyze the time spent in various CMake commands and scripts. Here are some approaches:
+
+- **CMake's `--trace` Option**
+
+  CMake provides a `--trace` option that can be used to trace the execution of CMake commands. This can help identify which commands are taking the most time.
+
+  ```bash
+  cmake --trace <path/to/source>
+  ```
+
+  This command traces the execution of CMake, and you can redirect the output to a file for further analysis.
+
+- **CMake Profiler**
+
+  The [CMakeProfiler](https://github.com/toeb/cmakepp)is an open-source tool that aims to profile CMake projects. It provides a graphical interface for visualizing the duration of CMake commands.
+
+  To use it, you generally need to clone the repository, build the profiler, and then use it to profile your CMake project.
+
+- **Manual Timing with `message` Statements**
+
+  You can manually insert `message` statements in your CMakeLists.txt files to measure the time taken by specific sections of your configuration process. For example:
 
   ```cmake
   # CMakeLists.txt
-  # Minimum CMake version
-  cmake_minimum_required(VERSION 3.10)
-
-  # Project name
-  project(MyProject)
-
-  # Enable testing
-  enable_testing()
-
-  # Add GoogleTest
-  include(FetchContent)
-  FetchContent_Declare(
-    googletest
-    URL https://github.com/google/googletest/archive/release-1.10.0.zip
-  )
-  # For Windows: Prevent overriding the parent project's compiler/linker settings
-  set(gtest_force_shared_crt ON CACHE BOOL "" FORCE)
-  FetchContent_MakeAvailable(googletest)
-
-  # Add the main project source files
-  add_executable(MyProject main.cpp)
-
-  # Add the test executable
-  add_executable(MyProjectTests test_main.cpp)
-
-  # Link GoogleTest to the test executable
-  target_link_libraries(MyProjectTests gtest_main)
-
-  # Add tests
-  add_test(NAME MyTest COMMAND MyProjectTests)
+  message(STATUS "Start timing")
+  # ... your CMake code ...
+  message(STATUS "End timing")
   ```
 
-  ```cpp
-  // test_main.cpp
-  #include <gtest/gtest.h>
+  This approach gives you a rough idea of where time is being spent but is less precise than dedicated profiling tools.
 
-  // Example function to be tested
-  int add(int a, int b) {
-    return a + b;
-  }
+- **External Profiling Tools**
 
-  // Test case
-  TEST(AdditionTest, HandlesPositiveInput) {
-    EXPECT_EQ(add(1, 2), 3);
-    EXPECT_EQ(add(2, 3), 5);
-  }
+  Use external profiling tools like `strace`, `ltrace`, or `perf` (on Linux) to analyze system calls and performance.
 
-  int main(int argc, char **argv) {
-    ::testing::InitGoogleTest(&argc, argv);
-    return RUN_ALL_TESTS();
-  }
+  ```bash
+  strace -o strace.log cmake <path/to/source>
   ```
 
-## 13.2 Add Custom Tests
-
-In CMake, you can create custom tests by registering any executable or script as a test using the `add_test()` command. This is useful when you have your own custom testing framework or scripts that you want to integrate with CTest.Here are some examples of using custom tests in CMake:
-
-- **Example 1. Custom Tests with Command-Line Arguments**
-
-  ```cmake
-  # CMakeLists.txt
-  cmake_minimum_required(VERSION 3.10)
-  project(CustomTestWithArguments)
-
-  enable_testing()
-
-  add_executable(MyApp main.cpp)
-
-  # Add an executable for testing
-  add_executable(MyArgumentTest my_argument_test.cpp)
-
-  # Register the test with arguments
-  add_test(NAME ArgumentTest COMMAND MyArgumentTest 10 20)
+  ```bash
+  perf record cmake <path/to/source>
   ```
 
-  ```cpp
-  // my_argument_test.cpp
-  #include <iostream>
-  #include <cstdlib>
+  These tools provide a detailed view of system calls and can help identify performance bottlenecks.
 
-  int main(int argc, char* argv[]) {
-    if (argc != 3) {
-      std::cerr << "Usage: " << argv[0] << " <num1> <num2>\n";
-      return 1;
-    }
+- **CMake GUI**
 
-    int num1 = std::atoi(argv[1]);
-    int num2 = std::atoi(argv[2]);
-    int result = num1 + num2;
+  The CMake GUI can be used to visualize the command flow. Launch the GUI using:
 
-    if (result == 30) {
-      std::cout << "Test passed!" << std::endl;
-      return 0;
-    } else {
-      std::cerr << "Test failed: expected 30 but got " << result << std::endl;
-      return 1;
-    }
-  }
+  ```bash
+  cmake-gui <path/to/source>
   ```
 
-- **Example 2. Custom Tests with Scripts**
+  While it doesn't provide direct profiling information, it can give you a clear overview of how CMake is processing your project.
 
-  ```cmake
-  # CMakeLists.txt (with Python script)
-  cmake_minimum_required(VERSION 3.10)
-  project(CustomScriptTest)
-
-  enable_testing()
-
-  # Register a Python script as a test
-  add_test(NAME PythonTest COMMAND python3 ${CMAKE_SOURCE_DIR}/test_script.py)
-  ```
-
-  ```python
-  # test_script.py
-  import sys
-
-  def test_function():
-    return 1 + 1 == 2
-
-  if __name__ == "__main__":
-    if test_function():
-      print("Test passed!")
-      sys.exit(0)
-    else:
-      print("Test failed!")
-      sys.exit(1)
-  ```
-
-- **Example 3. Custom Tests with Environment Variables**
-
-  ```cmake
-  # CMakeLists.txt
-  cmake_minimum_required(VERSION 3.10)
-  project(CustomEnvTest)
-
-  enable_testing()
-
-  add_executable(MyEnvTest my_env_test.cpp)
-
-  # Register the test
-  add_test(NAME EnvTest COMMAND MyEnvTest)
-
-  # Set an environment variable for the test
-  set_tests_properties(EnvTest PROPERTIES ENVIRONMENT "MY_VAR=42")
-  ```
-
-  ```cpp
-  // my_env_test.cpp
-  #include <iostream>
-  #include <cstdlib>
-
-  int main() {
-    const char* my_var = std::getenv("MY_VAR");
-    if (my_var && std::string(my_var) == "42") {
-      std::cout << "Test passed: MY_VAR = " << my_var << std::endl;
-      return 0;
-    } else {
-      std::cerr << "Test failed: MY_VAR is not set correctly" << std::endl;
-      return 1;
-    }
-  }
-  ```
-
-- **Example 4. Custom Tests with Timeout Settings**
-
-  ```cmake
-  # CMakeLists.txt
-  cmake_minimum_required(VERSION 3.10)
-  project(CustomTimeoutTest)
-
-  enable_testing()
-
-  add_executable(MyTimeoutTest my_timeout_test.cpp)
-
-  # Register the test
-  add_test(NAME TimeoutTest COMMAND MyTimeoutTest)
-
-  # Set a timeout for the test (e.g., 5 seconds)
-  set_tests_properties(TimeoutTest PROPERTIES TIMEOUT 5)
-  ```
-
-  ```cpp
-  // my_timeout_test.cpp
-  #include <iostream>
-  #include <thread>
-  #include <chrono>
-
-  int main() {
-    std::this_thread::sleep_for(std::chrono::seconds(10));  // Sleep for 10 seconds
-    std::cout << "Test completed!" << std::endl;
-    return 0;
-  }
-  ```
-
-- **Example 5. Adding Test Dependencies**
-
-  ```cmake
-  # CMakeLists.txt
-  cmake_minimum_required(VERSION 3.10)
-  project(MyProject)
-
-  enable_testing()
-
-  # Add the first test executable
-  add_executable(MyFirstTest my_first_test.cpp)
-  add_test(NAME FirstTest COMMAND MyFirstTest)
-
-  # Add the second test executable
-  add_executable(MySecondTest my_second_test.cpp)
-  add_test(NAME SecondTest COMMAND MySecondTest)
-
-  # Make SecondTest depend on FirstTest
-  set_tests_properties(SecondTest PROPERTIES DEPENDS FirstTest)
-  ```
-
-  ```cpp
-  // my_first_test.cpp
-  #include <iostream>
-
-  int main() {
-    std::cout << "First test completed!" << std::endl;
-    return 0;
-  }
-  ```
-
-## 13.3. Run CMake Tests
-
-```bash
-mkdir build
-cd build
-cmake ..
-make
-ctest
-```
+Choose the method that best fits your needs and the available tools on your system. Profiling CMake can be useful for optimizing the configuration process, especially in large projects with complex CMakeLists.txt files.

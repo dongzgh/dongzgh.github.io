@@ -1,131 +1,230 @@
 ---
-title: B. VS/VSCode Projects
+title: A. Qt Projects
 permalink: /books/cmake-by-examples/chapter-17
 ---
 
-## B.1 Visual Studio Project
+- **Example 1. Basic Qt Application**
 
-To create CMake projects in Visual Studio, follow these steps:
+  ```cmake
+  # CMakeLists.txt
+  cmake_minimum_required(VERSION 3.5)
 
-1. **Open Visual Studio**:
-   - Launch Visual Studio.
+  project(QtBasicApp)
 
-2. **Create a New Project**:
-   - Go to `File` > `New` > `Project...`.
+  set(CMAKE_CXX_STANDARD 11)
 
-3. **Select CMake Project**:
-   - In the "Create a new project" dialog, search for "CMake".
-   - Select "CMake Project" from the list.
-   - Click `Next`.
+  find_package(Qt5 COMPONENTS Widgets REQUIRED)
 
-4. **Configure Project Details**:
-   - Enter the project name and location.
-   - Click `Create`.
+  add_executable(QtBasicApp main.cpp)
 
-5. **Edit CMakeLists.txt**:
-   - Visual Studio will generate a basic `CMakeLists.txt` file.
-   - You can edit this file to add your project configuration.
+  target_link_libraries(QtBasicApp Qt5::Widgets)
+  ```
 
-6. **Add Source Files**:
-   - Add your source files (e.g., `.cpp`, `.h`) to the project directory.
-   - Update `CMakeLists.txt` to include these files.
+  ```cpp
+  // main.cpp
+  #include <QApplication>
+  #include <QPushButton>
 
-7. **Build and Run**:
-   - Use the `Build` menu to build your project.
-   - Use the `Debug` menu to run your project.
+  int main(int argc, char *argv[]) {
+      QApplication app(argc, argv);
 
-8. **Example project**
+      QPushButton button("Hello, Qt!");
+      button.show();
 
-    ```cmake
-    # CMakeLists.txt
-    cmake_minimum_required(VERSION 3.5)
+      return app.exec();
+  }
+  ```
 
-    project(QtBasicApp)
+- **Example 2. Qt Application with Custom Widgets**
 
-    set(CMAKE_CXX_STANDARD 11)
+  ```cmake
+  # CMakeLists.txt
+  cmake_minimum_required(VERSION 3.5)
 
-    find_package(Qt5 COMPONENTS Widgets REQUIRED)
+  project(QtCustomWidgetApp)
 
-    add_executable(QtBasicApp main.cpp)
+  set(CMAKE_CXX_STANDARD 11)
 
-    target_link_libraries(QtBasicApp Qt5::Widgets)
-    ```
+  find_package(Qt5 COMPONENTS Widgets REQUIRED)
 
-    ```cpp
-    // main.cpp
-    #include <QApplication>
-    #include <QPushButton>
+  add_executable(QtCustomWidgetApp main.cpp customwidget.cpp)
 
-    int main(int argc, char *argv[]) {
-        QApplication app(argc, argv);
+  target_link_libraries(QtCustomWidgetApp Qt5::Widgets)
+  ```
 
-        QPushButton button("Hello, Qt!");
-        button.show();
+  ```cpp
+  // main.cpp
+  #include <QApplication>
+  #include "customwidget.h"
 
-        return app.exec();
-    }
-    ```
+  int main(int argc, char *argv[]) {
+      QApplication app(argc, argv);
 
-## B.2 Visual Studio Code Project
+      CustomWidget widget;
+      widget.show();
 
-To create a CMake project in Visual Studio Code, follow these steps:
+      return app.exec();
+  }
+  ```
 
-1. **Install Necessary Extensions**:
-   - Open Visual Studio Code.
-   - Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window or by pressing `Ctrl+Shift+X`.
-   - Install the following extensions:
-     - CMake Tools
-     - C/C++ (by Microsoft)
+  ```cpp
+  // customwidget.h
+  #ifndef CUSTOMWIDGET_H
+  #define CUSTOMWIDGET_H
 
-2. **Create a New Project Directory**:
-   - Create a new directory for your project.
-   - Open this directory in Visual Studio Code (`File` > `Open Folder...`).
+  #include <QWidget>
 
-3. **Create CMakeLists.txt**:
-   - In the root of your project directory, create a file named `CMakeLists.txt`.
-   - Add the following content to `CMakeLists.txt` for a basic Qt application:
+  class CustomWidget : public QWidget {
+      Q_OBJECT
 
-     ```cmake
-     cmake_minimum_required(VERSION 3.5)
+  public:
+      CustomWidget(QWidget *parent = nullptr);
+  };
 
-     project(QtBasicApp)
+  #endif // CUSTOMWIDGET_H
+  ```
 
-     set(CMAKE_CXX_STANDARD 11)
+  ```cpp
+  // customwidget.cpp
 
-     find_package(Qt5 COMPONENTS Widgets REQUIRED)
+  #include "customwidget.h"
+  #include <QPushButton>
+  #include <QVBoxLayout>
 
-     add_executable(QtBasicApp main.cpp)
+  CustomWidget::CustomWidget(QWidget *parent) : QWidget(parent) {
+      QVBoxLayout *layout = new QVBoxLayout(this);
+      QPushButton *button = new QPushButton("Custom Widget Button", this);
+      layout->addWidget(button);
+      setLayout(layout);
+  }
+  ```
 
-     target_link_libraries(QtBasicApp Qt5::Widgets)
-     ```
+- **Example 3. Qt Application with Resources**
 
-4. **Add Source Files**:
-   - Create a file named `main.cpp` in the same directory.
-   - Add the following content to `main.cpp`:
+  ```cmake
+  # CMakeLists.txt
+  cmake_minimum_required(VERSION 3.5)
 
-     ```cpp
-     #include <QApplication>
-     #include <QPushButton>
+  project(QtResourceApp)
 
-     int main(int argc, char *argv[]) {
-         QApplication app(argc, argv);
+  set(CMAKE_CXX_STANDARD 11)
 
-         QPushButton button("Hello, Qt!");
-         button.show();
+  find_package(Qt5 COMPONENTS Widgets REQUIRED)
 
-         return app.exec();
-     }
-     ```
+  qt5_add_resources(RESOURCES resources.qrc)
 
-5. **Configure CMake Tools**:
-   - Open the Command Palette (`Ctrl+Shift+P`).
-   - Type `CMake: Configure` and select it.
-   - Follow the prompts to configure your project. You may need to specify the path to your CMake executable and the generator (e.g., Ninja or Unix Makefiles).
+  add_executable(QtResourceApp main.cpp ${RESOURCES})
 
-6. **Build the Project**:
-   - Open the Command Palette (`Ctrl+Shift+P`).
-   - Type `CMake: Build` and select it.
+  target_link_libraries(QtResourceApp Qt5::Widgets)
+  ```
 
-7. **Run the Project**:
-   - Open the Command Palette (`Ctrl+Shift+P`).
-   - Type `CMake: Run Without Debugging` or `CMake: Debug` to run your project.
+  ```cpp
+  // main.cpp
+
+  #include <QApplication>
+  #include <QLabel>
+  #include <QPixmap>
+
+  int main(int argc, char *argv[]) {
+      QApplication app(argc, argv);
+
+      QLabel label;
+      label.setPixmap(QPixmap(":/images/logo.png"));
+      label.show();
+
+      return app.exec();
+  }
+  ```
+
+  ```xml
+  <!-- resources.qrc -->
+
+  <RCC>
+      <qresource prefix="/">
+          <file alias="logo.png">images/logo.png</file>
+      </qresource>
+  </RCC>
+  ```
+
+- **Example 4. Qt Application with Translation**
+
+  ```cmake
+  # CMakeLists.txt
+  cmake_minimum_required(VERSION 3.5)
+
+  project(QtTranslationApp)
+
+  set(CMAKE_CXX_STANDARD 11)
+
+  find_package(Qt5 COMPONENTS Widgets LinguistTools REQUIRED)
+
+  set(TS_FILES translations_en.ts translations_fr.ts)
+
+  qt5_add_translation(QM_FILES ${TS_FILES})
+
+  add_executable(QtTranslationApp main.cpp ${QM_FILES})
+
+  target_link_libraries(QtTranslationApp Qt5::Widgets)
+  ```
+
+  ```cpp
+  // main.cpp
+
+  #include <QApplication>
+  #include <QTranslator>
+  #include <QLocale>
+  #include <QPushButton>
+  #include <QVBoxLayout>
+  #include <QWidget>
+
+  int main(int argc, char *argv[]) {
+      QApplication app(argc, argv);
+
+      QTranslator translator;
+      QString locale = QLocale::system().name();
+      translator.load(QString("translations_") + locale);
+      app.installTranslator(&translator);
+
+      QWidget window;
+      QVBoxLayout layout(&window);
+
+      QPushButton button(QObject::tr("Hello, Qt!"));
+      layout.addWidget(&button);
+
+      window.show();
+
+      return app.exec();
+  }
+  ```
+
+  ```xml
+  <!-- translations_en.ts -->
+  <?xml version="1.0" encoding="utf-8"?>
+  <!DOCTYPE TS>
+  <TS version="2.1" language="en">
+  <context>
+      <name>MainWindow</name>
+      <message>
+          <location filename="main.cpp" line="15"/>
+          <source>Hello, Qt!</source>
+          <translation>Hello, Qt!</translation>
+      </message>
+  </context>
+  </TS>
+  ```
+
+  ```xml
+  <!-- translations_fr.ts -->
+  <?xml version="1.0" encoding="utf-8"?>
+  <!DOCTYPE TS>
+  <TS version="2.1" language="fr">
+  <context>
+      <name>MainWindow</name>
+      <message>
+          <location filename="main.cpp" line="15"/>
+          <source>Hello, Qt!</source>
+          <translation>Bonjour, Qt!</translation>
+      </message>
+  </context>
+  </TS>
+  ```

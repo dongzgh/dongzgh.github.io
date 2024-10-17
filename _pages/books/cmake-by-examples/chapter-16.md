@@ -1,230 +1,106 @@
 ---
-title: A. Qt Projects
+title: Chapter 16. Install
 permalink: /books/cmake-by-examples/chapter-16
 ---
 
-- **Example 1. Basic Qt Application**
+## 15.1 Build Install
+
+The `install` target in CMake is a special target that, when invoked, executes the installation rules specified in your `CMakeLists.txt` file. These rules are defined using the `install` command and determine how and where the built files (executables, libraries, headers, etc.) are copied to the installation directories.
+
+- **Example 1: Basic Installation of Executable and Libraries**
 
   ```cmake
-  # CMakeLists.txt
-  cmake_minimum_required(VERSION 3.5)
+  # Define the executable
+  add_executable(my_executable main.cpp)
 
-  project(QtBasicApp)
+  # Define the library
+  add_library(my_library my_library.cpp)
 
-  set(CMAKE_CXX_STANDARD 11)
-
-  find_package(Qt5 COMPONENTS Widgets REQUIRED)
-
-  add_executable(QtBasicApp main.cpp)
-
-  target_link_libraries(QtBasicApp Qt5::Widgets)
+  # Specify installation rules
+  install(TARGETS my_executable my_library
+    RUNTIME DESTINATION bin
+    LIBRARY DESTINATION lib
+    ARCHIVE DESTINATION lib/static)
   ```
 
-  ```cpp
-  // main.cpp
-  #include <QApplication>
-  #include <QPushButton>
-
-  int main(int argc, char *argv[]) {
-      QApplication app(argc, argv);
-
-      QPushButton button("Hello, Qt!");
-      button.show();
-
-      return app.exec();
-  }
-  ```
-
-- **Example 2. Qt Application with Custom Widgets**
+- **Example 2: Installing Header Files**
 
   ```cmake
-  # CMakeLists.txt
-  cmake_minimum_required(VERSION 3.5)
+  # Define the library
+  add_library(my_library my_library.cpp)
 
-  project(QtCustomWidgetApp)
+  # Specify installation rules for the library
+  install(TARGETS my_library
+    LIBRARY DESTINATION lib
+    ARCHIVE DESTINATION lib/static)
 
-  set(CMAKE_CXX_STANDARD 11)
-
-  find_package(Qt5 COMPONENTS Widgets REQUIRED)
-
-  add_executable(QtCustomWidgetApp main.cpp customwidget.cpp)
-
-  target_link_libraries(QtCustomWidgetApp Qt5::Widgets)
+  # Specify installation rules for header files
+  install(FILES my_library.h DESTINATION include)
   ```
 
-  ```cpp
-  // main.cpp
-  #include <QApplication>
-  #include "customwidget.h"
-
-  int main(int argc, char *argv[]) {
-      QApplication app(argc, argv);
-
-      CustomWidget widget;
-      widget.show();
-
-      return app.exec();
-  }
-  ```
-
-  ```cpp
-  // customwidget.h
-  #ifndef CUSTOMWIDGET_H
-  #define CUSTOMWIDGET_H
-
-  #include <QWidget>
-
-  class CustomWidget : public QWidget {
-      Q_OBJECT
-
-  public:
-      CustomWidget(QWidget *parent = nullptr);
-  };
-
-  #endif // CUSTOMWIDGET_H
-  ```
-
-  ```cpp
-  // customwidget.cpp
-
-  #include "customwidget.h"
-  #include <QPushButton>
-  #include <QVBoxLayout>
-
-  CustomWidget::CustomWidget(QWidget *parent) : QWidget(parent) {
-      QVBoxLayout *layout = new QVBoxLayout(this);
-      QPushButton *button = new QPushButton("Custom Widget Button", this);
-      layout->addWidget(button);
-      setLayout(layout);
-  }
-  ```
-
-- **Example 3. Qt Application with Resources**
+- **Example 3: Installing Configuration Files**
 
   ```cmake
-  # CMakeLists.txt
-  cmake_minimum_required(VERSION 3.5)
+  # Define the executable
+  add_executable(my_executable main.cpp)
 
-  project(QtResourceApp)
+  # Specify installation rules for the executable
+  install(TARGETS my_executable
+    RUNTIME DESTINATION bin)
 
-  set(CMAKE_CXX_STANDARD 11)
-
-  find_package(Qt5 COMPONENTS Widgets REQUIRED)
-
-  qt5_add_resources(RESOURCES resources.qrc)
-
-  add_executable(QtResourceApp main.cpp ${RESOURCES})
-
-  target_link_libraries(QtResourceApp Qt5::Widgets)
+  # Specify installation rules for configuration files
+  install(FILES config/my_config.conf DESTINATION etc/my_project)
   ```
 
-  ```cpp
-  // main.cpp
-
-  #include <QApplication>
-  #include <QLabel>
-  #include <QPixmap>
-
-  int main(int argc, char *argv[]) {
-      QApplication app(argc, argv);
-
-      QLabel label;
-      label.setPixmap(QPixmap(":/images/logo.png"));
-      label.show();
-
-      return app.exec();
-  }
-  ```
-
-  ```xml
-  <!-- resources.qrc -->
-
-  <RCC>
-      <qresource prefix="/">
-          <file alias="logo.png">images/logo.png</file>
-      </qresource>
-  </RCC>
-  ```
-
-- **Example 4. Qt Application with Translation**
+- **Example 4: Using `install(DIRECTORY)` to Install a Directory**
 
   ```cmake
-  # CMakeLists.txt
-  cmake_minimum_required(VERSION 3.5)
+  # Define the executable
+  add_executable(my_executable main.cpp)
 
-  project(QtTranslationApp)
+  # Specify installation rules for the executable
+  install(TARGETS my_executable
+  RUNTIME DESTINATION bin)
 
-  set(CMAKE_CXX_STANDARD 11)
-
-  find_package(Qt5 COMPONENTS Widgets LinguistTools REQUIRED)
-
-  set(TS_FILES translations_en.ts translations_fr.ts)
-
-  qt5_add_translation(QM_FILES ${TS_FILES})
-
-  add_executable(QtTranslationApp main.cpp ${QM_FILES})
-
-  target_link_libraries(QtTranslationApp Qt5::Widgets)
+  # Specify installation rules for an entire directory
+  install(DIRECTORY resources/ DESTINATION share/my_project/resources)
   ```
 
-  ```cpp
-  // main.cpp
+- **Example 5: Installing with Component-Based Installation**
 
-  #include <QApplication>
-  #include <QTranslator>
-  #include <QLocale>
-  #include <QPushButton>
-  #include <QVBoxLayout>
-  #include <QWidget>
+  ```cmake
+  # Define the executable
+  add_executable(my_executable main.cpp)
 
-  int main(int argc, char *argv[]) {
-      QApplication app(argc, argv);
+  # Specify installation rules with components
+  install(TARGETS my_executable
+    RUNTIME DESTINATION bin
+    COMPONENT Runtime)
 
-      QTranslator translator;
-      QString locale = QLocale::system().name();
-      translator.load(QString("translations_") + locale);
-      app.installTranslator(&translator);
+  install(FILES my_library.h
+    DESTINATION include
+    COMPONENT Development)
 
-      QWidget window;
-      QVBoxLayout layout(&window);
-
-      QPushButton button(QObject::tr("Hello, Qt!"));
-      layout.addWidget(&button);
-
-      window.show();
-
-      return app.exec();
-  }
+  install(FILES config/my_config.conf
+    DESTINATION etc/my_project
+    COMPONENT Configuration)
   ```
 
-  ```xml
-  <!-- translations_en.ts -->
-  <?xml version="1.0" encoding="utf-8"?>
-  <!DOCTYPE TS>
-  <TS version="2.1" language="en">
-  <context>
-      <name>MainWindow</name>
-      <message>
-          <location filename="main.cpp" line="15"/>
-          <source>Hello, Qt!</source>
-          <translation>Hello, Qt!</translation>
-      </message>
-  </context>
-  </TS>
-  ```
+## 15.2 Run Install
 
-  ```xml
-  <!-- translations_fr.ts -->
-  <?xml version="1.0" encoding="utf-8"?>
-  <!DOCTYPE TS>
-  <TS version="2.1" language="fr">
-  <context>
-      <name>MainWindow</name>
-      <message>
-          <location filename="main.cpp" line="15"/>
-          <source>Hello, Qt!</source>
-          <translation>Bonjour, Qt!</translation>
-      </message>
-  </context>
-  </TS>
-  ```
+To run the `install` target in CMake, follow these steps:
+
+1. **Configure the Project**: First, you need to configure your project using `cmake`to generate the build system files.
+
+2. **Build the Project**: Build the project using the generated build system.
+
+3. **Run the Install Target**: Finally, run the `install` target to install the files as specified in your `CMakeLists.txt`.
+
+Example command:
+
+```sh
+cd my_project
+cmake -S . -B build
+cmake --build build
+cmake --install build
+```
