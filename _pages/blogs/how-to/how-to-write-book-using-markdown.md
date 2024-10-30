@@ -5,7 +5,7 @@ medium: blog
 category: how-to
 ---
 
-## General Guideline
+### General Guideline
 
 Using Markdown to write a book can be an efficient way to structure and format your text, especially if you plan to publish your book online or convert it to various formats. Markdown is a lightweight markup language that uses simple and intuitive syntax for formatting text. Here are the steps you can follow to write a book using Markdown:
 
@@ -33,9 +33,9 @@ Using Markdown to write a book can be an efficient way to structure and format y
 
 By following these steps, you can effectively use Markdown to write and format your book, making the process more streamlined and efficient.
 
-## Document Conversion - Pandoc
+### Document Conversion - Pandoc
 
-### Single Document
+#### Single Document
 
 Using Pandoc to export a book written in Markdown to PDF involves a series of steps. Here's a general guide to help you convert your Markdown file(s) to a PDF format using Pandoc:
 
@@ -67,7 +67,7 @@ Pandoc supports various additional options and parameters for more advanced cust
 
 By following these steps and customizing the Pandoc command to meet your specific requirements, you can efficiently convert your Markdown file(s) to a PDF format using Pandoc.
 
-### Multiple Documents
+#### Multiple Documents
 
 If you have multiple Markdown files that are interlinked, you'll need to create a single comprehensive document before converting it to a PDF. You can use Pandoc's functionality to merge multiple Markdown files and generate a single PDF. Here's how you can achieve this:
 
