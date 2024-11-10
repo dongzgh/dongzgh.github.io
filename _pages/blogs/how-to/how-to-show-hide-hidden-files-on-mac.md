@@ -7,13 +7,13 @@ category: how-to
 
 To show hidden files in Finder on a Mac, you can use one of these methods:
 
-### Method 1: Keyboard Shortcut
+## Method 1: Keyboard Shortcut
 
 1. Open any Finder window.
 2. Press **Command + Shift + Period (⌘ + Shift + .)**.
 3. Hidden files and folders will appear with a slightly faded look to distinguish them from visible files. Press the same keys again to hide them.
 
-### Method 2: Terminal Command
+## Method 2: Terminal Command
 
 1. Open the **Terminal** app (you can find it in Applications > Utilities).
 2. Run this command to show hidden files:
