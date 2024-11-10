@@ -91,6 +91,7 @@ body {
   font-size: 1.25em;
   font-weight: bold;
   text-transform: uppercase;
+  padding-top: 10px;
 }
 
 .post-content h3 {
