@@ -2,7 +2,7 @@
 title: Compare iPad Models
 permalink: /blogs/compare-ipad-models
 medium: blog
-category: compare
+category: review
 ---
 
 Apple's iPad lineup offers a range of options for different users, each with several generations that have added new features and enhancements over time. Here’s a breakdown of the models and their generational advancements:
