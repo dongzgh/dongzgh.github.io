@@ -91,6 +91,7 @@ body {
   font-size: 1.25em;
   font-weight: bold;
   text-transform: uppercase;
+  padding-top: 10px;
 }
 
 .post-content h3 {
@@ -198,4 +199,33 @@ blockquote {
 
 code {
   font-size: 12px !important;
+}
+
+.site-footer {
+  padding: 5px 0px;
+}
+
+.copyright {
+  float: left;
+  padding-top: 15px;
+  font-size: 12px;
+}
+
+.social {
+  float: right;
+  font-size: 30px;
+}
+
+.ai, 
+.fab {
+  color: black
+}
+
+.ai:hover,
+.fab:hover {
+  color:  #00c4ff
+}
+
+a:hover {
+  text-decoration: none;
 }
