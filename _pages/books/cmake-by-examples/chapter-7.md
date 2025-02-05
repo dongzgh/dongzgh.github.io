@@ -1,59 +1,199 @@
 ---
-title: Chapter 7. Properties
+title: Chapter 7. Flow Control
 permalink: /books/cmake-by-examples/chapter-7
 ---
 
-In CMake, properties are a way to attach extra information to targets, source files, or directories. Here are some examples of how to set and get CMake properties:
+CMake's if statements are used to conditionally control the flow of the CMake script. Here are some examples of using if statements in CMake:
 
-- Example 1: Setting and Getting Target Properties
+### `if`
 
-  ```cmake
-  # Setting properties for a target
-  add_executable(MyExecutable main.cpp)
-  set_target_properties(MyExecutable PROPERTIES
-      CXX_STANDARD 11
-      CXX_STANDARD_REQUIRED ON
-      OUTPUT_NAME "MyApp"
-  )
-
-  # Getting properties of a target
-  get_target_property(output_name MyExecutable OUTPUT_NAME)
-  message(STATUS "Output Name of MyExecutable: ${output_name}")
-  ```
-
-In this example, we set properties for the target `MyExecutable` using `set_target_properties`. We set the C++ standard to 11, require it, and specify the output name. We then use `get_target_property` to retrieve and print the output name.
-
-- Example 2: Setting and Getting Source File Properties
+- **Example 1: Basic Condition**
 
   ```cmake
-  # Setting properties for a source file
-  set_source_files_properties(main.cpp PROPERTIES
-      COMPILE_DEFINITIONS "ENABLE_FEATURE_X"
-  )
+  set(MY_VARIABLE "some_value")
 
-  # Getting properties of a source file
-  get_source_file_property(definitions main.cpp COMPILE_DEFINITIONS)
-  message(STATUS "Compile Definitions for main.cpp: ${definitions}")
+  if(MY_VARIABLE STREQUAL "some_value")
+    ...
+  endif()
   ```
 
-In this example, we set properties for the source file `main.cpp` using `set_source_files_properties`. We define a compile definition, and then use `get_source_file_property` to retrieve and print the compile definitions.
-
-- Example 3: Setting and Getting Directory Properties
+- **Example 2: Checking if a Variable is Set**
 
   ```cmake
-  # Setting properties for a directory
-  set_directory_properties(PROPERTIES
-      VERSION 1.2.3
-      DOCUMENTATION "Path to documentation"
-  )
-
-  # Getting properties of a directory
-  get_directory_property(version_value DIRECTORY PROPERTY VERSION)
-  get_directory_property(documentation_path DIRECTORY PROPERTY DOCUMENTATION)
-  message(STATUS "Version: ${version_value}")
-  message(STATUS "Documentation Path: ${documentation_path}")
+  if(DEFINED MY_VARIABLE)
+    ...
+  endif()
   ```
 
-In this example, we set properties for the current directory using `set_directory_properties`. We set a version number and documentation path. We then use `get_directory_property` to retrieve and print these properties.
+- **Example 3: Checking if a Variable is True**
 
-These examples demonstrate how to set and get properties for targets, source files, and directories in CMake. Properties provide a flexible way to configure various aspects of your CMake project.
+  ```cmake
+  set(MY_FLAG TRUE)
+
+  if(MY_FLAG)
+    ...
+  endif()
+  ```
+
+- **Example 4: Checking if a Variable is False**
+
+  ```cmake
+  set(MY_FLAG FALSE)
+
+  if(NOT MY_FLAG)
+    ...
+  endif()
+  ```
+
+- **Example 5: Testing Numeric Values**
+
+  ```cmake
+  set(NUMBER 42)
+
+  if(NUMBER LESS 50)
+    ...
+  endif()
+  ```
+
+- **Example 6: Checking if a File Exists**
+
+  ```cmake
+  set(FILE_PATH "path/to/myfile.txt")
+
+  if(EXISTS ${FILE_PATH})
+    ...
+  endif()
+  ```
+
+- **Example 7: Checking the Build Type**
+
+  ```cmake
+  if(CMAKE_BUILD_TYPE STREQUAL "Debug")
+    ...
+  endif()
+  ```
+
+- **Example 8: Check the version number**
+
+  ```cmake
+  cmake_minimum_required(VERSION 3.10)
+
+  # Check if the CMake version is greater than or equal to 3.15
+  if(${CMAKE_VERSION} VERSION_GREATER_EQUAL "3.15")
+    ...
+  endif()
+  ```
+
+### `foreach`
+
+The foreach command in CMake is used to iterate over a list. Here are some examples of using foreach in CMake:
+
+- **Example 1: Iterating Over a List of Strings**
+
+  ```cmake
+  set(my_list "apple" "banana" "cherry")
+
+  foreach(fruit ${my_list})
+  ...
+  endforeach()
+  ```
+
+- **Example 2: Iterating Over a List of Numbers**
+
+  ```cmake
+  set(number_list 1 2 3 4 5)
+
+  foreach(number ${number_list})
+  ...
+  endforeach()
+  ```
+
+- **Example 3: Iterating Over a Range of Numbers**
+
+  ```cmake
+  # Create a list of numbers from 1 to 5
+  range(1 5 my_range)
+
+  foreach(number ${my_range})
+  ...
+  endforeach()
+  ```
+
+- **Example 4: Iterating Over Source Files**
+
+  ```cmake
+  # Get a list of source files in the current directory
+  file(GLOB my_sources "*.cpp")
+
+  foreach(source ${my_sources})
+  ...
+  endforeach()
+  ```
+
+- **Example 5: Iterating Over Directories**
+
+  ```cmake
+  # Get a list of subdirectories in the current directory
+  file(GLOB my_directories RELATIVE ${CMAKE_CURRENT_SOURCE_DIR} *)
+
+  foreach(directory ${my_directories})
+  ...
+  endforeach()
+  ```
+
+- **Example 6: Iterating Over Key-Value Pairs**
+
+  ```cmake
+  # Create a list of key-value pairs
+  set(my_map "name=John" "age=30" "city=New York")
+
+  foreach(pair ${my_map})
+    # Split each pair into key and value
+    string(REGEX MATCH "([^=]+)=([^=]*)" _ ${pair})
+    set(key "${CMAKE_MATCH_1}")
+    set(value "${CMAKE_MATCH_2}")
+
+    message(STATUS "Key: ${key}, Value: ${value}")
+  endforeach()
+  ```
+
+### `while`
+
+CMake doesn't have a direct while statement like some other programming languages. However, you can achieve similar looping behavior using conditional statements and variable manipulation. Here are a few examples demonstrating while-like constructs in CMake:
+
+- **Example 1: Counting from 1 to 5**
+
+  ```cmake
+  set(counter 1)
+
+  while(counter LESS_EQUAL 5)
+    message(STATUS "Counter: ${counter}")
+    math(EXPR counter "${counter} + 1")
+  endwhile()
+  ```
+
+- **Example 2: Processing Elements in a List**
+
+  ```cmake
+  set(my_list "apple" "banana" "cherry")
+
+  list(LENGTH my_list list_length)
+  set(index 0)
+
+  while(index LESS list_length)
+    list(GET my_list ${index} current_element)
+    message(STATUS "Element at index ${index}: ${current_element}")
+    math(EXPR index "${index} + 1")
+  endwhile()
+  ```
+
+- **Example 3: Performing an Operation Until a Condition is Met**
+
+  ```cmake
+  set(value 1)
+
+  while(NOT value EQUAL 100)
+    message(STATUS "Current Value: ${value}")
+    math(EXPR value "${value} * 2")
+  endwhile()
+  ```

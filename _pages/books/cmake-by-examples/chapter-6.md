@@ -1,199 +1,67 @@
 ---
-title: Chapter 6. Flow Control
+title: Chapter 6. Functions and Macros
 permalink: /books/cmake-by-examples/chapter-6
 ---
 
-CMake's if statements are used to conditionally control the flow of the CMake script. Here are some examples of using if statements in CMake:
+In CMake, you can define and use functions to encapsulate sets of commands and create reusable blocks of code. Here are some examples of how to define and use functions:
 
-### `if`
-
-- Example 1: Basic Condition
+- **Example 1: Simple Function**
 
   ```cmake
-  set(MY_VARIABLE "some_value")
+  # Define a function
+  function(say_hello)
+    message(STATUS "Hello from the function!")
+  endfunction()
 
-  if(MY_VARIABLE STREQUAL "some_value")
-    ...
-  endif()
+  # Call the function
+  say_hello()
   ```
 
-- Example 2: Checking if a Variable is Set
+- **Example 2: Function with Parameters**
 
   ```cmake
-  if(DEFINED MY_VARIABLE)
-    ...
-  endif()
+  # Define a function with parameters
+  function(greet_person person)
+    message(STATUS "Hello, ${person}!")
+  endfunction()
+
+  # Call the function with a parameter
+  greet_person("Alice")
   ```
 
-- Example 3: Checking if a Variable is True
+- **Example 3: Function with Return Value**
 
   ```cmake
-  set(MY_FLAG TRUE)
+  # Define a function with a return value
+  function(square_number number)
+    math(EXPR result "${number} * ${number}")
+    set(${ARGV1} ${result} PARENT_SCOPE)
+  endfunction()
 
-  if(MY_FLAG)
-    ...
-  endif()
+  # Call the function and retrieve the result
+  set(input_number 5)
+  square_number(${input_number} squared_result)
+  message(STATUS "Square of ${input_number}: ${squared_result}")
   ```
 
-- Example 4: Checking if a Variable is False
+- **Example 4: Function with Default Parameters**
 
   ```cmake
-  set(MY_FLAG FALSE)
+  # Define a function with default parameters
+  function(print_message message_type message_text)
+    if(NOT DEFINED message_type)
+      set(message_type "INFO" PARENT_SCOPE)
+    endif()
 
-  if(NOT MY_FLAG)
-    ...
-  endif()
+    message(${message_type} "${message_text}")
+  endfunction()
+
+  # Call the function with and without a message type
+  print_message("This is an info message.")
+  print_message("WARNING" "This is a warning message.")
   ```
 
-- Example 5: Testing Numeric Values
+In CMake, both macros and functions serve the purpose of encapsulating and reusing code, but they have some differences scope handling.
 
-  ```cmake
-  set(NUMBER 42)
-
-  if(NUMBER LESS 50)
-    ...
-  endif()
-  ```
-
-- Example 6: Checking if a File Exists
-
-  ```cmake
-  set(FILE_PATH "path/to/myfile.txt")
-
-  if(EXISTS ${FILE_PATH})
-    ...
-  endif()
-  ```
-
-- Example 7: Checking the Build Type
-
-  ```cmake
-  if(CMAKE_BUILD_TYPE STREQUAL "Debug")
-    ...
-  endif()
-  ```
-
-- Example 8: Check the version number
-
-  ```cmake
-  cmake_minimum_required(VERSION 3.10)
-
-  # Check if the CMake version is greater than or equal to 3.15
-  if(${CMAKE_VERSION} VERSION_GREATER_EQUAL "3.15")
-    ...
-  endif()
-  ```
-
-### `foreach`
-
-The foreach command in CMake is used to iterate over a list. Here are some examples of using foreach in CMake:
-
-- Example 1: Iterating Over a List of Strings
-
-  ```cmake
-  set(my_list "apple" "banana" "cherry")
-
-  foreach(fruit ${my_list})
-  ...
-  endforeach()
-  ```
-
-- Example 2: Iterating Over a List of Numbers
-
-  ```cmake
-  set(number_list 1 2 3 4 5)
-
-  foreach(number ${number_list})
-  ...
-  endforeach()
-  ```
-
-- Example 3: Iterating Over a Range of Numbers
-
-  ```cmake
-  # Create a list of numbers from 1 to 5
-  range(1 5 my_range)
-
-  foreach(number ${my_range})
-  ...
-  endforeach()
-  ```
-
-- Example 4: Iterating Over Source Files
-
-  ```cmake
-  # Get a list of source files in the current directory
-  file(GLOB my_sources "*.cpp")
-
-  foreach(source ${my_sources})
-  ...
-  endforeach()
-  ```
-
-- Example 5: Iterating Over Directories
-
-  ```cmake
-  # Get a list of subdirectories in the current directory
-  file(GLOB my_directories RELATIVE ${CMAKE_CURRENT_SOURCE_DIR} *)
-
-  foreach(directory ${my_directories})
-  ...
-  endforeach()
-  ```
-
-- Example 6: Iterating Over Key-Value Pairs
-
-  ```cmake
-  # Create a list of key-value pairs
-  set(my_map "name=John" "age=30" "city=New York")
-
-  foreach(pair ${my_map})
-      # Split each pair into key and value
-      string(REGEX MATCH "([^=]+)=([^=]*)" _ ${pair})
-      set(key "${CMAKE_MATCH_1}")
-      set(value "${CMAKE_MATCH_2}")
-
-      message(STATUS "Key: ${key}, Value: ${value}")
-  endforeach()
-  ```
-
-### `while`
-
-CMake doesn't have a direct while statement like some other programming languages. However, you can achieve similar looping behavior using conditional statements and variable manipulation. Here are a few examples demonstrating while-like constructs in CMake:
-
-- Example 1: Counting from 1 to 5
-
-  ```cmake
-  set(counter 1)
-
-  while(counter LESS_EQUAL 5)
-      message(STATUS "Counter: ${counter}")
-      math(EXPR counter "${counter} + 1")
-  endwhile()
-  ```
-
-- Example 2: Processing Elements in a List
-
-  ```cmake
-  set(my_list "apple" "banana" "cherry")
-
-  list(LENGTH my_list list_length)
-  set(index 0)
-
-  while(index LESS list_length)
-      list(GET my_list ${index} current_element)
-      message(STATUS "Element at index ${index}: ${current_element}")
-      math(EXPR index "${index} + 1")
-  endwhile()
-  ```
-
-- Example 3: Performing an Operation Until a Condition is Met
-
-  ```cmake
-  set(value 1)
-
-  while(NOT value EQUAL 100)
-      message(STATUS "Current Value: ${value}")
-      math(EXPR value "${value} * 2")
-  endwhile()
-  ```
+- Functions in CMake create their own variable scope. Variables defined or modified inside a function are local to that function unless explicitly marked with PARENT_SCOPE to affect the calling scope.
+- Macro in CMake share the same variable scope with the calling context. Variables modified inside a macro directly affect the variables in the calling scope.

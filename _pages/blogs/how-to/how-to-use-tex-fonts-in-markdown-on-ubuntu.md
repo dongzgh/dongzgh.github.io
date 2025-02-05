@@ -5,7 +5,7 @@ medium: blog
 category: how-to
 ---
 
-## Install Tex Fonts
+### Install Tex Fonts
 
 To install Tex (LaTex) support on Ubuntu, follow the steps outlined below:
 
@@ -47,7 +47,7 @@ To install Tex (LaTex) support on Ubuntu, follow the steps outlined below:
 
    This command updates the font information for applications on your system.
 
-## Locate Fonts Installed
+### Locate Fonts Installed
 
 To find the installed fonts on Ubuntu, you can use the following steps:
 
@@ -98,7 +98,7 @@ To find the installed fonts on Ubuntu, you can use the following steps:
 
 Keep in mind that the exact paths and configuration files might vary based on your TeX Live and Ubuntu versions. Adjust the commands accordingly based on your system configuration.
 
-## Use Fonts in Markdown
+### Use Fonts in Markdown
 
 In Pandoc's Markdown front matter, you can set font-related options using the `fontfamily`, `mainfont`, and other font-related metadata fields. Here's an example:
 

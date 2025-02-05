@@ -37,11 +37,11 @@ The installation process for CMake can vary depending on the operating system yo
 
 ### Installing CMake on Windows
 
-1. **Using Installer:**
+1. **Using Installer**
    - Visit the [CMake download page](https://CMake.org/download/) and download the Windows installer.
    - Run the installer and follow the installation instructions provided in the wizard.
 
-2. **Using Chocolatey (Package Manager for Windows):**
+2. **Using Chocolatey (Package Manager for Windows)**
    - Open a command prompt with administrator privileges.
    - Execute the following command:
   
@@ -51,7 +51,7 @@ The installation process for CMake can vary depending on the operating system yo
 
 ### Installing CMake on macOS
 
-1. **Using Homebrew (Package Manager for macOS):**
+1. **Using Homebrew (Package Manager for macOS)**
    - Open a terminal.
    - Run the following command:
   
@@ -59,7 +59,7 @@ The installation process for CMake can vary depending on the operating system yo
      brew install CMake
      ```
 
-2. **Using MacPorts (Package Manager for macOS):**
+2. **Using MacPorts (Package Manager for macOS)**
    - Open a terminal.
    - Run the following command:
 
@@ -69,7 +69,7 @@ The installation process for CMake can vary depending on the operating system yo
 
 ### Installing CMake on Linux
 
-1. **Using Package Manager (Ubuntu/Debian):**
+1. **Using Package Manager (Ubuntu/Debian)**
    - Open a terminal.
    - Run the following command:
 
@@ -78,7 +78,7 @@ The installation process for CMake can vary depending on the operating system yo
      sudo apt-get install CMake
      ```
 
-2. **Using Package Manager (Fedora/CentOS):**
+2. **Using Package Manager (Fedora/CentOS)**
    - Open a terminal.
    - Run the following command:
 
@@ -87,7 +87,7 @@ The installation process for CMake can vary depending on the operating system yo
      sudo yum install CMake    # for CentOS
      ```
 
-3. **Building from Source:**
+3. **Building from Source**
    - Download the latest source code from the [CMake download page](https://CMake.org/download/).
    - Extract the downloaded archive.
    - Navigate to the extracted directory and follow the instructions in the README or INSTALL file for building and installing CMake from the source.

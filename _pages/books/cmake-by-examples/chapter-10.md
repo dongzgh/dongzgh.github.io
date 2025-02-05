@@ -1,63 +1,70 @@
 ---
-title: Chapter 10. Subdirectories
+title: Chapter 10. Visibility
 permalink: /books/cmake-by-examples/chapter-10
 ---
 
-Both `include` and `add_subdirectory` are CMake commands used for incorporating external CMake files into the current one, but they serve different purposes.
+In CMake, the visibility of a dependency for a target is controlled using `PUBLIC`, `PRIVATE`, or `INTERFACE` when linking libraries or setting target properties. Here's a breakdown of what each of these keywords means:
 
-1. **`include` Command:**
-   - The `include` command is used to read and execute the content of another CMake script within the current context.
-   - It is typically used for including CMake scripts that contain functions or macros that you want to use in the current CMakeLists.txt file.
-   - The included script shares the same variable scope as the including script.
-   - It is not suitable for bringing in external projects or adding subdirectories with their own CMakeLists.txt files.
+- `PUBLIC`: The dependency is used both by the target itself and by any other target that links to this target.
+- `PRIVATE`: The dependency is used only by the target itself, not by other targets linking to this target.
+- `INTERFACE`: The dependency is not used by the target itself but is used by other targets that link to this target.
 
-   Example of using `include`:
+Let's look at some examples to clarify how this works.
 
-   ```cmake
-   # MyProject/CMakeLists.txt
-   cmake_minimum_required(VERSION 3.10)
-   project(MyProject)
+- **Example 1: `PRIVATE`**
 
-   # Include a helper script
-   include(helpers.cmake)
+  When a library is needed only by a single target and should not be exposed to anything linking to it, you use `PRIVATE`.
 
-   # Call a function from the included script
-   my_function()
-   ```
+  ```cmake
+  add_library(MyLibrary src.cpp)
 
-   ```cmake
-   # MyProject/helpers.cmake
-   function(my_function)
-       message(STATUS "Hello from my_function!")
-   endfunction()
-   ```
+  # Link MyLibrary with a dependency library called DepLibrary privately
+  target_link_libraries(MyLibrary PRIVATE DepLibrary)
+  ```
 
-2. **`add_subdirectory` Command:**
-   - The `add_subdirectory` command is used to add a subdirectory with its own CMakeLists.txt file to the build.
-   - It is typically used for including external projects or adding modular components to the current project.
-   - The included subdirectory has its own variable scope, and variables defined in the subdirectory do not affect the parent scope unless explicitly exported.
-   - `add_subdirectory` can be used to bring in libraries, executables, or other targets defined in the subdirectory.
+  Here, `DepLibrary` is only needed for compiling and linking `MyLibrary` itself. Any targets that link to `MyLibrary` won't know about or inherit the `DepLibrary` dependency.
 
-   Example of using `add_subdirectory`:
+- **Example 2: `PUBLIC`**
 
-   ```cmake
-   # MyProject/CMakeLists.txt
-   cmake_minimum_required(VERSION 3.10)
-   project(MyProject)
+  When a library is used by the target and should also be inherited by anything linking to that target, use `PUBLIC`.
 
-   # Add a subdirectory with its own CMakeLists.txt file
-   add_subdirectory(subdirectory)
+  ```cmake
+  add_library(MyLibrary src.cpp)
 
-   # Main executable and other configurations...
-   ```
+  # Link MyLibrary with a dependency library called DepLibrary publicly
+  target_link_libraries(MyLibrary PUBLIC DepLibrary)
+  ```
 
-   ```cmake
-   # MyProject/subdirectory/CMakeLists.txt
-   # Subdirectory target
-   add_library(MyLibrary my_file.cpp)
+  In this case, any target that links to `MyLibrary` will also link to `DepLibrary` because the dependency is public. The headers and compile options required by `DepLibrary` will propagate to any target that depends on `MyLibrary`.
 
-   # Add include directories if needed
-   target_include_directories(MyLibrary PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
-   ```
+- **Example 3: `INTERFACE`**
 
-In summary, use `include` for bringing in CMake scripts within the same project, and use `add_subdirectory` for incorporating external projects or modular components with their own CMakeLists.txt files.
+  When a target doesn’t use a dependency directly, but anything that links to it should, use `INTERFACE`.
+
+  ```cmake
+  add_library(MyLibrary INTERFACE)
+
+  # Specify that anything linking to MyLibrary also links to DepLibrary
+  target_link_libraries(MyLibrary INTERFACE DepLibrary)
+  ```
+
+  Here, `MyLibrary` doesn't actually need to link against `DepLibrary`, but anything else that links to `MyLibrary` will need `DepLibrary`.
+
+- **Example 4: `target_include_directories` with Visibility**
+
+  You can also control the visibility of include directories in a similar way.
+
+  ```cmake
+  add_library(MyLibrary src.cpp)
+
+  # Include directories only used internally by MyLibrary
+  target_include_directories(MyLibrary PRIVATE include/private)
+
+  # Include directories that are exposed to consumers of MyLibrary
+  target_include_directories(MyLibrary PUBLIC include/public)
+  ```
+
+  In this case:
+
+  - The headers in `include/private` are only available when compiling `MyLibrary`.
+  - The headers in `include/public` are available to anything that links to `MyLibrary`.
