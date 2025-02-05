@@ -1,21 +1,15 @@
 ---
 layout: home
 items:
-  - music
-  - culinary
-  - reading  
-  - outdoor
-  - sports
-  - business
-  - living
-  - gaming
+  - books
+  - blogs
 ---
 
 <div class='d-flex flex-row flex-wrap'>
   {% for item in page.items %}
   <div class="col-4">
     <a href="{{ '/views/' | append: item }}">
-      <img class="gallery-item-image" src="{{ '/assets/img/topics/' | append: item | append: '.jpg' }}"/>
+      <img class="gallery-item-image" src="{{ '/assets/img/views/' | append: item | append: '.jpg' }}"/>
       <div class="gallery-item-overlay">
         <div class="gallery-item-title">{{ item | upcase }}</div>
       </div>
