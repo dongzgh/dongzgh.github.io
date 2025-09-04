@@ -38,9 +38,9 @@ To address some of the limitations, more advanced versions of RNNs have been dev
 ## 🧑‍💻 Example Code
 
 ### 1. Input at Time Step t
-At each time step \( t \), the RNN receives:
-- The current input \( x_t \) (e.g., a word or a feature vector)
-- The previous hidden state \( h_{t-1} \)
+At each time step $$t$$, the RNN receives:
+- The current input $$x_t$$ (e.g., a word or a feature vector)
+- The previous hidden state $$h_{t-1}$$
 
 ### 2. Hidden State Update
 The RNN updates its hidden state using a function like:
@@ -50,11 +50,11 @@ h_t = \tanh(W_{xh} \cdot x_t + W_{hh} \cdot h_{t-1} + b_h)
 $$
 
 Where:
-- \( W_{xh} \) and \( W_{hh} \) are weight matrices
-- \( b_h \) is a bias term
-- \( \tanh \) is an activation function
+- $$W_{xh}$$ and $$W_{hh}$$ are weight matrices
+- $$b_h$$ is a bias term
+- $$\tanh$$ is an activation function
 
-This new hidden state \( h_t \) now contains information from both the current input and the past.
+This new hidden state $$h_t$$ now contains information from both the current input and the past.
 
 ### 3. Output (Optional)
 Depending on the task, the RNN may produce an output at each time step:
