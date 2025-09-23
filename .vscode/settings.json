@@ -6,5 +6,9 @@
     "latex",
     "plaintext",
     "markdown"
+  ],
+  "spellright.ignoreRegExps": [
+    "/\\$.*\\$/",
+    "/\\$\\$\\n*[^\\$]*\\$\\$/g"
   ]
 }

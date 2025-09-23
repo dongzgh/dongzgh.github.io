@@ -3,29 +3,41 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   {%- seo -%}
-  <link
-    rel="stylesheet"
-    href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
-  />
-  <link
-    rel="stylesheet"
-    href="https://fonts.googleapis.com/css?family=Audiowide"
-  />
-  <link
-    rel="stylesheet"
-    href="https://fonts.googleapis.com/css?family=Noto+Serif+SC:200,300,400,500,600,700,900&display=swap&subset=chinese-simplified"
-  />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Noto+Serif+SC:200,300,400,500,600,700,900&display=swap&subset=chinese-simplified" />
+
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      styles: {
+        ".MJXc-display": {
+          "text-align": "center !important",
+          margin: "0.5em 0 !important",
+          padding: "2px 0 2px 0 !important"
+        },
+      },
+      TeX: {
+          equationNumbers: {
+            autoNumber: "AMS" // or "all" for all display equations
+          },
+          tagSide: "right" // or "left"
+        },
+      tex2jax: {
+        inlineMath: [ ['$', '$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true
+      }
+    });
+  </script>
+  <script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
 
   <link rel="shortcut icon" href="/favicon.png" />
 
-  <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-  />
-  <link
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"
-  />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" />
   <script src="https://kit.fontawesome.com/e108a2e51d.js"></script>
 
   <link rel="stylesheet" href="/assets/css/abcjs-midi.css" />
@@ -49,10 +61,7 @@
     };
   </script>
 
-  <link
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/prismjs@1.19.0/themes/prism-okaidia.css"
-  />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs@1.19.0/themes/prism-okaidia.css" />
   <script src="https://cdn.jsdelivr.net/npm/prismjs@1.19.0/prism.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/prismjs@1.19.0/plugins/autoloader/prism-autoloader.min.js"></script>
   <link rel="stylesheet" href="/assets/main.css" />
