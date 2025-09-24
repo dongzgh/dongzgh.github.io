@@ -5,11 +5,25 @@ medium: blog
 category: what-is
 ---
 
-**Volume Parameterization**, also called **Volumetric Texture Mapping**. This is the process of defining a mapping from a 3D volume (often an irregular shape) to a parametric space (like a cube or a regular grid), which is essential for applications like texture mapping, simulation, or finite element analysis. I’ll organize the review by major approaches and highlight their pros and cons.
+## Overview
+
+**Volume Parameterization**, also called **Volumetric Texture Mapping**. This is the process of defining a mapping from a 3D volume (often an irregular shape) to a parametric space (like a cube or a regular grid), which is essential for applications like texture mapping, simulation, or finite element analysis. Below are the most popular methods for volume parameterization.
+
+The main idea is to define a **smooth mapping** from a 3D volume $\Omega \subset \mathbb{R}^3$ to a parametric domain $\Omega' \subset \mathbb{R}^3$ (usually a cube) by solving **Laplace’s equation** with boundary constraints.
+
+We want a function:
+
+$$
+\mathbf{u}(\mathbf{x}) = (u(\mathbf{x}), v(\mathbf{x}), w(\mathbf{x})) : \Omega \rightarrow \Omega'
+$$
+
+where $u, v, w$ are the parametric coordinates, and $\mathbf{x} = (x,y,z)$ is a point inside the volume.
 
 ---
 
-## Direct 3D Coordinate Mapping
+## Methods
+
+### Direct 3D Coordinate Mapping
 
 * **Idea:** Map the coordinates of the irregular volume directly to a regular parametric domain using simple geometric transforms (translation, scaling, rotation).
 * **Example:** Axis-aligned bounding box mapping—map the volume to a unit cube by normalizing coordinates.
@@ -25,7 +39,7 @@ category: what-is
 
 ---
 
-## Harmonic / Laplacian Volumetric Parameterization
+### Harmonic / Laplacian Volumetric Parameterization
 
 * **Idea:** Solve Laplace’s equation (or generalized harmonic functions) in the volume with boundary conditions on the surface mapping to the target parametric space.
 * **Formulation:**
@@ -48,7 +62,7 @@ category: what-is
 
 ---
 
-## Barycentric / Tetrahedral Mesh Parameterization
+### Barycentric / Tetrahedral Mesh Parameterization
 
 * **Idea:** Discretize the volume into tetrahedra and define a mapping from each tetrahedron to a parametric domain using barycentric coordinates.
 * **Process:**
@@ -68,7 +82,7 @@ category: what-is
 
 ---
 
-## Harmonic / Conformal Tetrahedral Mapping
+### Harmonic / Conformal Tetrahedral Mapping
 
 * **Idea:** Extend 2D conformal mapping ideas to 3D using tetrahedral meshes:
 
@@ -85,7 +99,7 @@ category: what-is
 
 ---
 
-## Radial / Spherical Parameterization
+### Radial / Spherical Parameterization
 
 * **Idea:** Map volumes to spherical or radial coordinates:
 
@@ -102,7 +116,7 @@ category: what-is
 
 ---
 
-## Skeleton / Cage-based Parameterization
+### Skeleton / Cage-based Parameterization
 
 * **Idea:** Use a medial axis or skeleton of the volume to guide the mapping:
 
@@ -118,7 +132,7 @@ category: what-is
 
 ---
 
-## Grid-based / Voxel Parameterization
+### Grid-based / Voxel Parameterization
 
 * **Idea:** Discretize the volume into a voxel grid and assign parametric coordinates based on voxel positions:
 
@@ -134,7 +148,7 @@ category: what-is
 
 ---
 
-## Summary Table
+### Summary Table
 
 | Method                    | Topology Support | Smoothness | Feature Preservation | Complexity |
 | ------------------------- | ---------------- | ---------- | -------------------- | ---------- |
@@ -148,7 +162,7 @@ category: what-is
 
 ---
 
-## Notes
+### Notes
 
 * 3D volume parameterization is inherently harder than 2D due to topology and possible holes.
 * Choice of method depends on:
