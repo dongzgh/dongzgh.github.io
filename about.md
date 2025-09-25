@@ -14,6 +14,7 @@ order: 3
 - Computer Graphics
 - Scientific Computing
 - Computer Vision
+- Artificial Intelligence
 - Machine Learning
 - Software Engineering
 - Visual Arts

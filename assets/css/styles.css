@@ -104,8 +104,27 @@ body {
   font-size: 1em;
 }
 
+.col-4 {
+  padding-right: 8px;
+  padding-left: 8px;
+  text-align: center;
+}
+
+.col-4:nth-child(3n) {
+  padding-right: 0px;
+  padding-left: 8px;
+  text-align: right;
+}
+
+.col-4:nth-child(3n + 1) {
+  padding-right: 8px;
+  padding-left: 0px;
+  text-align: left;
+}
+
 .gallery-item-image {
   margin: 10px 0;
+  height: 90%;
 }
 
 a:hover .gallery-item-overlay {
