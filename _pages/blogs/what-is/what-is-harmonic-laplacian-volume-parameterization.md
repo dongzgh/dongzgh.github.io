@@ -3,6 +3,8 @@ title: What is Harmonic/Laplacian Volume Parameterization
 permalink: /blogs/what-is-harmonic-laplacian-volume-parameterization
 medium: blog
 category: what-is
+tags: 
+  - geometry
 ---
 
 

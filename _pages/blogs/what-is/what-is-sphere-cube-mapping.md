@@ -3,6 +3,8 @@ title: What is Sphere-Cube Mapping
 permalink: /blogs/what-is-sphere-cube-mapping
 medium: blog
 category: what-is
+tags: 
+  - geometry
 ---
 
 ## Overview

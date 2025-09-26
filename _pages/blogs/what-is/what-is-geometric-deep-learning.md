@@ -3,6 +3,8 @@ title: What is Geometric Deep Learning
 permalink: /blogs/what-is-geometric-deep-learning
 medium: blog
 category: what-is
+tags: 
+  - ai
 ---
 
 ## 🔍 Overview

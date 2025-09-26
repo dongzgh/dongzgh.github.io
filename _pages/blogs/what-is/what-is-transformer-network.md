@@ -3,6 +3,8 @@ title: What is Transformer Network
 permalink: /blogs/what-is-transformer-network
 medium: blog
 category: what-is
+tags: 
+  - ai
 ---
 
 ## 🔍 Overview

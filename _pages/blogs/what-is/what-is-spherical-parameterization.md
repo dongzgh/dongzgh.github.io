@@ -3,6 +3,8 @@ title: What is Spherical Parameterization
 permalink: /blogs/what-is-spherical-parameterization
 medium: blog
 category: what-is
+tags: 
+  - geometry
 ---
 
 ## Overview

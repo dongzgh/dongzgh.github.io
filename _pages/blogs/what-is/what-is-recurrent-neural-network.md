@@ -3,6 +3,8 @@ title: What is Recurrent Neural Network
 permalink: /blogs/what-is-recurrent-neural-network
 medium: blog
 category: what-is
+tags: 
+  - ai
 ---
 
 ## 🔍 Overview

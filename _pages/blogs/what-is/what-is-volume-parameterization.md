@@ -3,6 +3,8 @@ title: What is Volume Parameterization
 permalink: /blogs/what-is-volume-parameterization
 medium: blog
 category: what-is
+tags: 
+  - geometry
 ---
 
 ## Overview

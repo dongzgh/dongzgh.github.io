@@ -3,6 +3,8 @@ title: What is Eigenfunction-based Spherical Parameterization
 permalink: /blogs/what-is-eigenfunction-based-spherical-parameterization
 medium: blog
 category: what-is
+tags: 
+  - geometry
 ---
 
 ## Overview

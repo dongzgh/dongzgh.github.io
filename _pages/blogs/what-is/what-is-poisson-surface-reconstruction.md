@@ -3,6 +3,8 @@ title: What is Poisson Surface Reconstruction
 permalink: /blogs/what-is-poisson-surface-reconstruction
 medium: blog
 category: what-is
+tags: 
+  - geometry
 ---
 
 ## Introduction
