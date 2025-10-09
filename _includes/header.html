@@ -4,7 +4,7 @@
     {%- assign page_paths = site.header_pages | default: default_paths | sort: "order" -%}
     <div class="d-flex flex-column">
       <div class="site-title">
-        <a rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+        <a rel="author" href="{{ " /" | relative_url }}">{{ site.title | escape }}</a>
       </div>
       <div class="site-subtitle">{{- site.description | escape -}}</div>
     </div>
@@ -20,5 +20,5 @@
       </div>
     </nav>
     {%- endif -%}
-  </div>  
+  </div>
 </header>
