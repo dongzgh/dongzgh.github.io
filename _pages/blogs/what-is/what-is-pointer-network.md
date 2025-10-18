@@ -41,7 +41,10 @@ The encoder is a Recurrent Neural Network (e.g., an LSTM or GRU) that processes 
 The encoder computes a sequence of hidden states $(e_1, e_2, \dots, e_n)$:
 
 $$
+\begin{equation}
+\label{eq:encoder}
 e_t = f_\text{enc}(x_t, e_{t-1})
+\end{equation}
 $$
 
 where $f_\text{enc}$ is the recurrent cell function. These encoder states $e_i$ serve as a transformed representation of the input, akin to "keys" and "values" for the subsequent attention mechanism.
@@ -51,7 +54,10 @@ where $f_\text{enc}$ is the recurrent cell function. These encoder states $e_i$ 
 The decoder is another RNN that generates an output sequence $(y_1, y_2, \dots, y_m)$, where $m$ is the variable-length output size. At each time step $t$, the decoder updates its hidden state $d_t$ based on the previous state $d_{t-1}$, the previous output $y_{t-1}$, and a context vector.
 
 $$
+\begin{equation}
+\label{eq:decoder}
 d_t = f_\text{dec}(y_{t-1}, d_{t-1}, c_t)
+\end{equation}
 $$
 
 The initial decoder state $d_0$ is typically initialized as a function of the final encoder state (e.g., $d_0 = \tanh(W e_n)$).
@@ -84,17 +90,20 @@ The newly generated output $y_t$ is fed back as the input for the next time step
 
 This is the core innovation. Instead of using the decoder state to predict a token from a fixed vocabulary, it is used to point back to the input sequence.
 
-**Step 1: Calculate Unnormalized Attention Scores (Logits)**
+#### **3.1. Calculate Unnormalized Attention Scores (Logits)**
 
 For each decoder step $t$, we compute a score $u^i_t$ for every input element $i$. This score measures the compatibility between the current decoder state $d_t$ and the encoder state $e_i$.
 
 $$
+\begin{equation}
+\label{eq:pointer-network}
 u^i_t = v^T \tanh(W_1 e_i + W_2 d_t) \quad \in \mathbb{R}
+\end{equation}
 $$
 
 Here, $v$, $W_1$, and $W_2$ are learnable parameters. $u^i_t$ is a scalar score for the $i$-th input element at decoding time $t$. We compute this for all $i \in \{1, \dots, n\}$, resulting in a vector $\mathbf{u}_t = (u^1_t, u^2_t, \dots, u^n_t)$.
 
-**Step 2: Normalize Scores into a Pointer Distribution**
+#### **3.2. Normalize Scores into a Pointer Distribution**
 
 The scores $\mathbf{u}_t$ are passed through a softmax function to produce a probability distribution over the input positions. This distribution $\mathbf{a}_t$ is the output of the pointer.
 
@@ -106,7 +115,7 @@ $$
 \mathbf{a}_t = (a^1_t, a^2_t, \dots, a^n_t) \quad \text{where } \sum_{i=1}^n a^i_t = 1
 $$
 
-**Step 3: Generate the Output**
+#### **3.3. Generate the Output**
 
 The predicted output $y_t$ is the input element with the highest probability under this distribution. This is an argmax operation.
 
@@ -115,6 +124,10 @@ y_t = \arg \max_i (a^i_t)
 $$
 
 The entire model is trained end-to-end by minimizing the negative log-likelihood of the true pointer locations. For a target sequence $(y^\*_1, \dots, y^\*_m)$, the loss at each step is $-\log a^{i^\*}_t$, where $i^\*$ is the index of the true input element $y^\*_t$.
+
+#### **3.4. Update Decode State and Repeat**
+
+Use $\eqref{eq:encoder}$ to convert output $y_{t}$ from input vocabulary index to encoded embedding, then use the $\eqref{eq:decoder}$ to predict the next hidden state $d_{t+1}$, then repeat the process until a stop sign is reached.
 
 **Crucial Difference from Standard Seq2Seq:** In a standard model, the attention distribution $\mathbf{a}_t$ is used to compute a **context vector**
 
