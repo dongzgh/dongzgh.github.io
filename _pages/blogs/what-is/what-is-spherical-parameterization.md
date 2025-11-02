@@ -3,13 +3,13 @@ title: What is Spherical Parameterization
 permalink: /blogs/what-is-spherical-parameterization
 medium: blog
 category: what-is
-tags: 
+tags:
   - geometry
 ---
 
 ## Overview
 
-**Spherical Parameterization** refers to the problem of mapping a closed genus-0 surface mesh (topologically equivalent to a sphere) onto the unit sphere $S^2$. This is indeed a classical but still active research topic in geometry processing, computer graphics, and computational geometry. 
+**Spherical Parameterization** refers to the problem of mapping a closed genus-0 surface mesh (topologically equivalent to a sphere) onto the unit sphere $S^2$. This is indeed a classical but still active research topic in geometry processing, computer graphics, and computational geometry.
 
 Specifically, given a closed, orientable, genus-0 surface $M \subset \mathbb{R}^3$ represented as a triangle mesh with vertices $V = \{v_1, \dots, v_n\}$ and faces $F$ (Genus-0 means $M$ is topologically equivalent to a sphere.), try to find a bijective mapping
 
@@ -24,10 +24,10 @@ subject to the optional constraints/requirements:
 * **Bijectivity**: The map must be one-to-one (no overlaps or folds).
 * **Geometric quality**: The map should minimize some notion of distortion:
 
-   * **Angle preservation (conformality)**: Small triangles in $M$ map with minimal angular distortion.
-   * **Area preservation**: Surface area ratios are maintained.
-   * **Isometry**: Geodesic lengths preserved (not possible exactly, so approximate).
-   * Or some **balanced trade-off** between them.
+  * **Angle preservation (conformality)**: Small triangles in $M$ map with minimal angular distortion.
+  * **Area preservation**: Surface area ratios are maintained.
+  * **Isometry**: Geodesic lengths preserved (not possible exactly, so approximate).
+  * Or some **balanced trade-off** between them.
 * **Numerical stability**: The method should handle irregular meshes, non-convex shapes, and varying sampling density.
 
 ## Methods
@@ -121,5 +121,3 @@ subject to the optional constraints/requirements:
   * Orientation fixed by pinning 3 vertices.
 * **Pros**: Conceptually simple.
 * **Cons**: Convergence slow, sensitive to initialization.
-
----
