@@ -4,6 +4,7 @@ permalink: /blogs
 categories: 
   - how-to
   - what-is
+  - why
   - review
   - curated
 ---
