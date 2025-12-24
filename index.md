@@ -8,7 +8,7 @@ topics:
   - ai
 ---
 
-<!-- <div class='d-flex flex-row flex-wrap'>
+<div class='d-flex flex-row flex-wrap'>
   {% for item in page.gallery %}
   <div class="col-4 gallery-item">
     <a href="/{{ item }}">
@@ -19,7 +19,7 @@ topics:
     </a>
   </div>
   {% endfor %}
-</div> -->
+</div>
 
 <div class='d-flex flex-row flex-wrap'>  
   {% for topic in page.topics %}
